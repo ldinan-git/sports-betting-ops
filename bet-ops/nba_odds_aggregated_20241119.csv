@@ -1,0 +1,65 @@
+event_id,sport_title,home_team,away_team,commence_time,market,outcome,BetMGM,BetOnline.ag,BetRivers,BetUS,Bovada,Caesars,DraftKings,FanDuel,LowVig.ag,MyBookie.ag
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,h2h,Dallas Mavericks,No Data,No Data,No Data,No Data,No Data,-155.0,-155.0,No Data,No Data,No Data
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,h2h,Minnesota Timberwolves,No Data,No Data,No Data,No Data,No Data,130.0,130.0,No Data,No Data,No Data
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,spreads,Dallas Mavericks,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,spreads,Minnesota Timberwolves,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,totals,Over,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+07a07eaa8f786d68cb371107f36f5b33,NBA,Dallas Mavericks,Minnesota Timberwolves,2024-12-25T19:30:00Z,totals,Under,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,h2h,Oklahoma City Thunder,-450.0,-400.0,-385.0,-400.0,-430.0,-440.0,-440.0,-420.0,-400.0,-435.0
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,h2h,San Antonio Spurs,340.0,320.0,300.0,320.0,320.0,335.0,340.0,330.0,320.0,323.0
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,spreads,Oklahoma City Thunder,-110.0,-110.0,-110.0,-110.0,-105.0,-110.0,-108.0,-110.0,-106.0,-110.0
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,spreads,San Antonio Spurs,-110.0,-110.0,-110.0,-110.0,-115.0,-110.0,-112.0,-110.0,-106.0,-110.0
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,totals,Over,-110.0,-110.0,-109.0,-110.0,-110.0,-110.0,-110.0,-110.0,-107.0,-110.0
+1868bde5ea04d48d73e7ec63602deebd,NBA,San Antonio Spurs,Oklahoma City Thunder,2024-11-20T02:40:00Z,totals,Under,-110.0,-110.0,-112.0,-110.0,-110.0,-110.0,-110.0,-110.0,-107.0,-110.0
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,h2h,Denver Nuggets,No Data,No Data,No Data,No Data,No Data,118.0,120.0,No Data,No Data,No Data
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,h2h,Phoenix Suns,No Data,No Data,No Data,No Data,No Data,-140.0,-142.0,No Data,No Data,No Data
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,spreads,Denver Nuggets,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,spreads,Phoenix Suns,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,totals,Over,No Data,No Data,No Data,No Data,No Data,-115.0,-110.0,No Data,No Data,No Data
+22a9b650e64ca15cb0c83dc0148a571e,NBA,Phoenix Suns,Denver Nuggets,2024-12-26T03:30:00Z,totals,Under,No Data,No Data,No Data,No Data,No Data,-105.0,-110.0,No Data,No Data,No Data
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,h2h,Boston Celtics,-225.0,-212.0,-195.0,-215.0,-220.0,-225.0,-218.0,-220.0,-212.0,-222.0
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,h2h,Cleveland Cavaliers,180.0,182.0,160.0,183.0,180.0,185.0,185.0,184.0,182.0,176.0
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,spreads,Boston Celtics,-110.0,-110.0,-110.0,-110.0,-110.0,-115.0,-112.0,-112.0,-106.0,-110.0
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,spreads,Cleveland Cavaliers,-110.0,-110.0,-110.0,-110.0,-110.0,-105.0,-108.0,-108.0,-106.0,-110.0
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,totals,Over,-115.0,-108.0,-110.0,-110.0,-110.0,-115.0,-108.0,-110.0,-105.0,-110.0
+28ce00ceda2646f4b0579095537d2c55,NBA,Boston Celtics,Cleveland Cavaliers,2024-11-20T00:10:00Z,totals,Under,-105.0,-112.0,-110.0,-110.0,-110.0,-105.0,-112.0,-110.0,-109.0,-110.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,h2h,Los Angeles Lakers,-600.0,-525.0,-560.0,-560.0,-600.0,-600.0,-575.0,-560.0,-526.0,-588.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,h2h,Utah Jazz,425.0,420.0,410.0,430.0,425.0,430.0,425.0,420.0,420.0,409.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,spreads,Los Angeles Lakers,-115.0,-113.0,-109.0,-110.0,-105.0,-110.0,-108.0,-110.0,-109.0,-110.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,spreads,Utah Jazz,-105.0,-107.0,-112.0,-110.0,-115.0,-110.0,-112.0,-110.0,-103.0,-110.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,totals,Over,-115.0,-105.0,-110.0,-110.0,-110.0,-105.0,-110.0,-110.0,-102.0,-110.0
+4da1e5d0859d00cf060770cbe9d575ac,NBA,Los Angeles Lakers,Utah Jazz,2024-11-20T03:40:00Z,totals,Under,-105.0,-115.0,-110.0,-110.0,-110.0,-115.0,-110.0,-110.0,-113.0,-110.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,h2h,Brooklyn Nets,-150.0,-148.0,-143.0,-150.0,-150.0,-140.0,No Data,-156.0,-148.0,-149.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,h2h,Charlotte Hornets,125.0,128.0,123.0,129.0,130.0,118.0,No Data,132.0,128.0,122.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,spreads,Brooklyn Nets,-115.0,-108.0,-107.0,-110.0,-110.0,-110.0,-110.0,-110.0,-104.0,-110.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,spreads,Charlotte Hornets,-105.0,-112.0,-114.0,-110.0,-110.0,-110.0,-110.0,-110.0,-108.0,-110.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,totals,Over,-105.0,-105.0,-110.0,-110.0,-110.0,-110.0,-108.0,-110.0,-102.0,-110.0
+4f0bbc699601b7e229affc95e3305210,NBA,Brooklyn Nets,Charlotte Hornets,2024-11-20T00:40:00Z,totals,Under,-115.0,-115.0,-110.0,-110.0,-110.0,-110.0,-112.0,-110.0,-113.0,-110.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,h2h,Dallas Mavericks,-800.0,-800.0,-770.0,-880.0,-800.0,-800.0,-850.0,-750.0,-800.0,-769.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,h2h,New Orleans Pelicans,550.0,580.0,550.0,590.0,525.0,550.0,575.0,530.0,580.0,493.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,spreads,Dallas Mavericks,-110.0,-110.0,-109.0,-110.0,-105.0,-110.0,-110.0,-110.0,-106.0,-110.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,spreads,New Orleans Pelicans,-110.0,-110.0,-112.0,-110.0,-115.0,-110.0,-110.0,-110.0,-106.0,-110.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,totals,Over,-105.0,-110.0,-109.0,-110.0,-110.0,-110.0,-110.0,-110.0,-107.0,-110.0
+5dc4f9a9d1a0eeacee652cd7556b57e7,NBA,Dallas Mavericks,New Orleans Pelicans,2024-11-20T01:40:00Z,totals,Under,-115.0,-110.0,-112.0,-110.0,-110.0,-110.0,-110.0,-110.0,-107.0,-110.0
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,h2h,Boston Celtics,No Data,No Data,No Data,No Data,No Data,-260.0,-250.0,No Data,No Data,No Data
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,h2h,Philadelphia 76ers,No Data,No Data,No Data,No Data,No Data,210.0,205.0,No Data,No Data,No Data
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,spreads,Boston Celtics,No Data,No Data,No Data,No Data,No Data,-115.0,-110.0,No Data,No Data,No Data
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,spreads,Philadelphia 76ers,No Data,No Data,No Data,No Data,No Data,-105.0,-110.0,No Data,No Data,No Data
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,totals,Over,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+6f66bc2154fb45b2047e1c1c5afcdc38,NBA,Boston Celtics,Philadelphia 76ers,2024-12-25T22:00:00Z,totals,Under,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+973a6ea86af7d9e2bf4c52509822f5bf,NBA,New York Knicks,San Antonio Spurs,2024-12-25T17:00:00Z,h2h,New York Knicks,No Data,No Data,No Data,No Data,No Data,No Data,-425.0,No Data,No Data,No Data
+973a6ea86af7d9e2bf4c52509822f5bf,NBA,New York Knicks,San Antonio Spurs,2024-12-25T17:00:00Z,h2h,San Antonio Spurs,No Data,No Data,No Data,No Data,No Data,No Data,330.0,No Data,No Data,No Data
+973a6ea86af7d9e2bf4c52509822f5bf,NBA,New York Knicks,San Antonio Spurs,2024-12-25T17:00:00Z,spreads,New York Knicks,No Data,No Data,No Data,No Data,No Data,No Data,-110.0,No Data,No Data,No Data
+973a6ea86af7d9e2bf4c52509822f5bf,NBA,New York Knicks,San Antonio Spurs,2024-12-25T17:00:00Z,spreads,San Antonio Spurs,No Data,No Data,No Data,No Data,No Data,No Data,-110.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,h2h,Golden State Warriors,No Data,No Data,No Data,No Data,No Data,-165.0,-175.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,h2h,Los Angeles Lakers,No Data,No Data,No Data,No Data,No Data,140.0,145.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,spreads,Golden State Warriors,No Data,No Data,No Data,No Data,No Data,-115.0,-110.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,spreads,Los Angeles Lakers,No Data,No Data,No Data,No Data,No Data,-105.0,-110.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,totals,Over,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+bc6f994bad539db5054c8b750c437fb8,NBA,Golden State Warriors,Los Angeles Lakers,2024-12-26T01:00:00Z,totals,Under,No Data,No Data,No Data,No Data,No Data,-110.0,-110.0,No Data,No Data,No Data
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,h2h,Denver Nuggets,135.0,143.0,140.0,142.0,145.0,140.0,140.0,144.0,143.0,134.0
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,h2h,Memphis Grizzlies,-165.0,-163.0,-167.0,-165.0,-170.0,-165.0,-166.0,-172.0,-163.0,-164.0
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,spreads,Denver Nuggets,-110.0,-109.0,-113.0,-110.0,-115.0,-105.0,-108.0,-108.0,-105.0,-110.0
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,spreads,Memphis Grizzlies,-110.0,-111.0,-108.0,-110.0,-105.0,-115.0,-112.0,-112.0,-107.0,-110.0
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,totals,Over,-105.0,-110.0,-110.0,-110.0,-110.0,-110.0,-108.0,-112.0,-107.0,-110.0
+d070638782ccca86d8b610ef704f9be0,NBA,Memphis Grizzlies,Denver Nuggets,2024-11-20T01:10:00Z,totals,Under,-115.0,-110.0,-110.0,-110.0,-110.0,-110.0,-112.0,-108.0,-107.0,-110.0
