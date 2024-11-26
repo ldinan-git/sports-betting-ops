@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import numpy as np
+from datetime import datetime
 
 # Define a function to calculate implied probability
 def calculate_implied_probability(odds):
@@ -41,7 +42,7 @@ def calculate_ev(true_prob, decimal_odds):
 
 if __name__ == '__main__':
     # Load the JSON data
-    with open('../odds_api_responses/nba_odds_player_props_2024-11-19.json') as f:
+    with open('../odds_api_responses/icehockey_nhl_Boston Bruins_Vancouver Canucks_player_props_20241126.json') as f:
         data = json.load(f)
 
     # Create a list to store the rows of the DataFrame
@@ -141,7 +142,7 @@ if __name__ == '__main__':
     new_df['values_populated'] = new_df[price_cols].notnull().sum(axis=1)
     
     # Write to CSV
-    new_df.to_csv('player_props_20241119-v2.csv', index=False)
+    new_df.to_csv('../aggregated_csvs/player_props_20241119-v2.csv', index=False)
 
     new_df_filtered = new_df[new_df['values_populated'] >= 4]
     diff_cols = [col for col in new_df.columns if '_diff' in col]
@@ -159,6 +160,7 @@ if __name__ == '__main__':
 
     df = pd.DataFrame(rows, columns=['index', 'column_name', 'market', 'description', 'name', 'point'] + [c for c in new_df.columns if '_price' in c])
 
-    print(df)
+    
+    df.to_csv(f'../aggregated_csvs/best_player_props_{str(datetime.now().date()).replace('-', '')}.csv', index=False)
         
         
