@@ -61,6 +61,8 @@ def events_endpoint():
     # Check if the response is successful
     if response.status_code == 200:
         data = response.json()  # Parse JSON response
+
+        print(data)
         
         # Construct file path in the current directory
         file_path = os.path.join(output_dir, f"events_{datetime.now().date()}.json")
