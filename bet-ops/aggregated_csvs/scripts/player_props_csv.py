@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import numpy as np
 from datetime import datetime
+import argparse
 
 # Define a function to calculate implied probability
 def calculate_implied_probability(odds):
@@ -41,6 +42,17 @@ def calculate_ev(true_prob, decimal_odds):
     return (true_prob - decimal_odds) * (1 - true_prob)
 
 if __name__ == '__main__':
+    # Create an argument parser
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--sport', help='The sport to retrieve player props for')
+
+    # Parse the command-line arguments
+    args = parser.parse_args()
+
+    # Check if the --sport argument is provided
+    if not args.sport:
+        print("Please provide a sport using the --sport argument.")
+
     # Load the JSON data
     with open('../odds_api_responses/icehockey_nhl_Boston Bruins_Vancouver Canucks_player_props_20241126.json') as f:
         data = json.load(f)

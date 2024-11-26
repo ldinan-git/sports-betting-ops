@@ -1,0 +1,4758 @@
+{
+    "id": "77f4fd53c9507651a3740dd6d95c9a14",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-11-27T00:00:00Z",
+    "home_team": "Boston Bruins",
+    "away_team": "Vancouver Canucks",
+    "bookmakers": [
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-11-26T17:44:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 118
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 255
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Linus Karlsson",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Patrick Brown",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Jones",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Aman",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 190
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Riley Tufte",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 370
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 1150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 255
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 255
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 510
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vincent Desharnais",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matthew Poitras",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derek Forbort",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Erik Brannstrom",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 1150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jordan Oesterle",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 510
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 540
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 540
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-11-26T17:44:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tyler Johnson",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Lohrei",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Aatu Raty",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Lohrei",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Andrew Peeke",
+                            "price": 14000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Justin Brazeau",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Trent Frederic",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikita Zadorov",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": 4500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nils Aman",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pius Suter",
+                            "price": 14000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Justin Brazeau",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Johnson",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cole Koepke",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matthew Poitras",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dakota Joshua",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matthew Poitras",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Carson Soucy",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cole Koepke",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 6600,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 7500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nils Aman",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikita Zadorov",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Danton Heinen",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Carlo",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Derek Forbort",
+                            "price": 14000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Beecher",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pius Suter",
+                            "price": 2900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 8000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Max Jones",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 12500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Linus Karlsson",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Aatu Raty",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Linus Karlsson",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Beecher",
+                            "price": 4500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Morgan Geekie",
+                            "price": 14000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Danton Heinen",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jordan Oesterle",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Morgan Geekie",
+                            "price": 2800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Riley Tufte",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 650,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Teddy Blueger",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 2500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Max Jones",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mark Kastelic",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Teddy Blueger",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 3000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mark Kastelic",
+                            "price": 4000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Riley Tufte",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Arshdeep Bains",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 1700,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nils Hoglander",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 4500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 2800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dakota Joshua",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 14000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Vincent Desharnais",
+                            "price": 18000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nils Hoglander",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Myers",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Wotherspoon",
+                            "price": 14000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Arshdeep Bains",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Erik Brannstrom",
+                            "price": 8000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Trent Frederic",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Patrick Brown",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Patrick Brown",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 20000,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-11-26T17:44:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 325,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": 175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 325,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 135,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": -177,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -114,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -114,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -165,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": 150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pius Suter",
+                            "price": -106,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pius Suter",
+                            "price": -124,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-11-26T17:44:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 135
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 250
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 330
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 470
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Marc McLaughlin",
+                            "price": 480
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 490
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_first",
+                    "last_update": "2024-11-26T17:44:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Marc McLaughlin",
+                            "price": 2300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 3100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 3200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 3200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 3400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 3700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 3900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 4100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 6500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 6500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_last",
+                    "last_update": "2024-11-26T17:44:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Marc McLaughlin",
+                            "price": 2600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 3200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 3200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 3900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 3900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 4100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 4400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 4700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 4800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Scorer",
+                            "price": 5000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-11-26T17:44:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 360,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 380,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -310,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -270,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pius Suter",
+                            "price": 380,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pius Suter",
+                            "price": -550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 330,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -480,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": -175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -320,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -290,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 114,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -148,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -118,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -164,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 108,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -188,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -174,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 132,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 126,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 132,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -174,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -104,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -132,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 102,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -154,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 118,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 145,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -188,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 145,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -188,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -198,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": -142,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -168,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 195,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -265,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -154,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 120,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocked_shots",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Andrew Peeke",
+                            "price": -188,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Andrew Peeke",
+                            "price": 145,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Carlo",
+                            "price": -162,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Carlo",
+                            "price": 126,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -168,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Myers",
+                            "price": -148,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyler Myers",
+                            "price": 115,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 110
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 205
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 195
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 230
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 290
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 235
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Noah Juulsen",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 175
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Marc McLaughlin",
+                            "price": 600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_first",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Noah Juulsen",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 6000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_last",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Noah Juulsen",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 6000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -142,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": -125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -142,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": -162,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": 126,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -154,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -198,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 150,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -148,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -175,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -154,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 120,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 126,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -162,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -188,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -182,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 105,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-26T17:44:45Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 109,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -141,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 177,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -238,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -123,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -104,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -143,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -196,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": -167,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": 127,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -227,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 171,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -101,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -128,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 118,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -154,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -123,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": -132,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": 102,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 158,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie Coyle",
+                            "price": -208,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:45Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -122,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -106,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 119,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -154,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 141,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -185,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -141,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 108,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -143,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -109,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -119,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 142,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -161,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 123,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 149,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -196,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -169,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 113,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -147,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_total_saves",
+                    "last_update": "2024-11-26T17:44:45Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jeremy Swayman",
+                            "price": -108,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jeremy Swayman",
+                            "price": -120,
+                            "point": 25.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": -140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 195,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 145,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -190,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie Coyle",
+                            "price": -400,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocked_shots",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brandon Carlo",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Carlo",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Myers",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyler Myers",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Andrew Peeke",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Andrew Peeke",
+                            "price": 145,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 130
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 230
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 333
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_first",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 6600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 6600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 6600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 8000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 8000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_last",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 5000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -145,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": -165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": -140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie Coyle",
+                            "price": -210,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": 375,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": -650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": 360,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": -600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": 320,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": -500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": -275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": -190,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 360,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie Coyle",
+                            "price": 600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie Coyle",
+                            "price": -1200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Filip Hronek",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Filip Hronek",
+                            "price": -1400,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -160,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 120,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -155,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -160,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -155,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -145,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_total_saves",
+                    "last_update": "2024-11-26T17:44:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jeremy Swayman",
+                            "price": -110,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jeremy Swayman",
+                            "price": -120,
+                            "point": 25.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-11-26T17:44:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 118
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 250
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 250
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matthew Poitras",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Jones",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Patrick Brown",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Riley Tufte",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jordan Oesterle",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 190
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 250
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Aman",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Linus Karlsson",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Erik Brannstrom",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derek Forbort",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vincent Desharnais",
+                            "price": 1800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goal_scorer_first",
+                    "last_update": "2024-11-26T17:44:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "David Pastrnak",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Lindholm",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brad Marchand",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie Coyle",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pavel Zacha",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Morgan Geekie",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Beecher",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trent Frederic",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Johnson",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matthew Poitras",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Justin Brazeau",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Kastelic",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Charlie McAvoy",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Jones",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Patrick Brown",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Riley Tufte",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikita Zadorov",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cole Koepke",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Lohrei",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Carlo",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jordan Oesterle",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Peeke",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Wotherspoon",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock Boeser",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Elias Pettersson",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Conor Garland",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jake DeBrusk",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pius Suter",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Hoglander",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Danton Heinen",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kiefer Sherwood",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quinn Hughes",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Arshdeep Bains",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Aatu Raty",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nils Aman",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dakota Joshua",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Linus Karlsson",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Teddy Blueger",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Erik Brannstrom",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Filip Hronek",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Myers",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Carson Soucy",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derek Forbort",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vincent Desharnais",
+                            "price": 6000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-11-26T17:44:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brad Marchand",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brad Marchand",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brock Boeser",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brock Boeser",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Charlie McAvoy",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Charlie McAvoy",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Conor Garland",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Conor Garland",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "David Pastrnak",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "David Pastrnak",
+                            "price": 125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Lindholm",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Lindholm",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Elias Pettersson",
+                            "price": 120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Elias Pettersson",
+                            "price": -155,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jake DeBrusk",
+                            "price": 140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jake DeBrusk",
+                            "price": -185,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kiefer Sherwood",
+                            "price": 150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kiefer Sherwood",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pavel Zacha",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pavel Zacha",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quinn Hughes",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Quinn Hughes",
+                            "price": 110,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
