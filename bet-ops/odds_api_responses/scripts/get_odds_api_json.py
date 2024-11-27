@@ -1,30 +1,30 @@
 import os
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 import pytz
+import argparse
 
 DEFAULT_OUTPUT_DIR = '../output'
 DEFAULT_API_KEY = "54179d2c087ee252467b2620fb5bb27b"
 with open('../../configuration/api_parameters.json') as f:
     config = json.load(f)
 
-def output_response(response, output_dir, file_name):
-    # Check if the response is successful
-    if response.status_code == 200:
+def output_response(response, output_dir, file_name, json_flag=False):
+    if not json_flag:
         data = response.json()  # Parse JSON response
-
-        print(data)
-        
-        # Construct file path in the current directory
-        file_path = os.path.join(output_dir, f"{file_name}_{str(datetime.now().date()).replace('-', '')}.json")
-        
-        # Save the response to the file
-        with open(file_path, "w") as file:
-            json.dump(data, file, indent=4)
-        print(f"Data saved to {file_path}")
     else:
-        print(f"Error: {response.status_code} - {response.text}")
+        data = response
+
+    print(data)
+    
+    # Construct file path in the current directory
+    file_path = os.path.join(output_dir, f"{file_name}_{str(datetime.now().date()).replace('-', '')}.json")
+    
+    # Save the response to the file
+    with open(file_path, "w") as file:
+        json.dump(data, file, indent=4)
+    print(f"Data saved to {file_path}")
 
 def invoke_request(url, params, file_name, output=False, output_dir=None):
     response = requests.get(url, params=params)
@@ -66,7 +66,7 @@ def events_endpoint(sport):
 
     output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/events/'
     # Make the API request
-    events = invoke_request(url, params=params, file_name=file_name, output=True, output_dir=output_dir)
+    events = invoke_request(url, params=params, file_name=file_name, output=False)
 
     return events.json()
 
@@ -90,31 +90,38 @@ def odds_endpoint(sport):
     # Make the API request
     invoke_request(url, params, file_name, output=True, output_dir=output_dir)
 
-def player_props_endpoint(sport, events):
-    event = events[1]
-    # get player props
-    url = config["player_props"][sport]["url"].replace("{sport_key}", sport).replace("{event_id}", event["id"])
-    api_key = ""
-    file_name = config["player_props"][sport]["prefix"].replace("{sport_key}", sport).replace("{home_team}", event["home_team"]).replace("{away_team}", event["away_team"])
+def player_props_endpoint(sport, events, count):
+    i = 0
+    for event in events:
+        # for region in config["player_props"][sport].get("regions", "us"):
+        i += 1
+        if i <= count:
+            continue
+        # get player props
+        url = config["player_props"][sport]["url"].replace("{sport_key}", sport).replace("{event_id}", event["id"])
+        api_key = ""
+        file_name = config["player_props"][sport]["prefix"].replace("{sport_key}", sport).replace("{home_team}", event["home_team"]).replace("{away_team}", event["away_team"]) #\
+            # + f"_{config["player_props"][sport]["region"]}"
 
-    # Define parameters to get all NHL games, including player props, for today
-    params = {
-        "apiKey": api_key or DEFAULT_API_KEY,
-        "regions": ",".join(config["player_props"][sport].get("regions", "us")),  # default to US
-        "markets": ",".join(config["player_props"][sport]["markets"]),  # default to US
-        "dateFormat": "iso",
-        "oddsFormat": "american"
-    }
+        # Define parameters to get all NHL games, including player props, for today
+        params = {
+            "apiKey": api_key or DEFAULT_API_KEY,
+            "regions": ",".join(config["player_props"][sport].get("regions", "us")),  # default to US
+            "markets": ",".join(config["player_props"][sport]["markets"]),  # default to US
+            "dateFormat": "iso",
+            "oddsFormat": "american"
+        }
 
-    print("Params: ", params)
-    print("URL: ", url)
+        print("Params: ", params)
+        print("URL: ", url)
 
-    print("Events[3]: ", events[3]["id"])
+        print("Events: ", event["id"])
+        print("Regions: ", config["player_props"][sport].get("regions", "us"))
 
-    output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/player_props/'
+        output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/player_props/'
 
-    # Make the API request
-    # invoke_request(url, params=params, file_name=file_name, output=True, output_dir=output_dir)
+        # Make the API request
+        invoke_request(url, params=params, file_name=file_name, output=True, output_dir=output_dir)
 
 def get_player_props(sport):
     # Validate sport
@@ -132,19 +139,13 @@ def get_player_props(sport):
     # Get Events for sport
     events = events_endpoint(sport)
     events = add_events_date(events)
-    output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/events_updated/'
+    output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/events/'
     file_name = config["events"]["prefix"].replace("{sport_key}", sport)
-    # Construct file path in the current directory
-    file_path = os.path.join(output_dir, f"{file_name}_{str(datetime.now().date()).replace('-', '')}.json")
     
-    # Save the response to the file
-    with open(file_path, "w") as file:
-        json.dump(events, file, indent=4)
-
-    print(events)
+    output_response(events, output_dir, file_name, json_flag=True)
 
     # Get Player Props
-    player_props_endpoint(sport, events)
+    player_props_endpoint(sport, events, count=3)
 
 def add_events_date(events):
     for event in events:
@@ -157,5 +158,23 @@ def add_events_date(events):
 
         event['date'] = est_date
 
-get_player_props("icehockey_nhl")
+    e = []
+    for event in events:
+        if event['date'] == datetime.now().strftime('%Y%m%d'):
+            e.append(event)
+    
+    return e
 
+if __name__ == '__main__':
+    # Create an argument parser
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--sport', help='The sport to retrieve player props for')
+
+    # Parse the command-line arguments
+    args = parser.parse_args()
+
+    # Check if the --sport argument is provided
+    if not args.sport:
+        print("Please provide a sport using the --sport argument.")
+
+    get_player_props(sport=args.sport)

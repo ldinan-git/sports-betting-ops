@@ -160,6 +160,14 @@
         "has_outrights": false
     },
     {
+        "key": "icehockey_sweden_hockey_league",
+        "group": "Ice Hockey",
+        "title": "SHL",
+        "description": "Swedish Hockey League",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "mma_mixed_martial_arts",
         "group": "Mixed Martial Arts",
         "title": "MMA",

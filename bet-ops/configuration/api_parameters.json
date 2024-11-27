@@ -16,14 +16,14 @@
     "player_props": {
         "basketball_nba": {
             "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds",
-            "regions": ["us"],
+            "regions": ["us", "us2"],
             "markets": ["player_points", "player_assists", "player_rebounds", "player_steals", "player_blocks",
                 "player_threes", "player_turnovers", "player_first_basket"], 
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         },
         "icehockey_nhl": {
             "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds",
-            "regions": ["us"],
+            "regions": ["us", "us2"],
             "markets": ["player_points", "player_power_play_points", "player_assists", "player_blocked_shots",
                 "player_shots_on_goal", "player_goals", "player_total_saves", "player_goal_scorer_first", 
                 "player_goal_scorer_last", "player_goal_scorer_anytime"],
