@@ -18,7 +18,9 @@
             "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds",
             "regions": ["us", "us2"],
             "markets": ["player_points", "player_assists", "player_rebounds", "player_steals", "player_blocks",
-                "player_threes", "player_turnovers", "player_first_basket"], 
+                "player_threes", "player_turnovers", "player_first_basket", "player_blocks_steals", "player_turnovers", 
+                "player_points_rebounds_assists", "player_points_rebounds", "player_points_assists", "player_rebounds_assists",
+                "player_first_basket", "player_double_double", "player_triple_double"], 
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         },
         "icehockey_nhl": {
@@ -27,6 +29,17 @@
             "markets": ["player_points", "player_power_play_points", "player_assists", "player_blocked_shots",
                 "player_shots_on_goal", "player_goals", "player_total_saves", "player_goal_scorer_first", 
                 "player_goal_scorer_last", "player_goal_scorer_anytime"],
+            "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
+        },
+        "americanfootball_nfl": {
+            "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds",
+            "regions": ["us", "us2"],
+            "markets": ["player_assists", "player_field_goals", "player_kicking_pionts", "player_pass_attempts", "player_pass_completions",
+                "player_pass_interceptions", "player_pass_longest_completion", "player_pass_rush_reception_tds", "player_pass_rush_reception_yds",
+                "player_pass_tds", "player_pass_yds", "player_pats", "player_receptions", "player_reception_longest", "player_reception_yds",
+                "player_rush_attempts", "player_rush_longest", "player_rush_reception_tds", "player_rush_reception_yds", "player_rush_yds",
+                "player_sacks", "player_solo_tackles", "player_tackles_assists", "player_tds_over", "player_1st_td", "player_anytime_td",
+                "player_last_td"],
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         }
     }

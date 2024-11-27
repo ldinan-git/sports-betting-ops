@@ -360,6 +360,14 @@
         "has_outrights": false
     },
     {
+        "key": "soccer_korea_kleague1",
+        "group": "Soccer",
+        "title": "K League 1",
+        "description": "Korean Soccer",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "soccer_mexico_ligamx",
         "group": "Soccer",
         "title": "Liga MX",
