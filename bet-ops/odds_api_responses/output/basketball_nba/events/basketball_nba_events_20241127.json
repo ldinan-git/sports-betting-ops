@@ -1,0 +1,128 @@
+[
+    {
+        "id": "ec08adb1c3a277a93dc0dbfd05eee50d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Atlanta Hawks",
+        "date": "20241127"
+    },
+    {
+        "id": "dadbec70e3f8e655af81b4354da4a733",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Miami Heat",
+        "date": "20241127"
+    },
+    {
+        "id": "500f21047b7113b0f265a4eb8070edfe",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Chicago Bulls",
+        "date": "20241127"
+    },
+    {
+        "id": "c735cde8bd598324a51bb899324a5a49",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Houston Rockets",
+        "date": "20241127"
+    },
+    {
+        "id": "4d67f8c5b511dff44092940fc914a470",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Portland Trail Blazers",
+        "date": "20241127"
+    },
+    {
+        "id": "19a2df14f1abd46ae75a31f621fdc0e7",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:10:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Los Angeles Clippers",
+        "date": "20241127"
+    },
+    {
+        "id": "edcdf25d5f5f290610ded28cae0ffb07",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T00:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "New York Knicks",
+        "date": "20241127"
+    },
+    {
+        "id": "0f1f50c453002029b144358dbd2d7c5b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T01:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Detroit Pistons",
+        "date": "20241127"
+    },
+    {
+        "id": "b964c7d3a8467679ae7b966aaccf2e75",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T01:10:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Sacramento Kings",
+        "date": "20241127"
+    },
+    {
+        "id": "19f5a8e6df36d2dcd01e39bdc4f4ed1e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Toronto Raptors",
+        "date": "20241127"
+    },
+    {
+        "id": "7c21f0f776e1c48708c5efbd73c9bce1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T01:40:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Los Angeles Lakers",
+        "date": "20241127"
+    },
+    {
+        "id": "693801537443a99cda79a98e7f9a1697",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Brooklyn Nets",
+        "date": "20241127"
+    },
+    {
+        "id": "4051baa4fc86ea2edd7c499e16dd0f30",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T02:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Denver Nuggets",
+        "date": "20241127"
+    },
+    {
+        "id": "6719711e94412208c9fd5fa2da3d6835",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-28T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20241127"
+    }
+]

@@ -1,51 +1,43 @@
 [
     {
-        "id": "28ce00ceda2646f4b0579095537d2c55",
+        "id": "8371571bb6059f03debc55b594422565",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2024-11-20T00:10:00Z",
-        "home_team": "Boston Celtics",
-        "away_team": "Cleveland Cavaliers"
+        "commence_time": "2024-11-27T00:00:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Chicago Bulls"
     },
     {
-        "id": "4f0bbc699601b7e229affc95e3305210",
+        "id": "979282582fedc5d942f4f0f2f22763ee",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2024-11-20T00:40:00Z",
-        "home_team": "Brooklyn Nets",
-        "away_team": "Charlotte Hornets"
+        "commence_time": "2024-11-27T00:30:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Milwaukee Bucks"
     },
     {
-        "id": "d070638782ccca86d8b610ef704f9be0",
+        "id": "312350cf1c97873d6cb81224bac3873e",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2024-11-20T01:10:00Z",
-        "home_team": "Memphis Grizzlies",
-        "away_team": "Denver Nuggets"
+        "commence_time": "2024-11-27T01:00:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Houston Rockets"
     },
     {
-        "id": "5dc4f9a9d1a0eeacee652cd7556b57e7",
+        "id": "0a3002d2aaa7b94c5c9c4d3bf792ac7d",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2024-11-20T01:40:00Z",
-        "home_team": "Dallas Mavericks",
-        "away_team": "New Orleans Pelicans"
+        "commence_time": "2024-11-27T02:00:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "San Antonio Spurs"
     },
     {
-        "id": "1868bde5ea04d48d73e7ec63602deebd",
+        "id": "0ae85f4502bca2d13e62d2e35c94744c",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2024-11-20T02:40:00Z",
-        "home_team": "San Antonio Spurs",
-        "away_team": "Oklahoma City Thunder"
-    },
-    {
-        "id": "4da1e5d0859d00cf060770cbe9d575ac",
-        "sport_key": "basketball_nba",
-        "sport_title": "NBA",
-        "commence_time": "2024-11-20T03:40:00Z",
-        "home_team": "Los Angeles Lakers",
-        "away_team": "Utah Jazz"
+        "commence_time": "2024-11-27T03:00:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Los Angeles Lakers"
     },
     {
         "id": "973a6ea86af7d9e2bf4c52509822f5bf",

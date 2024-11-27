@@ -1,0 +1,3080 @@
+{
+    "id": "693801537443a99cda79a98e7f9a1697",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-28T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:23:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -113,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -113,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -113,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -113,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -102,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -102,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-11-27T14:23:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Durant",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Booker",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bradley Beal",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jusuf Nurkic",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dennis Schroder",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cameron Johnson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Simmons",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyus Jones",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ziaire Williams",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dorian Finney-Smith",
+                            "price": 1600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:23:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -115,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -111,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -113,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -113,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -104,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -122,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -104,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -122,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -102,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 23.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:23:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -113,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -113,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 102,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -154,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -113,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -113,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:23:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -166,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 112,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 154,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 112,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -125,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 310,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -130,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Ben Simmons",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bradley Beal",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cameron Johnson",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dennis Schroder",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Booker",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dorian Finney-Smith",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jusuf Nurkic",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Durant",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nicolas Claxton",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyus Jones",
+                            "price": 1000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -125,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -105,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -125,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 105,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 170,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -260,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -250,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -215,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 145,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -190,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 105,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-11-27T14:23:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -160,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 130,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -115,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 110,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -245,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 330,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -595,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -130,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -110,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -135,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -130,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -125,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -125,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -115,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -210,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 170,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -255,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -265,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -215,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 120,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 100,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -195,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -160,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -255,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 165,
+                            "point": 0.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -135,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -160,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 115,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -525,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Durant",
+                            "price": 375
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kevin Durant",
+                            "price": -600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bradley Beal",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Bradley Beal",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Booker",
+                            "price": 500
+                        },
+                        {
+                            "name": "No",
+                            "description": "Devin Booker",
+                            "price": -900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cameron Johnson",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Cameron Johnson",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nicolas Claxton",
+                            "price": 650
+                        },
+                        {
+                            "name": "No",
+                            "description": "Nicolas Claxton",
+                            "price": -1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jusuf Nurkic",
+                            "price": 600
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jusuf Nurkic",
+                            "price": -1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyus Jones",
+                            "price": 750
+                        },
+                        {
+                            "name": "No",
+                            "description": "Tyus Jones",
+                            "price": -1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dorian Finney-Smith",
+                            "price": 750
+                        },
+                        {
+                            "name": "No",
+                            "description": "Dorian Finney-Smith",
+                            "price": -1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dennis Schroder",
+                            "price": 850
+                        },
+                        {
+                            "name": "No",
+                            "description": "Dennis Schroder",
+                            "price": -1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Simmons",
+                            "price": 800
+                        },
+                        {
+                            "name": "No",
+                            "description": "Ben Simmons",
+                            "price": -1800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -125,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -125,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -105,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 12.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 115,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": 150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -240,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -250,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:23:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -145,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -165,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 135,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -120,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -234,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 176,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -110,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -105,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 23.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -154,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -212,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 176,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -234,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 135,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -188,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -142,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-11-27T14:23:42Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -182,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -155,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 115,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 100,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -125,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -105,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -155,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 10.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -165,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -250,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -250,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": 150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -200,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -160,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 140,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-11-27T14:22:37Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 175,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -155,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 115,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -130,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 100,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 100,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Durant",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Booker",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bradley Beal",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jusuf Nurkic",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dennis Schroder",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cameron Johnson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyus Jones",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Simmons",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dorian Finney-Smith",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ziaire Williams",
+                            "price": 1600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 100,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -130,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -125,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -110,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -130,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": 100,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 12.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -120,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:22:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 155,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -210,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -170,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 130,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-11-27T14:23:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -119,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -109,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -116,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -111,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -112,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": 100,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -130,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-11-27T14:23:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -122,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -106,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -109,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -119,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -128,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -101,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -111,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -116,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -102,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -127,
+                            "point": 12.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-11-27T14:23:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": -110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -118,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": -103,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -125,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": 116,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": -152,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": -115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -112,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": -108,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -120,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-11-27T14:23:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kevin Durant",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Durant",
+                            "price": -143,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devin Booker",
+                            "price": 104,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devin Booker",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Bradley Beal",
+                            "price": -192,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bradley Beal",
+                            "price": 146,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jusuf Nurkic",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jusuf Nurkic",
+                            "price": -135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyus Jones",
+                            "price": -172,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyus Jones",
+                            "price": 133,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

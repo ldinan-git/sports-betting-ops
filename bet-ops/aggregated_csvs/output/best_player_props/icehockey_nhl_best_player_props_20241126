@@ -1,0 +1,61 @@
+value_book,game,market,name,description,point,betmgm_price,betonlineag_price,betrivers_price,bovada_price,draftkings_price,fanduel_price
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Cole Caufield,Yes,,200.0,,145.0,145.0,150.0,195.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Justin Barron,Yes,,,,800.0,800.0,850.0,1700.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Jake DeBrusk,Yes,,333.0,,240.0,240.0,230.0,310.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Danton Heinen,Yes,,700.0,,420.0,420.0,425.0,700.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Danton Heinen,Yes,,700.0,,420.0,420.0,425.0,700.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Danton Heinen,Yes,,700.0,,420.0,420.0,425.0,700.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Danton Heinen,Yes,,700.0,,420.0,420.0,425.0,700.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Lane Hutson,Yes,,,,650.0,650.0,650.0,1100.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Emil Heineman,Yes,,700.0,,460.0,460.0,400.0,600.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Jake Evans,Yes,,600.0,,390.0,380.0,475.0,650.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Kirby Dach,Yes,,390.0,,265.0,260.0,320.0,400.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Cole Caufield,Yes,,200.0,,145.0,145.0,150.0,195.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Nils Hoglander,Yes,,600.0,,390.0,380.0,500.0,650.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Brock Boeser,Yes,,230.0,,190.0,190.0,175.0,200.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Elias Lindholm,Yes,,360.0,,255.0,250.0,310.0,330.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Kirby Dach,Yes,,390.0,,265.0,260.0,320.0,400.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,David Pastrnak,Yes,,130.0,,118.0,118.0,105.0,140.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Aatu Raty,Yes,,800.0,,540.0,525.0,,900.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Michael Carcone,Yes,,550.0,,350.0,350.0,475.0,500.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Alex Newhook,Yes,,400.0,,300.0,300.0,280.0,390.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Dylan Guenther,Yes,,210.0,,170.0,170.0,155.0,210.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Dylan Guenther,Yes,,210.0,,170.0,170.0,155.0,210.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Clayton Keller,Yes,,195.0,,143.0,140.0,185.0,195.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Clayton Keller,Yes,,195.0,,143.0,140.0,185.0,195.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Morgan Geekie,Yes,,450.0,,340.0,340.0,400.0,490.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mark Kastelic,Yes,,800.0,,475.0,475.0,800.0,850.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Jake Evans,Yes,,600.0,,390.0,380.0,475.0,650.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Alex Newhook,Yes,,400.0,,300.0,300.0,280.0,390.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Jake DeBrusk,Yes,,333.0,,240.0,240.0,230.0,310.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Juraj Slafkovsky,Yes,,340.0,,265.0,260.0,290.0,350.0
+betrivers,Vancouver Canucks @ Boston Bruins,player_shots_on_goal,Elias Pettersson,Over,2.5,115.0,103.0,125.0,105.0,105.0,112.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Nils Hoglander,Yes,,600.0,,390.0,380.0,500.0,650.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Nikita Zadorov,Yes,,1100.0,,650.0,650.0,950.0,1200.0
+betrivers,Utah Hockey Club @ Montréal Canadiens,player_shots_on_goal,Clayton Keller,Under,2.5,-105.0,-102.0,110.0,-105.0,-105.0,-102.0
+betrivers,Utah Hockey Club @ Montréal Canadiens,player_shots_on_goal,Juraj Slafkovsky,Over,1.5,,,-143.0,-155.0,-162.0,-176.0
+draftkings,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Nick Schmaltz,Yes,,270.0,,210.0,210.0,280.0,280.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Nick Schmaltz,Yes,,270.0,,210.0,210.0,280.0,280.0
+draftkings,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Nick Schmaltz,Yes,,270.0,,210.0,210.0,280.0,280.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Nick Schmaltz,Yes,,270.0,,210.0,210.0,280.0,280.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mason Lohrei,Yes,,1200.0,,700.0,700.0,850.0,1200.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mason Lohrei,Yes,,1200.0,,700.0,700.0,850.0,1200.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mason Lohrei,Yes,,1200.0,,700.0,700.0,850.0,1200.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mason Lohrei,Yes,,1200.0,,700.0,700.0,850.0,1200.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_shots_on_goal,Juraj Slafkovsky,Under,1.5,,,110.0,120.0,126.0,134.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Juraj Slafkovsky,Yes,,340.0,,265.0,260.0,290.0,350.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_shots_on_goal,Quinn Hughes,Over,2.5,-165.0,-147.0,-150.0,-145.0,-142.0,-132.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mark Kastelic,Yes,,800.0,,475.0,475.0,800.0,850.0
+draftkings,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mark Kastelic,Yes,,800.0,,475.0,475.0,800.0,850.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mark Kastelic,Yes,,800.0,,475.0,475.0,800.0,850.0
+draftkings,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Mark Kastelic,Yes,,800.0,,475.0,475.0,800.0,850.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Barrett Hayton,Yes,,375.0,,300.0,300.0,310.0,360.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,Arshdeep Bains,Yes,,700.0,,540.0,525.0,,750.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Brendan Gallagher,Yes,,320.0,,300.0,300.0,215.0,300.0
+betmgm,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,John Beecher,Yes,,800.0,,510.0,500.0,750.0,800.0
+fanduel,Vancouver Canucks @ Boston Bruins,player_goal_scorer_anytime,John Beecher,Yes,,800.0,,510.0,500.0,750.0,800.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Logan Cooley,Yes,,270.0,,235.0,235.0,215.0,260.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Maveric Lamoureux,Yes,,1100.0,,700.0,700.0,,1100.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Maveric Lamoureux,Yes,,1100.0,,700.0,700.0,,1100.0
+betmgm,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Maveric Lamoureux,Yes,,1100.0,,700.0,700.0,,1100.0
+fanduel,Utah Hockey Club @ Montréal Canadiens,player_goal_scorer_anytime,Maveric Lamoureux,Yes,,1100.0,,700.0,700.0,,1100.0

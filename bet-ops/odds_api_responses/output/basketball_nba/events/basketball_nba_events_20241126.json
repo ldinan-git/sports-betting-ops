@@ -1,0 +1,47 @@
+[
+    {
+        "id": "8371571bb6059f03debc55b594422565",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-27T00:00:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Chicago Bulls",
+        "date": "20241126"
+    },
+    {
+        "id": "979282582fedc5d942f4f0f2f22763ee",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-27T00:30:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Milwaukee Bucks",
+        "date": "20241126"
+    },
+    {
+        "id": "312350cf1c97873d6cb81224bac3873e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-27T01:00:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Houston Rockets",
+        "date": "20241126"
+    },
+    {
+        "id": "0a3002d2aaa7b94c5c9c4d3bf792ac7d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-27T02:00:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "San Antonio Spurs",
+        "date": "20241126"
+    },
+    {
+        "id": "0ae85f4502bca2d13e62d2e35c94744c",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-27T03:00:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Los Angeles Lakers",
+        "date": "20241126"
+    }
+]
