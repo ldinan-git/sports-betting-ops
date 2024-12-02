@@ -1,0 +1,38 @@
+[
+    {
+        "id": "f39bf2e3df253fc7f6af9c6cf532b6a9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-03T00:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "New Orleans Pelicans",
+        "date": "20241202"
+    },
+    {
+        "id": "3bc9be32097c263541ef9179500048c3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-03T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Miami Heat",
+        "date": "20241202"
+    },
+    {
+        "id": "50bd2a1df8fb7f7af8d8cef115cfbfdd",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-03T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Brooklyn Nets",
+        "date": "20241202"
+    },
+    {
+        "id": "01f6fb3f81f056771f34518ee02cbe20",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-03T01:10:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Los Angeles Lakers",
+        "date": "20241202"
+    }
+]

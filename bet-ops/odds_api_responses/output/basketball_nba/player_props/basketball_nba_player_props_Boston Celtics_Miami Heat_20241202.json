@@ -1,0 +1,3695 @@
+{
+    "id": "3bc9be32097c263541ef9179500048c3",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-03T00:40:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Miami Heat",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -168,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -300,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -182,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": -110
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 1400
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 17.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 21.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 26.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -148,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 115,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -135,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -148,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 115,
+                            "point": 8.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -198,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -198,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 150,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -154,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-12-02T13:55:29Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -142,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -142,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -136,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 106,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": -115
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Terry Rozier",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Hauser",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -113,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -113,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -118,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -108,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -111,
+                            "point": 38.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -106,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 45.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 102,
+                            "point": 8.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 106,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -136,
+                            "point": 15.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -132,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 104,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 1100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -155,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -150,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 100,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -195,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 190,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -305,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -200,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": -115
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 965
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jayson Tatum",
+                            "price": -130
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jimmy Butler",
+                            "price": -25540
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 17.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -130,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -130,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 21.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -130,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 100,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -150,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -135,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -145,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -230,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -190,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 130,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -155,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 1030
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jayson Tatum",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-12-02T13:55:26Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -165,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:12Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -143,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:12Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -114,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -114,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -127,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -102,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:12Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -122,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -106,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -103,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:12Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 112,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 104,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:12Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -119,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -109,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -143,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -145,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 110,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -185,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 1000
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jimmy Butler",
+                            "price": -10000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 39.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -145,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -185,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 155,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 1100
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-12-02T13:55:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 120,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -155,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -140,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 110,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -185,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 190,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -290,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -190,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": -110
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jayson Tatum",
+                            "price": -120
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 650
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jimmy Butler",
+                            "price": -3000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derrick White",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Neemias Queta",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 700
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 17.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 21.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -130,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -185,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 130,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 700
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jayson Tatum",
+                            "price": -3500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2024-12-02T13:55:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -165,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 115,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Terry Rozier",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Hauser",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 2200
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -135,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 17.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 38.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 115,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -135,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -143,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:32Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -150,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -155,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -185,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -275,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 145,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -190,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": -120
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 1100
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 400
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jaylen Brown",
+                            "price": -700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 500
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jayson Tatum",
+                            "price": -950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 575
+                        },
+                        {
+                            "name": "No",
+                            "description": "Tyler Herro",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 575
+                        },
+                        {
+                            "name": "No",
+                            "description": "Bam Adebayo",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 525
+                        },
+                        {
+                            "name": "No",
+                            "description": "Duncan Robinson",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jimmy Butler",
+                            "price": 600
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jimmy Butler",
+                            "price": -1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Neemias Queta",
+                            "price": 750
+                        },
+                        {
+                            "name": "No",
+                            "description": "Neemias Queta",
+                            "price": -1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 750
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jrue Holiday",
+                            "price": -1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derrick White",
+                            "price": 900
+                        },
+                        {
+                            "name": "No",
+                            "description": "Derrick White",
+                            "price": -2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1200
+                        },
+                        {
+                            "name": "No",
+                            "description": "Haywood Highsmith",
+                            "price": -3000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -105,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -115,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -125,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -130,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -110,
+                            "point": 21.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -110,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -120,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -125,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -145,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -145,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": 105,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -135,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -130,
+                            "point": 15.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": 135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 155,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -150,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jimmy Butler",
+                            "price": -115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jimmy Butler",
+                            "price": -120,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2024-12-02T13:55:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 1300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -136,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 102,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 148,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -200,
+                            "point": 6.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 138,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -186,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 104
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Hauser",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Terry Rozier",
+                            "price": 900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -139,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -118,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -113,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -240,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 160,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 180,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -286,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -186,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 130,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -148,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 108,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -230,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 125,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -177,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -315,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 190,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -117,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -114,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 104,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -137,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -215,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 145,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 120,
+                            "point": 46.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -167,
+                            "point": 46.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 165,
+                            "point": 48.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -265,
+                            "point": 48.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -139,
+                            "point": 43.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 43.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 143,
+                            "point": 47.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -210,
+                            "point": 47.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -175,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 123,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -275,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 170,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -137,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 104,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 125,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -167,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -250,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 180,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -205,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -134,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 175,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -240,
+                            "point": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -136,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 102,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 148,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -200,
+                            "point": 6.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 138,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -186,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 104
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Hauser",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bam Adebayo",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Herro",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Haywood Highsmith",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Duncan Robinson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Terry Rozier",
+                            "price": 900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -139,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -118,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -113,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -240,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 160,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 180,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -286,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -186,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 130,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -148,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 108,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -230,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 125,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -177,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -315,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 190,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -117,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -114,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 104,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -137,
+                            "point": 45.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -215,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 145,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 120,
+                            "point": 46.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -167,
+                            "point": 46.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 165,
+                            "point": 48.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -265,
+                            "point": 48.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -139,
+                            "point": 43.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 105,
+                            "point": 43.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 143,
+                            "point": 47.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -210,
+                            "point": 47.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -175,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 123,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -275,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 170,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -137,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 104,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 125,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -167,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -250,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 180,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -205,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 150,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2024-12-02T13:55:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": -134,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jayson Tatum",
+                            "price": 175,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jayson Tatum",
+                            "price": -240,
+                            "point": 4.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

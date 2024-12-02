@@ -1,0 +1,128 @@
+[
+    {
+        "id": "1403605c0466719bba35b56d45cc2c6d",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T18:00:00Z",
+        "home_team": "Philadelphia Flyers",
+        "away_team": "New York Rangers",
+        "date": "20241129"
+    },
+    {
+        "id": "052b21a4a8933922bfa6b005df958687",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T19:00:00Z",
+        "home_team": "Minnesota Wild",
+        "away_team": "Chicago Blackhawks",
+        "date": "20241129"
+    },
+    {
+        "id": "83725a377f291c8e612b5456c3e7ab31",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Buffalo Sabres",
+        "away_team": "Vancouver Canucks",
+        "date": "20241129"
+    },
+    {
+        "id": "85bb7b27509359a93e1b3603f827f3e6",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Columbus Blue Jackets",
+        "away_team": "Calgary Flames",
+        "date": "20241129"
+    },
+    {
+        "id": "69ebce7a184f2d7d50a47ed89e46b4de",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Carolina Hurricanes",
+        "away_team": "Florida Panthers",
+        "date": "20241129"
+    },
+    {
+        "id": "8f18127fff367e6a02e38c65e5fc8680",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Detroit Red Wings",
+        "away_team": "New Jersey Devils",
+        "date": "20241129"
+    },
+    {
+        "id": "dde93e7aca35bb370fadaeb08fd01a23",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Nashville Predators",
+        "away_team": "Tampa Bay Lightning",
+        "date": "20241129"
+    },
+    {
+        "id": "f23b6d525082aa6b146c345b16aaed12",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:00:00Z",
+        "home_team": "Washington Capitals",
+        "away_team": "New York Islanders",
+        "date": "20241129"
+    },
+    {
+        "id": "bf004803414bb3fd39160c086931cf93",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:30:00Z",
+        "home_team": "Anaheim Ducks",
+        "away_team": "Los Angeles Kings",
+        "date": "20241129"
+    },
+    {
+        "id": "3b1b21c5706969715d94b26632be2d9e",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T20:30:00Z",
+        "home_team": "San Jose Sharks",
+        "away_team": "Seattle Kraken",
+        "date": "20241129"
+    },
+    {
+        "id": "40ac8331e5070d789b517a73279d46a8",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-29T23:30:00Z",
+        "home_team": "Boston Bruins",
+        "away_team": "Pittsburgh Penguins",
+        "date": "20241129"
+    },
+    {
+        "id": "c76f2eddbd210adf55906792b0967e86",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-30T01:30:00Z",
+        "home_team": "Vegas Golden Knights",
+        "away_team": "Winnipeg Jets",
+        "date": "20241129"
+    },
+    {
+        "id": "8b7e72d8f3e8ab870125eca98a6722eb",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-30T02:00:00Z",
+        "home_team": "Dallas Stars",
+        "away_team": "Colorado Avalanche",
+        "date": "20241129"
+    },
+    {
+        "id": "9fe413f068f04a04a491b268049cba0e",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-11-30T02:00:00Z",
+        "home_team": "Utah Hockey Club",
+        "away_team": "Edmonton Oilers",
+        "date": "20241129"
+    }
+]

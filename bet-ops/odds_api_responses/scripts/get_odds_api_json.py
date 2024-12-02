@@ -6,7 +6,8 @@ import pytz
 import argparse
 
 DEFAULT_OUTPUT_DIR = '../output'
-DEFAULT_API_KEY = "54179d2c087ee252467b2620fb5bb27b"
+# DEFAULT_API_KEY = "54179d2c087ee252467b2620fb5bb27b"
+# DEFAULT_API_KEY = "1af942a5b7e7b90454f211cb6a697184"
 with open('../../configuration/api_parameters.json') as f:
     config = json.load(f)
 
@@ -28,6 +29,8 @@ def output_response(response, output_dir, file_name, json_flag=False):
 
 def invoke_request(url, params, file_name, output=False, output_dir=None):
     response = requests.get(url, params=params)
+
+    print(f"Response Headers: {response.headers}")
 
     if output:
         output_dir = output_dir or DEFAULT_OUTPUT_DIR
@@ -95,7 +98,7 @@ def player_props_endpoint(sport, events, count):
     for event in events:
         # for region in config["player_props"][sport].get("regions", "us"):
         i += 1
-        if i <= count:
+        if i > count:
             continue
         # get player props
         url = config["player_props"][sport]["url"].replace("{sport_key}", sport).replace("{event_id}", event["id"])
@@ -145,7 +148,7 @@ def get_player_props(sport):
     output_response(events, output_dir, file_name, json_flag=True)
 
     # Get Player Props
-    player_props_endpoint(sport, events, count=3)
+    player_props_endpoint(sport, events, count=300)
 
 def add_events_date(events):
     for event in events:

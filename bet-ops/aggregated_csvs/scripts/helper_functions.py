@@ -24,3 +24,6 @@ def calculate_projected_odds(actual_odds, implied_probability):
 
 def calculate_ev(true_prob, decimal_odds):
     return (true_prob * decimal_odds) - (1 - true_prob)
+
+def are_lists_equal(list1, list2):
+    return set(list1) == set(list2)

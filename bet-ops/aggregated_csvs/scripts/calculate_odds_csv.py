@@ -126,6 +126,7 @@ def process_json(data):
 
     # Create the DataFrame
     df = pd.DataFrame(rows)
+    df = df.drop([col for col in df.columns if col.startswith('betrivers_')], axis=1)
     
     # Pivot the DataFrame to get one row for each market and description
     new_df = df.pivot_table(index=['market', 'description', 'name', 'point'], aggfunc='first')
@@ -162,32 +163,42 @@ if __name__ == '__main__':
     columns = []
 
     dfs = []
-    file_num = 0
     for file in files:
         if not file.split('_')[-1].startswith(f'{datetime.now().date().strftime("%Y%m%d")}'):
             continue
-        file_num += 1
         print(f"Processing {file}")
         if file.startswith(args.sport):
             # Load the JSON data
             with open(f'{directory}{file}', 'r') as f:
                 data = json.load(f)
                 df = process_json(data)
-                if file_num == 1:
-                    columns = ",".join(df.columns)
+                if len(dfs) == 0:
+                    dfs.append(df)
                 else:
-                    if ",".join(df.columns) != columns:
-                        print(f"Columns don't match for {file}")
-                        print(f"Columns in {file}: {', '.join(df.columns)}")
-                        print(f"Columns in first file: {columns}")
-                        # df = df.reindex(columns=columns.split(','))
-                        # dfs.append(df)
-                    else:
-                        dfs.append(df)
+                    first_columns = set(dfs[0].columns)
+                    second_columns = set(df.columns)
+
+                    only_in_first = first_columns - second_columns
+                    only_in_second = second_columns - first_columns
+
+                    print("Columns only in the first file:", only_in_first)
+                    print("Columns only in the second file:", only_in_second)
+
+                    # Ensure columns are unique before reindexing
+                    union_columns = list(first_columns.union(second_columns))
+                    print("Union Columns:", union_columns)
+
+                    # Remove duplicate columns from the DataFrame
+                    dfs = [df.loc[:, ~df.columns.duplicated()].reindex(columns=union_columns) for df in dfs]
+                    df = df.loc[:, ~df.columns.duplicated()].reindex(columns=union_columns)
+
+                    dfs.append(df)
 
     agg_df = pd.concat(dfs, ignore_index=True)
 
     agg_df = agg_df.assign(avg_dejuiced_prob=agg_df.filter(like='_dejuice').mean(axis=1))
+
+
 
     # Write to CSV
     agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)

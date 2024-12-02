@@ -1,0 +1,29 @@
+[
+    {
+        "id": "818a0f592da4fc2dea2a8caa3170bd6f",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2024-11-28T17:30:00Z",
+        "home_team": "Detroit Lions",
+        "away_team": "Chicago Bears",
+        "date": "20241128"
+    },
+    {
+        "id": "1c53fc0f9537ba80e2c121bb58979a24",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2024-11-28T21:30:00Z",
+        "home_team": "Dallas Cowboys",
+        "away_team": "New York Giants",
+        "date": "20241128"
+    },
+    {
+        "id": "e6b414e1b7a012e57d1a0746769f28a2",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2024-11-29T01:20:00Z",
+        "home_team": "Green Bay Packers",
+        "away_team": "Miami Dolphins",
+        "date": "20241128"
+    }
+]

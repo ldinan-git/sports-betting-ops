@@ -48,15 +48,26 @@ def get_best_player_props(df, sport, count=100):
         for col in diff_cols:
             row_idx = np.where(agg_df_filtered[col].values == diff)
             if len(row_idx[0]) > 0:
-                row = agg_df_filtered.iloc[row_idx[0]][['event_id', 'game', 'market', 'description', 'name', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', f'{col.split('_')[0]}_decimal_odds']].values.tolist()[0]
+                row = agg_df_filtered.iloc[row_idx[0]][['game', 'market', 'description', 'name', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', f'{col.split("_")[0]}_decimal_odds']].values.tolist()[0]
                 row.insert(0, col.split('_')[0])  # insert the value book in the first column
                 rows.append(row)
                 print(row)
 
-    df = pd.DataFrame(rows, columns=['value_book', 'event_id', 'game', 'market', 'name', 'description', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
+    # Create the DataFrame with initial column order
+    df = pd.DataFrame(rows, columns=['value_book', 'game', 'market', 'name', 'description', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
+
+    # Add the `value_book_price` column
+    df['value_book_price'] = df.apply(lambda row: row[f"{row['value_book']}_price"] if f"{row['value_book']}_price" in df.columns else None, axis=1)
+
+    # Calculate EV
     df['EV'] = calculate_ev(df['avg_dejuiced_prob'], df['book_decimal_odds']) - calculate_ev(df['avg_dejuiced_prob'], prob_to_decimal(df['avg_dejuiced_prob']))
+
+    # Reorder columns to put `value_book_price` in the second column
+    column_order = ['value_book', 'value_book_price'] + [col for col in df.columns if col not in ['value_book', 'value_book_price']]
+    df = df[column_order]
+
+    # Drop duplicates and save the CSV
     df = df.drop_duplicates()
-    
     df.to_csv(f'../output/best_player_props/{sport}_best_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
 
 
