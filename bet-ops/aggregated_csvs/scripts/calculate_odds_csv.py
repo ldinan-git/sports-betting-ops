@@ -6,6 +6,19 @@ import argparse
 import os
 from helper_functions import *
 
+
+def get_project_root():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Navigate back to the bet-ops directory
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
+
 # Define a function to calculate dejuice
 def calculate_dejuice(row, new_df):
     game = row['game']
@@ -19,7 +32,6 @@ def calculate_dejuice(row, new_df):
         dejuice = row[bookmaker] / denom
         dejuice_values[bookmaker.replace('_implied_prob', '_dejuice')] = dejuice
         if dejuice == 1:
-            # denom = new_df.loc[(new_df['game'] == game) & (new_df['market'] == market) & (new_df['point'] == point), bookmaker].sum()
             denom = 1.15 # assume 15% vig for one way markets
             dejuice = row[bookmaker] / denom
             dejuice_values[bookmaker.replace('_implied_prob', '_dejuice')] = dejuice
@@ -27,13 +39,14 @@ def calculate_dejuice(row, new_df):
     return pd.Series(dejuice_values)
 
 def get_files(sport, date):
-    player_props_directory = os.path.join("..", "..", "odds_api_responses", "player_props", "output", sport, "player_props")
-    odds_directory = os.path.join("..", "..", "odds_api_responses", "game_odds", "output", sport, "odds")
+    player_props_directory = os.path.join(ROOT_DIR, directories["odds_api_responses_output"], sport, "player_props")
+    # odds_directory = os.path.join(ROOT_DIR, "odds_api_responses", "game_odds", "output", sport, "odds")
     
     player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
-    odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    # odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
     
-    return player_props_files + odds_files
+    # return player_props_files + odds_files
+    return player_props_files
 
 
 def get_rows_object(data):
@@ -229,5 +242,6 @@ if __name__ == '__main__':
     agg_df = agg_df.assign(avg_dejuiced_prob=agg_df.filter(like='_dejuice').mean(axis=1))
 
     # Write to CSV
-    agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{date}.csv', index=False)
+    file_dir = os.path.join(ROOT_DIR, directories["aggregated_csvs_output"], args.sport)
+    agg_df.to_csv(f'{file_dir}//{args.sport}_player_props_{date}.csv', index=False)
         

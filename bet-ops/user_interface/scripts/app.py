@@ -3,6 +3,17 @@ import pandas as pd
 import os
 import argparse
 from datetime import datetime
+import json
+
+def get_project_root():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
 
 app = Flask(__name__)
 
@@ -11,37 +22,36 @@ parser = argparse.ArgumentParser(description="Run the Flask app to display CSV d
 parser.add_argument('--sport', required=True, help='The sport to retrieve player props for')
 parser.add_argument('--date', default=datetime.now().date().strftime("%Y%m%d"), help='The date for the data in YYYYMMDD format (default is today)')
 
-# Parse the arguments
 args = parser.parse_args()
-
-# Get the sport and date parameters from the command-line arguments
 SPORT = args.sport
 DATE = args.date
 
-# Base directory for your CSV files
-BASE_DIR = os.path.join("..", "..", "aggregated_csvs", "output")
-
 @app.route("/")
 def index():
-    # Construct paths to the CSV files
-    csv1_path = os.path.join(BASE_DIR, "aggregated_csvs", SPORT, f"{SPORT}_player_props_{DATE}.csv")
-    csv2_path = os.path.join(BASE_DIR, "best_player_props", SPORT, f"{SPORT}_best_player_props_{DATE}.csv")
+    csv1_path = os.path.join(ROOT_DIR, directories["aggregated_csvs_output"], SPORT, f"{SPORT}_player_props_{DATE}.csv")
+    csv2_path = os.path.join(ROOT_DIR, directories["best_player_props_output"], SPORT, f"{SPORT}_best_player_props_{DATE}.csv")
     
-    # Check if the files exist
     if not os.path.exists(csv1_path) or not os.path.exists(csv2_path):
-        return f"CSV files for sport '{SPORT}' not found.", 404
+        return f"Error: CSV files not found | {csv1_path} and {csv2_path}"
     
-    # Load the CSVs into pandas DataFrames
     csv1_data = pd.read_csv(csv1_path)
     csv2_data = pd.read_csv(csv2_path)
 
-    csv1_data = csv1_data.round(2)
-    csv2_data = csv2_data.round(2)
+    columns_to_keep = ['game', 'market', 'description', 'name', 'point']
+    columns_to_keep += [col for col in csv1_data.columns if '_price' in col or '_implied_prob_diff' in col or '_dejuice' in col]
 
-    # Pass the data to the template for display
-    return render_template('index.html', tables=[csv1_data.to_html(classes='table table-striped', index=False),
-                                                 csv2_data.to_html(classes='table table-striped', index=False)],
-                           titles=['Odds Data', 'Best Bets'])
+    csv1_data = csv1_data[columns_to_keep].round(3)
+    csv2_data = csv2_data.round(3)
+
+    return render_template(
+        'index.html',
+        tables=[
+            csv1_data.to_html(index=False, table_id="table1", classes="table table-striped table-bordered"),
+            csv2_data.to_html(index=False, table_id="table2", classes="table table-striped table-bordered")
+        ],
+        titles=['Odds Data', 'Best Bets']
+    )
+
 if __name__ == "__main__":
     print(f"Starting Flask server for sport '{SPORT}'...")
     app.run(debug=True)

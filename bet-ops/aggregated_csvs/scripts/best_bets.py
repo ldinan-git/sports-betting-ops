@@ -3,6 +3,20 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 from helper_functions import *
+import os
+import json
+
+def get_project_root():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Navigate back to the bet-ops directory
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
 
 def get_values_list(df, column_substring, bets_shown=100, sort='lowest'):
     """
@@ -26,9 +40,8 @@ def get_values_list(df, column_substring, bets_shown=100, sort='lowest'):
         A list of the lowest (or highest) values
     """
     diff_cols = [col for col in df.columns if column_substring in col]
-    print(diff_cols)
     all_diffs = df[diff_cols].values.flatten()
-    print(all_diffs)
+
     if sort == 'lowest':
         diffs = np.sort(all_diffs)[:bets_shown]
     elif sort == 'highest':
@@ -38,23 +51,21 @@ def get_values_list(df, column_substring, bets_shown=100, sort='lowest'):
     
     return diffs, diff_cols
 
-def get_best_player_props(df, sport, values_populated, bets_shown=100):
-    diffs, diff_cols = get_values_list(agg_df, 'diff', bets_shown=bets_shown, sort='lowest')
+def get_best_player_props(df, sport, values_populated, bets_shown, date):
+    diffs, diff_cols = get_values_list(df, 'diff', bets_shown=bets_shown, sort='lowest')
+    df = df[df['values_populated'] >= values_populated]
 
-    agg_df_filtered = agg_df[agg_df['values_populated'] >= values_populated]
-    print(diffs)
     rows = []
     for diff in diffs:
         for col in diff_cols:
-            row_idx = np.where(agg_df_filtered[col].values == diff)
+            row_idx = np.where(df[col].values == diff)
             if len(row_idx[0]) > 0:
-                row = agg_df_filtered.iloc[row_idx[0]][['game', 'market', 'description', 'name', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', f'{col.split("_")[0]}_decimal_odds']].values.tolist()[0]
+                row = df.iloc[row_idx[0]][['game', 'market', 'description', 'name', 'point'] + [c for c in df.columns if '_price' in c] + ['avg_dejuiced_prob', f'{col.split("_")[0]}_decimal_odds']].values.tolist()[0]
                 row.insert(0, col.split('_')[0])  # insert the value book in the first column
                 rows.append(row)
-                print(row)
 
     # Create the DataFrame with initial column order
-    df = pd.DataFrame(rows, columns=['value_book', 'game', 'market', 'name', 'description', 'point'] + [c for c in agg_df_filtered.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
+    df = pd.DataFrame(rows, columns=['value_book', 'game', 'market', 'name', 'description', 'point'] + [c for c in df.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
 
     # Add the `value_book_price` column
     df['value_book_price'] = df.apply(lambda row: row[f"{row['value_book']}_price"] if f"{row['value_book']}_price" in df.columns else None, axis=1)
@@ -68,7 +79,9 @@ def get_best_player_props(df, sport, values_populated, bets_shown=100):
 
     # Drop duplicates and save the CSV
     df = df.drop_duplicates()
-    df.to_csv(f'../output/best_player_props/{sport}_best_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
+    
+    output_dir = os.path.join(ROOT_DIR, directories["best_player_props_output"], sport)
+    df.to_csv(f'{output_dir}//{sport}_best_player_props_{date}.csv', index=False)
 
 
 if __name__ == "__main__":
@@ -77,12 +90,19 @@ if __name__ == "__main__":
     parser.add_argument('--sport', help='The sport to retrieve player props for')
     parser.add_argument('--values_populated', help='The minimum values to include in best bets')
     parser.add_argument('--bets_shown', help='The number of unique best bets to return')
+    parser.add_argument('--override_date', help='Calculate odds for date other than today')
 
     args = parser.parse_args()
+
+    if args.override_date:
+        date = args.override_date
+    else:
+        date = datetime.now().date().strftime("%Y%m%d")
 
     args.values_populated = int(args.values_populated) if args.values_populated else 0
     args.bets_shown = int(args.bets_shown) if args.bets_shown else 100
 
-    agg_df = pd.read_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv')
+    file_dir = os.path.join(ROOT_DIR, directories["aggregated_csvs_output"], args.sport)
+    agg_df = pd.read_csv(f'{file_dir}//{args.sport}_player_props_{date}.csv')
     
-    get_best_player_props(agg_df, args.sport, args.values_populated, args.bets_shown)
+    get_best_player_props(agg_df, args.sport, args.values_populated, args.bets_shown, date)
