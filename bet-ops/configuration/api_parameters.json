@@ -9,7 +9,7 @@
     },
     "odds": {
         "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/odds",
-        "regions": ["us"],
+        "regions": ["us", "us2"],
         "markets": ["h2h", "totals", "spreads"],
         "prefix": "{sport_key}_odds"
     },

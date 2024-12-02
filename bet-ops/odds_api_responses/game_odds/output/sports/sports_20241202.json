@@ -40,6 +40,14 @@
         "has_outrights": false
     },
     {
+        "key": "baseball_mlb_world_series_winner",
+        "group": "Baseball",
+        "title": "MLB World Series Winner",
+        "description": "World Series Winner 2025",
+        "active": true,
+        "has_outrights": true
+    },
+    {
         "key": "basketball_euroleague",
         "group": "Basketball",
         "title": "Basketball Euroleague",
@@ -62,14 +70,6 @@
         "description": "Championship Winner 2024/2025",
         "active": true,
         "has_outrights": true
-    },
-    {
-        "key": "basketball_nbl",
-        "group": "Basketball",
-        "title": "NBL",
-        "description": "AU National Basketball League",
-        "active": true,
-        "has_outrights": false
     },
     {
         "key": "basketball_ncaab",
@@ -104,10 +104,18 @@
         "has_outrights": false
     },
     {
-        "key": "cricket_odi",
+        "key": "cricket_big_bash",
         "group": "Cricket",
-        "title": "One Day Internationals",
-        "description": "One Day Internationals",
+        "title": "Big Bash",
+        "description": "Big Bash League",
+        "active": true,
+        "has_outrights": false
+    },
+    {
+        "key": "cricket_international_t20",
+        "group": "Cricket",
+        "title": "International Twenty20",
+        "description": "International Twenty20",
         "active": true,
         "has_outrights": false
     },
@@ -131,6 +139,22 @@
         "key": "golf_pga_championship_winner",
         "group": "Golf",
         "title": "PGA Championship Winner",
+        "description": "2025 Winner",
+        "active": true,
+        "has_outrights": true
+    },
+    {
+        "key": "golf_the_open_championship_winner",
+        "group": "Golf",
+        "title": "The Open Winner",
+        "description": "2025 Winner",
+        "active": true,
+        "has_outrights": true
+    },
+    {
+        "key": "golf_us_open_winner",
+        "group": "Golf",
+        "title": "US Open Winner",
         "description": "2025 Winner",
         "active": true,
         "has_outrights": true
@@ -224,14 +248,6 @@
         "has_outrights": false
     },
     {
-        "key": "soccer_conmebol_copa_libertadores",
-        "group": "Soccer",
-        "title": "Copa Libertadores",
-        "description": "CONMEBOL Copa Libertadores",
-        "active": true,
-        "has_outrights": false
-    },
-    {
         "key": "soccer_denmark_superliga",
         "group": "Soccer",
         "title": "Denmark Superliga",
@@ -244,6 +260,14 @@
         "group": "Soccer",
         "title": "Championship",
         "description": "EFL Championship",
+        "active": true,
+        "has_outrights": false
+    },
+    {
+        "key": "soccer_england_efl_cup",
+        "group": "Soccer",
+        "title": "EFL Cup",
+        "description": "League Cup",
         "active": true,
         "has_outrights": false
     },
@@ -268,14 +292,6 @@
         "group": "Soccer",
         "title": "EPL",
         "description": "English Premier League",
-        "active": true,
-        "has_outrights": false
-    },
-    {
-        "key": "soccer_fa_cup",
-        "group": "Soccer",
-        "title": "FA Cup",
-        "description": "Football Association Challenge Cup",
         "active": true,
         "has_outrights": false
     },
@@ -360,6 +376,14 @@
         "has_outrights": false
     },
     {
+        "key": "soccer_league_of_ireland",
+        "group": "Soccer",
+        "title": "League of Ireland",
+        "description": "Airtricity League Premier Division",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "soccer_mexico_ligamx",
         "group": "Soccer",
         "title": "Liga MX",
@@ -372,14 +396,6 @@
         "group": "Soccer",
         "title": "Dutch Eredivisie",
         "description": "Dutch Soccer",
-        "active": true,
-        "has_outrights": false
-    },
-    {
-        "key": "soccer_norway_eliteserien",
-        "group": "Soccer",
-        "title": "Eliteserien - Norway",
-        "description": "Norwegian Soccer",
         "active": true,
         "has_outrights": false
     },
@@ -444,22 +460,6 @@
         "group": "Soccer",
         "title": "UEFA Champions League",
         "description": "European Champions League",
-        "active": true,
-        "has_outrights": false
-    },
-    {
-        "key": "soccer_uefa_europa_conference_league",
-        "group": "Soccer",
-        "title": "UEFA Europa Conference League",
-        "description": "UEFA Europa Conference League",
-        "active": true,
-        "has_outrights": false
-    },
-    {
-        "key": "soccer_uefa_europa_league",
-        "group": "Soccer",
-        "title": "UEFA Europa League",
-        "description": "European Europa League",
         "active": true,
         "has_outrights": false
     },

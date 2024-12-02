@@ -10,7 +10,7 @@ from helper_functions import *
 def calculate_dejuice(row, new_df):
     game = row['game']
     market = row['market']
-    description = row['description']
+    description = row.get('description', '')
     point = row['point']
     bookmakers = [col for col in row.index if '_implied_prob' in col]
     dejuice_values = {}
@@ -26,13 +26,17 @@ def calculate_dejuice(row, new_df):
 
     return pd.Series(dejuice_values)
 
-def get_files(sport):
-    directory = f"C:\\Users\\ldinan\\Documents\\GitHub\\sports-betting-ops\\bet-ops\\odds_api_responses\\output\\{sport}\\player_props\\"
-    files = os.listdir(directory)
-    return files, directory
+def get_files(sport, date):
+    player_props_directory = os.path.join("..", "..", "odds_api_responses", "player_props", "output", sport, "player_props")
+    odds_directory = os.path.join("..", "..", "odds_api_responses", "game_odds", "output", sport, "odds")
+    
+    player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    
+    return player_props_files + odds_files
 
 
-def get_rows(data):
+def get_rows_object(data):
     # Create a list to store the rows of the DataFrame
     rows = []
 
@@ -40,8 +44,10 @@ def get_rows(data):
         for market in bookmaker['markets']:
             for outcome in market['outcomes']:
                 row = {
+                    'event_id': data['id'],
+                    'game': data['away_team'] + ' @ ' + data['home_team'],
                     'market': market['key'],
-                    'description': outcome['description'],
+                    'description': outcome.get('description', ''),
                     'name': outcome['name'],
                     'point': outcome.get('point', ''),
                     f"{bookmaker['key']}_price": outcome['price'],
@@ -49,6 +55,14 @@ def get_rows(data):
                     f"{bookmaker['key']}_name": outcome['name']
                 }
                 rows.append(row)
+    
+    return rows
+
+def get_rows_list(data):
+    rows = []
+    for obj in data:
+        rows = get_rows_object(obj)
+        rows.extend(rows)
     
     return rows
 
@@ -122,28 +136,29 @@ def reorder_columns(df):
 
 def process_json(data):
     # Create a list to store the rows of the DataFrame
-    rows = get_rows(data)
+    if type(data) == list:
+        rows = get_rows_list(data)
+    else:
+        rows = get_rows_object(data)
 
     # Create the DataFrame
     df = pd.DataFrame(rows)
     df = df.drop([col for col in df.columns if col.startswith('betrivers_')], axis=1)
     
     # Pivot the DataFrame to get one row for each market and description
-    new_df = df.pivot_table(index=['market', 'description', 'name', 'point'], aggfunc='first')
+    new_df = df.pivot_table(index=['event_id', 'game', 'market', 'description', 'name', 'point'], aggfunc='first')
     new_df = new_df.reset_index()
 
     new_df = apply_function(new_df, '_price', '_decimal_odds', american_to_decimal)
     new_df = apply_function(new_df, '_decimal_odds', '_implied_prob', calculate_implied_probability)
     
     # Apply the function to each row in the DataFrame
-    new_df['game'] = data['away_team'] + ' @ ' + data['home_team']
-    new_df['event_id'] = data['id']
+    # new_df['game'] = data['away_team'] + ' @ ' + data['home_team']
+    # new_df['event_id'] = data['id']
 
     new_df = add_dejuice(new_df)
 
     new_df = add_implied_prob_diff(new_df)
-
-    new_df = reorder_columns(new_df)
 
     return new_df
 
@@ -151,6 +166,8 @@ if __name__ == '__main__':
     # Create an argument parser
     parser = argparse.ArgumentParser()
     parser.add_argument('--sport', help='The sport to retrieve player props for')
+    parser.add_argument('--override_date', help='Calculate odds for date other than today')
+    parser.add_argument('--file_substring', help='Filter files to only include those with this substring')
 
     # Parse the command-line arguments
     args = parser.parse_args()
@@ -158,22 +175,34 @@ if __name__ == '__main__':
     # Check if the --sport argument is provided
     if not args.sport:
         print("Please provide a sport using the --sport argument.")
+        exit(1)
 
-    files, directory = get_files(args.sport)
+    if args.override_date:
+        date = args.override_date
+    else:
+        date = datetime.now().date().strftime("%Y%m%d")
+
+    # if not provided, always return True for ''
+    if args.file_substring:
+        file_substring = args.file_substring
+    else:
+        file_substring = ''
+
+    files = get_files(args.sport, date)
+    print(files)
     columns = []
 
     dfs = []
     for file in files:
-        if not file.split('_')[-1].startswith(f'{datetime.now().date().strftime("%Y%m%d")}'):
-            continue
         print(f"Processing {file}")
-        if file.startswith(args.sport):
+        if args.sport in file and date in file and file_substring in file:
             # Load the JSON data
-            with open(f'{directory}{file}', 'r') as f:
+            with open(file, 'r') as f:
                 data = json.load(f)
                 df = process_json(data)
                 if len(dfs) == 0:
                     dfs.append(df)
+                # Add empty columns that don't exist to concatenate DataFrames
                 else:
                     first_columns = set(dfs[0].columns)
                     second_columns = set(df.columns)
@@ -186,7 +215,6 @@ if __name__ == '__main__':
 
                     # Ensure columns are unique before reindexing
                     union_columns = list(first_columns.union(second_columns))
-                    print("Union Columns:", union_columns)
 
                     # Remove duplicate columns from the DataFrame
                     dfs = [df.loc[:, ~df.columns.duplicated()].reindex(columns=union_columns) for df in dfs]
@@ -196,10 +224,10 @@ if __name__ == '__main__':
 
     agg_df = pd.concat(dfs, ignore_index=True)
 
+    agg_df = reorder_columns(agg_df)
+
     agg_df = agg_df.assign(avg_dejuiced_prob=agg_df.filter(like='_dejuice').mean(axis=1))
 
-
-
     # Write to CSV
-    agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
+    agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{date}.csv', index=False)
         
