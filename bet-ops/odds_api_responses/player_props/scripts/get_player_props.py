@@ -5,11 +5,25 @@ from datetime import datetime
 import pytz
 import argparse
 
-DEFAULT_OUTPUT_DIR = '../output'
 # DEFAULT_API_KEY = "54179d2c087ee252467b2620fb5bb27b"
 # DEFAULT_API_KEY = "1af942a5b7e7b90454f211cb6a697184"
-with open('../../../configuration/api_parameters.json') as f:
+
+DEFAULT_OUTPUT_DIR = '../output'
+
+def get_project_root():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Navigate back to the bet-ops directory
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/api_parameters.json')) as f:
     config = json.load(f)
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
 
 def output_response(response, output_dir, file_name, json_flag=False):
     if not json_flag:
@@ -49,7 +63,7 @@ def sports_endpoint(api_key, output=True):
     }
 
     if output:
-        output_dir = DEFAULT_OUTPUT_DIR + '/sports/'
+        output_dir = output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], 'sports')
 
     # Make the API request
     sports = invoke_request(url, params, file_name, output=True, output_dir=output_dir)
@@ -66,8 +80,8 @@ def events_endpoint(sport, api_key, output=False):
         "dateFormat": "iso",
     }
 
-    if output:
-        output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/events/'
+    output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], sport, 'player_props')
+
     # Make the API request
     events = invoke_request(url, params=params, file_name=file_name, output=output)
 
@@ -82,9 +96,7 @@ def player_props_endpoint(sport, events, api_key, count):
             continue
         # get player props
         url = config["player_props"][sport]["url"].replace("{sport_key}", sport).replace("{event_id}", event["id"])
-        api_key = ""
-        file_name = config["player_props"][sport]["prefix"].replace("{sport_key}", sport).replace("{home_team}", event["home_team"]).replace("{away_team}", event["away_team"]) #\
-            # + f"_{config["player_props"][sport]["region"]}"
+        file_name = config["player_props"][sport]["prefix"].replace("{sport_key}", sport).replace("{home_team}", event["home_team"]).replace("{away_team}", event["away_team"]) 
 
         # Define parameters to get all NHL games, including player props, for today
         params = {
@@ -101,7 +113,7 @@ def player_props_endpoint(sport, events, api_key, count):
         print("Events: ", event["id"])
         print("Regions: ", config["player_props"][sport].get("regions", "us"))
 
-        output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/player_props/'
+        output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], sport, 'player_props')
 
         # Make the API request
         invoke_request(url, params=params, file_name=file_name, output=True, output_dir=output_dir)
@@ -122,7 +134,7 @@ def get_player_props(sport, api_key):
     # Get Events for sport
     events = events_endpoint(sport, api_key)
     events = add_events_date(events)
-    output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/events/'
+    output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], sport, 'events')
     file_name = config["events"]["prefix"].replace("{sport_key}", sport)
     
     output_response(events, output_dir, file_name, json_flag=True)
