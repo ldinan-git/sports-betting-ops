@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, send_file
+from flask import Flask, jsonify, request
 import os
 import datetime
 import pandas as pd
@@ -8,9 +8,13 @@ app = Flask(__name__)
 # Path to the directory containing the CSV files (update this path as needed)
 CSV_DIRECTORY = 'bet-ops/aggregated_csvs/output/best_player_props'
 
-# Function to find the most recent CSV file and its date
-def get_most_recent_csv():
-    csv_files = [f for f in os.listdir(CSV_DIRECTORY) if f.endswith('.csv')]
+# Function to find the most recent CSV file for a given sport and its date
+def get_most_recent_csv(sport):
+    sport_directory = os.path.join(CSV_DIRECTORY, sport)
+    if not os.path.exists(sport_directory):
+        return None, None
+
+    csv_files = [f for f in os.listdir(sport_directory) if f.endswith('.csv')]
     if not csv_files:
         return None, None
 
@@ -31,19 +35,20 @@ def get_most_recent_csv():
     most_recent_date, most_recent_file = max(dates, key=lambda x: x[0])
     return most_recent_date, most_recent_file
 
-@app.route('/get-recent-csv', methods=['GET'])
-def get_recent_csv():
-    most_recent_date, most_recent_file = get_most_recent_csv()
+@app.route('/get-recent-csv/<sport>', methods=['GET'])
+def get_recent_csv(sport):
+    most_recent_date, most_recent_file = get_most_recent_csv(sport)
     if not most_recent_file:
-        return jsonify({'error': 'No CSV files found'}), 404
+        return jsonify({'error': f'No CSV files found for sport: {sport}'}), 404
 
-    file_path = os.path.join(CSV_DIRECTORY, most_recent_file)
+    file_path = os.path.join(CSV_DIRECTORY, sport, most_recent_file)
 
     # Send the file content as JSON response
     df = pd.read_csv(file_path)
     data = df.to_dict(orient='records')
 
     return jsonify({
+        'sport': sport,
         'date': most_recent_date.strftime('%Y-%m-%d'),
         'data': data
     })
