@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Viewer</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .nav-tabs .nav-link {
+            border: 1px solid #dee2e6;
+            border-bottom: none;
+        }
+        .nav-tabs .nav-link.active {
+            background-color: #ffffff;
+            border-color: #dee2e6 #dee2e6 #ffffff;
+        }
+        .tab-content {
+            border: 1px solid #dee2e6;
+            border-top: none;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        table.dataTable thead th {
+            background-color: #e9ecef;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-4">
+        <h1 class="text-center">CSV Viewer</h1>
+        <ul class="nav nav-tabs" id="csvTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">Odds Data</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">Best Bets</button>
+            </li>
+        </ul>
+        <div class="tab-content mt-3" id="csvTabsContent">
+            <div class="tab-pane fade show active" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
+                <table id="table1" class="table table-striped table-bordered">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
+                <table id="table2" class="table table-striped table-bordered">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+    <script>
+        // Function to fetch and display CSV data
+        function fetchAndDisplayCSV(url, tableId) {
+            Papa.parse(url, {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    const data = results.data;
+                    const columns = Object.keys(data[0]).map(key => ({ title: key, data: key }));
+
+                    $(tableId).DataTable({
+                        data: data,
+                        columns: columns,
+                        paging: true,
+                        searching: true,
+                        ordering: true,
+                        info: true
+                    });
+                }
+            });
+        }
+
+        // URLs of the CSV files
+        const csvUrl1 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/icehockey_nhl/icehockey_nhl_best_player_props_20241203.csv';
+        const csvUrl2 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/aggregated_csvs/icehockey_nhl/icehockey_nhl_player_props_20241203.csv';
+
+        // Fetch and display the CSV data for both tables
+        $(document).ready(function() {
+            fetchAndDisplayCSV(csvUrl1, '#table1');
+            fetchAndDisplayCSV(csvUrl2, '#table2');
+        });
+    </script>
+</body>
+</html>
