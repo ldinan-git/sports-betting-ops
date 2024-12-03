@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSV Viewer</title>
+    <title>Best Bets</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
     <style>
@@ -37,10 +37,13 @@
         <h1 class="text-center">CSV Viewer</h1>
         <ul class="nav nav-tabs" id="csvTabs" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">Odds Data</button>
+                <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">NHL</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">Best Bets</button>
+                <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">NFL</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab" aria-controls="tab3" aria-selected="false">NBA</button>
             </li>
         </ul>
         <div class="tab-content mt-3" id="csvTabsContent">
@@ -87,12 +90,14 @@
 
         // URLs of the CSV files
         const csvUrl1 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/icehockey_nhl/icehockey_nhl_best_player_props_20241203.csv';
-        const csvUrl2 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/aggregated_csvs/icehockey_nhl/icehockey_nhl_player_props_20241203.csv';
-
+        const csvUrl2 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/americanfootball_nfl/americanfootball_nfl_best_player_props_20241201.csv';
+        const csvUrl3 = 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/basketball_nba/basketball_nba_best_player_props_20241202.csv';
+        
         // Fetch and display the CSV data for both tables
         $(document).ready(function() {
             fetchAndDisplayCSV(csvUrl1, '#table1');
             fetchAndDisplayCSV(csvUrl2, '#table2');
+            fetchAndDisplayCSV(csvUrl3, '#table3');
         });
     </script>
 </body>
