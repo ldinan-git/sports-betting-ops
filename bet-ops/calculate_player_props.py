@@ -43,8 +43,8 @@ def main():
     run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'calculate_odds_csv.py')} --sport {args.sport} --override_date {args.override_date} --file_substring {file_substring}")
 
     # print("Adding custom functions to columns...")
-    # # Step 3: Add Custom Functions to columns
-    # run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'custom_market_functions.py')} --sport {args.sport}")
+    # Step 3: Add Custom Functions to columns
+    run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'custom_market_functions.py')} --sport {args.sport} --override_date {args.override_date}")
 
     print("Getting best bets...")
     # Step 4: Data Analysis

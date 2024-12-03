@@ -4,6 +4,19 @@ import numpy as np
 from datetime import datetime
 from helper_functions import *  
 import json
+import os
+
+def get_project_root():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Navigate back to the bet-ops directory
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
 
 def adjust_dejuice_icehockey_nhl_atgs(df):
     implied_prob_cols = [col for col in df.columns if '_implied_prob' in col and '_implied_prob_diff' not in col]
@@ -16,24 +29,22 @@ def adjust_dejuice_icehockey_nhl_atgs(df):
     return df
 
 def consolidate_player_goals(df):
-    # Identify rows to consolidate
-    goals_mask = (df['market'] == 'player_goals') & (df['point'] == 0.5)
-    anytime_mask = (df['market'] == 'player_goal_scorer_anytime') & (df['point'] == '')
-
-    # Merge the two sets of rows
-    merged_df = df[goals_mask].merge(df[anytime_mask], on=['event_id', 'game', 'description'], suffixes=('_goals', '_anytime'))
-
-    # Update the anytime rows with values from the goals rows if they are empty
-    for col in df.columns:
-        if col not in ['event_id', 'game', 'description', 'market', 'point']:
-            merged_df[col + '_anytime'] = merged_df[col + '_anytime'].combine_first(merged_df[col + '_goals'])
-
-    # Drop the goals columns and rename the anytime columns
-    merged_df = merged_df[[col for col in merged_df.columns if '_anytime' in col or col in ['event_id', 'game', 'description']]]
-    merged_df.columns = [col.replace('_anytime', '') for col in merged_df.columns]
-
-    # Combine the updated anytime rows with the original DataFrame, excluding the original anytime rows
-    df = pd.concat([df[~anytime_mask], merged_df], ignore_index=True)
+    # Iterate through the DataFrame
+    for idx, row in df.iterrows():
+        if row['market'] == 'player_goal_scorer_anytime' and row['name'] == 'Yes':
+            # Find the corresponding player_goals row
+            matching_row = df[(df['event_id'] == row['event_id']) &
+                              (df['game'] == row['game']) &
+                              (df['description'] == row['description']) &
+                              (df['market'] == 'player_goals') &
+                              (df['point'] == 0.5) &
+                              (df['name'] == 'Over')]
+            if not matching_row.empty:
+                matching_row = matching_row.iloc[0]
+                # Update the current row with values from the matching row if they are empty
+                for col in df.columns:
+                    if col not in ['event_id', 'game', 'description', 'market', 'point', 'name'] and pd.isna(row[col]):
+                        df.at[idx, col] = matching_row[col]
 
     return df
 
@@ -42,13 +53,20 @@ if __name__ == "__main__":
     # Create an argument parser
     parser = argparse.ArgumentParser()
     parser.add_argument('--sport', help='The sport to retrieve player props for')
+    parser.add_argument('--override_date', help='Calculate odds for date other than today')
 
     args = parser.parse_args()
 
-    agg_df = pd.read_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv')
+    if args.override_date:
+        date = args.override_date
+    else:
+        date = datetime.now().date().strftime("%Y%m%d")
+
+    file_path = os.path.join(ROOT_DIR, directories["aggregated_csvs_output"], args.sport)
+    agg_df = pd.read_csv(f'{file_path}//{args.sport}_player_props_{date}.csv')
     
     if args.sport == 'icehockey_nhl':
         agg_df = consolidate_player_goals(agg_df)
 
-    agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
+    agg_df.to_csv(f'{file_path}//{args.sport}_player_props_{date}.csv', index=False)
     
