@@ -1,0 +1,5 @@
+{
+    "message": "Usage quota has been reached. See usage plans at https://the-odds-api.com",
+    "error_code": "OUT_OF_USAGE_CREDITS",
+    "details_url": "https://the-odds-api.com/liveapi/guides/v4/api-error-codes.html#out-of-usage-credits"
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "b43cac0943e7bd2eb7bac55a0aace6b1",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Boston Bruins",
+        "away_team": "Detroit Red Wings",
+        "date": "20241203"
+    },
+    {
+        "id": "68e29ac8a640318a9fd43cf6b6d50cdd",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Buffalo Sabres",
+        "away_team": "Colorado Avalanche",
+        "date": "20241203"
+    },
+    {
+        "id": "7afd5d1c0f6d28829917f94a0941fd48",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Carolina Hurricanes",
+        "away_team": "Seattle Kraken",
+        "date": "20241203"
+    },
+    {
+        "id": "c94762e0677328a4550df6494bce2e4f",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Pittsburgh Penguins",
+        "away_team": "Florida Panthers",
+        "date": "20241203"
+    },
+    {
+        "id": "4288d66c47ed612c79ea93a93563c468",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Montr\u00e9al Canadiens",
+        "away_team": "New York Islanders",
+        "date": "20241203"
+    },
+    {
+        "id": "074cb7a5901135d45b987db93d17b5e8",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T00:00:00Z",
+        "home_team": "Washington Capitals",
+        "away_team": "San Jose Sharks",
+        "date": "20241203"
+    },
+    {
+        "id": "e12128c95b909dabee3a20f69d2f935c",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T01:00:00Z",
+        "home_team": "Minnesota Wild",
+        "away_team": "Vancouver Canucks",
+        "date": "20241203"
+    },
+    {
+        "id": "3f4081dd50c1f32b38bc1b4866819ab1",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T01:00:00Z",
+        "home_team": "Winnipeg Jets",
+        "away_team": "St Louis Blues",
+        "date": "20241203"
+    },
+    {
+        "id": "40369056b6f77a593382aeb3418b8a2f",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T02:00:00Z",
+        "home_team": "Calgary Flames",
+        "away_team": "Columbus Blue Jackets",
+        "date": "20241203"
+    },
+    {
+        "id": "38f985a35358eac4e7c4558c1af8791d",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-04T03:00:00Z",
+        "home_team": "Vegas Golden Knights",
+        "away_team": "Edmonton Oilers",
+        "date": "20241203"
+    }
+]

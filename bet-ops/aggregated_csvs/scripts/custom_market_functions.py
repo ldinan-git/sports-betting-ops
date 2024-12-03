@@ -24,8 +24,5 @@ if __name__ == "__main__":
 
     agg_df = pd.read_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv')
     
-    df = adjust_dejuice_icehockey_nhl_atgs(agg_df)
-
-    print(df[df['market'] == 'player_goal_scorer_anytime'][['game', 'market', 'name', 'ballybet_implied_prob', 'ballybet_dejuice']].head(10))
-    df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
+    agg_df.to_csv(f'..//output//aggregated_csvs//{args.sport}//{args.sport}_player_props_{datetime.now().date().strftime("%Y%m%d")}.csv', index=False)
     

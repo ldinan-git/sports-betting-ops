@@ -1,0 +1,92 @@
+[
+    {
+        "id": "75b64ab4b7b899475e75f3c3fed6e6d6",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-29T17:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "New York Knicks",
+        "date": "20241129"
+    },
+    {
+        "id": "fea39cdef1993115642387a9d17d3aa8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-29T19:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20241129"
+    },
+    {
+        "id": "057e5aae2a26f423eaf44d3e6bcab7eb",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-29T22:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "New Orleans Pelicans",
+        "date": "20241129"
+    },
+    {
+        "id": "9d0591b5528cb94518423d0b98163127",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T00:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Orlando Magic",
+        "date": "20241129"
+    },
+    {
+        "id": "505781b2259d8ce45cba4e34aecf5d26",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T00:40:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Los Angeles Clippers",
+        "date": "20241129"
+    },
+    {
+        "id": "97daad0d675ac67ead333551dac221e7",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Boston Celtics",
+        "date": "20241129"
+    },
+    {
+        "id": "962ea9850dad2028b34dc93947a626a7",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T01:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Detroit Pistons",
+        "date": "20241129"
+    },
+    {
+        "id": "f3facf03d0bcded5d8f4c868ad2cae58",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T01:10:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Toronto Raptors",
+        "date": "20241129"
+    },
+    {
+        "id": "363cc300fd430fdf4510ff652bc54ef7",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T03:10:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20241129"
+    },
+    {
+        "id": "ced44c7cacce1e7ddc97f529434326b6",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-30T03:10:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Sacramento Kings",
+        "date": "20241129"
+    }
+]
