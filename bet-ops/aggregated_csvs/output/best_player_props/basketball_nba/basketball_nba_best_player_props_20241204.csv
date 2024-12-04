@@ -1,0 +1,80 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,-340.0,-0.041241431931756,Los Angeles Lakers @ Miami Heat,player_double_double,Anthony Davis,Yes,,-590.0,-550.0,,,-500.0,-500.0,-340.0,-545.0,-550.0,0.7408588935072793,1.2941176470588236
+ballybet,163.0,0.061607452220799,Atlanta Hawks @ Milwaukee Bucks,player_blocks,Jalen Johnson,Under,0.5,163.0,125.0,,,,120.0,,120.0,125.0,0.4036530236580985,2.63
+bovada,120.0,0.0400940231492648,Orlando Magic @ Philadelphia 76ers,player_points_rebounds_assists,Tyrese Maxey,Over,36.5,-103.0,-110.0,,120.0,,,,-115.0,-110.0,0.4727700105223931,2.2
+betmgm,-110.0,0.021380347164232427,Detroit Pistons @ Boston Celtics,player_rebounds_assists,Malik Beasley,Under,3.5,,-110.0,,,,-140.0,,-150.0,-145.0,0.5350087532765028,1.9090909090909087
+ballybet,650.0,0.278267781824441,Los Angeles Lakers @ Miami Heat,player_triple_double,LeBron James,Yes,,650.0,425.0,,,390.0,360.0,410.0,410.0,400.0,0.1704357042432588,7.5
+ballybet,460.0,0.1610878393765801,Detroit Pistons @ Boston Celtics,player_double_double,Jalen Duren,Yes,,460.0,360.0,,285.0,290.0,300.0,280.0,350.0,350.0,0.2073371141743893,5.6
+draftkings,-120.0,0.02904423749606244,Orlando Magic @ Philadelphia 76ers,player_assists,Franz Wagner,Under,6.5,-152.0,-155.0,-149.0,-170.0,-120.0,-150.0,-148.0,-160.0,-160.0,0.5612968568160341,1.8333333333333333
+bovada,120.0,0.02436832931635291,Orlando Magic @ Philadelphia 76ers,player_points,Guerschon Yabusele,Over,10.5,-104.0,-105.0,,120.0,,,,-110.0,-105.0,0.4656219678710694,2.2
+ballybet,300.0,0.061616373493908805,Indiana Pacers @ Brooklyn Nets,player_double_double,Myles Turner,Yes,,300.0,,,220.0,,220.0,220.0,230.0,225.0,0.2654040933734772,4.0
+ballybet,550.0,0.18629841878523046,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Bobby Portis,Yes,,550.0,400.0,,,360.0,340.0,360.0,385.0,375.0,0.1825074490438816,6.5
+ballybet,110.0,0.03242830002617003,Orlando Magic @ Philadelphia 76ers,player_points,Kentavious Caldwell-Pope,Under,8.5,110.0,-120.0,-111.0,-120.0,,-115.0,-102.0,-125.0,-115.0,0.4916325238219857,2.1
+bovada,120.0,0.03812110988145323,Minnesota Timberwolves @ Los Angeles Clippers,player_threes,Anthony Edwards,Over,3.5,-121.0,100.0,106.0,120.0,-110.0,100.0,-106.0,-110.0,-105.0,0.4718732317642968,2.2
+espnbet,1000.0,0.33820672081541603,Indiana Pacers @ Brooklyn Nets,player_first_basket,Dennis Schroder,Yes,,500.0,,,500.0,,1000.0,550.0,,800.0,0.1216551564377651,11.0
+ballybet,102.0,0.012262838138402232,Atlanta Hawks @ Milwaukee Bucks,player_rebounds,Taurean Prince,Under,3.5,102.0,-120.0,,,,-120.0,,-130.0,-125.0,0.5011202169001991,2.02
+ballybet,215.0,0.028513982881363975,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Clint Capela,Yes,,215.0,170.0,,,175.0,165.0,170.0,165.0,160.0,0.3265123755178933,3.15
+ballybet,510.0,0.1559497216475223,Orlando Magic @ Philadelphia 76ers,player_double_double,Wendell Carter Jr,Yes,,510.0,360.0,,350.0,390.0,320.0,360.0,355.0,350.0,0.1894999543684463,6.1
+fanduel,102.0,0.024881913795056,Minnesota Timberwolves @ Los Angeles Clippers,player_rebounds,James Harden,Under,5.5,-113.0,-135.0,-108.0,-120.0,-120.0,-120.0,102.0,-135.0,-135.0,0.5073672840569584,2.02
+draftkings,-105.0,0.02212268038494125,Minnesota Timberwolves @ Los Angeles Clippers,player_assists,James Harden,Over,8.5,-130.0,-145.0,-123.0,-125.0,-105.0,-125.0,-115.0,-150.0,-145.0,0.5235262509288724,1.9523809523809523
+ballybet,114.0,0.030841796461295257,Atlanta Hawks @ Milwaukee Bucks,player_threes,Damian Lillard,Over,3.5,114.0,-115.0,-103.0,105.0,-115.0,-105.0,-104.0,-120.0,-120.0,0.4817017740473342,2.14
+ballybet,-108.0,0.01906120264882638,Orlando Magic @ Philadelphia 76ers,player_threes,Jalen Suggs,Over,1.5,-108.0,-135.0,-133.0,-145.0,-125.0,-130.0,-128.0,-140.0,-140.0,0.5291279321445829,1.925925925925926
+bovada,105.0,0.02057103022607809,Minnesota Timberwolves @ Los Angeles Clippers,player_points_rebounds,Anthony Edwards,Under,30.5,,-120.0,,105.0,-115.0,-120.0,-104.0,-125.0,-125.0,0.4978395269395503,2.05
+draftkings,150.0,0.0301200400448276,Atlanta Hawks @ Milwaukee Bucks,player_steals,Dyson Daniels,Under,1.5,120.0,125.0,,,150.0,120.0,,115.0,125.0,0.412048016017931,2.5
+fanduel,102.0,0.00909948793814519,Indiana Pacers @ Brooklyn Nets,player_rebounds,Cameron Johnson,Under,4.5,,-120.0,-110.0,,,-120.0,102.0,-130.0,-125.0,0.4995542019495768,2.02
+fanduel,-113.0,0.005492874445689577,Los Angeles Lakers @ Miami Heat,player_rebounds,Haywood Highsmith,Over,3.5,,-140.0,-128.0,,,-135.0,-113.0,-150.0,-145.0,0.5334304920768214,1.8849557522123888
+fanduel,-210.0,-0.052668047139825314,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Trae Young,Yes,,-315.0,-250.0,,,-330.0,-240.0,-210.0,-245.0,-250.0,0.6417410003246343,1.4761904761904765
+bovada,105.0,0.00956387926155089,Indiana Pacers @ Brooklyn Nets,player_points_rebounds,Bennedict Mathurin,Under,25.5,,-120.0,,105.0,,-115.0,-104.0,-125.0,-120.0,0.4924701850056346,2.05
+fanduel,100.0,0.006090206936323117,Minnesota Timberwolves @ Los Angeles Clippers,player_rebounds_assists,James Harden,Under,14.5,,-120.0,,,,-120.0,100.0,-130.0,-120.0,0.5030451034681616,2.0
+draftkings,-198.0,-0.019566314209801927,Atlanta Hawks @ Milwaukee Bucks,player_steals,Damian Lillard,Under,1.5,-275.0,-250.0,,,-198.0,-250.0,,-250.0,-230.0,0.6514290932431517,1.5050505050505052
+ballybet,112.0,0.00042009435799572614,Atlanta Hawks @ Milwaukee Bucks,player_steals,Bobby Portis,Under,0.5,112.0,-105.0,,,,-110.0,,-115.0,-105.0,0.4718962709235829,2.12
+fliff,-105.0,0.003909757946224834,Detroit Pistons @ Boston Celtics,player_points_rebounds,Jalen Duren,Over,16.5,,,,-135.0,,-130.0,-122.0,-105.0,-125.0,0.5141976808992859,1.9523809523809523
+ballybet,-110.0,0.008242012086342232,Minnesota Timberwolves @ Los Angeles Clippers,player_threes,Anthony Edwards,Under,3.5,-110.0,-135.0,-137.0,-160.0,-120.0,-130.0,-120.0,-140.0,-135.0,0.5281267682357031,1.9090909090909087
+fanduel,-145.0,-0.04337942758162794,Los Angeles Lakers @ Miami Heat,player_double_double,Bam Adebayo,Yes,,-175.0,-175.0,,,-185.0,-170.0,-145.0,-180.0,-185.0,0.5661631959210773,1.6896551724137931
+draftkings,126.0,0.014639874693000765,Atlanta Hawks @ Milwaukee Bucks,player_blocks,Clint Capela,Under,0.5,114.0,105.0,,,126.0,100.0,,-105.0,105.0,0.4489556967668145,2.26
+draftkings,-110.0,0.008315422252672677,Atlanta Hawks @ Milwaukee Bucks,player_points,Zaccharie Risacher,Under,10.5,-148.0,-135.0,-125.0,-130.0,-110.0,-130.0,,-140.0,-130.0,0.5281652211799716,1.9090909090909087
+draftkings,-120.0,-0.003545579161036927,Atlanta Hawks @ Milwaukee Bucks,player_blocks_steals,Giannis Antetokounmpo,Under,2.5,,-145.0,,,-120.0,-150.0,,-150.0,-140.0,0.543520593184889,1.8333333333333333
+bovada,-120.0,0.005810755405656121,Detroit Pistons @ Boston Celtics,player_rebounds,Cade Cunningham,Under,5.5,-148.0,-150.0,-135.0,-120.0,-162.0,-130.0,-142.0,-155.0,-150.0,0.5486240484030852,1.8333333333333333
+fanduel,102.0,0.01064742196835966,Atlanta Hawks @ Milwaukee Bucks,player_threes,Jalen Johnson,Over,1.5,-120.0,-115.0,-115.0,-115.0,-125.0,-115.0,102.0,-125.0,-120.0,0.5003205059249305,2.02
+betmgm,110.0,0.0011889705987953025,Detroit Pistons @ Boston Celtics,player_points,Jayson Tatum,Under,25.5,100.0,110.0,,-110.0,,,,-120.0,-110.0,0.476756652666093,2.1
+betonlineag,110.0,0.01352250587086612,Orlando Magic @ Philadelphia 76ers,player_points,Kelly Oubre Jr,Under,11.5,-114.0,-110.0,110.0,-105.0,,-110.0,-104.0,-115.0,-110.0,0.4826297647004124,2.1
+draftkings,126.0,0.020109650609027363,Detroit Pistons @ Boston Celtics,player_rebounds,Cade Cunningham,Over,5.5,110.0,110.0,104.0,-110.0,126.0,100.0,112.0,105.0,105.0,0.4513759515969148,2.26
+draftkings,135.0,0.014870860454695545,Los Angeles Lakers @ Miami Heat,player_threes,Jimmy Butler,Under,0.5,,110.0,125.0,,135.0,110.0,,105.0,110.0,0.4318599406190193,2.35
+espnbet,900.0,0.2203679389574632,Orlando Magic @ Philadelphia 76ers,player_first_basket,Jalen Suggs,Yes,,500.0,,,600.0,550.0,900.0,600.0,,700.0,0.1220367938957463,10.0
+fanduel,-162.0,-0.01084477772106196,Indiana Pacers @ Brooklyn Nets,player_threes,Myles Turner,Over,1.5,-195.0,-200.0,-189.0,,,-200.0,-162.0,-205.0,-200.0,0.6116150611037708,1.617283950617284
+bovada,105.0,0.007354077676269277,Orlando Magic @ Philadelphia 76ers,player_points_rebounds,Franz Wagner,Over,33.5,,-120.0,,105.0,-105.0,-115.0,-104.0,-125.0,-120.0,0.4913922330128144,2.05
+betonlineag,110.0,0.0032892760029545887,Detroit Pistons @ Boston Celtics,player_points,Jaden Ivey,Under,15.5,-103.0,,110.0,,-110.0,-115.0,,,,0.477756798096645,2.1
+fanduel,120.0,0.014729701832357778,Indiana Pacers @ Brooklyn Nets,player_threes,Pascal Siakam,Over,1.5,100.0,-110.0,109.0,115.0,,105.0,120.0,-115.0,-105.0,0.4612407735601626,2.2
+ballybet,100.0,0.006420125005115018,Orlando Magic @ Philadelphia 76ers,player_rebounds,Franz Wagner,Under,6.5,100.0,-120.0,-118.0,-120.0,-120.0,-120.0,-113.0,-125.0,-125.0,0.5032100625025575,2.0
+ballybet,107.0,0.011166054533475744,Indiana Pacers @ Brooklyn Nets,player_points_rebounds_assists,Tyrese Haliburton,Over,31.5,107.0,-110.0,-112.0,-115.0,,-110.0,-113.0,-115.0,-110.0,0.4884860166828384,2.0700000000000003
+ballybet,-109.0,0.007298674263549687,Orlando Magic @ Philadelphia 76ers,player_points,Wendell Carter Jr,Under,9.5,-109.0,-135.0,-128.0,-130.0,-130.0,-130.0,-125.0,-140.0,-130.0,0.5253375860991718,1.9174311926605505
+draftkings,-270.0,-0.028923424457722446,Los Angeles Lakers @ Miami Heat,player_blocks,Jimmy Butler,Under,0.5,,-350.0,,,-270.0,-350.0,,-355.0,-325.0,0.7086234470173377,1.3703703703703702
+ballybet,550.0,0.11555175307802457,Orlando Magic @ Philadelphia 76ers,player_double_double,Guerschon Yabusele,Yes,,550.0,425.0,,400.0,475.0,360.0,370.0,410.0,400.0,0.1716233466273884,6.5
+bovada,-115.0,-0.0002213044184568025,Los Angeles Lakers @ Miami Heat,player_rebounds_assists,Jimmy Butler,Over,9.5,,-140.0,,-115.0,-130.0,-135.0,-138.0,-145.0,-140.0,0.5347653487994302,1.869565217391304
+bovada,110.0,-0.0017616028313425236,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Jalen Duren,Under,17.5,,-110.0,,110.0,,-105.0,,-115.0,-105.0,0.4753516176993607,2.1
+fanduel,-115.0,-0.004796431150385194,Los Angeles Lakers @ Miami Heat,player_rebounds_assists,Austin Reaves,Over,7.5,,-140.0,,,-125.0,-135.0,-115.0,-150.0,-140.0,0.532318187989329,1.869565217391304
+bovada,125.0,0.008822492103492952,Indiana Pacers @ Brooklyn Nets,player_assists,Tyrese Haliburton,Over,9.5,110.0,100.0,115.0,125.0,,115.0,,-105.0,-105.0,0.4483655520459969,2.25
+ballybet,125.0,-0.004545548702155178,Detroit Pistons @ Boston Celtics,player_points,Jaden Ivey,Under,14.5,125.0,,,110.0,,,,-110.0,115.0,0.4424242005768199,2.25
+bovada,120.0,0.01100285261713796,Detroit Pistons @ Boston Celtics,player_rebounds,Jayson Tatum,Over,8.5,100.0,100.0,107.0,120.0,-105.0,100.0,114.0,-110.0,100.0,0.4595467511896081,2.2
+fanduel,-360.0,-0.06731679029148929,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Giannis Antetokounmpo,Yes,,-590.0,-450.0,,,-450.0,-450.0,-360.0,-460.0,-475.0,0.7299259902066606,1.2777777777777777
+ballybet,105.0,-0.0009003363257278352,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Jaden Ivey,Under,22.5,105.0,-120.0,,105.0,-105.0,,,-130.0,-120.0,0.487365689597206,2.05
+bovada,105.0,-0.0009003363257278352,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Jaden Ivey,Under,22.5,105.0,-120.0,,105.0,-105.0,,,-130.0,-120.0,0.487365689597206,2.05
+ballybet,112.0,-0.0006243682999826916,Orlando Magic @ Philadelphia 76ers,player_points_rebounds_assists,Franz Wagner,Over,40.5,112.0,-105.0,,,,-105.0,,-110.0,-105.0,0.4714035998584987,2.12
+draftkings,-105.0,-6.179057642663466e-05,Detroit Pistons @ Boston Celtics,player_rebounds,Jalen Duren,Under,8.5,-127.0,-135.0,,-120.0,-105.0,-115.0,-120.0,-140.0,-120.0,0.5121634731193913,1.9523809523809523
+bovada,155.0,0.013352667537413154,Minnesota Timberwolves @ Los Angeles Clippers,player_assists,Kris Dunn,Over,3.5,,125.0,146.0,155.0,,135.0,,120.0,125.0,0.3973932029558483,2.55
+bovada,100.0,-0.0028144125462954417,Atlanta Hawks @ Milwaukee Bucks,player_rebounds,Onyeka Okongwu,Over,6.5,,-125.0,-108.0,100.0,-115.0,-110.0,,-130.0,-125.0,0.4985927937268523,2.0
+bovada,105.0,0.0003829448477130626,Minnesota Timberwolves @ Los Angeles Clippers,player_points_rebounds_assists,Mike Conley,Over,18.5,,-115.0,-103.0,105.0,-105.0,-115.0,,-125.0,-115.0,0.4879916804135186,2.05
+draftkings,-105.0,0.0033294552341645023,Los Angeles Lakers @ Miami Heat,player_points,Bam Adebayo,Under,17.5,-121.0,-125.0,-119.0,-125.0,-105.0,-125.0,-125.0,-130.0,-125.0,0.5139004526809136,1.9523809523809523
+bovada,105.0,-0.004105245843535998,Detroit Pistons @ Boston Celtics,player_points_rebounds,Jalen Duren,Under,16.5,,,,105.0,,100.0,-104.0,-135.0,-115.0,0.4858023191007142,2.05
+bovada,110.0,-0.0014956737443924117,Minnesota Timberwolves @ Los Angeles Clippers,player_points_rebounds_assists,Norman Powell,Under,23.5,,-110.0,106.0,110.0,,-105.0,,-120.0,-110.0,0.4754782505979083,2.1
+fanduel,120.0,0.006165385371197818,Atlanta Hawks @ Milwaukee Bucks,player_threes,Bogdan Bogdanovic,Over,2.5,,-105.0,106.0,105.0,115.0,-105.0,120.0,-110.0,105.0,0.4573479024414535,2.2
+ballybet,133.0,-0.004193566858689324,Minnesota Timberwolves @ Los Angeles Clippers,player_blocks,Anthony Edwards,Over,0.5,133.0,115.0,,,,110.0,,110.0,115.0,0.4273847352537814,2.33
+draftkings,126.0,-0.007504873856562844,Atlanta Hawks @ Milwaukee Bucks,player_turnovers,Trae Young,Under,3.5,,110.0,,,126.0,105.0,,105.0,,0.4391571354616979,2.26
+fanduel,150.0,0.014928576806701344,Atlanta Hawks @ Milwaukee Bucks,player_threes,Zaccharie Risacher,Over,1.5,118.0,130.0,134.0,135.0,,125.0,150.0,120.0,125.0,0.4059714307226805,2.5
+draftkings,-110.0,-0.0036782586151671293,Atlanta Hawks @ Milwaukee Bucks,player_points,Bogdan Bogdanovic,Over,12.5,,-130.0,-127.0,-135.0,-110.0,,-128.0,-135.0,-125.0,0.5218828169158649,1.9090909090909087
+fanduel,-111.0,-0.004426080042805203,Detroit Pistons @ Boston Celtics,player_assists,Jayson Tatum,Over,5.5,-136.0,-140.0,-122.0,-115.0,-130.0,-120.0,-111.0,-145.0,-145.0,0.5237379389348276,1.900900900900901
+fanduel,-106.0,-0.0013938322617895738,Minnesota Timberwolves @ Los Angeles Clippers,player_points_rebounds_assists,Julius Randle,Under,29.5,-125.0,-125.0,-120.0,-125.0,,-125.0,-106.0,-130.0,-125.0,0.5138458921371374,1.9433962264150944
+ballybet,107.0,0.0031444640844038307,Minnesota Timberwolves @ Los Angeles Clippers,player_points,Mike Conley,Over,10.5,107.0,-120.0,-103.0,100.0,-105.0,-105.0,,-125.0,-115.0,0.4846108522146878,2.0700000000000003
+draftkings,-135.0,-0.028765264755550413,Los Angeles Lakers @ Miami Heat,player_turnovers,Anthony Davis,Under,2.5,,-155.0,,,-135.0,-160.0,,-165.0,,0.5579433585446838,1.7407407407407407
+fanduel,-104.0,-0.012398004200888768,Los Angeles Lakers @ Miami Heat,player_points_rebounds,Haywood Highsmith,Over,10.5,,-120.0,,,,-120.0,-104.0,-125.0,-125.0,0.50348337040739,1.9615384615384617
+ballybet,125.0,-0.005455782938600939,Minnesota Timberwolves @ Los Angeles Clippers,player_blocks,James Harden,Over,0.5,125.0,110.0,,,,105.0,,100.0,110.0,0.4420196520272885,2.25

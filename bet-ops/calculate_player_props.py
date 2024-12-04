@@ -51,7 +51,7 @@ def main():
     run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'best_bets.py')} --sport {args.sport} --values_populated {args.values_populated} --bets_shown {args.bets_shown} --override_date {args.override_date}")
 
     # Step 5: Create or switch to the branch and push changes to GitHub
-    branch_name = f"{args.override_date}_player_props"
+    branch_name = f"{args.sport}_player_props_{args.override_date}"
     if branch_exists(branch_name):
         print(f"Branch '{branch_name}' already exists. Switching to the branch.")
         run_command(f"git checkout {branch_name}")
