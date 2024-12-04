@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3d69b8c0b23d1a988328e7996516039f",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-05T00:30:00Z",
+        "home_team": "Chicago Blackhawks",
+        "away_team": "Boston Bruins",
+        "date": "20241204"
+    },
+    {
+        "id": "d6afcda7ac508371ccc82fb162580ae3",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-05T00:30:00Z",
+        "home_team": "Toronto Maple Leafs",
+        "away_team": "Nashville Predators",
+        "date": "20241204"
+    },
+    {
+        "id": "e74fab7ff8afc49dc96fa80117f9ef5c",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-05T03:00:00Z",
+        "home_team": "Anaheim Ducks",
+        "away_team": "Vegas Golden Knights",
+        "date": "20241204"
+    },
+    {
+        "id": "655774fc10244290ba034254920b52c4",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-05T03:00:00Z",
+        "home_team": "Los Angeles Kings",
+        "away_team": "Dallas Stars",
+        "date": "20241204"
+    }
+]
