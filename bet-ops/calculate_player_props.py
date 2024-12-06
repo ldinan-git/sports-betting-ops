@@ -52,30 +52,42 @@ def main():
     run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'best_bets.py')} --sport {args.sport} --values_populated {args.values_populated} --bets_shown {args.bets_shown} --override_date {args.override_date}")
 
     # Step 5: Create or switch to the branch and push changes to GitHub
-    branch_name = f"{args.sport}_player_props_{args.override_date}"
-    if branch_exists(branch_name):
-        print(f"Branch '{branch_name}' already exists. Switching to the branch.")
-        run_command(f"git checkout {branch_name}")
-    else:
-        print(f"Creating new branch '{branch_name}' and pushing changes to GitHub...")
-        run_command(f"git checkout -b {branch_name}")
+    # branch_name = f"{args.sport}_player_props_{args.override_date}"
+    # if branch_exists(branch_name):
+    #     print(f"Branch '{branch_name}' already exists. Switching to the branch.")
+    #     run_command(f"git checkout {branch_name}")
+    # else:
+    #     print(f"Creating new branch '{branch_name}' and pushing changes to GitHub...")
+    #     run_command(f"git checkout -b {branch_name}")
 
-    # Always add, commit, and push changes
-    run_command("git add .")
-    run_command(f'git commit -m "Automated commit for branch {branch_name}"')
-    run_command(f"git push origin {branch_name}")
-
-    # Step 6: Merge the new branch back into main
-    print(f"Merging branch '{branch_name}' back into 'main'...")
-    run_command("git checkout main")
-    run_command(f"git merge {branch_name}")
-    run_command("git push origin main")
-
-    # Step 7: Update index.html
+    # Step 5: Update index.html
     if args.update_html.lower() == "true":
         print("Updating index.html...")
         run_command(f"python {os.path.join(USER_INTERFACE_SCRIPT_LOC, 'update_index.py')} --sport {args.sport} --new_date {args.override_date}")
-    
+
+    # Step 6: Create a backup branch, commit changes, and push to GitHub
+    backup_branch_name = f"{args.override_date}_{args.sport}_backup"
+    print(f"Creating backup branch '{backup_branch_name}' and pushing changes to GitHub...")
+    run_command(f"git checkout -b {backup_branch_name}")
+    run_command("git add .")
+    run_command(f'git commit -m "Backup commit for {args.sport} on {args.override_date}"')
+    run_command(f"git push origin {backup_branch_name}")
+
+    # Step 7: Commit changes to main
+    print("Committing changes to main...")
+    run_command("git checkout main")
+    run_command("git pull origin main")
+    run_command(f"git merge {backup_branch_name}")
+    run_command("git add .")
+    run_command(f'git commit -m "Automated commit for {args.sport} on {args.override_date}"')
+    run_command("git push origin main")
+
+    # Step 6: Merge the new branch back into main
+    # print(f"Merging branch '{branch_name}' back into 'main'...")
+    # run_command("git checkout main")
+    # run_command(f"git merge {branch_name}")
+    # run_command("git push origin main")
+
     print("Spinning up local web app...")
     # Step 8: Spin up the web app
     run_command(f"python {os.path.join(USER_INTERFACE_SCRIPT_LOC, 'app.py')} --sport {args.sport}")
