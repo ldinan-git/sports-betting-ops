@@ -65,22 +65,21 @@ def main():
         print("Updating index.html...")
         run_command(f"python {os.path.join(USER_INTERFACE_SCRIPT_LOC, 'update_index.py')} --sport {args.sport} --new_date {args.override_date}")
 
-    # Step 6: Create a backup branch, commit changes, and push to GitHub
-    backup_branch_name = f"{args.override_date}_{args.sport}_backup"
+    # Step 6: Commit to main
+    print("Committing changes to main...")
+    run_command("git checkout main")
+    run_command("git pull origin main")
+    run_command("git add .")
+    run_command(f'git commit -m "Automated commit for {args.sport} on {args.override_date}"')
+    run_command("git push origin main")
+
+    # Step 7: Create a backup branch, commit changes, and push to GitHub
+    backup_branch_name = "main_backup"
     print(f"Creating backup branch '{backup_branch_name}' and pushing changes to GitHub...")
     run_command(f"git checkout -b {backup_branch_name}")
     run_command("git add .")
     run_command(f'git commit -m "Backup commit for {args.sport} on {args.override_date}"')
     run_command(f"git push origin {backup_branch_name}")
-
-    # Step 7: Commit changes to main
-    print("Committing changes to main...")
-    run_command("git checkout main")
-    run_command("git pull origin main")
-    run_command(f"git merge {backup_branch_name}")
-    run_command("git add .")
-    run_command(f'git commit -m "Automated commit for {args.sport} on {args.override_date}"')
-    run_command("git push origin main")
 
     # Step 6: Merge the new branch back into main
     # print(f"Merging branch '{branch_name}' back into 'main'...")
