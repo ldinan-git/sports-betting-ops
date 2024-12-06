@@ -61,11 +61,12 @@ def get_best_player_props(df, sport, values_populated, bets_shown, date):
             row_idx = np.where(df[col].values == diff)
             if len(row_idx[0]) > 0:
                 row = df.iloc[row_idx[0]][['game', 'market', 'description', 'name', 'point'] + [c for c in df.columns if '_price' in c] + ['avg_dejuiced_prob', f'{col.split("_")[0]}_decimal_odds']].values.tolist()[0]
+                row.insert(0, diff) # insert the largest prob different value
                 row.insert(0, col.split('_')[0])  # insert the value book in the first column
                 rows.append(row)
 
     # Create the DataFrame with initial column order
-    df = pd.DataFrame(rows, columns=['value_book', 'game', 'market', 'name', 'description', 'point'] + [c for c in df.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
+    df = pd.DataFrame(rows, columns=['value_book', 'implied_prob_diff', 'game', 'market', 'name', 'description', 'point'] + [c for c in df.columns if '_price' in c] + ['avg_dejuiced_prob', 'book_decimal_odds'])
 
     # Add the `value_book_price` column
     df['value_book_price'] = df.apply(lambda row: row[f"{row['value_book']}_price"] if f"{row['value_book']}_price" in df.columns else None, axis=1)
