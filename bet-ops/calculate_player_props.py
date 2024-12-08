@@ -67,7 +67,7 @@ def main():
 
     # Step 6: Commit to main
     print("Committing changes to main...")
-    run_command("git checkout main")
+    run_command("git checkout main") 
     run_command("git pull origin main")
     run_command("git add .")
     run_command(f'git commit -m "Automated commit for {args.sport} on {args.override_date}"')
