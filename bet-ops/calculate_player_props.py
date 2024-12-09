@@ -65,6 +65,9 @@ def main():
         print("Updating index.html...")
         run_command(f"python {os.path.join(USER_INTERFACE_SCRIPT_LOC, 'update_index.py')} --sport {args.sport} --new_date {args.override_date}")
 
+    print("Changing directory to the parent directory...")
+    os.chdir('..')
+
     # Step 6: Commit to main
     print("Committing changes to main...")
     run_command("git checkout main")
@@ -72,9 +75,6 @@ def main():
     run_command("git add .")
     run_command(f'git commit -m "Automated commit for {args.sport} on {args.override_date}"')
     run_command("git push origin main")
-
-    print("Changing directory to the parent directory...")
-    os.chdir('..')
 
     # Step 7: Create a backup branch, commit changes, and push to GitHub
     # backup_branch_name = "main_backup"
