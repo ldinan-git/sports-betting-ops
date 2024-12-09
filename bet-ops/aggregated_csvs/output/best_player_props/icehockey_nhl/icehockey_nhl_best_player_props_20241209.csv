@@ -1,0 +1,96 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,550.0,0.16281811247486322,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Kirby Dach,Yes,,280.0,500.0,,280.0,450.0,425.0,550.0,410.0,425.0,0.178895094226902,6.5
+betmgm,270.0,0.03218624675083803,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Mika Zibanejad,Yes,,163.0,270.0,,162.0,240.0,240.0,260.0,220.0,225.0,0.2789692558786049,3.7
+draftkings,600.0,0.16356211309685764,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Josh Anderson,Yes,,410.0,390.0,,400.0,600.0,600.0,370.0,545.0,550.0,0.1662231590138368,7.0
+draftkings,550.0,0.1267657310585215,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Peyton Krebs,Yes,,295.0,500.0,,290.0,550.0,550.0,500.0,515.0,525.0,0.1733485740090033,6.5
+fanduel,260.0,0.004289321162977533,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Mika Zibanejad,Yes,,163.0,270.0,,162.0,240.0,240.0,260.0,220.0,225.0,0.2789692558786049,3.6
+betmgm,700.0,0.15665772241406728,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Adam Fox,Yes,,370.0,700.0,,360.0,600.0,600.0,650.0,530.0,550.0,0.1445822153017584,8.0
+ballybet,140.0,0.03377008007416271,Detroit Red Wings @ Buffalo Sabres,player_shots_on_goal,Lucas Raymond,Over,2.5,140.0,115.0,113.0,,115.0,110.0,118.0,110.0,115.0,0.4307375333642345,2.4
+fanduel,200.0,0.018385576360667955,Detroit Red Wings @ Buffalo Sabres,player_goals,Lucas Raymond,Over,0.5,,,,,,160.0,200.0,160.0,160.0,0.3394618587868893,3.0
+betmgm,230.0,-0.014416636219705348,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Alexis Lafrenière,Yes,,155.0,230.0,,155.0,215.0,190.0,220.0,190.0,190.0,0.2986616253879681,3.3
+betmgm,500.0,0.07337056536141218,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Kirby Dach,Yes,,280.0,500.0,,280.0,450.0,425.0,550.0,410.0,425.0,0.178895094226902,6.0
+fanduel,370.0,0.028637986672013005,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Juraj Slafkovsky,Yes,,230.0,360.0,,230.0,350.0,340.0,370.0,325.0,325.0,0.2188591461004283,4.7
+fanduel,550.0,0.08168642951251615,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Joel Armia,Yes,,340.0,500.0,,340.0,450.0,425.0,550.0,420.0,425.0,0.1664132968480794,6.5
+fanduel,850.0,0.21948250962288118,Detroit Red Wings @ Buffalo Sabres,player_goals,Moritz Seider,Over,0.5,,,,,,600.0,850.0,530.0,550.0,0.1283665799603033,9.5
+draftkings,700.0,0.12752319492427677,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Isac Lundestrom,Yes,,480.0,500.0,,475.0,700.0,650.0,480.0,565.0,575.0,0.1409403993655346,8.0
+betmgm,600.0,0.08884688090737236,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Marco Kasper,Yes,,360.0,600.0,,360.0,475.0,450.0,600.0,425.0,425.0,0.1555495544153389,7.0
+fanduel,600.0,0.08884688090737236,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Marco Kasper,Yes,,360.0,600.0,,360.0,475.0,450.0,600.0,425.0,425.0,0.1555495544153389,7.0
+fanduel,260.0,0.0209831393023161,Detroit Red Wings @ Buffalo Sabres,player_goals,Dylan Cozens,Over,0.5,,,,,,210.0,260.0,210.0,210.0,0.2836064275839767,3.6
+ballybet,-114.0,-0.0009857851647000482,Detroit Red Wings @ Buffalo Sabres,player_shots_on_goal,Alex Tuch,Over,2.5,-114.0,-140.0,-132.0,,-135.0,-140.0,-130.0,-145.0,-135.0,0.532185142482356,1.8771929824561404
+fanduel,230.0,0.00801365035167989,Anaheim Ducks @ Montréal Canadiens,player_goals,Frank Vatrano,Over,0.5,,,,,,190.0,230.0,185.0,190.0,0.3054586819247515,3.3
+ballybet,-275.0,-0.03097097770674262,Detroit Red Wings @ Buffalo Sabres,player_power_play_points,Dylan Larkin,Under,0.5,-275.0,-350.0,,,,-340.0,,-355.0,,0.7106212830150552,1.3636363636363638
+betmgm,210.0,-0.03686579033233617,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Vincent Trocheck,Yes,,163.0,210.0,,162.0,180.0,185.0,190.0,155.0,160.0,0.3106884547315044,3.1
+draftkings,225.0,-0.03234572230014021,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Nick Suzuki,Yes,,160.0,210.0,,160.0,225.0,210.0,220.0,210.0,210.0,0.297739777753803,3.25
+betmgm,360.0,0.006752072061970038,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Juraj Slafkovsky,Yes,,230.0,360.0,,230.0,350.0,340.0,370.0,325.0,325.0,0.2188591461004283,4.6
+draftkings,400.0,0.018052377320112,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Mason McTavish,Yes,,280.0,350.0,,280.0,400.0,360.0,350.0,340.0,350.0,0.2036104754640224,5.0
+betmgm,1100.0,0.2254564657310647,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,K'Andre Miller,Yes,,550.0,1100.0,,550.0,850.0,800.0,1000.0,775.0,850.0,0.1021213721442554,12.0
+betmgm,1000.0,0.19516181758744666,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Moritz Seider,Yes,,600.0,1000.0,,600.0,600.0,600.0,850.0,530.0,550.0,0.1086510743261315,11.0
+betmgm,500.0,0.046640316205533106,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Michael Rasmussen,Yes,,340.0,500.0,,340.0,400.0,400.0,450.0,390.0,400.0,0.1744400527009222,6.0
+draftkings,380.0,0.01078783916312509,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Brendan Gallagher,Yes,,280.0,320.0,,280.0,380.0,360.0,320.0,335.0,350.0,0.2105807998256511,4.8
+ballybet,110.0,0.0007067326574705657,Chicago Blackhawks @ New York Rangers,player_shots_on_goal,Alexis Lafrenière,Over,2.5,110.0,-110.0,-110.0,,-105.0,-106.0,100.0,-110.0,-110.0,0.4765270155511765,2.1
+fanduel,650.0,0.08436661476318807,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Adam Fox,Yes,,370.0,700.0,,360.0,600.0,600.0,650.0,530.0,550.0,0.1445822153017584,7.5
+draftkings,600.0,0.06982872200263501,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Christian Dvorak,Yes,,450.0,425.0,,450.0,600.0,600.0,450.0,545.0,575.0,0.152832674571805,7.0
+fanduel,210.0,-0.0035061442149371125,Detroit Red Wings @ Buffalo Sabres,player_goals,Alex DeBrincat,Over,0.5,,,,,,175.0,210.0,175.0,175.0,0.3214496308984074,3.1
+fanduel,500.0,0.040091444054019876,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Peyton Krebs,Yes,,295.0,500.0,,290.0,550.0,550.0,500.0,515.0,525.0,0.1733485740090033,6.0
+betmgm,500.0,0.040091444054019876,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Peyton Krebs,Yes,,295.0,500.0,,290.0,550.0,550.0,500.0,515.0,525.0,0.1733485740090033,6.0
+ballybet,-114.0,-0.006227011518280645,Chicago Blackhawks @ New York Rangers,player_shots_on_goal,Mika Zibanejad,Over,2.5,-114.0,-140.0,-130.0,,-130.0,-140.0,-122.0,-145.0,-135.0,0.5293930873220374,1.8771929824561404
+betmgm,210.0,-0.043819266837169635,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Patrik Laine,Yes,,155.0,210.0,,155.0,200.0,190.0,200.0,190.0,190.0,0.3084453977944614,3.1
+draftkings,500.0,0.03607202765271322,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Ryan McLeod,Yes,,370.0,400.0,,360.0,500.0,500.0,410.0,480.0,500.0,0.1726786712754522,6.0
+fanduel,230.0,-4.290007251006589e-05,Detroit Red Wings @ Buffalo Sabres,player_goals,Alex Tuch,Over,0.5,,,,,,190.0,230.0,190.0,195.0,0.3030173030083303,3.3
+draftkings,310.0,-0.017610891523935246,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Jason Zucker,Yes,,230.0,260.0,,230.0,310.0,290.0,300.0,270.0,275.0,0.2396070996283085,4.1
+fanduel,370.0,0.03845741910099665,Chicago Blackhawks @ New York Rangers,player_goals,Ryan Donato,Over,0.5,,,,,,300.0,370.0,290.0,300.0,0.2209483870427652,4.7
+ballybet,300.0,0.03184025929276202,Chicago Blackhawks @ New York Rangers,player_power_play_points,Connor Bedard,Over,0.5,300.0,250.0,,,,250.0,,235.0,250.0,0.2579600648231905,4.0
+draftkings,450.0,0.018121611076652,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Kaapo Kakko,Yes,,310.0,400.0,,300.0,450.0,400.0,430.0,390.0,400.0,0.1851130201957549,5.5
+draftkings,260.0,-0.03333477827387399,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Troy Terry,Yes,,195.0,240.0,,195.0,260.0,240.0,240.0,225.0,230.0,0.2685181171461461,3.6
+fanduel,220.0,-0.04428279875850205,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Alexis Lafrenière,Yes,,155.0,230.0,,155.0,215.0,190.0,220.0,190.0,190.0,0.2986616253879681,3.2
+draftkings,1000.0,0.16528780144340738,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Christian Fischer,Yes,,550.0,850.0,,550.0,1000.0,,850.0,,,0.1059352546766734,11.0
+fanduel,410.0,0.04474485140983253,Chicago Blackhawks @ New York Rangers,player_goals,Tyler Bertuzzi,Over,0.5,,,,,,340.0,410.0,315.0,325.0,0.2048519316489868,5.1
+draftkings,700.0,0.08289855072463759,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Brock McGinn,Yes,,525.0,500.0,,525.0,700.0,700.0,500.0,610.0,650.0,0.1353623188405797,8.0
+draftkings,360.0,-0.008163950003638898,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Filip Chytil,Yes,,265.0,320.0,,260.0,360.0,340.0,330.0,320.0,325.0,0.2156165326079046,4.6
+ballybet,135.0,0.00520738550018629,Detroit Red Wings @ Buffalo Sabres,player_shots_on_goal,Jason Zucker,Over,2.5,135.0,110.0,124.0,,120.0,110.0,134.0,105.0,110.0,0.4277478236171005,2.35
+fanduel,130.0,-0.03156080681639628,Detroit Red Wings @ Buffalo Sabres,player_goals,Tage Thompson,Over,0.5,,,,,,115.0,130.0,110.0,110.0,0.4210605187754799,2.3
+ballybet,-360.0,-0.036705412591023445,Detroit Red Wings @ Buffalo Sabres,player_power_play_points,Alex DeBrincat,Under,0.5,-360.0,-450.0,,,,-450.0,,-470.0,,0.7538827205809382,1.2777777777777777
+fanduel,220.0,-0.047232711187830345,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Nick Suzuki,Yes,,160.0,210.0,,160.0,225.0,210.0,220.0,210.0,210.0,0.297739777753803,3.2
+betmgm,155.0,-0.06430158820608423,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Cole Caufield,Yes,,118.0,155.0,,118.0,145.0,135.0,155.0,135.0,140.0,0.3669405536446729,2.55
+fanduel,155.0,-0.06430158820608423,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Cole Caufield,Yes,,118.0,155.0,,118.0,145.0,135.0,155.0,135.0,140.0,0.3669405536446729,2.55
+fanduel,340.0,0.022889001048944646,Anaheim Ducks @ Montréal Canadiens,player_goals,Alex Killorn,Over,0.5,,,,,,290.0,340.0,270.0,275.0,0.2324747729656692,4.4
+betmgm,1200.0,0.20320366132723,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Jackson LaCombe,Yes,,650.0,1200.0,,650.0,850.0,800.0,1100.0,800.0,900.0,0.0925541277944023,13.0
+ballybet,-143.0,-0.014889197650348018,Anaheim Ducks @ Montréal Canadiens,player_shots_on_goal,Juraj Slafkovsky,Over,1.5,-143.0,-165.0,-164.0,,-162.0,-165.0,-168.0,-180.0,-165.0,0.579715410436215,1.6993006993006992
+draftkings,350.0,-0.015133842548072596,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Juraj Slafkovsky,Yes,,230.0,360.0,,230.0,350.0,340.0,370.0,325.0,325.0,0.2188591461004283,4.5
+fanduel,-130.0,-0.01441406839507764,Anaheim Ducks @ Montréal Canadiens,player_shots_on_goal,Frank Vatrano,Under,3.5,-157.0,-155.0,-139.0,,-142.0,-150.0,-130.0,-160.0,-155.0,0.5570703091679996,1.7692307692307692
+draftkings,850.0,0.10908584169453728,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Sam Carrick,Yes,,550.0,650.0,,550.0,850.0,750.0,700.0,680.0,750.0,0.1167458780731092,9.5
+fanduel,650.0,0.05781175346392686,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Jonatan Berggren,Yes,,425.0,600.0,,425.0,550.0,500.0,650.0,460.0,475.0,0.1410415671285236,7.5
+fanduel,134.0,0.0009299072640153172,Detroit Red Wings @ Buffalo Sabres,player_shots_on_goal,Jason Zucker,Over,2.5,135.0,110.0,124.0,,120.0,110.0,134.0,105.0,110.0,0.4277478236171005,2.34
+ballybet,-130.0,-0.013630180558924843,Detroit Red Wings @ Buffalo Sabres,player_shots_on_goal,Dylan Larkin,Over,2.5,-130.0,-150.0,-149.0,,-148.0,-150.0,-152.0,-155.0,-150.0,0.5575133762058251,1.7692307692307692
+betmgm,210.0,-0.054604011125750196,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Lucas Raymond,Yes,,175.0,210.0,,175.0,170.0,160.0,200.0,160.0,160.0,0.3049664480239515,3.1
+draftkings,425.0,-0.0020703933747413528,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Zach Benson,Yes,,320.0,350.0,,320.0,425.0,380.0,390.0,360.0,375.0,0.1900818298333826,5.25
+betmgm,145.0,-0.07090364394115267,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Tage Thompson,Yes,,128.0,145.0,,125.0,120.0,115.0,130.0,110.0,110.0,0.3792230024729989,2.45
+draftkings,370.0,-0.016632964090928515,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Will Cuylle,Yes,,285.0,300.0,,280.0,370.0,340.0,360.0,315.0,325.0,0.2092270289168237,4.7
+fanduel,410.0,0.03434825446399792,Detroit Red Wings @ Buffalo Sabres,player_goals,Vladimir Tarasenko,Over,0.5,,,,,,340.0,410.0,335.0,325.0,0.2028133832282349,5.1
+betmgm,425.0,-0.004466931214344272,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Ryan Donato,Yes,,340.0,425.0,,340.0,330.0,300.0,370.0,290.0,300.0,0.189625346435363,5.25
+betmgm,270.0,-0.04200442151805461,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Connor Bedard,Yes,,195.0,270.0,,195.0,270.0,250.0,270.0,235.0,240.0,0.2589177239140393,3.7
+draftkings,270.0,-0.04200442151805461,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Connor Bedard,Yes,,195.0,270.0,,195.0,270.0,250.0,270.0,235.0,240.0,0.2589177239140393,3.7
+fanduel,270.0,-0.04200442151805461,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Connor Bedard,Yes,,195.0,270.0,,195.0,270.0,250.0,270.0,235.0,240.0,0.2589177239140393,3.7
+ballybet,150.0,0.0009710280051189457,Chicago Blackhawks @ New York Rangers,player_shots_on_goal,Ryan Donato,Over,2.5,150.0,130.0,130.0,,130.0,130.0,134.0,125.0,135.0,0.4003884112020476,2.5
+draftkings,240.0,-0.051504530012743466,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Mika Zibanejad,Yes,,163.0,270.0,,162.0,240.0,240.0,260.0,220.0,225.0,0.2789692558786049,3.4
+fanduel,700.0,0.05507246376811592,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Andrew Copp,Yes,,460.0,650.0,,460.0,600.0,600.0,700.0,540.0,550.0,0.1318840579710145,8.0
+ballybet,150.0,0.0018685182527173883,Anaheim Ducks @ Montréal Canadiens,player_shots_on_goal,Brendan Gallagher,Under,1.5,150.0,130.0,136.0,,135.0,130.0,130.0,125.0,130.0,0.400747407301087,2.5
+ballybet,-143.0,-0.019656016084284134,Chicago Blackhawks @ New York Rangers,player_shots_on_goal,Tyler Bertuzzi,Over,1.5,-143.0,-160.0,-172.0,,-168.0,-165.0,-156.0,-170.0,-160.0,0.5769102456787958,1.6993006993006992
+fanduel,1000.0,0.12333509358680939,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,K'Andre Miller,Yes,,550.0,1100.0,,550.0,850.0,800.0,1000.0,775.0,850.0,0.1021213721442554,11.0
+fanduel,1400.0,0.19286510590858397,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Ryan Johnson,Yes,,800.0,,,800.0,1200.0,,1400.0,,,0.0795243403939056,15.0
+fanduel,400.0,0.023447779324772045,Chicago Blackhawks @ New York Rangers,player_goals,Taylor Hall,Over,0.5,,,,,,340.0,400.0,325.0,325.0,0.2046895558649544,5.0
+betmgm,170.0,-0.06932421882055906,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Dylan Larkin,Yes,,138.0,170.0,,137.0,155.0,150.0,165.0,145.0,145.0,0.3446947337701633,2.7
+draftkings,215.0,-0.05921588002790057,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Alexis Lafrenière,Yes,,155.0,230.0,,155.0,215.0,190.0,220.0,190.0,190.0,0.2986616253879681,3.15
+draftkings,650.0,0.038363171355498604,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Jake Evans,Yes,,410.0,650.0,,400.0,650.0,600.0,650.0,565.0,575.0,0.1384484228473998,7.5
+fanduel,650.0,0.038363171355498604,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Jake Evans,Yes,,410.0,650.0,,400.0,650.0,600.0,650.0,565.0,575.0,0.1384484228473998,7.5
+betmgm,650.0,0.038363171355498604,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Jake Evans,Yes,,410.0,650.0,,400.0,650.0,600.0,650.0,565.0,575.0,0.1384484228473998,7.5
+fanduel,220.0,-0.017198836542763885,Chicago Blackhawks @ New York Rangers,player_goals,Alexis Lafrenière,Over,0.5,,,,,,190.0,220.0,190.0,190.0,0.3071253635803863,3.2
+fanduel,300.0,-0.041571601486765974,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Jason Zucker,Yes,,230.0,260.0,,230.0,310.0,290.0,300.0,270.0,275.0,0.2396070996283085,4.0
+betmgm,600.0,0.022073578595317667,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Jimmy Vesey,Yes,,400.0,600.0,,400.0,550.0,650.0,600.0,605.0,650.0,0.1460105112279025,7.0
+fanduel,600.0,0.022073578595317667,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Jimmy Vesey,Yes,,400.0,600.0,,400.0,550.0,650.0,600.0,605.0,650.0,0.1460105112279025,7.0
+fanduel,190.0,-0.028923439418188313,Chicago Blackhawks @ New York Rangers,player_goals,Vincent Trocheck,Over,0.5,,,,,,185.0,190.0,155.0,160.0,0.3348539864075213,2.9
+betmgm,650.0,0.03158677071720506,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Lukas Reichel,Yes,,440.0,650.0,,440.0,550.0,550.0,650.0,485.0,500.0,0.137544902762294,7.5
+fanduel,650.0,0.03158677071720506,Chicago Blackhawks @ New York Rangers,player_goal_scorer_anytime,Lukas Reichel,Yes,,440.0,650.0,,440.0,550.0,550.0,650.0,485.0,500.0,0.137544902762294,7.5
+betmgm,500.0,-0.001520218911523541,Anaheim Ducks @ Montréal Canadiens,player_goal_scorer_anytime,Joel Armia,Yes,,340.0,500.0,,340.0,450.0,425.0,550.0,420.0,425.0,0.1664132968480794,6.0
+fanduel,230.0,-0.06055578006513418,Detroit Red Wings @ Buffalo Sabres,player_goal_scorer_anytime,Alex Tuch,Yes,,195.0,210.0,,195.0,200.0,190.0,230.0,190.0,195.0,0.284680066646929,3.3
+fanduel,155.0,-0.03712584225977733,Anaheim Ducks @ Montréal Canadiens,player_goals,Cole Caufield,Over,0.5,,,,,,135.0,155.0,135.0,140.0,0.3775977089177344,2.55

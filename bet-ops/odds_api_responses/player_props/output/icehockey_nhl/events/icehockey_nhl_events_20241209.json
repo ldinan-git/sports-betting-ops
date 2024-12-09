@@ -1,0 +1,29 @@
+[
+    {
+        "id": "794d0d208dfb1933357ad4f8076b51df",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-10T00:00:00Z",
+        "home_team": "Buffalo Sabres",
+        "away_team": "Detroit Red Wings",
+        "date": "20241209"
+    },
+    {
+        "id": "39fa9e9dc1d44310e3178812cfbd62cb",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-10T00:00:00Z",
+        "home_team": "New York Rangers",
+        "away_team": "Chicago Blackhawks",
+        "date": "20241209"
+    },
+    {
+        "id": "a065d13f9c5f8d1df6eb693996c40b16",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-10T00:30:00Z",
+        "home_team": "Montr\u00e9al Canadiens",
+        "away_team": "Anaheim Ducks",
+        "date": "20241209"
+    }
+]
