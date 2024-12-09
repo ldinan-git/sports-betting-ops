@@ -74,12 +74,12 @@ def main():
     run_command("git push origin main")
 
     # Step 7: Create a backup branch, commit changes, and push to GitHub
-    backup_branch_name = "main_backup"
-    print(f"Creating backup branch '{backup_branch_name}' and pushing changes to GitHub...")
-    run_command(f"git checkout -b {backup_branch_name}")
-    run_command("git add .")
-    run_command(f'git commit -m "Backup commit for {args.sport} on {args.override_date}"')
-    run_command(f"git push origin {backup_branch_name}")
+    # backup_branch_name = "main_backup"
+    # print(f"Creating backup branch '{backup_branch_name}' and pushing changes to GitHub...")
+    # run_command(f"git checkout -b {backup_branch_name}")
+    # run_command("git add .")
+    # run_command(f'git commit -m "Backup commit for {args.sport} on {args.override_date}"')
+    # run_command(f"git push origin {backup_branch_name}")
 
     # Step 6: Merge the new branch back into main
     # print(f"Merging branch '{branch_name}' back into 'main'...")
