@@ -1,0 +1,20 @@
+[
+    {
+        "id": "25b6a33ece97a21cc219a2053a6f8b66",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-12T00:00:00Z",
+        "home_team": "Buffalo Sabres",
+        "away_team": "New York Rangers",
+        "date": "20241211"
+    },
+    {
+        "id": "3d4265622c5d973b25d502db02b2a04d",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-12T00:30:00Z",
+        "home_team": "Ottawa Senators",
+        "away_team": "Anaheim Ducks",
+        "date": "20241211"
+    }
+]
