@@ -63,7 +63,7 @@ def main():
     # Step 5: Update index.html
     if args.update_html.lower() == "true":
         print("Updating index.html...")
-        run_command(f"python {os.path.join(USER_INTERFACE_SCRIPT_LOC, 'update_index.py')} --sport {args.sport} --new_date {args.override_date}")
+        run_command(f"python update_html.py --sport {args.sport} --new_date {args.override_date}")
 
     print("Changing directory to the parent directory...")
     os.chdir('..')
