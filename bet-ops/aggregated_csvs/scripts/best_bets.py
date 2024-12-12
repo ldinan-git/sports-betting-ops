@@ -104,5 +104,5 @@ if __name__ == "__main__":
 
     file_dir = os.path.join(ROOT_DIR, directories["aggregated_csvs_output"], args.sport)
     agg_df = pd.read_csv(f'{file_dir}//{args.sport}_player_props_{date}.csv')
-    
+    agg_df = agg_df.loc[:, ~agg_df.columns.str.contains('williamhill')] 
     get_best_player_props(agg_df, args.sport, args.values_populated, args.bets_shown, date)

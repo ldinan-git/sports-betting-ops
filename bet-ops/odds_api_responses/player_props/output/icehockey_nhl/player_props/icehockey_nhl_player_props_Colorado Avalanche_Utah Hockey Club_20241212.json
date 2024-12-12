@@ -1,0 +1,4310 @@
+{
+    "id": "9e53eb6c7ee9b61be628459b15c7698c",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-12-13T02:00:00Z",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Utah Hockey Club",
+    "bookmakers": [
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-12-12T13:41:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Mikko Rantanen",
+                            "price": 115
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nathan MacKinnon",
+                            "price": 120
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Valeri Nichushkin",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Artturi Lehkonen",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Clayton Keller",
+                            "price": 230
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dylan Guenther",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ross Colton",
+                            "price": 270
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cale Makar",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Schmaltz",
+                            "price": 330
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Casey Mittelstadt",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ivan Prosvetov",
+                            "price": 370
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan Cooley",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Bjugstad",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Barrett Hayton",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lawson Crouse",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matias Maccelli",
+                            "price": 490
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Alex Kerfoot",
+                            "price": 490
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jack McBain",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Carcone",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikhail Sergachev",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Kelly",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan O'Connor",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joel Kiviranta",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Stenlund",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Wagner",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devon Toews",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Kesselring",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Samuel Girard",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Malinski",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Olli Maatta",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ian Cole",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Ludvig",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Juuso Valimaki",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin de Haan",
+                            "price": 1600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-12-12T13:41:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 180,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -280,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 430,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Barrett Hayton",
+                            "price": -650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -340,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 330,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -480,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 230,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -320,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 270,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": -390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 320,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -460,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:41:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 146,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -192,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -122,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -106,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -156,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 122,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -160,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -188,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 142,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -168,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 128,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 108,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 134,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -176,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -102,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -128,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 108,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 118,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -154,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -165,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 126,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-12-12T13:40:53Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Nathan MacKinnon",
+                            "price": 108
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikko Rantanen",
+                            "price": 130
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Valeri Nichushkin",
+                            "price": 165
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Artturi Lehkonen",
+                            "price": 175
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Clayton Keller",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ross Colton",
+                            "price": 235
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dylan Guenther",
+                            "price": 265
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cale Makar",
+                            "price": 295
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Schmaltz",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan Cooley",
+                            "price": 305
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Casey Mittelstadt",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Barrett Hayton",
+                            "price": 490
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lawson Crouse",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Bjugstad",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jack McBain",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan O'Connor",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Carcone",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikhail Sergachev",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matias Maccelli",
+                            "price": 625
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Alex Kerfoot",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ivan Prosvetov",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Kelly",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joel Kiviranta",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devon Toews",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Stenlund",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Samuel Girard",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Givani Smith",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Wagner",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Kesselring",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Malinski",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Olli Maatta",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Juuso Valimaki",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin de Haan",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Ludvig",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ian Cole",
+                            "price": 1700
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-12-12T13:40:53Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -103,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 135,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 270,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 280,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 440,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 480,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 525,
+                            "point": 0.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:41:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 130,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -169,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 124,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -161,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -118,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -141,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 109,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 149,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -196,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -141,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 108,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 126,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -164,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -103,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 134,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 152,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -147,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 113,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 137,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -179,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-12-12T13:40:33Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -320,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 215,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": -350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 255,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -430,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 260,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 270,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 335,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Casey Mittelstadt",
+                            "price": -625,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 415,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Barrett Hayton",
+                            "price": -870,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Lawson Crouse",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Lawson Crouse",
+                            "price": -905,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Bjugstad",
+                            "price": 430,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Bjugstad",
+                            "price": -925,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jack McBain",
+                            "price": 455,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jack McBain",
+                            "price": -1015,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 480,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": -1130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan O'Connor",
+                            "price": 480,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan O'Connor",
+                            "price": -1130,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Carcone",
+                            "price": 490,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Michael Carcone",
+                            "price": -1155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matias Maccelli",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Matias Maccelli",
+                            "price": -1235,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joel Kiviranta",
+                            "price": 555,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Joel Kiviranta",
+                            "price": -1505,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Kelly",
+                            "price": 560,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Parker Kelly",
+                            "price": -1545,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ivan Prosvetov",
+                            "price": 575,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ivan Prosvetov",
+                            "price": -1650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Alex Kerfoot",
+                            "price": 585,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Alex Kerfoot",
+                            "price": -1700,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": 625,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": -1990,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Stenlund",
+                            "price": 625,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Stenlund",
+                            "price": -1970,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Samuel Girard",
+                            "price": 720,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Samuel Girard",
+                            "price": -3125,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Givani Smith",
+                            "price": 765,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Givani Smith",
+                            "price": -3935,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Wagner",
+                            "price": 785,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Wagner",
+                            "price": -4210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Kesselring",
+                            "price": 820,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Michael Kesselring",
+                            "price": -5335,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Sam Malinski",
+                            "price": 865,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Sam Malinski",
+                            "price": -7650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Olli Maatta",
+                            "price": 985,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Olli Maatta",
+                            "price": -49900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin de Haan",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin de Haan",
+                            "price": -124900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ian Cole",
+                            "price": 1035,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ian Cole",
+                            "price": -999900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Juuso Valimaki",
+                            "price": 1035,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Juuso Valimaki",
+                            "price": -999900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Ludvig",
+                            "price": 1075,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "John Ludvig",
+                            "price": -999900,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-12-12T13:40:33Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -215,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 245,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -410,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -465,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 280,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -485,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -665,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": -780,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -780,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -915,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 470,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Casey Mittelstadt",
+                            "price": -1065,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": -1205,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:40:33Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -170,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -175,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -205,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -210,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -195,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 125,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -145,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 100,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-12-12T13:41:21Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Mikko Rantanen",
+                            "price": 115
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nathan MacKinnon",
+                            "price": 115
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Valeri Nichushkin",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Artturi Lehkonen",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Clayton Keller",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dylan Guenther",
+                            "price": 240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ross Colton",
+                            "price": 260
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Schmaltz",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cale Makar",
+                            "price": 333
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Casey Mittelstadt",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ivan Prosvetov",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan Cooley",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Barrett Hayton",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Bjugstad",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lawson Crouse",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matias Maccelli",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Alex Kerfoot",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jack McBain",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan O'Connor",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Carcone",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joel Kiviranta",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Stenlund",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikhail Sergachev",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Kelly",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Wagner",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devon Toews",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Samuel Girard",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Kesselring",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Malinski",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ian Cole",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Olli Maatta",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin de Haan",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Ludvig",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Juuso Valimaki",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vladislav Kolyachonok",
+                            "price": 1900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-12-12T13:41:21Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 375,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 260,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -375,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -700,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": -1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Casey Mittelstadt",
+                            "price": -900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 290,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": -700,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:41:21Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 145,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -190,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 135,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-12-12T13:40:52Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Liam O'Brien",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Ludvig",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Oliver Kylington",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikko Rantanen",
+                            "price": 110
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikhail Sergachev",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Artturi Lehkonen",
+                            "price": 190
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devon Toews",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nathan MacKinnon",
+                            "price": -104
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Kesselring",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joel Kiviranta",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Valeri Nichushkin",
+                            "price": 160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Bjugstad",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jack McBain",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vladislav Kolyachonok",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Clayton Keller",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Bortuzzo",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Wagner",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ivan Prosvetov",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matias Maccelli",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Doan",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin de Haan",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan O'Connor",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Malinski",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Manson",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Barrett Hayton",
+                            "price": 370
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Olli Maatta",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Carcone",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan Cooley",
+                            "price": 285
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ross Colton",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Schmaltz",
+                            "price": 270
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dylan Guenther",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Givani Smith",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Kelly",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Juuso Valimaki",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Samuel Girard",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kailer Yamamoto",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Alex Kerfoot",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cale Makar",
+                            "price": 260
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Stenlund",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Casey Mittelstadt",
+                            "price": 245
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ian Cole",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lawson Crouse",
+                            "price": 370
+                        }
+                    ]
+                },
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-12-12T13:40:52Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 525,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 1000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 11000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Carcone",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Bjugstad",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Liam O'Brien",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Kesselring",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Wagner",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Manson",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Carcone",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kailer Yamamoto",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Vladislav Kolyachonok",
+                            "price": 14000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Givani Smith",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 6600,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 2200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 3000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jack McBain",
+                            "price": 2500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Alex Kerfoot",
+                            "price": 4500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Givani Smith",
+                            "price": 4000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Alex Kerfoot",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Juuso Valimaki",
+                            "price": 8000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Kelly",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 2000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joel Kiviranta",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Olli Maatta",
+                            "price": 18000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan O'Connor",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jack McBain",
+                            "price": 13000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 11000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Wagner",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ivan Prosvetov",
+                            "price": 4000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan O'Connor",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ivan Prosvetov",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joel Kiviranta",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Doan",
+                            "price": 4000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 7500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Doan",
+                            "price": 18000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matias Maccelli",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 1400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Lawson Crouse",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 6000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 1300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Kelly",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matias Maccelli",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Ludvig",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Bortuzzo",
+                            "price": 14000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Stenlund",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kailer Yamamoto",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Samuel Girard",
+                            "price": 30000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Sam Malinski",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin de Haan",
+                            "price": 15000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 10000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 8000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 2500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Stenlund",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Samuel Girard",
+                            "price": 7500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Lawson Crouse",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Sam Malinski",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Liam O'Brien",
+                            "price": 27500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Bjugstad",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ian Cole",
+                            "price": 18000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Oliver Kylington",
+                            "price": 9000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 5500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 2000,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:40:52Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -157,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 150,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -200,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 140,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -186,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -117,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -112,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -143,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": -175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 115,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -150,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 115,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-12-12T13:40:43Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 290,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -475,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 155,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -225,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 250,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -390,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 230,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": -350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Olli Maatta",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Olli Maatta",
+                            "price": -4000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Sam Malinski",
+                            "price": 950,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Sam Malinski",
+                            "price": -3500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Kelly",
+                            "price": 600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Parker Kelly",
+                            "price": -1400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Wagner",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Wagner",
+                            "price": -2800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Alex Kerfoot",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Alex Kerfoot",
+                            "price": -1600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Kesselring",
+                            "price": 950,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Michael Kesselring",
+                            "price": -3500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": 700,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": -2000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jack McBain",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jack McBain",
+                            "price": -1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ivan Prosvetov",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ivan Prosvetov",
+                            "price": -1600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin de Haan",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin de Haan",
+                            "price": -4000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Carcone",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Michael Carcone",
+                            "price": -1200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Bjugstad",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Bjugstad",
+                            "price": -900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Lawson Crouse",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Lawson Crouse",
+                            "price": -900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Givani Smith",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Givani Smith",
+                            "price": -2800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 360,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Casey Mittelstadt",
+                            "price": -650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan O'Connor",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan O'Connor",
+                            "price": -1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Stenlund",
+                            "price": 700,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kevin Stenlund",
+                            "price": -2000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Juuso Valimaki",
+                            "price": 1100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Juuso Valimaki",
+                            "price": -5000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matias Maccelli",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Matias Maccelli",
+                            "price": -1200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Samuel Girard",
+                            "price": 750,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Samuel Girard",
+                            "price": -2500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ian Cole",
+                            "price": 1100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ian Cole",
+                            "price": -5000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Barrett Hayton",
+                            "price": -800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Ludvig",
+                            "price": 1100,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "John Ludvig",
+                            "price": -5000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": -1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joel Kiviranta",
+                            "price": 600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Joel Kiviranta",
+                            "price": -1400,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-12-12T13:40:43Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": -150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Casey Mittelstadt",
+                            "price": -800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 375,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -700,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": -800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": -700,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:40:43Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -165,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 115,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -175,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -118,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -118,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -210,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 148,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 103,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 103,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -180,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 103,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_goals",
+                    "last_update": "2024-12-12T13:40:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 105,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 115,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 240,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 260,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 260,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 275,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Barrett Hayton",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jack McBain",
+                            "price": 475,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Lawson Crouse",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Bjugstad",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ivan Prosvetov",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Carcone",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan O'Connor",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Parker Kelly",
+                            "price": 575,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Matias Maccelli",
+                            "price": 525,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Alex Kerfoot",
+                            "price": 600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kevin Stenlund",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joel Kiviranta",
+                            "price": 575,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Givani Smith",
+                            "price": 850,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Michael Kesselring",
+                            "price": 900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Samuel Girard",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Wagner",
+                            "price": 850,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Sam Malinski",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Olli Maatta",
+                            "price": 1200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin de Haan",
+                            "price": 1200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Juuso Valimaki",
+                            "price": 1300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ian Cole",
+                            "price": 1300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Ludvig",
+                            "price": 1400,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_power_play_points",
+                    "last_update": "2024-12-12T13:40:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": 110,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": 260,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": 300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 375,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": 425,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": 475,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Casey Mittelstadt",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": 550,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_shots_on_goal",
+                    "last_update": "2024-12-12T13:40:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Valeri Nichushkin",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Valeri Nichushkin",
+                            "price": -115,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Devon Toews",
+                            "price": -140,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Devon Toews",
+                            "price": 105,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dylan Guenther",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Dylan Guenther",
+                            "price": -140,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Clayton Keller",
+                            "price": -105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Clayton Keller",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nathan MacKinnon",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nathan MacKinnon",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Artturi Lehkonen",
+                            "price": 105,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Artturi Lehkonen",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Logan Cooley",
+                            "price": -175,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Logan Cooley",
+                            "price": 130,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cale Makar",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cale Makar",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikko Rantanen",
+                            "price": 125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikko Rantanen",
+                            "price": -170,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mikhail Sergachev",
+                            "price": -185,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Mikhail Sergachev",
+                            "price": 135,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Schmaltz",
+                            "price": 145,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Schmaltz",
+                            "price": -195,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ross Colton",
+                            "price": -200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ross Colton",
+                            "price": 150,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_goal_scorer_anytime",
+                    "last_update": "2024-12-12T13:40:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Nathan MacKinnon",
+                            "price": -106
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikko Rantanen",
+                            "price": 110
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Valeri Nichushkin",
+                            "price": 160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Artturi Lehkonen",
+                            "price": 190
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ross Colton",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Casey Mittelstadt",
+                            "price": 245
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cale Makar",
+                            "price": 260
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joel Kiviranta",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan O'Connor",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ivan Prosvetov",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Givani Smith",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Parker Kelly",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devon Toews",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Wagner",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Sam Malinski",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Samuel Girard",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Oliver Kylington",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Ludvig",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Manson",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin de Haan",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Clayton Keller",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dylan Guenther",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Schmaltz",
+                            "price": 270
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Logan Cooley",
+                            "price": 280
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Barrett Hayton",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jack McBain",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lawson Crouse",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Bjugstad",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Carcone",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Doan",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Matias Maccelli",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Alex Kerfoot",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mikhail Sergachev",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kailer Yamamoto",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Liam O'Brien",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Stenlund",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Juuso Valimaki",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Kesselring",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Bortuzzo",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Vladislav Kolyachonok",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ian Cole",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Olli Maatta",
+                            "price": 1800
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
