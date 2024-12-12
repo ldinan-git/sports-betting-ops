@@ -1,0 +1,88 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+ballybet,310.0,0.09644965473546885,Detroit Pistons @ Boston Celtics,player_double_double,Jalen Duren,Yes,,310.0,230.0,,220.0,,220.0,220.0,225.0,220.0,0.2674267450574314,4.1
+draftkings,-142.0,0.010138982998937784,Detroit Pistons @ Boston Celtics,player_blocks,Jayson Tatum,Under,0.5,-182.0,-185.0,,,-142.0,,,-195.0,-180.0,0.5927261801068148,1.704225352112676
+bovada,105.0,0.03495856516543605,Toronto Raptors @ Miami Heat,player_points_rebounds,Ochai Agbaji,Under,14.5,-118.0,-125.0,,105.0,,-125.0,-106.0,-130.0,-130.0,0.5048578366660664,2.05
+draftkings,-105.0,0.03396366941671625,Sacramento Kings @ New Orleans Pelicans,player_assists,Dejounte Murray,Under,7.5,-143.0,-130.0,-132.0,-150.0,-105.0,-125.0,-140.0,-135.0,-135.0,0.5295911477500254,1.9523809523809523
+bovada,130.0,0.027420119143227728,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Tobias Harris,Under,19.5,,105.0,,130.0,,,,-115.0,110.0,0.4467043996274903,2.3
+fanduel,-106.0,0.011829391136603862,Toronto Raptors @ Miami Heat,player_rebounds_assists,R.J. Barrett,Under,12.5,-127.0,-140.0,,,,-125.0,-106.0,-145.0,-125.0,0.5206500750508738,1.9433962264150944
+draftkings,135.0,0.02113987868692857,Detroit Pistons @ Boston Celtics,player_blocks,Jalen Duren,Under,0.5,118.0,110.0,,,135.0,,,100.0,110.0,0.4345276079518845,2.35
+draftkings,-154.0,-0.008557515530065563,Toronto Raptors @ Miami Heat,player_blocks_steals,Bam Adebayo,Under,2.5,,-190.0,,,-154.0,-190.0,,-200.0,-190.0,0.6011107976707477,1.6493506493506491
+bovada,105.0,0.013507287052983652,Detroit Pistons @ Boston Celtics,player_points_rebounds,Cade Cunningham,Under,29.5,-109.0,-120.0,,105.0,,,-104.0,-130.0,-125.0,0.494393798562431,2.05
+ballybet,700.0,0.20494064180599614,Sacramento Kings @ New Orleans Pelicans,player_double_double,Keegan Murray,Yes,,700.0,475.0,,500.0,,400.0,500.0,470.0,450.0,0.1506175802257495,8.0
+draftkings,-168.0,-0.012303128324569701,Toronto Raptors @ Miami Heat,player_blocks,Jimmy Butler,Under,0.5,,-210.0,,,-168.0,-215.0,,-215.0,-200.0,0.6191532628413146,1.5952380952380951
+bovada,-150.0,-0.04659589735019354,Toronto Raptors @ Miami Heat,player_double_double,Jakob Poeltl,Yes,,-200.0,-185.0,,-150.0,,-180.0,-150.0,-195.0,-195.0,0.572042461589884,1.6666666666666663
+fanduel,-150.0,-0.04659589735019354,Toronto Raptors @ Miami Heat,player_double_double,Jakob Poeltl,Yes,,-200.0,-185.0,,-150.0,,-180.0,-150.0,-195.0,-195.0,0.572042461589884,1.6666666666666663
+ballybet,110.0,0.011501547504891407,Sacramento Kings @ New Orleans Pelicans,player_rebounds_assists,Trey Murphy III,Over,8.5,110.0,-110.0,,,,-110.0,104.0,-120.0,-110.0,0.4816674035737578,2.1
+ballybet,123.0,0.022359408390422275,Detroit Pistons @ Boston Celtics,player_assists,Jaylen Brown,Over,4.5,123.0,105.0,104.0,105.0,100.0,100.0,104.0,-105.0,100.0,0.4584571338073642,2.23
+espnbet,700.0,0.1512119023940337,Toronto Raptors @ Miami Heat,player_first_basket,Jimmy Butler,Yes,,450.0,,,,,700.0,430.0,,550.0,0.1439014877992542,8.0
+ballybet,340.0,0.04795478793600605,Toronto Raptors @ Miami Heat,player_double_double,R.J. Barrett,Yes,,340.0,300.0,,200.0,,275.0,220.0,295.0,275.0,0.2381715427127286,4.4
+ballybet,175.0,-0.01043758030545594,Sacramento Kings @ New Orleans Pelicans,player_double_double,Yves Missi,Yes,,175.0,140.0,,150.0,,140.0,160.0,135.0,,0.3598408798889251,2.75
+draftkings,-182.0,-0.021029900455342143,Detroit Pistons @ Boston Celtics,player_steals,Jaylen Brown,Under,1.5,-225.0,-225.0,,,-182.0,,,-230.0,-220.0,0.6318175819756302,1.5494505494505495
+draftkings,145.0,0.01218604689200764,Detroit Pistons @ Boston Celtics,player_steals,Derrick White,Over,1.5,130.0,120.0,,,145.0,,,110.0,120.0,0.4131371619967378,2.45
+fanduel,-102.0,0.0014026714878796476,Detroit Pistons @ Boston Celtics,player_rebounds_assists,Jayson Tatum,Under,13.5,-120.0,-120.0,,,,,-102.0,-130.0,-120.0,0.5056587747117017,1.9803921568627447
+draftkings,100.0,0.006816155974371574,Toronto Raptors @ Miami Heat,player_threes,Terry Rozier,Over,1.5,,-120.0,-112.0,-120.0,100.0,-120.0,-115.0,-125.0,-125.0,0.5034080779871858,2.0
+fanduel,-118.0,-0.002580655887923111,Sacramento Kings @ New Orleans Pelicans,player_rebounds_assists,C.J. McCollum,Over,8.5,-122.0,-150.0,,,,-140.0,-118.0,-155.0,-145.0,0.5398875348863535,1.847457627118644
+bovada,135.0,0.01991111298608883,Detroit Pistons @ Boston Celtics,player_threes,Cade Cunningham,Over,2.5,115.0,110.0,120.0,135.0,110.0,120.0,122.0,100.0,105.0,0.4340047289302505,2.35
+draftkings,-120.0,-0.001838653470578544,Sacramento Kings @ New Orleans Pelicans,player_rebounds,DeMar DeRozan,Over,3.5,-125.0,-155.0,-133.0,,-120.0,-150.0,-128.0,-165.0,-155.0,0.5444516435615027,1.8333333333333333
+ballybet,110.0,0.0049818609459511,Sacramento Kings @ New Orleans Pelicans,player_points,Malik Monk,Under,16.5,110.0,-110.0,,-105.0,,-110.0,,-115.0,-110.0,0.4785627909266434,2.1
+fanduel,106.0,0.0024281119078313207,Detroit Pistons @ Boston Celtics,player_rebounds_assists,Jaylen Brown,Under,9.5,-120.0,-110.0,,,,,106.0,-115.0,-110.0,0.4866155883047725,2.06
+fanduel,100.0,-0.001622520802435412,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds,Keegan Murray,Under,18.5,-110.0,-120.0,,,,-120.0,100.0,-125.0,-125.0,0.4991887395987823,2.0
+draftkings,-125.0,-0.0026207035643592835,Detroit Pistons @ Boston Celtics,player_rebounds,Jaden Ivey,Under,3.5,-159.0,-150.0,-141.0,,-125.0,-140.0,-150.0,-155.0,-155.0,0.5540996091309115,1.8
+bovada,115.0,0.011379032337445416,Sacramento Kings @ New Orleans Pelicans,player_assists,Dejounte Murray,Over,7.5,107.0,100.0,102.0,115.0,-125.0,-105.0,110.0,-110.0,-105.0,0.4704088522499746,2.15
+fanduel,-106.0,-0.002017909187385869,Sacramento Kings @ New Orleans Pelicans,player_points_assists,Dejounte Murray,Under,29.5,,-125.0,,,,-125.0,-106.0,-130.0,-125.0,0.5135247651754228,1.9433962264150944
+draftkings,150.0,0.004102549715690351,Toronto Raptors @ Miami Heat,player_blocks,Bam Adebayo,Under,0.5,,130.0,,,150.0,125.0,,120.0,130.0,0.4016410198862761,2.5
+draftkings,100.0,-0.005588072174127157,Detroit Pistons @ Boston Celtics,player_blocks_steals,Jaylen Brown,Under,1.5,-109.0,-120.0,,,100.0,,,-125.0,-120.0,0.4972059639129364,2.0
+ballybet,102.0,0.0011220687632815807,Detroit Pistons @ Boston Celtics,player_threes,Jaylen Brown,Over,2.5,102.0,-120.0,-110.0,-115.0,-105.0,-120.0,100.0,-130.0,-125.0,0.495604984536278,2.02
+draftkings,-125.0,-0.01506070018606076,Sacramento Kings @ New Orleans Pelicans,player_steals,Herb Jones,Over,1.5,-150.0,-145.0,,,-125.0,-150.0,,-150.0,-145.0,0.5471884998966329,1.8
+betmgm,115.0,-0.00532183461654212,Sacramento Kings @ New Orleans Pelicans,player_rebounds_assists,Dejounte Murray,Under,12.5,100.0,115.0,,,,,100.0,-110.0,100.0,0.4626410071550967,2.15
+ballybet,1300.0,0.33036457574643563,Sacramento Kings @ New Orleans Pelicans,player_triple_double,Domantas Sabonis,Yes,,1300.0,950.0,,800.0,,600.0,800.0,885.0,850.0,0.0950260411247454,14.0
+ballybet,510.0,0.06992722276961283,Sacramento Kings @ New Orleans Pelicans,player_double_double,De'Aaron Fox,Yes,,510.0,,,300.0,,380.0,380.0,430.0,425.0,0.1753979053720677,6.1
+fanduel,100.0,-0.00801108397621475,Sacramento Kings @ New Orleans Pelicans,player_points,Keon Ellis,Under,4.5,,-120.0,,,,-115.0,100.0,-120.0,-115.0,0.4959944580118926,2.0
+draftkings,-135.0,-0.01664294663744581,Sacramento Kings @ New Orleans Pelicans,player_threes,DeMar DeRozan,Over,0.5,,-160.0,-147.0,,-135.0,-160.0,,-170.0,-165.0,0.5649072434210417,1.7407407407407407
+ballybet,100.0,-0.0031477591746650324,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,Dejounte Murray,Over,34.5,100.0,-120.0,-125.0,-115.0,,,-113.0,-120.0,-115.0,0.4984261204126675,2.0
+espnbet,750.0,0.12671554502571913,Detroit Pistons @ Boston Celtics,player_first_basket,Jayson Tatum,Yes,,500.0,,,500.0,,750.0,500.0,,600.0,0.1325547700030258,8.5
+fanduel,-390.0,-0.07271623888393353,Sacramento Kings @ New Orleans Pelicans,player_double_double,Domantas Sabonis,Yes,,-670.0,-450.0,,-400.0,,-475.0,-390.0,-490.0,-500.0,0.7380421772148285,1.2564102564102564
+ballybet,150.0,0.011278910609920922,Sacramento Kings @ New Orleans Pelicans,player_threes,C.J. McCollum,Under,2.5,150.0,130.0,131.0,135.0,130.0,125.0,,120.0,125.0,0.4045115642439684,2.5
+ballybet,700.0,0.10574922551211596,Toronto Raptors @ Miami Heat,player_first_basket,Jakob Poeltl,Yes,,700.0,,,,,475.0,700.0,,425.0,0.1382186531890145,8.0
+fanduel,700.0,0.10574922551211596,Toronto Raptors @ Miami Heat,player_first_basket,Jakob Poeltl,Yes,,700.0,,,,,475.0,700.0,,425.0,0.1382186531890145,8.0
+bovada,110.0,-0.0171650998007552,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,Keegan Murray,Under,19.5,,105.0,,110.0,,,,-120.0,-105.0,0.4680166191424975,2.1
+draftkings,115.0,-0.01700697256404482,Detroit Pistons @ Boston Celtics,player_turnovers,Cade Cunningham,Over,4.5,,100.0,,,115.0,100.0,,-105.0,,0.4572060592725373,2.15
+draftkings,-110.0,-0.006206761299379471,Detroit Pistons @ Boston Celtics,player_rebounds,Kristaps Porzingis,Under,7.5,-122.0,-135.0,-116.0,-125.0,-110.0,-130.0,-120.0,-140.0,-135.0,0.5205583631288966,1.9090909090909087
+draftkings,-182.0,-0.025475417799497913,Detroit Pistons @ Boston Celtics,player_blocks,Jaylen Brown,Under,0.5,-220.0,-210.0,,,-182.0,,,-225.0,-210.0,0.6289484892216006,1.5494505494505495
+bovada,110.0,-0.005397719412580271,Detroit Pistons @ Boston Celtics,player_points,Tobias Harris,Under,11.5,100.0,-105.0,,110.0,,,-108.0,-115.0,-105.0,0.473620133613057,2.1
+espnbet,110.0,-0.010331565107634555,Detroit Pistons @ Boston Celtics,player_points_assists,Tobias Harris,Under,13.5,,-105.0,,,,110.0,,-110.0,-105.0,0.4712706832820788,2.1
+fliff,-130.0,-0.021092399340944423,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Tobias Harris,Over,19.5,,-140.0,,-170.0,,,,-130.0,-145.0,0.5532956003725097,1.7692307692307692
+draftkings,-105.0,-0.008841533562098824,Detroit Pistons @ Boston Celtics,player_rebounds,Derrick White,Under,4.5,-125.0,-120.0,-114.0,,-105.0,-120.0,-122.0,-130.0,-125.0,0.5076665315901445,1.9523809523809523
+draftkings,165.0,8.739861656981152e-05,Toronto Raptors @ Miami Heat,player_steals,Tyler Herro,Under,0.5,,145.0,,,165.0,140.0,,135.0,145.0,0.3773914711760641,2.65
+ballybet,250.0,-0.011638310152170983,Sacramento Kings @ New Orleans Pelicans,player_double_double,Dejounte Murray,Yes,,250.0,225.0,,180.0,,210.0,200.0,220.0,220.0,0.2823890542422368,3.5
+fanduel,-106.0,-0.012320368477314325,Toronto Raptors @ Miami Heat,player_points_rebounds_assists,Bam Adebayo,Under,33.5,,-120.0,-119.0,-120.0,,,-106.0,-130.0,-120.0,0.5082234997155567,1.9433962264150944
+fanduel,-108.0,-0.012189413945767558,Toronto Raptors @ Miami Heat,player_points_assists,Bam Adebayo,Under,22.5,,-125.0,,,,-125.0,-108.0,-130.0,-125.0,0.512901650451236,1.925925925925926
+ballybet,105.0,-0.006625753829280212,Sacramento Kings @ New Orleans Pelicans,player_points,Dejounte Murray,Over,21.5,105.0,-115.0,100.0,-105.0,-120.0,,100.0,-120.0,-115.0,0.4845728030101072,2.05
+fanduel,100.0,-0.008790030927444015,Detroit Pistons @ Boston Celtics,player_threes,Jaylen Brown,Over,2.5,102.0,-120.0,-110.0,-115.0,-105.0,-120.0,100.0,-130.0,-125.0,0.495604984536278,2.0
+draftkings,-130.0,-0.014795872800677068,Sacramento Kings @ New Orleans Pelicans,player_rebounds,C.J. McCollum,Over,3.5,-132.0,-160.0,-139.0,,-130.0,-160.0,-132.0,-170.0,-160.0,0.5568545066778782,1.7692307692307692
+fanduel,-122.0,-0.013369155825446954,Detroit Pistons @ Boston Celtics,player_rebounds,Jaylen Brown,Under,5.5,-143.0,-145.0,-133.0,-145.0,-130.0,-135.0,-122.0,-155.0,-150.0,0.5422025359878174,1.819672131147541
+bovada,-105.0,-0.010781941444239052,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,DeMar DeRozan,Under,29.5,-130.0,-120.0,-112.0,-105.0,,,-113.0,-130.0,-120.0,0.5066726641383166,1.9523809523809523
+draftkings,-148.0,-0.017330156279141695,Sacramento Kings @ New Orleans Pelicans,player_threes,Dejounte Murray,Under,2.5,-177.0,-165.0,-164.0,-170.0,-148.0,-170.0,-170.0,-185.0,-175.0,0.5864320035108348,1.6756756756756757
+ballybet,-122.0,-0.017581698813356694,Sacramento Kings @ New Orleans Pelicans,player_rebounds_assists,C.J. McCollum,Over,8.5,-122.0,-150.0,,,,-140.0,-118.0,-155.0,-145.0,0.5398875348863535,1.819672131147541
+ballybet,106.0,-0.00792599759598489,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,Trey Murphy III,Over,27.5,106.0,-105.0,-109.0,-105.0,,,-113.0,-115.0,-105.0,0.4815893215553471,2.06
+betonlineag,-103.0,-0.010467052695197099,Toronto Raptors @ Miami Heat,player_assists,Jimmy Butler,Under,4.5,,-120.0,-103.0,-105.0,-125.0,-120.0,-111.0,-125.0,-120.0,0.5020782934600724,1.970873786407767
+fanduel,108.0,-0.007094199768234333,Detroit Pistons @ Boston Celtics,player_threes,Jayson Tatum,Over,3.5,104.0,-110.0,-103.0,-105.0,100.0,-105.0,108.0,-115.0,-110.0,0.4773585578037335,2.08
+draftkings,-198.0,-0.03104646978019665,Sacramento Kings @ New Orleans Pelicans,player_blocks,Domantas Sabonis,Under,0.5,-240.0,-225.0,,,-198.0,-240.0,,-235.0,-225.0,0.643801338870876,1.5050505050505052
+betonlineag,-103.0,-0.011461188774480657,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,Dejounte Murray,Under,34.5,-132.0,-115.0,-103.0,-115.0,,,-113.0,-120.0,-115.0,0.5015738795873325,1.970873786407767
+fanduel,-104.0,-0.014206425398536893,Detroit Pistons @ Boston Celtics,player_points_assists,Cade Cunningham,Under,32.5,-114.0,-120.0,,,,-110.0,-104.0,-130.0,-120.0,0.5025614301889811,1.9615384615384617
+fanduel,-122.0,-0.015416913640133645,Sacramento Kings @ New Orleans Pelicans,player_assists,C.J. McCollum,Over,4.5,-143.0,-150.0,-133.0,-130.0,-130.0,-140.0,-122.0,-155.0,-145.0,0.5410771916031698,1.819672131147541
+bovada,-400.0,-0.07744727848146438,Sacramento Kings @ New Orleans Pelicans,player_double_double,Domantas Sabonis,Yes,,-670.0,-450.0,,-400.0,,-475.0,-390.0,-490.0,-500.0,0.7380421772148285,1.25
+ballybet,128.0,-0.0009912555936105738,Detroit Pistons @ Boston Celtics,player_threes,Kristaps Porzingis,Over,2.5,128.0,100.0,117.0,120.0,126.0,110.0,126.0,-105.0,100.0,0.4381617300028024,2.28
+bovada,100.0,-0.010547824701325426,Detroit Pistons @ Boston Celtics,player_points,Derrick White,Under,14.5,-108.0,-115.0,-110.0,100.0,-120.0,-115.0,,-120.0,-115.0,0.4947260876493373,2.0
+betmgm,125.0,-0.00292264002522602,Sacramento Kings @ New Orleans Pelicans,player_rebounds,C.J. McCollum,Under,3.5,100.0,125.0,107.0,,100.0,120.0,104.0,115.0,110.0,0.4431454933221218,2.25
+ballybet,130.0,-0.018743660028013753,Detroit Pistons @ Boston Celtics,player_blocks,Tobias Harris,Over,0.5,130.0,115.0,,,,,,105.0,120.0,0.426633191292168,2.3
+draftkings,-154.0,-0.0214464750895913,Toronto Raptors @ Miami Heat,player_threes,Ochai Agbaji,Under,1.5,-180.0,-185.0,-169.0,-185.0,-154.0,-180.0,-164.0,-195.0,-190.0,0.5932962316385944,1.6493506493506491
+ballybet,-106.0,-0.013457430218852484,Detroit Pistons @ Boston Celtics,player_points_rebounds_assists,Jaylen Brown,Over,33.5,-106.0,-120.0,-115.0,-120.0,,,-118.0,-130.0,-120.0,0.5076384096932118,1.9433962264150944
+draftkings,115.0,-0.005811322767272142,Toronto Raptors @ Miami Heat,player_threes,R.J. Barrett,Under,1.5,104.0,100.0,103.0,100.0,115.0,100.0,106.0,-105.0,-105.0,0.4624133382477804,2.15
+bovada,105.0,-0.009363727064094496,Toronto Raptors @ Miami Heat,player_rebounds,Jakob Poeltl,Over,11.5,-110.0,-110.0,104.0,105.0,-115.0,-110.0,-102.0,-120.0,-115.0,0.4832372063101978,2.05
+fanduel,-104.0,-0.014856410130420494,Toronto Raptors @ Miami Heat,player_points_rebounds_assists,Jimmy Butler,Under,29.5,,-120.0,-114.0,-120.0,,,-104.0,-130.0,-115.0,0.5022300654237072,1.9615384615384617
+betonlineag,-109.0,-0.011827076453552854,Sacramento Kings @ New Orleans Pelicans,player_rebounds,Dejounte Murray,Under,5.5,-117.0,-130.0,-109.0,-120.0,-110.0,-125.0,-132.0,-135.0,-125.0,0.5153629122802045,1.9174311926605505
+betonlineag,100.0,-0.018258792667516288,Sacramento Kings @ New Orleans Pelicans,player_rebounds,Jeremiah Robinson-Earl,Over,4.5,,-115.0,100.0,,,-115.0,-102.0,-125.0,,0.4908706036662418,2.0
+betmgm,110.0,-0.0085635963965921,Toronto Raptors @ Miami Heat,player_points,Bam Adebayo,Over,17.5,,110.0,-103.0,100.0,-110.0,-105.0,,-105.0,100.0,0.4721125731444799,2.1
+ballybet,125.0,-0.008544180449594374,Sacramento Kings @ New Orleans Pelicans,player_assists,Malik Monk,Under,4.5,125.0,105.0,,115.0,115.0,,120.0,-105.0,100.0,0.4406470309112913,2.25
+ballybet,108.0,-0.016613913312735984,Sacramento Kings @ New Orleans Pelicans,player_points_rebounds_assists,Malik Monk,Under,25.5,108.0,-110.0,,100.0,,,,-115.0,-110.0,0.4727817724458,2.08

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "7008c6d2f130e944fdd99fc0ca2c2952",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-13T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Detroit Pistons",
+        "date": "20241212"
+    },
+    {
+        "id": "43ca075ce123acf59381e4455bfb54b0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-13T00:40:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Toronto Raptors",
+        "date": "20241212"
+    },
+    {
+        "id": "48451f605af0efc8aa220afa2c3394da",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-13T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Sacramento Kings",
+        "date": "20241212"
+    }
+]
