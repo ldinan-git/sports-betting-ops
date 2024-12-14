@@ -1,0 +1,79 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+ballybet,450.0,0.1570587574058041,Houston Rockets @ Oklahoma City Thunder,player_double_double,Jabari Smith Jr,Yes,,450.0,350.0,,190.0,320.0,320.0,320.0,340.0,325.0,0.210374319528328,5.5
+draftkings,124.0,0.022062467996721513,Atlanta Hawks @ Milwaukee Bucks,player_turnovers,Giannis Antetokounmpo,Under,3.5,,100.0,,,124.0,-105.0,,-105.0,,0.4562778874985363,2.24
+bovada,105.0,0.02681072323926359,Houston Rockets @ Oklahoma City Thunder,player_points_assists,Jalen Williams,Under,26.5,-125.0,-120.0,,105.0,,-115.0,,-125.0,-115.0,0.5008832796289091,2.05
+ballybet,128.0,0.026309097624418687,Atlanta Hawks @ Milwaukee Bucks,player_assists,Trae Young,Under,10.5,128.0,105.0,104.0,105.0,,105.0,,100.0,100.0,0.450135569133517,2.28
+draftkings,-125.0,0.0004539184219840564,Houston Rockets @ Oklahoma City Thunder,player_rebounds_assists,Jalen Green,Under,7.5,-155.0,-150.0,,,-125.0,,,-160.0,-150.0,0.5558077324566578,1.8
+bovada,-270.0,-0.06261076765819618,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Giannis Antetokounmpo,Yes,,-385.0,-350.0,,-270.0,-330.0,-350.0,-320.0,-345.0,-350.0,0.6840407911683434,1.3703703703703702
+bovada,105.0,0.01718487178150463,Houston Rockets @ Oklahoma City Thunder,player_rebounds_assists,Isaiah Hartenstein,Under,15.5,-113.0,-110.0,,105.0,-125.0,-110.0,-113.0,-140.0,-110.0,0.4961877423324413,2.05
+fanduel,108.0,0.013501989498491573,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Fred VanVleet,Over,3.5,-109.0,-115.0,-108.0,,-105.0,-115.0,108.0,-120.0,-115.0,0.4872605718742748,2.08
+ballybet,100.0,0.0009423565421906588,Houston Rockets @ Oklahoma City Thunder,player_blocks_steals,Fred VanVleet,Under,1.5,100.0,-120.0,,,,-120.0,,-125.0,-120.0,0.5004711782710953,2.0
+bovada,100.0,0.011866073133972366,Atlanta Hawks @ Milwaukee Bucks,player_threes,Trae Young,Under,2.5,-117.0,-125.0,-112.0,100.0,-115.0,-120.0,-113.0,-135.0,-135.0,0.5059330365669862,2.0
+betonlineag,186.0,0.03327156335967141,Houston Rockets @ Oklahoma City Thunder,player_threes,Alperen Sengun,Over,0.5,,155.0,186.0,,165.0,145.0,,145.0,150.0,0.3612837634124725,2.8600000000000003
+draftkings,145.0,0.019906049933422376,Houston Rockets @ Oklahoma City Thunder,player_blocks,Alperen Sengun,Under,0.5,128.0,120.0,,,145.0,115.0,,115.0,120.0,0.4162881836462948,2.45
+ballybet,117.0,-0.00010630590777360727,Atlanta Hawks @ Milwaukee Bucks,player_points_rebounds_assists,Trae Young,Under,36.5,117.0,105.0,,,,,,-110.0,-105.0,0.4607805041899661,2.17
+betmgm,145.0,0.002716203309401033,Atlanta Hawks @ Milwaukee Bucks,player_rebounds,De'Andre Hunter,Over,4.5,,145.0,,,,,,120.0,120.0,0.4092719197181228,2.45
+draftkings,-145.0,-0.0033501594897409337,Houston Rockets @ Oklahoma City Thunder,player_threes,Jalen Green,Under,2.5,-186.0,-175.0,-159.0,-150.0,-145.0,-180.0,-184.0,-190.0,-185.0,0.5898539872407655,1.6896551724137931
+betonlineag,110.0,0.0015667087901412025,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds_assists,Jabari Smith Jr,Over,20.5,,100.0,110.0,100.0,,,,-120.0,-115.0,0.4769365279953053,2.1
+ballybet,900.0,0.23390467869631903,Houston Rockets @ Oklahoma City Thunder,player_double_double,Jalen Williams,Yes,,900.0,625.0,,550.0,650.0,500.0,600.0,605.0,600.0,0.1233904678696319,10.0
+betonlineag,104.0,0.002200025224051272,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds_assists,Isaiah Hartenstein,Under,26.5,-120.0,,104.0,,-115.0,,-111.0,,,0.4912745221686525,2.04
+fanduel,158.0,0.023188905196493526,Houston Rockets @ Oklahoma City Thunder,player_threes,Shai Gilgeous-Alexander,Over,2.5,138.0,145.0,146.0,145.0,130.0,135.0,158.0,115.0,120.0,0.3965848469753851,2.58
+betonlineag,279.0,0.053679861533699524,Atlanta Hawks @ Milwaukee Bucks,player_threes,Giannis Antetokounmpo,Over,0.5,,240.0,279.0,,220.0,220.0,,225.0,230.0,0.2780157945999207,3.79
+draftkings,124.0,-0.0052982407280458554,Houston Rockets @ Oklahoma City Thunder,player_turnovers,Jalen Green,Over,3.5,,110.0,,,124.0,105.0,,100.0,,0.4440632853892652,2.24
+draftkings,100.0,0.001689044855302635,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Alperen Sengun,Under,10.5,-114.0,-120.0,-112.0,-120.0,100.0,-120.0,-111.0,-125.0,-125.0,0.5008445224276513,2.0
+betonlineag,100.0,-0.006068115937105767,Atlanta Hawks @ Milwaukee Bucks,player_points_rebounds_assists,Brook Lopez,Under,15.5,,-120.0,100.0,,-105.0,,,-125.0,-120.0,0.4969659420314471,2.0
+ballybet,245.0,1.049584535395276e-05,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Clint Capela,Yes,,245.0,210.0,,220.0,190.0,200.0,200.0,195.0,195.0,0.2898581147377837,3.45
+draftkings,-110.0,-0.012021633699664913,Atlanta Hawks @ Milwaukee Bucks,player_points_assists,Bogdan Bogdanovic,Under,14.5,,-130.0,,,-110.0,-125.0,,-135.0,-130.0,0.5175124775858899,1.9090909090909087
+ballybet,140.0,0.001116722142285198,Houston Rockets @ Oklahoma City Thunder,player_blocks_steals,Jabari Smith Jr,Over,1.5,140.0,120.0,,,,115.0,,115.0,125.0,0.4171319675592855,2.4
+ballybet,-130.0,-0.016988376575807762,Atlanta Hawks @ Milwaukee Bucks,player_blocks_steals,Clint Capela,Under,1.5,-130.0,-150.0,,,,-155.0,,-160.0,-150.0,0.5556152654136739,1.7692307692307692
+draftkings,-160.0,-0.02503987509782235,Atlanta Hawks @ Milwaukee Bucks,player_assists,Brook Lopez,Under,1.5,,-185.0,,,-160.0,-200.0,,-195.0,-190.0,0.5999754614782632,1.625
+draftkings,105.0,-0.0008150892737018856,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Cason Wallace,Over,3.5,-103.0,-120.0,-114.0,,105.0,-105.0,-102.0,-125.0,-120.0,0.4874072735250235,2.05
+draftkings,114.0,0.003953614799087846,Atlanta Hawks @ Milwaukee Bucks,player_rebounds_assists,Dyson Daniels,Over,8.5,102.0,-105.0,,105.0,114.0,-105.0,-104.0,-110.0,-105.0,0.4691372031771438,2.14
+draftkings,-130.0,-0.011719457377229348,Houston Rockets @ Oklahoma City Thunder,player_assists,Alperen Sengun,Under,5.5,-143.0,-160.0,,,-130.0,-150.0,-142.0,-170.0,-170.0,0.5585933501780878,1.7692307692307692
+bovada,130.0,0.005983243400025984,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Tari Eason,Under,5.5,,105.0,117.0,130.0,114.0,115.0,,100.0,105.0,0.4373840188695765,2.3
+fanduel,110.0,0.0025861767018071635,Houston Rockets @ Oklahoma City Thunder,player_assists,Shai Gilgeous-Alexander,Over,5.5,-103.0,-115.0,-114.0,-110.0,100.0,100.0,110.0,-105.0,-105.0,0.4774219889056225,2.1
+betmgm,115.0,-0.0065347843878545975,Atlanta Hawks @ Milwaukee Bucks,player_rebounds_assists,De'Andre Hunter,Over,5.5,,115.0,,,,100.0,,-105.0,100.0,0.4620768444707653,2.15
+bovada,110.0,0.00012368340635449115,Atlanta Hawks @ Milwaukee Bucks,player_points,Giannis Antetokounmpo,Over,33.5,-112.0,-105.0,100.0,110.0,-110.0,-105.0,,-110.0,-105.0,0.476249373050645,2.1
+ballybet,118.0,-0.0023306068996091778,Atlanta Hawks @ Milwaukee Bucks,player_blocks,Clint Capela,Under,0.5,118.0,100.0,,,110.0,-105.0,,-110.0,110.0,0.4576465105965095,2.18
+hardrockbet,-110.0,-0.013548996167718763,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds_assists,Tari Eason,Over,16.5,,-135.0,-130.0,-125.0,,,,-120.0,-110.0,0.5167124305788141,1.9090909090909087
+fanduel,112.0,-0.008376517346397772,Atlanta Hawks @ Milwaukee Bucks,player_assists,Trae Young,Over,11.5,-104.0,,,,-105.0,,112.0,,,0.467746925780001,2.12
+fliff,-115.0,-0.009569935451095857,Houston Rockets @ Oklahoma City Thunder,player_threes,Isaiah Joe,Over,1.5,,-135.0,-133.0,-145.0,-130.0,-130.0,,-115.0,-130.0,0.5297649182470884,1.869565217391304
+ballybet,190.0,0.010278960549882088,Houston Rockets @ Oklahoma City Thunder,player_steals,Luguentz Dort,Under,0.5,190.0,165.0,,,,160.0,,155.0,165.0,0.3483720553620283,2.9
+ballybet,155.0,0.00018193295285306998,Houston Rockets @ Oklahoma City Thunder,player_steals,Jabari Smith Jr,Over,0.5,155.0,135.0,,,,130.0,,130.0,135.0,0.3922282090011189,2.55
+fanduel,-200.0,-0.06971873517909732,Atlanta Hawks @ Milwaukee Bucks,player_double_double,Trae Young,Yes,,-295.0,-225.0,,-220.0,-280.0,-220.0,-200.0,-230.0,-230.0,0.6201875098806018,1.5
+fliff,-110.0,-0.008247166939316042,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Isaiah Hartenstein,Over,11.5,-132.0,-135.0,-135.0,-125.0,-125.0,-120.0,-120.0,-110.0,-130.0,0.5194895792222631,1.9090909090909087
+ballybet,170.0,0.005725116813444897,Houston Rockets @ Oklahoma City Thunder,player_blocks,Shai Gilgeous-Alexander,Under,0.5,170.0,150.0,,,,140.0,,140.0,150.0,0.3724907840049796,2.7
+betonlineag,134.0,0.004349014979437182,Atlanta Hawks @ Milwaukee Bucks,player_rebounds,Dyson Daniels,Over,5.5,120.0,115.0,134.0,120.0,,115.0,120.0,105.0,110.0,0.4292089807604433,2.34
+draftkings,-125.0,-0.01552450427620311,Houston Rockets @ Oklahoma City Thunder,player_assists,Jalen Green,Under,2.5,-141.0,-145.0,-133.0,,-125.0,-150.0,,-155.0,-150.0,0.5469308309576649,1.8
+fanduel,-113.0,-0.009358674238601483,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Jalen Williams,Over,5.5,-121.0,-140.0,-123.0,-125.0,-120.0,-130.0,-113.0,-145.0,-145.0,0.5255515014602726,1.8849557522123888
+draftkings,-105.0,-0.013903914306592213,Atlanta Hawks @ Milwaukee Bucks,player_points_assists,Brook Lopez,Under,10.5,,-120.0,,,-105.0,-120.0,,-125.0,-120.0,0.5050736048673552,1.9523809523809523
+bovada,-150.0,-0.016910021265390984,Houston Rockets @ Oklahoma City Thunder,player_threes,Jalen Green,Under,2.5,-186.0,-175.0,-159.0,-150.0,-145.0,-180.0,-184.0,-190.0,-185.0,0.5898539872407655,1.6666666666666663
+betmgm,-110.0,-0.01961868237813036,Atlanta Hawks @ Milwaukee Bucks,player_points_assists,Gary Trent Jr,Under,9.5,,-110.0,,,,-110.0,,-140.0,-130.0,0.5135330711352651,1.9090909090909087
+espnbet,-110.0,-0.01961868237813036,Atlanta Hawks @ Milwaukee Bucks,player_points_assists,Gary Trent Jr,Under,9.5,,-110.0,,,,-110.0,,-140.0,-130.0,0.5135330711352651,1.9090909090909087
+espnbet,-150.0,-0.019411697584988286,Atlanta Hawks @ Milwaukee Bucks,player_threes,A.J. Green,Under,2.5,,-175.0,-164.0,-180.0,-175.0,-150.0,,-185.0,,0.5883529814490072,1.6666666666666663
+fanduel,-108.0,-0.007562720714578974,Atlanta Hawks @ Milwaukee Bucks,player_points,Bobby Portis,Over,13.5,-132.0,-125.0,-119.0,-125.0,-120.0,-125.0,-108.0,-130.0,-125.0,0.5153039719366609,1.925925925925926
+betonlineag,100.0,-0.006807195689859991,Houston Rockets @ Oklahoma City Thunder,player_points,Isaiah Hartenstein,Under,10.5,-115.0,-130.0,100.0,-115.0,-105.0,-110.0,-111.0,-140.0,-110.0,0.49659640215507,2.0
+espnbet,550.0,0.05033710324049112,Houston Rockets @ Oklahoma City Thunder,player_first_basket,Shai Gilgeous-Alexander,Yes,,410.0,,,400.0,,550.0,410.0,,475.0,0.1615903235754602,6.5
+ballybet,-125.0,-0.01443536270764445,Atlanta Hawks @ Milwaukee Bucks,player_threes,Brook Lopez,Under,1.5,-125.0,-150.0,-137.0,-135.0,-135.0,-150.0,-138.0,-155.0,-155.0,0.5475359096068642,1.8
+fliff,-120.0,-0.02799434184376115,Houston Rockets @ Oklahoma City Thunder,player_rebounds_assists,Alperen Sengun,Over,15.5,-136.0,-145.0,,,,,,-120.0,-135.0,0.5301849044488576,1.8333333333333333
+ballybet,100.0,-0.012284099232901635,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds_assists,Shai Gilgeous-Alexander,Under,41.5,100.0,-115.0,-111.0,-115.0,-110.0,,,-120.0,-115.0,0.4938579503835492,2.0
+betonlineag,113.0,-0.006224461508067103,Atlanta Hawks @ Milwaukee Bucks,player_threes,De'Andre Hunter,Over,2.5,,-105.0,113.0,110.0,100.0,-105.0,112.0,-115.0,-110.0,0.4665612856769638,2.13
+draftkings,120.0,-0.006345497360062735,Houston Rockets @ Oklahoma City Thunder,player_points,Isaiah Joe,Under,5.5,,105.0,,,120.0,105.0,106.0,100.0,105.0,0.4516611375636078,2.2
+draftkings,-298.0,-0.035739215606605645,Atlanta Hawks @ Milwaukee Bucks,player_threes,Giannis Antetokounmpo,Under,0.5,,-350.0,-400.0,,-298.0,-375.0,,-365.0,-350.0,0.7219842054000792,1.3355704697986577
+bovada,105.0,-0.007481038275467089,Houston Rockets @ Oklahoma City Thunder,player_rebounds_assists,Shai Gilgeous-Alexander,Under,10.5,-106.0,-110.0,,105.0,-115.0,-110.0,-108.0,-115.0,100.0,0.484155591085138,2.05
+draftkings,-175.0,-0.0258458257705364,Atlanta Hawks @ Milwaukee Bucks,player_threes,Zaccharie Risacher,Under,1.5,,-200.0,-196.0,-200.0,-175.0,-220.0,-215.0,-210.0,-200.0,0.6199162926914769,1.5714285714285714
+ballybet,106.0,-0.010331614371481335,Atlanta Hawks @ Milwaukee Bucks,player_rebounds_assists,Trae Young,Under,14.5,106.0,-110.0,,105.0,,-110.0,-102.0,-120.0,-110.0,0.480421546421611,2.06
+bovada,-135.0,-0.017915117224043486,Houston Rockets @ Oklahoma City Thunder,player_threes,Fred VanVleet,Under,2.5,-139.0,-160.0,-147.0,-135.0,-140.0,-170.0,-150.0,-170.0,-165.0,0.5641764220202303,1.7407407407407407
+espnbet,125.0,-0.00741874280343735,Atlanta Hawks @ Milwaukee Bucks,player_rebounds,De'Andre Hunter,Under,3.5,,,108.0,,105.0,125.0,114.0,,,0.4411472254206945,2.25
+fanduel,164.0,0.003420987294500799,Atlanta Hawks @ Milwaukee Bucks,player_threes,Zaccharie Risacher,Over,1.5,,145.0,149.0,150.0,135.0,140.0,164.0,140.0,140.0,0.380083707308523,2.64
+ballybet,-120.0,-0.015981859220384753,Houston Rockets @ Oklahoma City Thunder,player_rebounds,Dillon Brooks,Over,3.5,-120.0,-140.0,-135.0,,-140.0,-130.0,-132.0,-150.0,-140.0,0.536737167697972,1.8333333333333333
+ballybet,800.0,0.1270001606217004,Houston Rockets @ Oklahoma City Thunder,player_double_double,Shai Gilgeous-Alexander,Yes,,800.0,700.0,,550.0,500.0,550.0,550.0,665.0,525.0,0.1252222400690778,9.0
+draftkings,-105.0,-0.014163750477880765,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds,Fred VanVleet,Under,18.5,-114.0,-120.0,,-120.0,-105.0,-120.0,-111.0,-125.0,-125.0,0.5049405180479147,1.9523809523809523
+bovada,150.0,-0.003889561790842211,Atlanta Hawks @ Milwaukee Bucks,player_assists,Dyson Daniels,Over,3.5,133.0,130.0,146.0,150.0,,,,125.0,125.0,0.3984441752836631,2.5
+ballybet,123.0,-0.01699587330663732,Houston Rockets @ Oklahoma City Thunder,player_blocks_steals,Luguentz Dort,Under,1.5,123.0,110.0,,,,105.0,,105.0,110.0,0.4408090254230326,2.23
+draftkings,-110.0,-0.014516858379756248,Houston Rockets @ Oklahoma City Thunder,player_assists,Isaiah Hartenstein,Over,3.5,-125.0,-130.0,-118.0,-115.0,-110.0,-130.0,-118.0,-135.0,-135.0,0.5162054551344135,1.9090909090909087
+bovada,105.0,-0.009485851877227502,Atlanta Hawks @ Milwaukee Bucks,player_points,Dyson Daniels,Over,11.5,-114.0,-110.0,-102.0,105.0,-110.0,-105.0,-102.0,-115.0,-110.0,0.4831776332306208,2.05
+hardrockbet,-125.0,-0.02940490754193914,Atlanta Hawks @ Milwaukee Bucks,player_points_rebounds_assists,Trae Young,Over,36.5,-162.0,-140.0,,,,,,-130.0,-125.0,0.5392194958100338,1.8
+hardrockbet,-115.0,-0.02209872625209286,Houston Rockets @ Oklahoma City Thunder,player_points_rebounds_assists,Jabari Smith Jr,Under,20.5,,-135.0,-143.0,-130.0,,,,-125.0,-115.0,0.5230634720046946,1.869565217391304
+fanduel,112.0,-0.010890074364836688,Atlanta Hawks @ Milwaukee Bucks,player_threes,De'Andre Hunter,Over,2.5,,-105.0,113.0,110.0,100.0,-105.0,112.0,-115.0,-110.0,0.4665612856769638,2.12
+betonlineag,134.0,-0.004238725916516528,Atlanta Hawks @ Milwaukee Bucks,player_assists,Jalen Johnson,Over,5.5,108.0,115.0,134.0,130.0,120.0,,128.0,105.0,110.0,0.4255390060185827,2.34

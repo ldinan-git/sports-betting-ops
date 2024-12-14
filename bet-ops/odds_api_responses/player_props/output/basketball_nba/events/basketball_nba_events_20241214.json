@@ -1,0 +1,20 @@
+[
+    {
+        "id": "9c0cdf4d91abf7e718d57cb1565a7079",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-14T21:30:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Atlanta Hawks",
+        "date": "20241214"
+    },
+    {
+        "id": "5a58a058b265aa10346a63c741bfdc43",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-15T01:30:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Houston Rockets",
+        "date": "20241214"
+    }
+]
