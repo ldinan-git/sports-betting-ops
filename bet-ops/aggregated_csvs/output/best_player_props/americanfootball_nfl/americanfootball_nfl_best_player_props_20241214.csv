@@ -1,0 +1,89 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,windcreek_price,avg_dejuiced_prob,book_decimal_odds
+fliff,295.0,0.3457018217950546,Washington Commanders @ New Orleans Saints,player_anytime_td,Kendre Miller,Yes,,175.0,150.0,150.0,137.0,150.0,135.0,-105.0,295.0,175.0,,0.3406840055177353,3.95
+fanduel,340.0,0.279285235220849,New York Jets @ Jacksonville Jaguars,player_anytime_td,Braelon Allen,Yes,,220.0,100.0,250.0,150.0,255.0,200.0,340.0,,,,0.2907466443683748,4.4
+betmgm,15000.0,9.414702711842907,Baltimore Ravens @ New York Giants,player_1st_td,No Touchdown,Yes,,,15000.0,,240.0,12000.0,,,,,12000.0,0.0689715411380325,151.0
+draftkings,12000.0,7.345556477701933,Baltimore Ravens @ New York Giants,player_1st_td,No Touchdown,Yes,,,15000.0,,240.0,12000.0,,,,,12000.0,0.0689715411380325,121.0
+windcreek,12000.0,7.345556477701933,Baltimore Ravens @ New York Giants,player_1st_td,No Touchdown,Yes,,,15000.0,,240.0,12000.0,,,,,12000.0,0.0689715411380325,121.0
+ballybet,1200.0,0.7445505766275715,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Trey Palmer,Yes,,1200.0,375.0,325.0,900.0,340.0,700.0,850.0,,,,0.1341961982021209,13.0
+fanduel,900.0,0.57582168975965,Buffalo Bills @ Detroit Lions,player_anytime_td,Mack Hollins,Yes,,370.0,300.0,350.0,400.0,380.0,500.0,900.0,535.0,575.0,,0.157582168975965,10.0
+hardrockbet,-115.0,-0.0035303095709625643,Cincinnati Bengals @ Tennessee Titans,player_anytime_td,Chase Brown,Yes,,-159.0,-190.0,-200.0,-152.0,-185.0,-145.0,-140.0,-125.0,-115.0,,0.5329954158108806,1.869565217391304
+ballybet,1300.0,0.7443401464323326,Washington Commanders @ New Orleans Saints,player_anytime_td,Mason Tipton,Yes,,1300.0,650.0,350.0,850.0,390.0,650.0,650.0,,,,0.1245957247451666,14.0
+hardrockbet,140.0,0.030221626107314936,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Gus Edwards,Yes,,125.0,-125.0,-125.0,-121.0,-125.0,-110.0,130.0,135.0,140.0,,0.4292590108780479,2.4
+betmgm,1800.0,1.0391316621019828,Cincinnati Bengals @ Tennessee Titans,player_1st_td,Tyjae Spears,Yes,,700.0,1800.0,,330.0,800.0,750.0,700.0,,,900.0,0.1073227190579991,19.0
+hardrockbet,900.0,0.4938548000824281,Washington Commanders @ New Orleans Saints,player_anytime_td,Jamaal Williams,Yes,,500.0,500.0,450.0,330.0,450.0,,410.0,775.0,900.0,,0.1493854800082428,10.0
+betmgm,400.0,0.17965089361599795,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Justin Herbert,Yes,,270.0,400.0,220.0,185.0,220.0,200.0,290.0,335.0,350.0,,0.2359301787231996,5.0
+betmgm,1000.0,0.4528495150920775,Kansas City Chiefs @ Cleveland Browns,player_anytime_td,Jamari Thrash,Yes,,650.0,1000.0,,450.0,600.0,375.0,,,,,0.1320772286447343,11.0
+hardrockbet,140.0,0.015290647802279178,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Rachaad White,Yes,,125.0,-105.0,-111.0,105.0,-105.0,-110.0,100.0,130.0,140.0,,0.4230377699176164,2.4
+fanduel,210.0,0.04194077565159926,Baltimore Ravens @ New York Giants,player_tds_over,Derrick Henry,Over,1.5,175.0,180.0,150.0,163.0,,,210.0,,145.0,,0.3361099276295481,3.1
+betmgm,600.0,0.2310403809259638,Chicago Bears @ Minnesota Vikings,player_tds_over,Aaron Jones,Over,1.5,380.0,600.0,350.0,,,,,,375.0,,0.175862911560852,7.0
+fliff,135.0,0.008758675563412588,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Gus Edwards,Yes,,125.0,-125.0,-125.0,-121.0,-125.0,-110.0,130.0,135.0,140.0,,0.4292590108780479,2.35
+betmgm,1800.0,0.8293265132139802,Cincinnati Bengals @ Tennessee Titans,player_last_td,Tyjae Spears,Yes,,700.0,1800.0,,750.0,,700.0,650.0,,,,0.0962803428007358,19.0
+fanduel,950.0,0.45599109291528195,Indianapolis Colts @ Denver Broncos,player_anytime_td,Adonai Mitchell,Yes,,450.0,550.0,350.0,350.0,360.0,425.0,950.0,775.0,900.0,,0.138665818372884,10.5
+hardrockbet,145.0,0.009576776711958557,Washington Commanders @ New Orleans Saints,player_anytime_td,Jayden Daniels,Yes,,-105.0,130.0,-111.0,120.0,-105.0,105.0,115.0,140.0,145.0,,0.4120721537599831,2.45
+fanduel,490.0,0.19312307677224616,Indianapolis Colts @ Denver Broncos,player_anytime_td,Alec Pierce,Yes,,360.0,350.0,230.0,275.0,235.0,300.0,490.0,395.0,400.0,,0.2022242503003807,5.9
+fanduel,370.0,0.12186762718533362,Miami Dolphins @ Houston Texans,player_anytime_td,Dalton Schultz,Yes,,225.0,210.0,190.0,275.0,195.0,275.0,370.0,330.0,350.0,,0.2386952398266667,4.7
+betonlineag,900.0,0.35237661546845,Baltimore Ravens @ New York Giants,player_tds_over,Derrick Henry,Over,2.5,700.0,333.0,900.0,,,,900.0,,500.0,,0.135237661546845,10.0
+fanduel,900.0,0.35237661546845,Baltimore Ravens @ New York Giants,player_tds_over,Derrick Henry,Over,2.5,700.0,333.0,900.0,,,,900.0,,500.0,,0.135237661546845,10.0
+hardrockbet,900.0,0.38665818372883987,Indianapolis Colts @ Denver Broncos,player_anytime_td,Adonai Mitchell,Yes,,450.0,550.0,350.0,350.0,360.0,425.0,950.0,775.0,900.0,,0.138665818372884,10.0
+hardrockbet,125.0,-0.012773011016017466,Buffalo Bills @ Detroit Lions,player_anytime_td,Amon-Ra St. Brown,Yes,,-117.0,100.0,-111.0,100.0,-110.0,-110.0,100.0,120.0,125.0,,0.4387675506595478,2.25
+fanduel,1500.0,0.6146888961534271,New York Jets @ Jacksonville Jaguars,player_1st_td,Braelon Allen,Yes,,950.0,500.0,,,900.0,850.0,1500.0,,,500.0,0.1009180560095892,16.0
+betmgm,1100.0,0.40431895262597617,New York Jets @ Jacksonville Jaguars,player_tds_over,Breece Hall,Over,1.5,575.0,1100.0,500.0,,,,850.0,,,,0.117026579385498,12.0
+fliff,775.0,0.30712295007212465,Washington Commanders @ New Orleans Saints,player_anytime_td,Jamaal Williams,Yes,,500.0,500.0,450.0,330.0,450.0,,410.0,775.0,900.0,,0.1493854800082428,8.75
+fanduel,320.0,0.08061318979810661,Baltimore Ravens @ New York Giants,player_last_td,Derrick Henry,Yes,,170.0,280.0,,210.0,,250.0,320.0,265.0,250.0,,0.2572888547138349,4.2
+bovada,900.0,0.341961982021209,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Trey Palmer,Yes,,1200.0,375.0,325.0,900.0,340.0,700.0,850.0,,,,0.1341961982021209,10.0
+fanduel,130.0,-0.012704274980489871,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Gus Edwards,Yes,,125.0,-125.0,-125.0,-121.0,-125.0,-110.0,130.0,135.0,140.0,,0.4292590108780479,2.3
+hardrockbet,325.0,0.0834304276823683,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Kimani Vidal,Yes,,245.0,240.0,230.0,185.0,230.0,185.0,220.0,305.0,325.0,,0.2549248065134984,4.25
+fanduel,120.0,-0.019186267466447693,Kansas City Chiefs @ Cleveland Browns,player_anytime_td,Isiah Pacheco,Yes,,-132.0,100.0,100.0,105.0,100.0,100.0,120.0,-115.0,-110.0,,0.4458244238788874,2.2
+fliff,-125.0,-0.04060825154041492,Cincinnati Bengals @ Tennessee Titans,player_anytime_td,Chase Brown,Yes,,-159.0,-190.0,-200.0,-152.0,-185.0,-145.0,-140.0,-125.0,-115.0,,0.5329954158108806,1.8
+fanduel,800.0,0.2706864036787304,Kansas City Chiefs @ Cleveland Browns,player_tds_over,Isiah Pacheco,Over,1.5,440.0,650.0,500.0,,,,800.0,,450.0,,0.1411873781865256,9.0
+espnbet,100.0,0.02011879038464115,Kansas City Chiefs @ Cleveland Browns,player_pass_completions,Jameis Winston,Under,22.5,,,-125.0,,,100.0,-140.0,-120.0,,,0.5100593951923206,2.0
+draftkings,255.0,0.032150587507730366,New York Jets @ Jacksonville Jaguars,player_anytime_td,Braelon Allen,Yes,,220.0,100.0,250.0,150.0,255.0,200.0,340.0,,,,0.2907466443683748,3.55
+fliff,140.0,-0.011026830976040625,Washington Commanders @ New Orleans Saints,player_anytime_td,Jayden Daniels,Yes,,-105.0,130.0,-111.0,120.0,-105.0,105.0,115.0,140.0,145.0,,0.4120721537599831,2.4
+fanduel,230.0,0.03164687229931662,Buffalo Bills @ Detroit Lions,player_anytime_td,Amari Cooper,Yes,,190.0,155.0,150.0,162.0,150.0,165.0,230.0,200.0,210.0,,0.3126202643331263,3.3
+fanduel,650.0,0.22954982693419335,Miami Dolphins @ Houston Texans,player_anytime_td,C.J. Stroud,Yes,,480.0,600.0,280.0,450.0,285.0,450.0,650.0,430.0,450.0,,0.1639399769245591,7.5
+fanduel,550.0,0.17462693769532867,Washington Commanders @ New Orleans Saints,player_anytime_td,Chris Rodriguez Jr.,Yes,,410.0,,450.0,450.0,450.0,,550.0,285.0,300.0,,0.1807118365685121,6.5
+betmgm,500.0,0.14867251033020867,Pittsburgh Steelers @ Philadelphia Eagles,player_last_td,Saquon Barkley,Yes,,310.0,500.0,,300.0,,325.0,450.0,360.0,375.0,,0.1914454183883681,6.0
+fanduel,102.0,0.029341977425638488,Pittsburgh Steelers @ Philadelphia Eagles,player_rush_attempts,Saquon Barkley,Over,20.5,-117.0,-125.0,-120.0,,-125.0,-120.0,102.0,-130.0,,,0.509575236349326,2.02
+fanduel,108.0,0.01907645799997315,Kansas City Chiefs @ Cleveland Browns,player_pass_completions,Jameis Winston,Over,22.5,,,-103.0,,,-130.0,108.0,-120.0,,,0.4899406048076794,2.08
+hardrockbet,260.0,0.038926954881001175,Miami Dolphins @ Houston Texans,player_anytime_td,Tank Dell,Yes,,190.0,190.0,170.0,185.0,175.0,185.0,190.0,250.0,260.0,,0.2885908208002781,3.6
+ballybet,116.0,0.0309428670180818,Pittsburgh Steelers @ Philadelphia Eagles,player_rush_yds,Jalen Hurts,Over,39.5,116.0,-110.0,,-115.0,,105.0,,-115.0,-110.0,,0.477288364360223,2.16
+ballybet,117.0,-0.02767666777429245,Cincinnati Bengals @ Tennessee Titans,player_anytime_td,Tony Pollard,Yes,,117.0,100.0,100.0,-112.0,105.0,-110.0,100.0,-120.0,-115.0,,0.4480752683067777,2.17
+fanduel,250.0,0.033129016926652044,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Joshua Palmer,Yes,,200.0,190.0,180.0,175.0,180.0,165.0,250.0,210.0,210.0,,0.2951797191219006,3.5
+fanduel,280.0,0.0456022507026248,Buffalo Bills @ Detroit Lions,player_anytime_td,Keon Coleman,Yes,,190.0,190.0,180.0,200.0,180.0,210.0,280.0,255.0,260.0,,0.2751584870270065,3.8
+betmgm,500.0,0.13554980135053163,Atlanta Falcons @ Las Vegas Raiders,player_1st_td,Bijan Robinson,Yes,,330.0,500.0,,,400.0,325.0,,340.0,350.0,,0.1892583002250886,6.0
+fanduel,850.0,0.2748638829201484,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Trey Palmer,Yes,,1200.0,375.0,325.0,900.0,340.0,700.0,850.0,,,,0.1341961982021209,9.5
+betmgm,1200.0,0.35119047619047583,Chicago Bears @ Minnesota Vikings,player_tds_over,D'Andre Swift,Over,1.5,700.0,1200.0,650.0,,,,,,,,0.1039377289377289,13.0
+fanduel,500.0,0.11631470624624674,Dallas Cowboys @ Carolina Panthers,player_tds_over,Rico Dowdle,Over,1.5,410.0,,400.0,330.0,,,500.0,,325.0,,0.1860524510410411,6.0
+betonlineag,250.0,0.01761325528931179,New York Jets @ Jacksonville Jaguars,player_anytime_td,Braelon Allen,Yes,,220.0,100.0,250.0,150.0,255.0,200.0,340.0,,,,0.2907466443683748,3.5
+fanduel,-102.0,0.013654256701376433,Dallas Cowboys @ Carolina Panthers,player_rush_attempts,Rico Dowdle,Over,17.5,,,,,-130.0,-115.0,-102.0,-140.0,,,0.5118452187303981,1.9803921568627447
+hardrockbet,350.0,0.07412857922000016,Miami Dolphins @ Houston Texans,player_anytime_td,Dalton Schultz,Yes,,225.0,210.0,190.0,275.0,195.0,275.0,370.0,330.0,350.0,,0.2386952398266667,4.5
+fanduel,950.0,0.321438367274564,New England Patriots @ Arizona Cardinals,player_anytime_td,Ja'Lynn Polk,Yes,,440.0,,550.0,,550.0,450.0,950.0,665.0,,,0.125851273073768,10.5
+fanduel,440.0,0.11019157054636453,Green Bay Packers @ Seattle Seahawks,player_anytime_td,Dontayvion Wicks,Yes,,300.0,300.0,280.0,275.0,285.0,300.0,440.0,360.0,375.0,,0.2055910315826601,5.4
+fliff,130.0,-0.0270131291894824,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Rachaad White,Yes,,125.0,-105.0,-111.0,105.0,-105.0,-110.0,100.0,130.0,140.0,,0.4230377699176164,2.3
+fanduel,340.0,0.06351018789912599,Baltimore Ravens @ New York Giants,player_anytime_td,Isaiah Likely,Yes,,250.0,260.0,260.0,200.0,260.0,260.0,340.0,260.0,275.0,,0.241706860886165,4.4
+ballybet,110.0,0.02663942617787507,Kansas City Chiefs @ Cleveland Browns,player_rush_yds,Nick Chubb,Under,39.5,110.0,-115.0,-114.0,-115.0,-110.0,-110.0,,,-115.0,,0.4888759172275596,2.1
+bovada,145.0,0.045098078051188484,Kansas City Chiefs @ Cleveland Browns,player_receptions,Xavier Worthy,Over,3.5,125.0,105.0,117.0,145.0,125.0,130.0,122.0,-105.0,115.0,,0.4265706441025259,2.45
+fanduel,250.0,0.01982939244301818,New England Patriots @ Arizona Cardinals,player_anytime_td,Kyler Murray,Yes,,175.0,,180.0,185.0,180.0,225.0,250.0,205.0,,,0.2913798264122909,3.5
+fliff,450.0,0.1059499542128064,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Stone Smartt,Yes,,225.0,350.0,325.0,350.0,340.0,360.0,430.0,450.0,300.0,,0.2010818098568739,5.5
+fanduel,250.0,0.022032440887064908,New York Jets @ Jacksonville Jaguars,player_anytime_td,Travis Etienne Jr.,Yes,,200.0,200.0,160.0,150.0,165.0,210.0,250.0,230.0,230.0,,0.2920092688248757,3.5
+betonlineag,145.0,0.02608968774400111,Pittsburgh Steelers @ Philadelphia Eagles,player_sacks,Alex Highsmith,Over,0.5,,,145.0,,,120.0,,110.0,120.0,,0.418812117446531,2.45
+fanduel,850.0,0.200828157349896,New England Patriots @ Arizona Cardinals,player_tds_over,Rhamondre Stevenson,Over,1.5,500.0,,500.0,,,,850.0,,,,0.126402963931568,9.5
+fanduel,490.0,0.10456026414655595,Cincinnati Bengals @ Tennessee Titans,player_tds_over,Chase Brown,Over,1.5,370.0,375.0,250.0,320.0,,,490.0,,425.0,,0.1872136040926366,5.9
+betonlineag,-114.0,0.002804048477664578,Pittsburgh Steelers @ Philadelphia Eagles,player_sacks,T.J. Watt,Over,0.5,,,-114.0,,,-135.0,,-150.0,-140.0,,0.5342040258245503,1.8771929824561404
+fliff,120.0,-0.03471138854899469,Buffalo Bills @ Detroit Lions,player_anytime_td,Amon-Ra St. Brown,Yes,,-117.0,100.0,-111.0,100.0,-110.0,-110.0,100.0,120.0,125.0,,0.4387675506595478,2.2
+hardrockbet,350.0,0.06168580425439818,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Justin Herbert,Yes,,270.0,400.0,220.0,185.0,220.0,200.0,290.0,335.0,350.0,,0.2359301787231996,4.5
+hardrockbet,220.0,0.003951740497341483,Atlanta Falcons @ Las Vegas Raiders,player_anytime_td,Brock Bowers,Yes,,160.0,,160.0,162.0,165.0,150.0,,210.0,220.0,,0.3137349189054192,3.2
+bovada,2500.0,0.8637566137566115,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Ryan Miller,Yes,,1700.0,1500.0,650.0,2500.0,650.0,,1300.0,,,,0.0716829466829466,26.0
+fanduel,950.0,0.3104102199554555,Buffalo Bills @ Detroit Lions,player_anytime_td,Curtis Samuel,Yes,,525.0,650.0,550.0,500.0,550.0,600.0,950.0,570.0,600.0,,0.124800973329091,10.5
+betmgm,1100.0,0.32804907419213125,Tampa Bay Buccaneers @ Los Angeles Chargers,player_tds_over,Rachaad White,Over,1.5,800.0,1100.0,450.0,,,,700.0,,650.0,,0.1106707561826776,12.0
+betonlineag,140.0,-0.02618379756709588,Miami Dolphins @ Houston Texans,player_anytime_td,Nico Collins,Yes,,102.0,130.0,140.0,110.0,140.0,110.0,120.0,105.0,105.0,,0.40575675101371,2.4
+draftkings,140.0,-0.02618379756709588,Miami Dolphins @ Houston Texans,player_anytime_td,Nico Collins,Yes,,102.0,130.0,140.0,110.0,140.0,110.0,120.0,105.0,105.0,,0.40575675101371,2.4
+betmgm,1500.0,0.4932777077268735,Cincinnati Bengals @ Tennessee Titans,player_tds_over,Tee Higgins,Over,1.5,850.0,1500.0,850.0,500.0,,,950.0,,800.0,,0.0933298567329296,16.0
+betmgm,2500.0,0.946548517052836,Miami Dolphins @ Houston Texans,player_anytime_td,Julian Hill,Yes,,1200.0,2500.0,1000.0,900.0,1000.0,1000.0,1100.0,815.0,1000.0,,0.0748672506558783,26.0
+ballybet,125.0,-0.03416722552439222,Tampa Bay Buccaneers @ Los Angeles Chargers,player_anytime_td,Gus Edwards,Yes,,125.0,-125.0,-125.0,-121.0,-125.0,-110.0,130.0,135.0,140.0,,0.4292590108780479,2.25
+fanduel,900.0,0.2837093136685178,Buffalo Bills @ Detroit Lions,player_anytime_td,Ty Johnson,Yes,,750.0,550.0,500.0,500.0,500.0,550.0,900.0,540.0,575.0,,0.1283709313668518,10.0
+windcreek,625.0,0.17060452554145922,Green Bay Packers @ Seattle Seahawks,player_1st_td,Zach Charbonnet,Yes,,450.0,550.0,,200.0,550.0,450.0,600.0,425.0,450.0,625.0,0.1614626931781323,7.25
+windcreek,1100.0,0.3646070847079712,Kansas City Chiefs @ Cleveland Browns,player_1st_td,Nick Chubb,Yes,,700.0,800.0,,330.0,900.0,800.0,800.0,570.0,600.0,1100.0,0.1137172570589976,12.0
+ballybet,140.0,0.03827946544046923,Pittsburgh Steelers @ Philadelphia Eagles,player_pass_interceptions,Jalen Hurts,Over,0.5,140.0,115.0,112.0,115.0,115.0,115.0,,110.0,115.0,,0.4326164439335289,2.4
+windcreek,450.0,0.09498463519982481,Dallas Cowboys @ Carolina Panthers,player_1st_td,Chuba Hubbard,Yes,,300.0,,,330.0,390.0,350.0,340.0,310.0,325.0,450.0,0.1990881154908772,5.5
+ballybet,140.0,0.036575806607274775,Washington Commanders @ New Orleans Saints,player_receptions,Alvin Kamara,Over,4.5,140.0,115.0,110.0,,115.0,115.0,,110.0,115.0,,0.4319065860863645,2.4

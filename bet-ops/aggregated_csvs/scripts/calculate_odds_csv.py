@@ -212,6 +212,9 @@ if __name__ == '__main__':
             # Load the JSON data
             with open(file, 'r') as f:
                 data = json.load(f)
+                # skip if empty
+                if not data['bookmakers']:
+                    continue
                 df = process_json(data)
                 if len(dfs) == 0:
                     dfs.append(df)
