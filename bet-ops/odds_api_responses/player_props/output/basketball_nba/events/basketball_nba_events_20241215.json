@@ -1,0 +1,65 @@
+[
+    {
+        "id": "d39aa4878e703e91b1aa9e62e785375a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-15T22:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "New Orleans Pelicans",
+        "date": "20241215"
+    },
+    {
+        "id": "d06ca60172ba8aa0a163912aef82c90c",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-15T23:10:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Boston Celtics",
+        "date": "20241215"
+    },
+    {
+        "id": "a4bdbd45f909b1f12bcb318d61e628ca",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-15T23:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "New York Knicks",
+        "date": "20241215"
+    },
+    {
+        "id": "e45d417f345d21a702da9414af2aee73",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-16T00:10:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20241215"
+    },
+    {
+        "id": "0410ba016f5c48252bf26ebb09e5f08a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-16T01:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Portland Trail Blazers",
+        "date": "20241215"
+    },
+    {
+        "id": "2ed631812e25779f3ad3703ec54656b5",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-16T01:40:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Dallas Mavericks",
+        "date": "20241215"
+    },
+    {
+        "id": "dcd0da92bf3c4f3a97d2023b9ac14ae8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-16T02:40:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Memphis Grizzlies",
+        "date": "20241215"
+    }
+]
