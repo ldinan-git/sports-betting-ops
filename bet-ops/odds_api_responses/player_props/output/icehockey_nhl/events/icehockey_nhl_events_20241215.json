@@ -1,0 +1,47 @@
+[
+    {
+        "id": "d51e51d10f2cde86857f1d48fa1f6cdc",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-15T20:00:00Z",
+        "home_team": "Chicago Blackhawks",
+        "away_team": "New York Islanders",
+        "date": "20241215"
+    },
+    {
+        "id": "2a8b39ad2b9d31c09b937f944e4b5ab0",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-15T22:00:00Z",
+        "home_team": "Toronto Maple Leafs",
+        "away_team": "Buffalo Sabres",
+        "date": "20241215"
+    },
+    {
+        "id": "483fd39383aa4ce22459ad7e3ba8dc49",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-15T22:00:00Z",
+        "home_team": "Carolina Hurricanes",
+        "away_team": "Columbus Blue Jackets",
+        "date": "20241215"
+    },
+    {
+        "id": "8025d0396ecac402e60066105af07a7f",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-15T23:00:00Z",
+        "home_team": "Minnesota Wild",
+        "away_team": "Vegas Golden Knights",
+        "date": "20241215"
+    },
+    {
+        "id": "2362033b13c1620e776dc365058e6540",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-15T23:00:00Z",
+        "home_team": "St Louis Blues",
+        "away_team": "New York Rangers",
+        "date": "20241215"
+    }
+]

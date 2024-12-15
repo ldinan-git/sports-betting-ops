@@ -1,0 +1,94 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+betonlineag,186.0,0.07754780118710336,Buffalo Sabres @ Toronto Maple Leafs,player_shots_on_goal,Max Pacioretty,Over,2.5,,140.0,186.0,150.0,150.0,135.0,150.0,135.0,140.0,0.3767649654500361,2.8600000000000003
+draftkings,425.0,0.10127925300708263,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Eric Robinson,Yes,,230.0,350.0,,230.0,425.0,380.0,330.0,355.0,350.0,0.2097674767632538,5.25
+ballybet,110.0,0.03427904488517852,New York Rangers @ St Louis Blues,player_shots_on_goal,Mika Zibanejad,Over,2.5,110.0,-120.0,-112.0,-115.0,-115.0,-118.0,-106.0,-120.0,-115.0,0.492513830897704,2.1
+fanduel,310.0,0.0715934364832318,Columbus Blue Jackets @ Carolina Hurricanes,player_goals,Sean Monahan,Over,0.5,,,,,,240.0,310.0,225.0,230.0,0.2613642528007883,4.1
+ballybet,-250.0,-0.01827063017615982,Buffalo Sabres @ Toronto Maple Leafs,player_power_play_points,Auston Matthews,Under,0.5,-250.0,-350.0,,,,-320.0,,-340.0,,0.7012352641598858,1.4
+ballybet,-124.0,0.0152992888607697,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Sebastian Aho,Over,2.5,-124.0,-155.0,-149.0,-150.0,-148.0,-160.0,-164.0,-165.0,-155.0,0.562040677762212,1.806451612903225
+fanduel,320.0,0.07027969877611961,Columbus Blue Jackets @ Carolina Hurricanes,player_goals,Kirill Marchenko,Over,0.5,,,,,,250.0,320.0,235.0,240.0,0.2548284997085999,4.2
+fanduel,200.0,0.021719897641047425,Vegas Golden Knights @ Minnesota Wild,player_goals,Jack Eichel,Over,0.5,,,,,,160.0,200.0,155.0,160.0,0.3405732992136824,3.0
+betmgm,450.0,0.08352426877946728,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jesperi Kotkaniemi,Yes,,270.0,450.0,,270.0,340.0,340.0,420.0,315.0,325.0,0.1970044125053577,5.5
+ballybet,-143.0,0.007223882723877528,New York Islanders @ Chicago Blackhawks,player_shots_on_goal,Tyler Bertuzzi,Over,1.5,-143.0,-185.0,-172.0,-175.0,-175.0,-180.0,-174.0,-190.0,-180.0,0.5927284577346276,1.6993006993006992
+betmgm,850.0,0.22349422860931822,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Adam Fox,Yes,,410.0,850.0,,400.0,600.0,600.0,800.0,530.0,550.0,0.1287888661694019,9.5
+fanduel,110.0,-0.01487314874349821,Buffalo Sabres @ Toronto Maple Leafs,player_goals,Auston Matthews,Over,0.5,,,,,,-110.0,110.0,-115.0,-110.0,0.4691080244078579,2.1
+fanduel,220.0,0.025633667205134603,New York Rangers @ St Louis Blues,player_goals,Jordan Kyrou,Over,0.5,,,,,,175.0,220.0,175.0,175.0,0.3205105210016045,3.2
+fanduel,-114.0,0.011407335657578344,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Adam Fantilli,Over,1.5,-150.0,-140.0,-133.0,-135.0,-135.0,-140.0,-114.0,-145.0,-140.0,0.5387870853502987,1.8771929824561404
+ballybet,140.0,0.0315594276967095,Vegas Golden Knights @ Minnesota Wild,player_shots_on_goal,Jack Eichel,Over,3.5,140.0,115.0,117.0,115.0,115.0,110.0,120.0,110.0,115.0,0.4298164282069623,2.4
+draftkings,450.0,0.04405558209906024,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Brandon Saad,Yes,,290.0,,,290.0,450.0,400.0,,390.0,400.0,0.1898282876543746,5.5
+fanduel,350.0,0.05654412691447963,Columbus Blue Jackets @ Carolina Hurricanes,player_goals,Kent Johnson,Over,0.5,,,,,,275.0,350.0,260.0,275.0,0.2347875837587732,4.5
+fanduel,112.0,0.01456722885850037,New York Rangers @ St Louis Blues,player_shots_on_goal,Colton Parayko,Under,1.5,,-110.0,101.0,-105.0,-105.0,-114.0,112.0,-115.0,-110.0,0.4785694475747643,2.12
+ballybet,120.0,0.019580544447678205,Buffalo Sabres @ Toronto Maple Leafs,player_shots_on_goal,Alex Tuch,Over,2.5,120.0,100.0,102.0,100.0,100.0,-102.0,-102.0,-105.0,100.0,0.4634457020216719,2.2
+fanduel,-140.0,-0.0025710213549799965,New York Rangers @ St Louis Blues,player_shots_on_goal,Adam Fox,Over,1.5,,-175.0,-164.0,-165.0,-168.0,-175.0,-140.0,-180.0,-170.0,0.5818335708762616,1.7142857142857144
+betmgm,800.0,0.1771665187814251,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,Alexander Holtz,Yes,,390.0,800.0,,380.0,600.0,600.0,800.0,540.0,550.0,0.1307962798646028,9.0
+fanduel,800.0,0.1771665187814251,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,Alexander Holtz,Yes,,390.0,800.0,,380.0,600.0,600.0,800.0,540.0,550.0,0.1307962798646028,9.0
+fanduel,340.0,0.04629148364914282,Vegas Golden Knights @ Minnesota Wild,player_goals,William Karlsson,Over,0.5,,,,,,275.0,340.0,260.0,260.0,0.2377935190111688,4.4
+betmgm,290.0,-0.004137577752041377,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Mika Zibanejad,Yes,,188.0,290.0,,185.0,270.0,250.0,280.0,240.0,240.0,0.2553493390379381,3.9
+fanduel,360.0,0.051965282255762135,Vegas Golden Knights @ Minnesota Wild,player_goals,Ivan Barbashev,Over,0.5,,,,,,290.0,360.0,280.0,275.0,0.2286881048382092,4.6
+betmgm,750.0,0.14328183893401314,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Noah Dobson,Yes,,410.0,750.0,,400.0,550.0,500.0,750.0,485.0,500.0,0.1345037457569427,8.5
+fanduel,750.0,0.14328183893401314,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Noah Dobson,Yes,,410.0,750.0,,400.0,550.0,500.0,750.0,485.0,500.0,0.1345037457569427,8.5
+fanduel,800.0,0.15909979552461717,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Adam Fox,Yes,,410.0,850.0,,400.0,600.0,600.0,800.0,530.0,550.0,0.1287888661694019,9.0
+ballybet,140.0,0.02066399265298635,Buffalo Sabres @ Toronto Maple Leafs,player_shots_on_goal,Auston Matthews,Over,4.5,140.0,115.0,120.0,120.0,120.0,115.0,122.0,110.0,115.0,0.425276663605411,2.4
+fanduel,116.0,0.009132781421137826,Vegas Golden Knights @ Minnesota Wild,player_shots_on_goal,Matt Boldy,Over,3.5,100.0,-105.0,107.0,100.0,100.0,-106.0,116.0,-110.0,-105.0,0.4671911025097859,2.16
+ballybet,-157.0,-0.008258155961437308,Vegas Golden Knights @ Minnesota Wild,player_shots_on_goal,Mark Stone,Over,1.5,-157.0,-190.0,-185.0,-185.0,-182.0,-190.0,-188.0,-200.0,-190.0,0.6058500759301726,1.6369426751592355
+ballybet,-335.0,-0.02885041540984823,Vegas Golden Knights @ Minnesota Wild,player_power_play_points,Shea Theodore,Under,0.5,-335.0,-400.0,,,,-450.0,,-455.0,,0.7478968065234503,1.2985074626865671
+draftkings,800.0,0.14492753623188448,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,Pontus Holmberg,Yes,,380.0,700.0,,380.0,800.0,750.0,700.0,670.0,700.0,0.1272141706924316,9.0
+draftkings,425.0,0.02302944060919554,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,Bobby McMann,Yes,,275.0,390.0,,280.0,425.0,,410.0,,,0.1948627505922277,5.25
+betmgm,110.0,-0.06675523668188088,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,Auston Matthews,Yes,,-118.0,110.0,,-118.0,-105.0,-110.0,110.0,-115.0,-110.0,0.4444022682467233,2.1
+fanduel,110.0,-0.06675523668188088,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,Auston Matthews,Yes,,-118.0,110.0,,-118.0,-105.0,-110.0,110.0,-115.0,-110.0,0.4444022682467233,2.1
+betmgm,375.0,0.01143775861717522,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Kent Johnson,Yes,,275.0,375.0,,275.0,300.0,275.0,350.0,260.0,275.0,0.2129342649720369,4.75
+fanduel,420.0,0.024422945027860132,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jesperi Kotkaniemi,Yes,,270.0,450.0,,270.0,340.0,340.0,420.0,315.0,325.0,0.1970044125053577,5.2
+draftkings,240.0,-0.029782396191933458,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Kyle Palmieri,Yes,,175.0,220.0,,175.0,240.0,210.0,210.0,205.0,200.0,0.2853581187670784,3.4
+fanduel,116.0,0.005446688492088736,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Brent Burns,Over,2.5,110.0,-105.0,106.0,100.0,100.0,-106.0,116.0,-110.0,-105.0,0.4654845780055966,2.16
+ballybet,140.0,0.014510941781412434,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Kirill Marchenko,Over,2.5,140.0,120.0,120.0,120.0,120.0,115.0,122.0,115.0,120.0,0.4227128924089219,2.4
+fanduel,135.0,-0.024448820016332418,Buffalo Sabres @ Toronto Maple Leafs,player_goals,William Nylander,Over,0.5,,,,,,120.0,135.0,110.0,115.0,0.4151281616951777,2.35
+draftkings,600.0,0.07107323096102913,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Tyson Jost,Yes,,320.0,550.0,,320.0,600.0,600.0,550.0,540.0,550.0,0.1530104615658613,7.0
+ballybet,-235.0,-0.029134709436183126,Buffalo Sabres @ Toronto Maple Leafs,player_power_play_points,Mitch Marner,Under,0.5,-235.0,-275.0,,,,-280.0,,-305.0,,0.6810547560671552,1.425531914893617
+fanduel,260.0,-0.02831596545420778,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Connor Bedard,Yes,,185.0,250.0,,185.0,230.0,230.0,260.0,220.0,220.0,0.2699122318182756,3.6
+draftkings,475.0,0.03244821098660111,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jordan Staal,Yes,,320.0,350.0,,320.0,475.0,450.0,370.0,445.0,450.0,0.1795562106063654,5.75
+fanduel,175.0,-0.014922891212639455,Vegas Golden Knights @ Minnesota Wild,player_goals,Matt Boldy,Over,0.5,,,,,,150.0,175.0,145.0,150.0,0.3582098577408584,2.75
+fanduel,370.0,0.035777911301969834,New York Islanders @ Chicago Blackhawks,player_goals,Tyler Bertuzzi,Over,0.5,,,,,,300.0,370.0,295.0,300.0,0.2203782790004191,4.7
+betmgm,230.0,-0.04026408889978872,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Brock Nelson,Yes,,170.0,230.0,,170.0,210.0,190.0,220.0,190.0,190.0,0.290829063969761,3.3
+ballybet,250.0,0.008528878707826815,New York Rangers @ St Louis Blues,player_power_play_points,Robert Thomas,Over,0.5,250.0,220.0,,,,210.0,,205.0,220.0,0.2881511082022362,3.5
+fanduel,200.0,-0.0112119642637305,Buffalo Sabres @ Toronto Maple Leafs,player_goals,John Tavares,Over,0.5,,,,,,175.0,200.0,165.0,170.0,0.3295960119120898,3.0
+fanduel,250.0,0.0020396267085602826,New York Rangers @ St Louis Blues,player_goals,Robert Thomas,Over,0.5,,,,,,210.0,250.0,210.0,210.0,0.2862970362024458,3.5
+betmgm,425.0,0.009730775908733613,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Dmitri Voronkov,Yes,,340.0,425.0,,340.0,330.0,300.0,340.0,285.0,300.0,0.1923296716016635,5.25
+ballybet,325.0,0.028416468150515906,Buffalo Sabres @ Toronto Maple Leafs,player_power_play_points,Tage Thompson,Over,0.5,325.0,280.0,,,,275.0,,260.0,275.0,0.2419803454471802,4.25
+fanduel,280.0,-0.029672511655835287,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Mika Zibanejad,Yes,,188.0,290.0,,185.0,270.0,250.0,280.0,240.0,240.0,0.2553493390379381,3.8
+fanduel,200.0,-0.05106869234175582,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,Jack Eichel,Yes,,160.0,195.0,,160.0,175.0,160.0,200.0,155.0,160.0,0.3163104358860814,3.0
+ballybet,-235.0,-0.032710491950728615,New York Rangers @ St Louis Blues,player_power_play_points,Adam Fox,Under,0.5,-235.0,-275.0,,,,-280.0,,-290.0,,0.6785463713181457,1.425531914893617
+betmgm,250.0,-0.03829759328480553,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Alexis Lafrenière,Yes,,180.0,250.0,,180.0,240.0,210.0,240.0,205.0,210.0,0.2747721162043413,3.5
+fanduel,380.0,-0.004669837562437218,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,William Karlsson,Yes,,310.0,350.0,,300.0,295.0,275.0,380.0,260.0,260.0,0.2073604505078256,4.8
+ballybet,-106.0,-0.010595338232398333,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Seth Jarvis,Over,2.5,-106.0,-125.0,-119.0,-120.0,-120.0,-125.0,-122.0,-130.0,-120.0,0.5091111366376979,1.9433962264150944
+draftkings,450.0,0.010520946348226978,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jackson Blake,Yes,,320.0,375.0,,320.0,450.0,400.0,360.0,385.0,400.0,0.1837310811542231,5.5
+fanduel,410.0,-0.00619997197963873,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,Bobby McMann,Yes,,275.0,390.0,,280.0,425.0,,410.0,,,0.1948627505922277,5.1
+draftkings,425.0,0.0019717368271541247,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Will Cuylle,Yes,,325.0,333.0,,325.0,425.0,380.0,330.0,360.0,350.0,0.1908517593956484,5.25
+betmgm,340.0,-0.020231854388251258,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,Mats Zuccarello,Yes,,245.0,340.0,,245.0,300.0,290.0,330.0,270.0,275.0,0.2226745785481247,4.4
+fanduel,950.0,0.13216822961068408,New York Rangers @ St Louis Blues,player_goal_scorer_anytime,Mathieu Joseph,Yes,,525.0,900.0,,525.0,750.0,700.0,950.0,615.0,650.0,0.107825545677208,10.5
+ballybet,-215.0,-0.03524349918686287,New York Rangers @ St Louis Blues,player_power_play_points,Artemi Panarin,Under,0.5,-215.0,-250.0,,,,-250.0,,-260.0,,0.6584845957930936,1.4651162790697674
+betmgm,145.0,-0.0695910781234752,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,William Nylander,Yes,,128.0,145.0,,130.0,120.0,120.0,135.0,110.0,115.0,0.3797587436230713,2.45
+betmgm,300.0,-0.03590597045974642,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jack Roslovic,Yes,,230.0,300.0,,230.0,275.0,,280.0,,,0.2410235073850634,4.0
+fanduel,950.0,0.12721417069243124,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Kevin Labanc,Yes,,575.0,600.0,,575.0,800.0,750.0,950.0,695.0,750.0,0.1073537305421363,10.5
+ballybet,110.0,-0.00786345491743723,Buffalo Sabres @ Toronto Maple Leafs,player_shots_on_goal,William Nylander,Over,3.5,110.0,-105.0,-101.0,-105.0,-105.0,-106.0,104.0,-110.0,-105.0,0.4724459738488394,2.1
+betmgm,350.0,-0.020433461375369277,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Sean Monahan,Yes,,320.0,350.0,,320.0,265.0,240.0,310.0,225.0,230.0,0.2176814530276957,4.5
+draftkings,160.0,-0.06909504249657694,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Sebastian Aho,Yes,,120.0,150.0,,120.0,160.0,150.0,160.0,145.0,150.0,0.3580403682705473,2.6
+fanduel,160.0,-0.06909504249657694,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Sebastian Aho,Yes,,120.0,150.0,,120.0,160.0,150.0,160.0,145.0,150.0,0.3580403682705473,2.6
+ballybet,115.0,-0.008392233503142443,Columbus Blue Jackets @ Carolina Hurricanes,player_shots_on_goal,Adam Fantilli,Under,1.5,115.0,105.0,103.0,105.0,105.0,103.0,-114.0,-105.0,105.0,0.4612129146497012,2.15
+draftkings,300.0,-0.036081537312600775,Buffalo Sabres @ Toronto Maple Leafs,player_goal_scorer_anytime,JJ Peterka,Yes,,225.0,250.0,,230.0,300.0,275.0,280.0,260.0,260.0,0.2409796156718498,4.0
+fanduel,220.0,-0.016468420047944354,New York Islanders @ Chicago Blackhawks,player_goals,Brock Nelson,Over,0.5,,,,,,190.0,220.0,190.0,190.0,0.3073536187350174,3.2
+betmgm,333.0,-0.02944096312768152,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Kirill Marchenko,Yes,,275.0,333.0,,275.0,265.0,250.0,320.0,235.0,240.0,0.2241475835732837,4.33
+betmgm,500.0,0.008337050981179983,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Cole Sillinger,Yes,,410.0,500.0,,400.0,390.0,360.0,430.0,335.0,350.0,0.16805617516353,6.0
+fanduel,330.0,0.005862866559254498,New York Islanders @ Chicago Blackhawks,player_goals,Ryan Donato,Over,0.5,,,,,,290.0,330.0,270.0,275.0,0.2339215968742452,4.3
+ballybet,105.0,-0.015972401954727933,New York Islanders @ Chicago Blackhawks,player_shots_on_goal,Kyle Palmieri,Over,2.5,105.0,-110.0,-103.0,-105.0,-105.0,-110.0,-108.0,-115.0,-110.0,0.4800134624611084,2.05
+draftkings,650.0,0.04132752684262542,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Ilya Mikheyev,Yes,,450.0,475.0,,450.0,650.0,650.0,490.0,575.0,600.0,0.1388436702456834,7.5
+fanduel,260.0,-0.009949943791665583,New York Islanders @ Chicago Blackhawks,player_goals,Connor Bedard,Over,0.5,,,,,,230.0,260.0,220.0,220.0,0.2750139045023151,3.6
+fanduel,-118.0,-0.018643508775154416,Vegas Golden Knights @ Minnesota Wild,player_shots_on_goal,Noah Hanifin,Over,1.5,,-135.0,-130.0,-135.0,-135.0,-134.0,-118.0,-140.0,-130.0,0.531192963140054,1.847457627118644
+fanduel,340.0,0.006354386883488772,Buffalo Sabres @ Toronto Maple Leafs,player_goals,Dylan Cozens,Over,0.5,,,,,,300.0,340.0,285.0,275.0,0.2287169061098838,4.4
+fanduel,650.0,0.04077082337951898,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Lukas Reichel,Yes,,420.0,600.0,,420.0,550.0,550.0,650.0,485.0,500.0,0.1387694431172692,7.5
+ballybet,450.0,0.039770021315990944,New York Islanders @ Chicago Blackhawks,player_power_play_points,Brock Nelson,Over,0.5,450.0,375.0,,,,375.0,,360.0,375.0,0.1890490947847256,5.5
+fanduel,-114.0,-0.020679999549708672,Vegas Golden Knights @ Minnesota Wild,player_shots_on_goal,Kirill Kaprizov,Over,3.5,-124.0,-135.0,-123.0,-125.0,-125.0,-130.0,-114.0,-150.0,-125.0,0.5216938320155757,1.8771929824561404
+draftkings,750.0,0.061435291126366476,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Casey Cizikas,Yes,,410.0,700.0,,400.0,750.0,700.0,750.0,645.0,700.0,0.1248747401325137,8.5
+fanduel,750.0,0.061435291126366476,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Casey Cizikas,Yes,,410.0,700.0,,400.0,750.0,700.0,750.0,645.0,700.0,0.1248747401325137,8.5
+draftkings,350.0,-0.02888959050211093,New York Islanders @ Chicago Blackhawks,player_goal_scorer_anytime,Jean-Gabriel Pageau,Yes,,245.0,340.0,,245.0,350.0,320.0,330.0,305.0,300.0,0.2158023132217531,4.5
+fanduel,360.0,-0.028029547836311286,Vegas Golden Knights @ Minnesota Wild,player_goal_scorer_anytime,Ivan Barbashev,Yes,,275.0,350.0,,275.0,320.0,290.0,360.0,280.0,275.0,0.2112979243834106,4.6
+betmgm,1000.0,0.11352657004830902,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jalen Chatfield,Yes,,500.0,1000.0,,500.0,900.0,800.0,1000.0,795.0,900.0,0.1012296881862099,11.0
+fanduel,1000.0,0.11352657004830902,Columbus Blue Jackets @ Carolina Hurricanes,player_goal_scorer_anytime,Jalen Chatfield,Yes,,500.0,1000.0,,500.0,900.0,800.0,1000.0,795.0,900.0,0.1012296881862099,11.0
