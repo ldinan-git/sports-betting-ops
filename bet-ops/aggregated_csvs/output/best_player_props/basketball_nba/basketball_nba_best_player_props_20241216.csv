@@ -1,0 +1,88 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+ballybet,128.0,0.062140744417813476,Utah Jazz @ Los Angeles Clippers,player_steals,Ivica Zubac,Under,0.5,128.0,-105.0,,,-110.0,,-110.0,-105.0,0.4658512036920235,2.28
+ballybet,133.0,0.0661335049823788,Philadelphia 76ers @ Charlotte Hornets,player_points,Andre Drummond,Under,9.5,133.0,100.0,-105.0,,100.0,,-105.0,100.0,0.4575680278894329,2.33
+fanduel,-160.0,-0.02106286474333141,Miami Heat @ Detroit Pistons,player_double_double,Bam Adebayo,Yes,,-200.0,-210.0,,-270.0,-180.0,-160.0,-215.0,-220.0,0.6024228524656422,1.625
+ballybet,123.0,0.0441420909335668,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,Nikola Vucevic,Under,31.5,123.0,-105.0,-110.0,,,,-110.0,-105.0,0.4682251528850075,2.23
+ballybet,225.0,0.05277640492206093,Chicago Bulls @ Toronto Raptors,player_double_double,R.J. Barrett,Yes,,225.0,175.0,,175.0,165.0,160.0,165.0,165.0,0.3239312015144803,3.25
+betonlineag,110.0,0.026761283077745945,Miami Heat @ Detroit Pistons,player_points_rebounds_assists,Jalen Duren,Under,20.5,,-105.0,110.0,,,,-130.0,-115.0,0.4889339443227362,2.1
+ballybet,116.0,0.03819113705434174,Denver Nuggets @ Sacramento Kings,player_threes,Michael Porter Jr,Over,2.5,116.0,-110.0,-110.0,-110.0,-110.0,100.0,-115.0,-115.0,0.4806440449325656,2.16
+betonlineag,115.0,0.03932156715465562,Utah Jazz @ Los Angeles Clippers,player_points,Lauri Markkanen,Over,19.5,-112.0,-110.0,115.0,-115.0,-110.0,-104.0,-115.0,-110.0,0.4834053800719329,2.15
+draftkings,-125.0,-0.0022540571638923756,Miami Heat @ Detroit Pistons,player_turnovers,Tyler Herro,Under,2.5,,-155.0,,-125.0,-160.0,,-165.0,,0.5543033015756154,1.8
+fanduel,-102.0,0.02947222868742605,Utah Jazz @ Los Angeles Clippers,player_rebounds,Keyonte George,Under,2.5,-115.0,-135.0,-122.0,-130.0,-125.0,-102.0,-140.0,-140.0,0.5198325115154331,1.9803921568627447
+ballybet,1000.0,0.3786128877259476,Denver Nuggets @ Sacramento Kings,player_double_double,Jamal Murray,Yes,,1000.0,,,600.0,475.0,550.0,570.0,575.0,0.1253284443387225,11.0
+ballybet,117.0,0.03599588719628333,Chicago Bulls @ Toronto Raptors,player_rebounds,Zach LaVine,Under,3.5,117.0,-110.0,-106.0,-105.0,-110.0,104.0,-115.0,-115.0,0.4774174595374578,2.17
+ballybet,112.0,0.032820843612950235,Chicago Bulls @ Toronto Raptors,player_points,Nikola Vucevic,Under,18.5,112.0,-110.0,-112.0,-105.0,-115.0,,-120.0,-115.0,0.4871796432136557,2.12
+ballybet,290.0,0.06145133732120556,Miami Heat @ Detroit Pistons,player_double_double,Jalen Duren,Yes,,290.0,210.0,,250.0,230.0,210.0,210.0,200.0,0.2721670095695399,3.9
+ballybet,116.0,0.017311698958195065,Miami Heat @ Detroit Pistons,player_blocks_steals,Jalen Duren,Over,1.5,116.0,-105.0,,,-110.0,,-115.0,-105.0,0.4709776384065717,2.16
+fanduel,-185.0,-0.04332423575885325,Chicago Bulls @ Toronto Raptors,player_double_double,Jakob Poeltl,Yes,,-278.0,-250.0,,-210.0,-225.0,-185.0,-240.0,-240.0,0.6210000574898672,1.5405405405405406
+espnbet,-115.0,0.005473953953845756,Philadelphia 76ers @ Charlotte Hornets,player_rebounds_assists,Guerschon Yabusele,Under,7.5,,-150.0,,,-115.0,,-155.0,-145.0,0.5378116497892664,1.869565217391304
+ballybet,114.0,0.02588209803070174,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,Ayo Dosunmu,Over,23.5,114.0,-110.0,-101.0,-105.0,,,-115.0,-110.0,0.4793841579582718,2.14
+betonlineag,106.0,0.012971033547839683,Utah Jazz @ Los Angeles Clippers,player_points_rebounds_assists,Ivica Zubac,Under,27.5,,-120.0,106.0,,,,-125.0,-120.0,0.4917335114309901,2.06
+fanduel,108.0,0.022825078564539858,Chicago Bulls @ Toronto Raptors,player_rebounds_assists,Ayo Dosunmu,Over,8.5,100.0,-120.0,,-110.0,-120.0,108.0,-130.0,-105.0,0.4917428262329518,2.08
+ballybet,-103.0,0.019308163842463033,Philadelphia 76ers @ Charlotte Hornets,player_rebounds,Andre Drummond,Under,11.5,-103.0,-130.0,-125.0,-130.0,-125.0,-122.0,-135.0,-130.0,0.5171859156442054,1.970873786407767
+ballybet,-105.0,0.01900623665495127,Philadelphia 76ers @ Charlotte Hornets,player_threes,LaMelo Ball,Under,3.5,-105.0,-140.0,-114.0,-120.0,-135.0,-118.0,-145.0,-145.0,0.521930023652536,1.9523809523809523
+betonlineag,104.0,0.017146124482068537,Cleveland Cavaliers @ Brooklyn Nets,player_points_rebounds_assists,Caris LeVert,Over,19.5,,-120.0,104.0,-125.0,-115.0,,-125.0,-115.0,0.4986010414127787,2.04
+fanduel,-128.0,0.009679913604711654,Denver Nuggets @ Sacramento Kings,player_threes,Nikola Jokic,Over,1.5,-150.0,-160.0,-154.0,-160.0,-160.0,-128.0,-170.0,-165.0,0.5668378462342241,1.78125
+ballybet,650.0,0.19859359186411174,Cleveland Cavaliers @ Brooklyn Nets,player_double_double,Darius Garland,Yes,,650.0,475.0,,425.0,400.0,370.0,450.0,450.0,0.1598124789152149,7.5
+espnbet,130.0,-0.01660869723951841,Philadelphia 76ers @ Charlotte Hornets,player_double_double,Andre Drummond,Yes,,-105.0,115.0,,100.0,130.0,105.0,110.0,110.0,0.4275614359828181,2.3
+fanduel,140.0,0.030498300696727543,Miami Heat @ Detroit Pistons,player_steals,Jimmy Butler,Over,1.5,112.0,115.0,,124.0,110.0,140.0,105.0,115.0,0.4293742919569698,2.4
+fanduel,-360.0,-0.06113204767472635,Denver Nuggets @ Sacramento Kings,player_double_double,Domantas Sabonis,Yes,,-715.0,-450.0,,-500.0,-450.0,-360.0,-465.0,-475.0,0.7347662235589099,1.2777777777777777
+ballybet,-110.0,0.0132053819609953,Chicago Bulls @ Toronto Raptors,player_rebounds_assists,R.J. Barrett,Over,13.5,-110.0,-140.0,,-125.0,-135.0,-122.0,-145.0,-140.0,0.5307266286462357,1.9090909090909087
+hardrockbet,110.0,0.015734858747538105,Utah Jazz @ Los Angeles Clippers,player_points_rebounds_assists,James Harden,Under,35.5,-115.0,-115.0,100.0,-110.0,,,-125.0,110.0,0.4836832660702562,2.1
+ballybet,106.0,0.018618113858092755,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,Coby White,Under,26.5,106.0,-115.0,-115.0,-115.0,-115.0,-104.0,-125.0,-115.0,0.4944748125524722,2.06
+ballybet,140.0,0.03053007838803745,Denver Nuggets @ Sacramento Kings,player_assists,Jamal Murray,Over,6.5,140.0,115.0,118.0,114.0,115.0,,110.0,115.0,0.4293875326616823,2.4
+ballybet,500.0,0.11174423826852697,Denver Nuggets @ Sacramento Kings,player_double_double,De'Aaron Fox,Yes,,500.0,,,380.0,330.0,350.0,365.0,350.0,0.1852907063780878,6.0
+ballybet,104.0,0.00260440906307402,Utah Jazz @ Los Angeles Clippers,player_steals,Walker Kessler,Under,0.5,104.0,-115.0,,,-120.0,,-120.0,-115.0,0.4914727495407225,2.04
+fanduel,112.0,0.01744546918981449,Chicago Bulls @ Toronto Raptors,player_rebounds,Ayo Dosunmu,Over,3.5,110.0,-115.0,-103.0,-110.0,-110.0,112.0,-120.0,-120.0,0.479927108108403,2.12
+fanduel,100.0,0.011028281920490768,Philadelphia 76ers @ Charlotte Hornets,player_rebounds,Paul George,Over,5.5,-107.0,-125.0,-116.0,-120.0,-125.0,100.0,-130.0,-130.0,0.5055141409602454,2.0
+ballybet,-113.0,0.007469311371908427,Denver Nuggets @ Sacramento Kings,player_assists,Domantas Sabonis,Under,5.5,-113.0,-150.0,-122.0,-130.0,-130.0,-130.0,-160.0,-140.0,0.5344790243428436,1.8849557522123888
+ballybet,140.0,0.026404024674213322,Chicago Bulls @ Toronto Raptors,player_rebounds,Ochai Agbaji,Under,3.5,140.0,115.0,117.0,114.0,115.0,,110.0,115.0,0.4276683436142555,2.4
+ballybet,-104.0,0.007191295829759081,Chicago Bulls @ Toronto Raptors,player_rebounds,Coby White,Under,3.5,-104.0,-130.0,-120.0,-130.0,-120.0,-113.0,-140.0,-130.0,0.5134700723837987,1.9615384615384617
+ballybet,110.0,0.01411735463777175,Denver Nuggets @ Sacramento Kings,player_points_rebounds_assists,Domantas Sabonis,Under,38.5,110.0,-110.0,-103.0,-110.0,-110.0,,-115.0,-110.0,0.4829130260179865,2.1
+fanduel,112.0,0.014433350253635568,Denver Nuggets @ Sacramento Kings,player_assists,Malik Monk,Over,5.5,100.0,-110.0,-102.0,-105.0,-110.0,112.0,-115.0,-115.0,0.4785062972894507,2.12
+ballybet,104.0,0.011027671703306208,Denver Nuggets @ Sacramento Kings,player_points_rebounds_assists,Nikola Jokic,Over,50.5,104.0,-115.0,-114.0,,-115.0,-115.0,-120.0,-115.0,0.4956017998545618,2.04
+ballybet,280.0,0.027559240143526953,Utah Jazz @ Los Angeles Clippers,player_double_double,John Collins,Yes,,280.0,240.0,,215.0,230.0,180.0,230.0,230.0,0.2704103263535597,3.8
+ballybet,1200.0,0.3343231211504467,Philadelphia 76ers @ Charlotte Hornets,player_first_basket,Mark Williams,Yes,,1200.0,,,650.0,750.0,1100.0,,600.0,0.1026402400884959,13.0
+ballybet,114.0,0.013614245493160482,Chicago Bulls @ Toronto Raptors,player_rebounds_assists,Coby White,Under,7.5,114.0,-105.0,,-110.0,-105.0,108.0,-115.0,-105.0,0.473651516585589,2.14
+ballybet,575.0,0.12760921159419003,Philadelphia 76ers @ Charlotte Hornets,player_double_double,LaMelo Ball,Yes,,575.0,425.0,,425.0,380.0,420.0,420.0,400.0,0.1670532165324726,6.75
+fanduel,-118.0,0.00047890168642250597,Miami Heat @ Detroit Pistons,player_assists,Jimmy Butler,Under,4.5,-148.0,-145.0,-128.0,-130.0,-135.0,-118.0,-155.0,-150.0,0.5415436256834764,1.847457627118644
+ballybet,-108.0,0.0031854037953504832,Chicago Bulls @ Toronto Raptors,player_assists,Zach LaVine,Over,3.5,-108.0,-130.0,-123.0,-110.0,-140.0,-125.0,-135.0,-135.0,0.5208847288937396,1.925925925925926
+fanduel,120.0,0.014368596868821859,Miami Heat @ Detroit Pistons,player_assists,Bam Adebayo,Over,5.5,-103.0,105.0,110.0,100.0,110.0,120.0,-115.0,-110.0,0.4610766349403735,2.2
+draftkings,950.0,0.22824724855617273,Philadelphia 76ers @ Charlotte Hornets,player_first_basket,Kelly Oubre Jr,Yes,,700.0,,,950.0,600.0,850.0,,525.0,0.1169759284339212,10.5
+ballybet,110.0,0.007846927027646444,Chicago Bulls @ Toronto Raptors,player_rebounds,Ayo Dosunmu,Over,3.5,110.0,-115.0,-103.0,-110.0,-110.0,112.0,-120.0,-120.0,0.479927108108403,2.1
+fanduel,102.0,0.005099533266410994,Denver Nuggets @ Sacramento Kings,player_rebounds_assists,Aaron Gordon,Under,8.5,-112.0,-125.0,,-105.0,-105.0,102.0,-130.0,-125.0,0.4975740263695104,2.02
+ballybet,102.0,0.004589550932402875,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,R.J. Barrett,Over,39.5,102.0,-115.0,-114.0,-115.0,-115.0,-120.0,-125.0,-115.0,0.4973215598675261,2.02
+ballybet,750.0,0.17879839973949818,Philadelphia 76ers @ Charlotte Hornets,player_double_double,Paul George,Yes,,750.0,575.0,,500.0,450.0,450.0,545.0,550.0,0.1386821646752351,8.5
+ballybet,102.0,0.0029846570226677027,Denver Nuggets @ Sacramento Kings,player_points,Nikola Jokic,Over,29.5,102.0,-120.0,-109.0,-110.0,-110.0,,-125.0,-120.0,0.4965270579320137,2.02
+hardrockbet,750.0,0.14832865148693442,Cleveland Cavaliers @ Brooklyn Nets,player_first_basket,Jarrett Allen,Yes,,500.0,,,475.0,600.0,500.0,,750.0,0.1350974884102276,8.5
+espnbet,110.0,0.006142069323147092,Chicago Bulls @ Toronto Raptors,player_assists,Zach LaVine,Under,3.5,-124.0,-105.0,-105.0,-120.0,110.0,-102.0,-110.0,-105.0,0.4791152711062605,2.1
+draftkings,750.0,0.14887114265996204,Philadelphia 76ers @ Charlotte Hornets,player_first_basket,Paul George,Yes,,500.0,,,750.0,600.0,500.0,,525.0,0.135161310901172,8.5
+fanduel,-104.0,-0.0013671675163039465,Miami Heat @ Detroit Pistons,player_points_assists,Cade Cunningham,Over,33.5,-112.0,-125.0,,,-125.0,-104.0,-130.0,-125.0,0.5091069342073744,1.9615384615384617
+ballybet,112.0,0.0041570116593064865,Denver Nuggets @ Sacramento Kings,player_points_rebounds_assists,Aaron Gordon,Under,21.5,112.0,-105.0,-102.0,,-105.0,,-110.0,-105.0,0.4736589677638237,2.12
+ballybet,104.0,0.0015489576791977155,Denver Nuggets @ Sacramento Kings,player_points_rebounds_assists,Jamal Murray,Over,28.5,104.0,-115.0,-110.0,,-115.0,-111.0,-120.0,-115.0,0.4909553714113714,2.04
+ballybet,105.0,-0.005769475252268563,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,Zach LaVine,Under,28.5,105.0,-110.0,,,,,-115.0,-110.0,0.4849904998769422,2.05
+ballybet,105.0,-0.002080346819288481,Denver Nuggets @ Sacramento Kings,player_points,Michael Porter Jr,Under,17.5,105.0,-110.0,,-115.0,-110.0,,-120.0,-110.0,0.4867900747222983,2.05
+ballybet,105.0,0.0020879559721749263,Chicago Bulls @ Toronto Raptors,player_points_rebounds_assists,Josh Giddey,Under,25.5,105.0,-115.0,-112.0,-105.0,-115.0,,-120.0,-115.0,0.4888233931571585,2.05
+ballybet,123.0,-0.007354982988146186,Denver Nuggets @ Sacramento Kings,player_blocks,DeMar DeRozan,Over,0.5,123.0,105.0,,,105.0,,100.0,105.0,0.4451322946241497,2.23
+fanduel,100.0,0.0012708384913984183,Denver Nuggets @ Sacramento Kings,player_rebounds_assists,Nikola Jokic,Under,20.5,-124.0,-115.0,,-120.0,-115.0,100.0,-120.0,-115.0,0.5006354192456992,2.0
+ballybet,-103.0,5.373676209474709e-05,Denver Nuggets @ Sacramento Kings,player_points_assists,Jamal Murray,Over,24.5,-103.0,-125.0,,-105.0,-125.0,-113.0,-135.0,-125.0,0.5074164280122944,1.970873786407767
+ballybet,750.0,0.16740964111418855,Utah Jazz @ Los Angeles Clippers,player_double_double,Lauri Markkanen,Yes,,750.0,575.0,,500.0,450.0,490.0,545.0,550.0,0.1373423107193163,8.5
+ballybet,1000.0,0.2466943909202497,Miami Heat @ Detroit Pistons,player_double_double,Jimmy Butler,Yes,,1000.0,700.0,,550.0,650.0,550.0,680.0,700.0,0.1133358537200227,11.0
+draftkings,700.0,0.12772634347695844,Denver Nuggets @ Sacramento Kings,player_first_basket,Michael Porter Jr,Yes,,600.0,,,700.0,500.0,600.0,,450.0,0.1409657929346198,8.0
+draftkings,-120.0,-0.008854078786425856,Miami Heat @ Detroit Pistons,player_threes,Jimmy Butler,Under,0.5,,-145.0,-128.0,-120.0,-140.0,,-150.0,-150.0,0.5406250479346768,1.8333333333333333
+ballybet,107.0,0.001991100003627344,Denver Nuggets @ Sacramento Kings,player_points,Malik Monk,Under,16.5,107.0,-110.0,-110.0,-120.0,-105.0,,-115.0,-105.0,0.4840536714993368,2.0700000000000003
+fanduel,550.0,0.08082070076073067,Cleveland Cavaliers @ Brooklyn Nets,player_first_basket,Donovan Mitchell,Yes,,500.0,,,500.0,400.0,550.0,,350.0,0.1662801078093432,6.5
+ballybet,-104.0,-0.0018424513539904153,Denver Nuggets @ Sacramento Kings,player_threes,Malik Monk,Under,2.5,-104.0,-120.0,-120.0,-130.0,-120.0,-118.0,-130.0,-125.0,0.5088646326430637,1.9615384615384617
+fanduel,-500.0,-0.07255371737105076,Denver Nuggets @ Sacramento Kings,player_double_double,Nikola Jokic,Yes,,-770.0,-650.0,,-600.0,-600.0,-500.0,-695.0,-700.0,0.772871902190791,1.2
+ballybet,102.0,0.0017699749645745388,Chicago Bulls @ Toronto Raptors,player_points,Gradey Dick,Over,19.5,102.0,-120.0,-112.0,-120.0,-110.0,100.0,-130.0,-120.0,0.4959257301804824,2.02
+fanduel,140.0,0.01594167103165156,Utah Jazz @ Los Angeles Clippers,player_threes,John Collins,Over,1.5,140.0,115.0,118.0,130.0,115.0,140.0,110.0,110.0,0.4233090295965215,2.4
+ballybet,140.0,0.01594167103165156,Utah Jazz @ Los Angeles Clippers,player_threes,John Collins,Over,1.5,140.0,115.0,118.0,130.0,115.0,140.0,110.0,110.0,0.4233090295965215,2.4
+fanduel,102.0,-0.002036018798820538,Miami Heat @ Detroit Pistons,player_rebounds_assists,Jaden Ivey,Under,7.5,-118.0,-115.0,,-110.0,-115.0,102.0,-120.0,-115.0,0.494041574852069,2.02
+ballybet,-205.0,-0.031391438795762894,Miami Heat @ Detroit Pistons,player_blocks,Jalen Duren,Over,0.5,-205.0,-250.0,,,-250.0,,-255.0,-240.0,0.651031983760225,1.4878048780487805
+fanduel,112.0,0.003634851609096712,Utah Jazz @ Los Angeles Clippers,player_threes,Norman Powell,Over,3.5,108.0,-105.0,-103.0,100.0,-105.0,112.0,-115.0,-110.0,0.4734126658533475,2.12
+draftkings,100.0,-0.0023866810295526397,Chicago Bulls @ Toronto Raptors,player_rebounds_assists,Zach LaVine,Over,7.5,-114.0,-115.0,,100.0,-125.0,-120.0,-115.0,-115.0,0.4988066594852237,2.0
+fanduel,-156.0,-0.015051460515198567,Miami Heat @ Detroit Pistons,player_threes,Duncan Robinson,Under,2.5,-186.0,-190.0,-172.0,-160.0,-190.0,-156.0,-200.0,-200.0,0.6002030162485509,1.641025641025641
+espnbet,2800.0,0.7821548991908938,Miami Heat @ Detroit Pistons,player_double_double,Isaiah Stewart II,Yes,,,1100.0,,1300.0,2800.0,1300.0,1050.0,1300.0,0.0614536172134791,29.0
+fanduel,-115.0,-0.007337208342195534,Miami Heat @ Detroit Pistons,player_rebounds,Bam Adebayo,Over,10.5,-129.0,-140.0,-123.0,,-135.0,-115.0,-145.0,-145.0,0.5309591676309188,1.869565217391304
+fanduel,120.0,0.004083692645688641,Utah Jazz @ Los Angeles Clippers,player_assists,Collin Sexton,Over,3.5,108.0,100.0,107.0,100.0,100.0,120.0,-105.0,100.0,0.456401678475313,2.2
+draftkings,-110.0,-0.005583699384679175,Chicago Bulls @ Toronto Raptors,player_assists,Zach LaVine,Over,3.5,-108.0,-130.0,-123.0,-110.0,-140.0,-125.0,-135.0,-135.0,0.5208847288937396,1.9090909090909087

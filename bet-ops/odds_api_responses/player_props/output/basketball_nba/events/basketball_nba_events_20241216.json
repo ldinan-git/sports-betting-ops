@@ -1,0 +1,56 @@
+[
+    {
+        "id": "2a31912a9ecdfebe488e739445bb3433",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Philadelphia 76ers",
+        "date": "20241216"
+    },
+    {
+        "id": "7443aaf02669cab6651424f81b3ede58",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Miami Heat",
+        "date": "20241216"
+    },
+    {
+        "id": "edcdaa8d607277d189d7993fe9c396e6",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T00:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20241216"
+    },
+    {
+        "id": "5f31a3ad7465f5265d9f393ed141f213",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Chicago Bulls",
+        "date": "20241216"
+    },
+    {
+        "id": "04f9c6a45bf9361d47a32ac0542bb3e4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T03:10:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Denver Nuggets",
+        "date": "20241216"
+    },
+    {
+        "id": "d298cc7d7547424883b2ddffcc91a730",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-17T03:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Utah Jazz",
+        "date": "20241216"
+    }
+]
