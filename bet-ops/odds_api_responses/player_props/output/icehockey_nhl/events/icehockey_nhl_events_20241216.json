@@ -1,0 +1,29 @@
+[
+    {
+        "id": "f54bea2b4d17e9c599edab55d475f550",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-17T01:00:00Z",
+        "home_team": "Dallas Stars",
+        "away_team": "Washington Capitals",
+        "date": "20241216"
+    },
+    {
+        "id": "d3ab3a6ea4f5fe3755c84470cf627635",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-17T01:30:00Z",
+        "home_team": "Edmonton Oilers",
+        "away_team": "Florida Panthers",
+        "date": "20241216"
+    },
+    {
+        "id": "4fa50322fb28e00e8ac0be293e5abe29",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-17T03:30:00Z",
+        "home_team": "Vancouver Canucks",
+        "away_team": "Colorado Avalanche",
+        "date": "20241216"
+    }
+]
