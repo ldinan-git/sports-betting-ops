@@ -20,14 +20,17 @@
             "markets": ["player_points", "player_assists", "player_rebounds", "player_steals", "player_blocks",
                 "player_threes", "player_turnovers", "player_first_basket", "player_blocks_steals", "player_turnovers", 
                 "player_points_rebounds_assists", "player_points_rebounds", "player_points_assists", "player_rebounds_assists",
-                "player_first_basket", "player_double_double", "player_triple_double"], 
+                "player_first_basket", "player_double_double", "player_triple_double", "player_points_alternate",
+                "player_assists_alternate", "player_rebounds_alternate", "player_points_rebounds_assists_alternate", 
+                "player_rebounds_assists_alternate"], 
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         },
         "icehockey_nhl": {
             "url": "https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds",
             "regions": ["us", "us2"],
             "markets": ["player_power_play_points", 
-                "player_shots_on_goal", "player_goals", "player_goal_scorer_anytime"],
+                "player_shots_on_goal", "player_goals", "player_goal_scorer_anytime", "player_shots_on_goal_alternate",
+                "player_total_saves", "player_total_saves"],
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         },
         "americanfootball_nfl": {
@@ -38,7 +41,8 @@
                 "player_pass_tds", "player_pass_yds", "player_receptions", "player_reception_yds",
                 "player_rush_attempts", "player_rush_reception_yds", "player_rush_yds",
                 "player_sacks",  "player_tds_over", "player_1st_td", "player_anytime_td",
-                "player_last_td"],
+                "player_last_td", "player_pass_yds_alternate", "player_receptions_alternate", 
+                "player_reception_yds_alternate", "player_rush_yds_alternate", "player_pass_tds_alternate"],
             "prefix": "{sport_key}_player_props_{home_team}_{away_team}"
         }
     }
