@@ -2,7 +2,9 @@
     "aggregated_csvs_scripts": "aggregated_csvs/scripts",
     "aggregated_csvs_output": "aggregated_csvs/output/aggregated_csvs",
     "best_player_props_output": "aggregated_csvs/output/best_player_props",
-    "odds_api_responses_scripts": "odds_api_responses/player_props/scripts",
+    "player_props_responses_scripts": "odds_api_responses/player_props/scripts",
+    "game_odds_responses_scripts": "odds_api_responses/game_odds/scripts",
     "odds_api_responses_output": "odds_api_responses/player_props/output",
+    "game_odds_api_responses_output": "odds_api_responses/game_odds/output",
     "user_interface_scripts": "user_interface/scripts"
 }

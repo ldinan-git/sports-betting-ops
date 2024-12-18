@@ -8,7 +8,8 @@ with open('configuration/directories.json') as f:
     directories = json.load(f)
 
 AGGREGATED_CSVS_SCRIPT_LOC =  directories["aggregated_csvs_scripts"]
-ODDS_API_RESPONSES_SCRIPT_LOC = directories["odds_api_responses_scripts"]
+PLAYER_PROPS_RESPONSES_SCRIPT_LOC = directories["player_props_responses_scripts"]
+GAME_ODDS_RESPONSES_SCRIPT_LOC = directories["game_odds_responses_scripts"]
 USER_INTERFACE_SCRIPT_LOC = directories["user_interface_scripts"]
 
 def run_command(command):
@@ -25,19 +26,29 @@ def main():
     parser = argparse.ArgumentParser(description="Calculate player props.")
     parser.add_argument('--sport', required=True, help='The sport to retrieve player props for')
     parser.add_argument('--api_key', default="", help='API key for retrieving player props')
-    parser.add_argument('--get_odds', default="false", help='Whether to get odds (true/false)')
+    parser.add_argument('--get_player_props', default="false", help='Whether to get odds (true/false)')
     parser.add_argument('--override_date', default=datetime.now().strftime("%Y%m%d"), help='Date to override in YYYYMMDD format')
     parser.add_argument('--values_populated', default="4", help='Number of values populated')
     parser.add_argument('--bets_shown', default="100", help='Number of bets shown')
     parser.add_argument('--update_html', default="false", help='Number of bets shown')
+    parser.add_argument('--get_odds', default="false", help='Number of bets shown')
+
 
     args = parser.parse_args()
-    file_substring = "player_props"
+    if args.get_player_props.lower() == "true":
+        file_substring = "player_props"
+    else:
+        file_substring = "odds"
 
     # Step 1: Generate odds for a given day
-    if args.get_odds.lower() == "true":
+    if args.get_player_props.lower() == "true":
         print("Getting player props...")
-        run_command(f"python {os.path.join(ODDS_API_RESPONSES_SCRIPT_LOC, 'get_player_props.py')} --sport {args.sport} --api_key {args.api_key}")
+        run_command(f"python {os.path.join(PLAYER_PROPS_RESPONSES_SCRIPT_LOC, 'get_player_props.py')} --sport {args.sport} --api_key {args.api_key}")
+
+    if args.get_odds.lower() == "true":
+        print("Getting odds...")
+        run_command(f"python {os.path.join(GAME_ODDS_RESPONSES_SCRIPT_LOC, 'get_game_odds.py')} --sport {args.sport} --api_key {args.api_key}")
+
 
     print("Calculating odds CSV...")
     # Step 2: Create Aggregated CSV

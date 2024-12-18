@@ -39,14 +39,15 @@ def calculate_dejuice(row, new_df):
     return pd.Series(dejuice_values)
 
 def get_files(sport, date):
-    player_props_directory = os.path.join(ROOT_DIR, directories["odds_api_responses_output"], sport, "player_props")
-    # odds_directory = os.path.join(ROOT_DIR, "odds_api_responses", "game_odds", "output", sport, "odds")
+    # player_props_directory = os.path.join(ROOT_DIR, directories["odds_api_responses_output"], sport, "player_props")
+    odds_directory = os.path.join(ROOT_DIR, "odds_api_responses", "game_odds", "output", sport)
     
-    player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
-    # odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    # player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
     
     # return player_props_files + odds_files
-    return player_props_files
+    # return player_props_files
+    return odds_files
 
 
 def get_rows_object(data):
@@ -213,7 +214,7 @@ if __name__ == '__main__':
             with open(file, 'r') as f:
                 data = json.load(f)
                 # skip if empty
-                if not data['bookmakers']:
+                if type(data) != list and not data['bookmakers']:
                     continue
                 df = process_json(data)
                 if len(dfs) == 0:

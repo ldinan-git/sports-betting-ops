@@ -6,10 +6,21 @@ import pytz
 import argparse
 
 DEFAULT_OUTPUT_DIR = '../output'
-# DEFAULT_API_KEY = "54179d2c087ee252467b2620fb5bb27b"
-# DEFAULT_API_KEY = "1af942a5b7e7b90454f211cb6a697184"
-with open('../../../configuration/api_parameters.json') as f:
+
+def get_project_root():
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Navigate back to the bet-ops directory
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..', '..'))
+    return project_root
+
+ROOT_DIR = get_project_root()
+
+with open(os.path.join(ROOT_DIR, 'configuration/api_parameters.json')) as f:
     config = json.load(f)
+
+with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
+    directories = json.load(f)
 
 def output_response(response, output_dir, file_name, json_flag=False):
     if not json_flag:
@@ -73,7 +84,9 @@ def odds_endpoint(sport, api_key):
         "dateFormat": "iso",           
     }
 
-    output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/odds/'
+    # output_dir = DEFAULT_OUTPUT_DIR + f'/{sport}/odds/'
+    output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], sport, 'player_props')
+
     # Make the API request
     invoke_request(url, params, file_name, output=True, output_dir=output_dir)
 
