@@ -1,0 +1,49 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,240.0,0.08313716353098255,Toronto Maple Leafs @ Dallas Stars,player_goals,John Tavares,Over,0.5,,,,,,175.0,240.0,170.0,170.0,0.3185697539797008,3.4
+fanduel,250.0,0.07110293093273123,Toronto Maple Leafs @ Dallas Stars,player_goals,Wyatt Johnston,Over,0.5,,,,,,185.0,250.0,180.0,185.0,0.3060294088379232,3.5
+betmgm,1000.0,0.37977864809092,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,Max Sasson,Yes,,390.0,1000.0,,380.0,650.0,600.0,1000.0,530.0,550.0,0.12543442255372,11.0
+fanduel,1000.0,0.37977864809092,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,Max Sasson,Yes,,390.0,1000.0,,380.0,650.0,600.0,1000.0,530.0,550.0,0.12543442255372,11.0
+ballybet,-106.0,0.02979393621336368,Florida Panthers @ Minnesota Wild,player_shots_on_goal,Sam Reinhart,Over,2.5,-106.0,-140.0,-132.0,,-130.0,-140.0,-132.0,-145.0,-135.0,0.5298939671777503,1.9433962264150944
+draftkings,650.0,0.20647255557741495,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,Nils Hoglander,Yes,,320.0,425.0,,320.0,650.0,650.0,420.0,610.0,500.0,0.160863007410322,7.5
+fanduel,175.0,0.02670726450408023,Toronto Maple Leafs @ Dallas Stars,player_goals,William Nylander,Over,0.5,,,,,,135.0,175.0,135.0,135.0,0.3733480961833019,2.75
+ballybet,150.0,0.05772821381997151,Winnipeg Jets @ Anaheim Ducks,player_shots_on_goal,Gabriel Vilardi,Over,2.5,150.0,115.0,122.0,,120.0,115.0,120.0,110.0,115.0,0.4230912855279886,2.5
+fanduel,330.0,0.08792428709031719,Vancouver Canucks @ Utah Hockey Club,player_goals,Logan Cooley,Over,0.5,,,,,,250.0,330.0,235.0,240.0,0.2530056481605389,4.3
+ballybet,125.0,0.04011006635449821,Winnipeg Jets @ Anaheim Ducks,player_shots_on_goal,Mark Scheifele,Over,2.5,125.0,-105.0,103.0,,100.0,-106.0,104.0,-105.0,100.0,0.4622711406019992,2.25
+fanduel,150.0,0.0058299128614554,Toronto Maple Leafs @ Dallas Stars,player_goals,Auston Matthews,Over,0.5,,,,,,125.0,150.0,115.0,115.0,0.4023319651445822,2.5
+fanduel,1900.0,0.6027280477408339,Florida Panthers @ Minnesota Wild,player_goal_scorer_anytime,Uvis Balinskis,Yes,,750.0,,,750.0,1100.0,1000.0,1900.0,955.0,1200.0,0.0801364023870417,20.0
+fanduel,280.0,0.016558060036320654,Toronto Maple Leafs @ Dallas Stars,player_goal_scorer_anytime,Jason Robertson,Yes,,185.0,270.0,,185.0,230.0,230.0,280.0,220.0,220.0,0.2675152789569265,3.8
+fanduel,290.0,0.022852238842486106,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,J.T. Miller,Yes,,180.0,280.0,,180.0,255.0,240.0,290.0,220.0,225.0,0.2622698048314067,3.9
+betmgm,700.0,0.16678784353642562,Philadelphia Flyers @ Detroit Red Wings,player_goal_scorer_anytime,Jonatan Berggren,Yes,,360.0,700.0,,360.0,550.0,550.0,700.0,495.0,500.0,0.1458484804420532,8.0
+fanduel,700.0,0.16678784353642562,Philadelphia Flyers @ Detroit Red Wings,player_goal_scorer_anytime,Jonatan Berggren,Yes,,360.0,700.0,,360.0,550.0,550.0,700.0,495.0,500.0,0.1458484804420532,8.0
+fanduel,420.0,0.09750167048945535,Florida Panthers @ Minnesota Wild,player_goals,Ryan Hartman,Over,0.5,,,,,,320.0,420.0,305.0,300.0,0.2110580135556645,5.2
+fanduel,550.0,0.10615471485036698,Philadelphia Flyers @ Detroit Red Wings,player_goal_scorer_anytime,Michael Rasmussen,Yes,,320.0,500.0,,320.0,450.0,425.0,550.0,410.0,425.0,0.170177648438518,6.5
+fanduel,260.0,0.038970398544714624,Toronto Maple Leafs @ Dallas Stars,player_goals,Mitch Marner,Over,0.5,,,,,,210.0,260.0,200.0,200.0,0.2886028884846429,3.6
+fanduel,310.0,0.05689488765044182,Florida Panthers @ Minnesota Wild,player_goals,Marco Rossi,Over,0.5,,,,,,250.0,310.0,235.0,230.0,0.2577792408903517,4.1
+fanduel,200.0,0.01682264221229346,Florida Panthers @ Minnesota Wild,player_goals,Matthew Tkachuk,Over,0.5,,,,,,160.0,200.0,160.0,160.0,0.3389408807374311,3.0
+betmgm,950.0,0.2430954334153681,Philadelphia Flyers @ Detroit Red Wings,player_goal_scorer_anytime,Joe Veleno,Yes,,430.0,950.0,,425.0,800.0,750.0,950.0,665.0,700.0,0.1183900412776541,10.5
+fanduel,950.0,0.2430954334153681,Philadelphia Flyers @ Detroit Red Wings,player_goal_scorer_anytime,Joe Veleno,Yes,,430.0,950.0,,425.0,800.0,750.0,950.0,665.0,700.0,0.1183900412776541,10.5
+ballybet,400.0,0.10529685871265149,Toronto Maple Leafs @ Dallas Stars,player_power_play_points,Miro Heiskanen,Over,0.5,400.0,310.0,,,,300.0,,285.0,300.0,0.2210593717425303,5.0
+fanduel,230.0,0.02195376022305462,Toronto Maple Leafs @ Dallas Stars,player_goals,Roope Hintz,Over,0.5,,,,,,185.0,230.0,180.0,185.0,0.3096829576433499,3.3
+ballybet,300.0,0.05827806628086196,Vancouver Canucks @ Utah Hockey Club,player_power_play_points,Nick Schmaltz,Over,0.5,300.0,240.0,,,,235.0,,230.0,240.0,0.2645695165702155,4.0
+fanduel,200.0,0.011059935337252913,Winnipeg Jets @ Anaheim Ducks,player_goals,Gabriel Vilardi,Over,0.5,,,,,,160.0,200.0,160.0,165.0,0.337019978445751,3.0
+fanduel,290.0,0.039226102927371054,Vancouver Canucks @ Utah Hockey Club,player_goals,J.T. Miller,Over,0.5,,,,,,240.0,290.0,220.0,225.0,0.2664682315198387,3.9
+draftkings,450.0,0.054110368077948445,Winnipeg Jets @ Anaheim Ducks,player_goal_scorer_anytime,Leo Carlsson,Yes,,310.0,350.0,,300.0,450.0,400.0,390.0,380.0,375.0,0.191656430559627,5.5
+betmgm,750.0,0.15458444247264103,Florida Panthers @ Minnesota Wild,player_goal_scorer_anytime,Jesper Boqvist,Yes,,390.0,750.0,,380.0,650.0,650.0,750.0,575.0,600.0,0.1358334638203107,8.5
+fanduel,750.0,0.15458444247264103,Florida Panthers @ Minnesota Wild,player_goal_scorer_anytime,Jesper Boqvist,Yes,,390.0,750.0,,380.0,650.0,650.0,750.0,575.0,600.0,0.1358334638203107,8.5
+fanduel,108.0,0.008618993011554332,Florida Panthers @ Minnesota Wild,player_shots_on_goal,Jared Spurgeon,Under,1.5,,-120.0,-105.0,,-105.0,-114.0,108.0,-125.0,-105.0,0.4849129774094011,2.08
+fanduel,190.0,0.004825175912677393,Winnipeg Jets @ Anaheim Ducks,player_goals,Mark Scheifele,Over,0.5,,,,,,155.0,190.0,155.0,155.0,0.3464914399698888,2.9
+betmgm,270.0,-0.010193467859371919,Toronto Maple Leafs @ Dallas Stars,player_goal_scorer_anytime,Jason Robertson,Yes,,185.0,270.0,,185.0,230.0,230.0,280.0,220.0,220.0,0.2675152789569265,3.7
+fanduel,280.0,0.031084640419120513,Toronto Maple Leafs @ Dallas Stars,player_goals,Jason Robertson,Over,0.5,,,,,,230.0,280.0,220.0,220.0,0.2713380632681896,3.8
+betmgm,280.0,-0.003374741640654544,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,J.T. Miller,Yes,,180.0,280.0,,180.0,255.0,240.0,290.0,220.0,225.0,0.2622698048314067,3.8
+ballybet,115.0,0.011130045550878709,Vancouver Canucks @ Utah Hockey Club,player_shots_on_goal,Conor Garland,Over,2.5,115.0,-105.0,-101.0,,-105.0,-106.0,100.0,-110.0,-105.0,0.4702930444422692,2.15
+fanduel,150.0,-0.05101252256796707,Toronto Maple Leafs @ Dallas Stars,player_goal_scorer_anytime,Auston Matthews,Yes,,112.0,150.0,,110.0,130.0,125.0,150.0,115.0,115.0,0.3795949909728132,2.5
+betmgm,150.0,-0.05101252256796707,Toronto Maple Leafs @ Dallas Stars,player_goal_scorer_anytime,Auston Matthews,Yes,,112.0,150.0,,110.0,130.0,125.0,150.0,115.0,115.0,0.3795949909728132,2.5
+fanduel,430.0,0.07512525635125233,Winnipeg Jets @ Anaheim Ducks,player_goals,Alex Killorn,Over,0.5,,,,,,340.0,430.0,320.0,325.0,0.2028538219530665,5.3
+betmgm,-125.0,-0.0018822618531756374,Philadelphia Flyers @ Detroit Red Wings,player_shots_on_goal,Owen Tippett,Over,2.5,-165.0,-125.0,-145.0,,-135.0,-150.0,-146.0,-160.0,-150.0,0.5545098545260135,1.8
+fanduel,250.0,0.013199490906104838,Vancouver Canucks @ Utah Hockey Club,player_goals,Elias Pettersson,Over,0.5,,,,,,210.0,250.0,200.0,200.0,0.2894855688303157,3.5
+fanduel,200.0,-0.0007125294395395887,Florida Panthers @ Minnesota Wild,player_goals,Matt Boldy,Over,0.5,,,,,,165.0,200.0,165.0,165.0,0.3330958235201535,3.0
+fanduel,320.0,0.0389498911762679,Winnipeg Jets @ Anaheim Ducks,player_goals,Cole Perfetti,Over,0.5,,,,,,260.0,320.0,255.0,250.0,0.2473690217086352,4.2
+ballybet,-143.0,-0.006721605963537214,Florida Panthers @ Minnesota Wild,player_shots_on_goal,Matthew Tkachuk,Over,2.5,-143.0,-165.0,-169.0,,-168.0,-175.0,-176.0,-180.0,-170.0,0.5845218532807168,1.6993006993006992
+betmgm,350.0,0.011511073401592964,Vancouver Canucks @ Utah Hockey Club,player_goal_scorer_anytime,Logan Cooley,Yes,,270.0,350.0,,270.0,265.0,250.0,330.0,235.0,240.0,0.2247802385336873,4.5
+ballybet,-125.0,-0.004238171870502794,Toronto Maple Leafs @ Dallas Stars,player_shots_on_goal,Wyatt Johnston,Over,2.5,-125.0,-150.0,-147.0,,-142.0,-150.0,-152.0,-155.0,-150.0,0.5532010156274985,1.8
+fanduel,210.0,0.0027892604184283076,Vancouver Canucks @ Utah Hockey Club,player_goals,Clayton Keller,Over,0.5,,,,,,175.0,210.0,170.0,175.0,0.3234804065865898,3.1
