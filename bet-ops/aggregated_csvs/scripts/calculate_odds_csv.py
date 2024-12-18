@@ -73,12 +73,12 @@ def get_rows_object(data):
     return rows
 
 def get_rows_list(data):
-    rows = []
+    rows_list = []
     for obj in data:
         rows = get_rows_object(obj)
-        rows.extend(rows)
+        rows_list.extend(rows)
     
-    return rows
+    return rows_list
 
 def apply_function(df, old_col,new_col, function):
     # Apply the function to each bookmaker's odds
