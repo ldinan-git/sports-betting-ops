@@ -1,0 +1,5 @@
+{
+    "message": "Markets not supported by this endpoint: alternate_spreads, alternate_team_totals, alternate_totals, h2h_p1, h2h_p2, team_totals, totals_p1, totals_p2",
+    "error_code": "INVALID_MARKET",
+    "details_url": "https://the-odds-api.com/liveapi/guides/v4/api-error-codes.html#invalid-market"
+}

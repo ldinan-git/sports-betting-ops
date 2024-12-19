@@ -41,18 +41,18 @@ def main():
         file_substring = "odds"
 
     # Step 1: Generate odds for a given day
-    if args.get_player_props.lower() == "true":
+    if args.get_player_props.lower() == "true" and args.api_key:
         print("Getting player props...")
         run_command(f"python {os.path.join(PLAYER_PROPS_RESPONSES_SCRIPT_LOC, 'get_player_props.py')} --sport {args.sport} --api_key {args.api_key}")
 
-    if args.get_odds.lower() == "true":
+    if args.get_odds.lower() == "true" and args.api_key:
         print("Getting odds...")
         run_command(f"python {os.path.join(GAME_ODDS_RESPONSES_SCRIPT_LOC, 'get_game_odds.py')} --sport {args.sport} --api_key {args.api_key}")
 
 
     print("Calculating odds CSV...")
     # Step 2: Create Aggregated CSV
-    run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'calculate_odds_csv.py')} --sport {args.sport} --override_date {args.override_date} --file_substring {file_substring}")
+    run_command(f"python {os.path.join(AGGREGATED_CSVS_SCRIPT_LOC, 'calculate_odds_csv.py')} --sport {args.sport} --override_date {args.override_date} --file_substring {file_substring} --get_odds {args.get_odds} --get_player_props {args.get_player_props}")
 
     # print("Adding custom functions to columns...")
     # Step 3: Add Custom Functions to columns

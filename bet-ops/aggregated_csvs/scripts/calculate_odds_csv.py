@@ -38,16 +38,20 @@ def calculate_dejuice(row, new_df):
 
     return pd.Series(dejuice_values)
 
-def get_files(sport, date):
-    # player_props_directory = os.path.join(ROOT_DIR, directories["odds_api_responses_output"], sport, "player_props")
-    odds_directory = os.path.join(ROOT_DIR, "odds_api_responses", "game_odds", "output", sport)
-    
-    # player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
-    odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
-    
-    # return player_props_files + odds_files
-    # return player_props_files
-    return odds_files
+def get_files(sport, date, get_odds, get_player_props):
+    if get_odds:
+        odds_directory = os.path.join(ROOT_DIR, "odds_api_responses", "game_odds", "output", sport)
+        odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    else:
+        odds_files = []
+
+    if get_player_props:
+        player_props_directory = os.path.join(ROOT_DIR, directories["odds_api_responses_output"], sport, "player_props")
+        player_props_files = [os.path.join(player_props_directory, f) for f in os.listdir(player_props_directory) if os.path.isfile(os.path.join(player_props_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
+    else:
+        player_props_files = []
+
+    return player_props_files + odds_files
 
 
 def get_rows_object(data):
@@ -182,6 +186,10 @@ if __name__ == '__main__':
     parser.add_argument('--sport', help='The sport to retrieve player props for')
     parser.add_argument('--override_date', help='Calculate odds for date other than today')
     parser.add_argument('--file_substring', help='Filter files to only include those with this substring')
+    parser.add_argument('--get_odds', help='Whether to get odds (true/false)')
+    parser.add_argument('--get_player_props', help='Whether to get player props (true/false)')
+
+
 
     # Parse the command-line arguments
     args = parser.parse_args()
@@ -202,7 +210,9 @@ if __name__ == '__main__':
     else:
         file_substring = ''
 
-    files = get_files(args.sport, date)
+    get_odds = args.get_odds.lower() == 'true'
+    get_player_props = args.get_player_props.lower() == 'true'
+    files = get_files(args.sport, date, get_odds, get_player_props)
     print(files)
     columns = []
 
