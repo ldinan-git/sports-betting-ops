@@ -1,0 +1,23 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+bovada,200.0,0.3305699291957338,Los Angeles Clippers @ Dallas Mavericks,player_rebounds_alternate,P.J. Washington,Over,7.5,,,-130.0,200.0,-110.0,-125.0,-115.0,,,0.4435233097319113,3.0
+draftkings,1700.0,2.5452239921934523,New York Knicks @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,19.5,,,974.0,-10000.0,1700.0,1500.0,,,1500.0,0.1969568884551918,18.0
+espnbet,1500.0,2.1513102152830688,New York Knicks @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,19.5,,,974.0,-10000.0,1700.0,1500.0,,,1500.0,0.1969568884551918,16.0
+hardrockbet,1500.0,2.1513102152830688,New York Knicks @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,19.5,,,974.0,-10000.0,1700.0,1500.0,,,1500.0,0.1969568884551918,16.0
+bovada,-115.0,0.1042398634022752,Brooklyn Nets @ Toronto Raptors,player_rebounds_alternate,Ben Simmons,Over,5.5,,,-222.0,-115.0,-200.0,,-190.0,,-275.0,0.5906399269361008,1.869565217391304
+bovada,550.0,0.6473240648418339,Los Angeles Clippers @ Dallas Mavericks,player_rebounds_alternate,P.J. Washington,Over,9.5,,220.0,191.0,550.0,250.0,260.0,200.0,,,0.2534344715141283,6.5
+betonlineag,974.0,1.11531698200876,New York Knicks @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,19.5,,,974.0,-10000.0,1700.0,1500.0,,,1500.0,0.1969568884551918,10.74
+betmgm,360.0,0.2688743551952837,New Orleans Pelicans @ Houston Rockets,player_rebounds_alternate,Amen Thompson,Over,9.5,,360.0,,150.0,195.0,,220.0,,,0.2758422511294095,4.6
+fanduel,-125.0,0.02216765612417171,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Malik Monk,Over,3.5,,,-233.0,-150.0,-215.0,-200.0,-125.0,,-195.0,0.5678709200689843,1.8
+fanduel,-115.0,0.03319951728297332,Oklahoma City Thunder @ Orlando Magic,player_points_alternate,Goga Bitadze,Over,9.5,,-175.0,,-145.0,-175.0,-160.0,-115.0,,-195.0,0.552641602267637,1.869565217391304
+fanduel,360.0,0.21802919719432612,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Malik Monk,Over,5.5,,,188.0,320.0,185.0,,360.0,,210.0,0.26478895591181,4.6
+bovada,200.0,0.09873091145060275,Brooklyn Nets @ Toronto Raptors,player_rebounds_alternate,Ben Simmons,Over,7.5,,,145.0,200.0,150.0,120.0,160.0,,115.0,0.3662436371502009,3.0
+fanduel,-250.0,-0.03212596114049027,Atlanta Hawks @ San Antonio Spurs,player_rebounds_alternate,Jalen Johnson,Over,7.5,,,,-300.0,-370.0,-450.0,-250.0,,-450.0,0.6913385991853641,1.4
+ballybet,180.0,0.09806885657828612,Atlanta Hawks @ San Antonio Spurs,player_double_double,Clint Capela,Yes,,180.0,120.0,,120.0,120.0,125.0,130.0,115.0,115.0,0.3921674487779594,2.8
+betonlineag,-370.0,-0.05103170085543751,Los Angeles Clippers @ Dallas Mavericks,player_assists_alternate,Kevin Porter Jr.,Over,1.5,,,-370.0,,,-550.0,-600.0,,,0.7470601503904002,1.2702702702702702
+fanduel,320.0,0.13145266831467217,Charlotte Hornets @ Washington Wizards,player_assists_alternate,Carlton Carrington,Over,5.5,,,199.0,200.0,200.0,,320.0,,,0.2693934924558743,4.2
+draftkings,-165.0,-0.019429744894117307,Los Angeles Clippers @ Dallas Mavericks,player_points_alternate,James Harden,Over,19.5,,-300.0,,-250.0,-165.0,-225.0,-210.0,,,0.6105437437451723,1.606060606060606
+ballybet,525.0,0.35646729636726626,Brooklyn Nets @ Toronto Raptors,player_double_double,Ben Simmons,Yes,,525.0,280.0,,325.0,275.0,300.0,320.0,275.0,275.0,0.2170347674187626,6.25
+bovada,-500.0,-0.0521852154390724,Brooklyn Nets @ Toronto Raptors,player_rebounds_alternate,Ben Simmons,Over,3.5,,,,-500.0,,-1200.0,-800.0,,-1300.0,0.789845653800773,1.2
+bovada,700.0,0.4222232928846008,Brooklyn Nets @ Toronto Raptors,player_rebounds_alternate,Ben Simmons,Over,9.5,,400.0,368.0,700.0,425.0,325.0,400.0,,,0.1777779116105751,8.0
+betmgm,390.0,0.16324876725805126,Los Angeles Clippers @ Dallas Mavericks,player_rebounds_alternate,Kris Dunn,Over,4.5,,390.0,246.0,,175.0,325.0,,,,0.2373977076036839,4.9
+fanduel,360.0,0.1555186804994073,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,DeMar DeRozan,Over,5.5,,,202.0,,270.0,,360.0,,230.0,0.2511997131520451,4.6
