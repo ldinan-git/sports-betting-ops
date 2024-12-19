@@ -1,0 +1,76 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,265.0,0.07714071120366373,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Javonte Williams,Over,24.5,,,144.0,,180.0,210.0,265.0,,200.0,0.2951070441653873,3.65
+fanduel,-114.0,-0.03653679982620772,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Joshua Palmer,Over,2.5,,,-132.0,,,-170.0,-114.0,,,0.5132467514944501,1.8771929824561404
+fanduel,-340.0,-0.06361072857236527,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Joshua Palmer,Over,1.5,,,-500.0,,,-550.0,-340.0,,-500.0,0.7235735279213541,1.2941176470588236
+draftkings,425.0,0.11876235177865602,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Devaughn Vele,Over,59.5,,,,220.0,425.0,,340.0,,,0.2130975908149821,5.25
+fanduel,750.0,0.2691018436360052,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Hayden Hurst,Yes,,350.0,,,,390.0,600.0,750.0,,,0.1493060992512947,8.5
+draftkings,-250.0,-0.06676521310667638,Denver Broncos @ Los Angeles Chargers,player_rush_yds_alternate,Javonte Williams,Over,24.5,,-450.0,,,-250.0,,-310.0,,-350.0,0.6665962763523741,1.4
+fanduel,-225.0,-0.06215607272265666,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Quentin Johnston,Over,2.5,,,-294.0,-280.0,,-350.0,-225.0,,,0.6492765650381607,1.4444444444444444
+fanduel,210.0,0.01430917273411092,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Joshua Palmer,Over,3.5,,,152.0,,,150.0,210.0,,165.0,0.3271965073335842,3.1
+fanduel,112.0,-0.031876999060924116,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Quentin Johnston,Over,3.5,,,110.0,-115.0,,-130.0,112.0,,-120.0,0.4566617928957905,2.12
+fanduel,-162.0,-0.06664633250265162,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Stone Smartt,Over,24.5,,-225.0,,,-210.0,-200.0,-162.0,,,0.5771118096739329,1.617283950617284
+bovada,110.0,0.02750844529255525,Denver Broncos @ Los Angeles Chargers,player_pass_yds,Justin Herbert,Under,231.5,,-115.0,,110.0,-110.0,,,-120.0,-115.0,0.4892897358535977,2.1
+betonlineag,110.0,-0.04101023491883993,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Quentin Johnston,Over,3.5,,,110.0,-115.0,,-130.0,112.0,,-120.0,0.4566617928957905,2.1
+fanduel,470.0,0.08754672437536914,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Joshua Palmer,Over,4.5,,,290.0,,,325.0,470.0,,,0.1907976709430472,5.7
+draftkings,240.0,0.013204378461055377,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,39.5,,,,150.0,240.0,185.0,186.0,,210.0,0.2980012877826634,3.4
+fanduel,230.0,0.0009629503014991769,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Quentin Johnston,Over,4.5,,,192.0,170.0,,165.0,230.0,,,0.3033221061519695,3.3
+draftkings,260.0,0.022452412870956007,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Devaughn Vele,Over,49.5,,225.0,,140.0,260.0,225.0,230.0,,210.0,0.2840145591308211,3.6
+espnbet,250.0,0.01779148374457984,Denver Broncos @ Los Angeles Chargers,player_rush_yds_alternate,Gus Edwards,Over,49.5,,165.0,,180.0,190.0,250.0,220.0,,185.0,0.2907975667841657,3.5
+fanduel,490.0,0.13439503462270364,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Justin Herbert,Yes,,425.0,350.0,350.0,240.0,350.0,300.0,490.0,395.0,400.0,0.1922703448513057,5.9
+fanduel,164.0,-0.03461128775708078,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Troy Franklin,Over,2.5,,,149.0,,,110.0,164.0,,,0.3656775425162573,2.64
+fanduel,178.0,-0.030789669267930364,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Kimani Vidal,Over,2.5,,,134.0,,,140.0,178.0,,,0.3486368096158524,2.78
+betonlineag,110.0,0.02082151552130629,Denver Broncos @ Los Angeles Chargers,player_sacks,Nik Bonitto,Under,0.5,105.0,,110.0,,,-120.0,,-125.0,-115.0,0.4861054835815744,2.1
+hardrockbet,155.0,-0.033616753990869275,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Devaughn Vele,Over,39.5,,,,-115.0,150.0,140.0,140.0,,155.0,0.378973821964365,2.55
+draftkings,400.0,0.0495428995210665,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,49.5,,,,260.0,400.0,,300.0,,325.0,0.2099085799042133,5.0
+draftkings,650.0,0.12055335968379421,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Devaughn Vele,Over,69.5,,,,340.0,650.0,,500.0,,,0.1494071146245059,7.5
+bovada,110.0,0.005972599439110882,Denver Broncos @ Los Angeles Chargers,player_reception_yds,Kimani Vidal,Under,11.5,,-110.0,,110.0,,,,-115.0,-110.0,0.4790345711614814,2.1
+fanduel,-235.0,-0.07957652379484015,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Quentin Johnston,Over,24.5,,-350.0,,-300.0,-300.0,,-235.0,,-275.0,0.6456701997260077,1.425531914893617
+fanduel,2400.0,0.8633051093540274,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Tucker Fisk,Yes,,1200.0,1200.0,1100.0,700.0,1100.0,,2400.0,845.0,1000.0,0.0745322043741611,25.0
+draftkings,650.0,0.11626582702485422,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,59.5,,,,400.0,650.0,,450.0,,,0.1488354436033139,7.5
+fanduel,500.0,0.09312540392971513,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Stone Smartt,Yes,,310.0,375.0,350.0,375.0,370.0,400.0,500.0,,,0.1821875673216192,6.0
+ballybet,100.0,0.016579478771104217,Denver Broncos @ Los Angeles Chargers,player_pass_attempts,Justin Herbert,Over,32.5,100.0,-125.0,-118.0,-125.0,-125.0,-125.0,-108.0,-130.0,-115.0,0.5082897393855521,2.0
+bovada,210.0,-0.0045942228979301,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Courtland Sutton,Yes,,148.0,180.0,170.0,210.0,170.0,160.0,155.0,180.0,180.0,0.3210986377748612,3.1
+hardrockbet,350.0,0.02603494052801858,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Marvin Mims Jr.,Over,3.5,,,240.0,280.0,,210.0,310.0,,350.0,0.2280077645617819,4.5
+fanduel,390.0,0.05903542671887063,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Audric Estime,Yes,,300.0,310.0,280.0,300.0,280.0,300.0,390.0,295.0,300.0,0.2161296789222185,4.9
+fanduel,-188.0,-0.08001427714954612,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Troy Franklin,Over,1.5,,,-208.0,,,-275.0,-188.0,,-210.0,0.6005462357496019,1.5319148936170213
+bovada,-725.0,-0.08319155146288182,Denver Broncos @ Los Angeles Chargers,player_pass_yds_alternate,Bo Nix,Over,149.5,,-2000.0,,-725.0,-1000.0,,-800.0,-1960.0,,0.8056801517447401,1.137931034482759
+draftkings,-105.0,-0.06738606865916785,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,24.5,,,,-145.0,-105.0,-130.0,-130.0,,-105.0,0.4776803062965238,1.9523809523809523
+hardrockbet,-105.0,-0.06738606865916785,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,24.5,,,,-145.0,-105.0,-130.0,-130.0,,-105.0,0.4776803062965238,1.9523809523809523
+betmgm,105.0,-0.007746852132081261,Denver Broncos @ Los Angeles Chargers,player_rush_yds,Bo Nix,Under,20.5,,105.0,,-105.0,,,,-125.0,-115.0,0.4840259257892287,2.05
+fanduel,-450.0,-0.09138240624916605,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Javonte Williams,Over,1.5,,,-714.0,,,-700.0,-450.0,,-500.0,0.7434143948870459,1.2222222222222223
+draftkings,255.0,-0.017108812950532126,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Joshua Palmer,Over,49.5,,185.0,187.0,,255.0,,,,220.0,0.2768707569153431,3.55
+betonlineag,134.0,-0.05577639751552799,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Marvin Mims Jr.,Over,2.5,,,134.0,115.0,,-115.0,124.0,,,0.4035143600360992,2.34
+betonlineag,-233.0,-0.01999737016766745,Denver Broncos @ Los Angeles Chargers,player_sacks,Joey Bosa,Under,0.5,-265.0,,-233.0,,,-300.0,,-310.0,-300.0,0.685707545798599,1.4291845493562232
+fanduel,-166.0,-0.07945199084278709,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Courtland Sutton,Over,4.5,,,-213.0,-185.0,,-210.0,-166.0,,,0.5744773290229224,1.6024096385542168
+fanduel,-144.0,-0.07430425920046191,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Ladd McConkey,Over,5.5,,,-200.0,-145.0,,-185.0,-144.0,,-165.0,0.5463122404718586,1.6944444444444444
+hardrockbet,2500.0,0.8083596433954481,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Hassan Haskins,Yes,,800.0,1200.0,1100.0,900.0,1100.0,1100.0,1700.0,1385.0,2500.0,0.069552293976748,26.0
+betonlineag,-164.0,-0.005454495898530642,Denver Broncos @ Los Angeles Chargers,player_pass_tds,Bo Nix,Under,1.5,-210.0,-175.0,-164.0,-215.0,-185.0,-210.0,-178.0,-225.0,-210.0,0.6178237222448522,1.6097560975609757
+betmgm,1400.0,0.368492385998339,Denver Broncos @ Los Angeles Chargers,player_tds_over,Javonte Williams,Over,1.5,1200.0,1400.0,700.0,650.0,,,1200.0,,750.0,0.0912328257332226,15.0
+draftkings,1000.0,0.18549519271675252,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Marvin Mims Jr.,Over,69.5,,,,600.0,1000.0,,630.0,,,0.1077722902469775,11.0
+fanduel,-235.0,-0.08518815755381237,Denver Broncos @ Los Angeles Chargers,player_rush_yds_alternate,Gus Edwards,Over,24.5,,-400.0,-263.0,-260.0,-270.0,,-235.0,,-300.0,0.6417336805219526,1.425531914893617
+ballybet,-182.0,-0.01576872749647329,Denver Broncos @ Los Angeles Chargers,player_sacks,Zach Allen,Under,0.5,-182.0,,-200.0,,,-220.0,,-245.0,-225.0,0.6352130907646873,1.5494505494505495
+bovada,-145.0,-0.07692069713375616,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Ladd McConkey,Over,5.5,,,-200.0,-145.0,,-185.0,-144.0,,-165.0,0.5463122404718586,1.6896551724137931
+draftkings,150.0,-0.05256544508908745,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Devaughn Vele,Over,39.5,,,,-115.0,150.0,140.0,140.0,,155.0,0.378973821964365,2.5
+fanduel,122.0,0.01339409813061132,Denver Broncos @ Los Angeles Chargers,player_pass_interceptions,Justin Herbert,Over,0.5,-105.0,100.0,112.0,105.0,110.0,105.0,122.0,-105.0,100.0,0.4564838279867618,2.22
+fanduel,360.0,0.02604821358132181,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Bo Nix,Yes,,285.0,350.0,240.0,300.0,240.0,275.0,360.0,295.0,300.0,0.2230539594742004,4.6
+betonlineag,165.0,-0.05828291019483067,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Lil'Jordan Humphrey,Over,1.5,,,165.0,,,105.0,,,165.0,0.3553649395491205,2.65
+hardrockbet,165.0,-0.05828291019483067,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Lil'Jordan Humphrey,Over,1.5,,,165.0,,,105.0,,,165.0,0.3553649395491205,2.65
+fanduel,850.0,0.18520271926285914,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Adam Trautman,Yes,,550.0,650.0,600.0,500.0,600.0,550.0,850.0,560.0,600.0,0.1247581809750378,9.5
+fanduel,-114.0,-0.00015935815803447273,Denver Broncos @ Los Angeles Chargers,player_receptions,Joshua Palmer,Over,2.5,-136.0,-125.0,-132.0,-145.0,-125.0,-135.0,-114.0,-160.0,-135.0,0.5326253886447854,1.8771929824561404
+draftkings,-120.0,-0.07749746298662419,Denver Broncos @ Los Angeles Chargers,player_rush_yds_alternate,Audric Estime,Over,24.5,,-165.0,,,-120.0,-135.0,-136.0,,-135.0,0.5031832020072959,1.8333333333333333
+fanduel,-160.0,-0.08702685317877279,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Kimani Vidal,Over,1.5,,,-167.0,,,-240.0,-160.0,,,0.5618296288130629,1.625
+fanduel,-142.0,-0.0803024784054589,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Ladd McConkey,Over,59.5,,,-185.0,-160.0,-155.0,-160.0,-142.0,,,0.5396572234149787,1.704225352112676
+ballybet,105.0,-0.0034837586577725066,Denver Broncos @ Los Angeles Chargers,player_sacks,Nik Bonitto,Under,0.5,105.0,,110.0,,,-120.0,,-125.0,-115.0,0.4861054835815744,2.05
+fanduel,-235.0,-0.08779064762514022,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Ladd McConkey,Over,49.5,,-350.0,,-250.0,-255.0,-275.0,-235.0,,-275.0,0.6399080531584838,1.425531914893617
+espnbet,100.0,-0.010410035573862553,Denver Broncos @ Los Angeles Chargers,player_reception_yds,Devaughn Vele,Under,29.5,,-115.0,,-115.0,,100.0,,-125.0,-115.0,0.4947949822130687,2.0
+fanduel,350.0,-0.0051919149527267505,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Devaughn Vele,Over,4.5,,,213.0,300.0,,275.0,350.0,,,0.2210684633438385,4.5
+bovada,145.0,0.01477278658660286,Denver Broncos @ Los Angeles Chargers,player_receptions,Ladd McConkey,Over,6.5,128.0,120.0,125.0,145.0,135.0,,,110.0,120.0,0.4141929741169807,2.45
+ballybet,170.0,-0.04167934197687073,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Gus Edwards,Yes,,170.0,140.0,140.0,125.0,145.0,130.0,165.0,150.0,155.0,0.3549335770456034,2.7
+hardrockbet,-230.0,-0.08931335929932271,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Marvin Mims Jr.,Over,1.5,,,-244.0,-280.0,,-375.0,-245.0,,-230.0,0.6347209920035024,1.434782608695652
+fanduel,-700.0,-0.10121607367905461,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Quentin Johnston,Over,1.5,,,,-952.0,,-1300.0,-700.0,,-1000.0,0.7864359355308272,1.1428571428571428
+ballybet,-150.0,-0.017530595368187463,Denver Broncos @ Los Angeles Chargers,player_sacks,Jonathon Cooper,Under,0.5,-150.0,,-156.0,,,-175.0,,-195.0,-185.0,0.5894816427790877,1.6666666666666663
+espnbet,600.0,0.04514269475906307,Denver Broncos @ Los Angeles Chargers,player_anytime_td,Hayden Hurst,Yes,,350.0,,,,390.0,600.0,750.0,,,0.1493060992512947,7.0
+fanduel,176.0,-0.05168969573170468,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Quentin Johnston,Over,49.5,,135.0,,140.0,150.0,160.0,176.0,,160.0,0.3435906899522809,2.76
+fanduel,240.0,-0.03615470952039379,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Ladd McConkey,Over,89.5,,,162.0,220.0,210.0,210.0,240.0,,,0.2834839089645901,3.4
+hardrockbet,800.0,0.10909536938828546,Denver Broncos @ Los Angeles Chargers,player_receptions_alternate,Devaughn Vele,Over,5.5,,,379.0,600.0,,,680.0,,800.0,0.1232328188209206,9.0
+fanduel,112.0,-0.07195766147015381,Denver Broncos @ Los Angeles Chargers,player_reception_yds_alternate,Ladd McConkey,Over,69.5,,,-114.0,105.0,100.0,100.0,112.0,,,0.4377558200612482,2.12
