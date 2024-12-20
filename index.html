@@ -48,6 +48,9 @@
             <li class="nav-item" role="presentation">
                 <button class="nav-link" id="ncaab-tab" data-bs-toggle="tab" data-bs-target="#ncaab" type="button" role="tab" aria-controls="ncaab" aria-selected="false">NCAAB</button>
             </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="ncaaf-tab" data-bs-toggle="tab" data-bs-target="#ncaaf" type="button" role="tab" aria-controls="ncaaf" aria-selected="false">NCAAF</button>
+            </li>
         </ul>
         <div class="tab-content mt-3" id="csvTabsContent">
             <div class="tab-pane fade show active" id="nhl" role="tabpanel" aria-labelledby="nhl-tab">
@@ -77,6 +80,13 @@
                     <tbody></tbody>
                 </table>
                 <div id="ncaab-error" class="alert alert-danger d-none">Error loading NCAAB data. Please try again later.</div>
+            </div>
+            <div class="tab-pane fade" id="ncaaf" role="tabpanel" aria-labelledby="ncaaf-tab">
+                <table id="table-ncaaf" class="table table-striped table-bordered">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+                <div id="ncaaf-error" class="alert alert-danger d-none">Error loading NCAAF data. Please try again later.</div>
             </div>
         </div>
     </div>
@@ -125,7 +135,8 @@
             nhl: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/icehockey_nhl/icehockey_nhl_best_player_props_20241220.csv',
             nfl: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/americanfootball_nfl/americanfootball_nfl_best_player_props_20241219.csv',
             nba: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/basketball_nba/basketball_nba_best_player_props_20241220.csv',
-            ncaab: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/basketball_ncaab/basketball_ncaab_best_player_props_20241220.csv'
+            ncaab: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/basketball_ncaab/basketball_ncaab_best_player_props_20241220.csv',
+            ncaaf: 'https://raw.githubusercontent.com/ldinan-git/sports-betting-ops/main/bet-ops/aggregated_csvs/output/best_player_props/americanfootball_ncaaf/americanfootball_ncaaf_best_player_props_20241220.csv'
         };
 
         // Fetch and display CSV data for each tab
@@ -134,8 +145,8 @@
             fetchAndDisplayCSV(csvUrls.nfl, '#table-nfl', '#nfl-error');
             fetchAndDisplayCSV(csvUrls.nba, '#table-nba', '#nba-error');
             fetchAndDisplayCSV(csvUrls.ncaab, '#table-ncaab', '#ncaab-error');
+            fetchAndDisplayCSV(csvUrls.ncaaf, '#table-ncaaf', '#ncaaf-error');
         });
     </script>
 </body>
 </html>
-
