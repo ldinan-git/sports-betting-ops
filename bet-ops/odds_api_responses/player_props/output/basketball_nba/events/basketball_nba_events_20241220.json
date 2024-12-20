@@ -1,0 +1,29 @@
+[
+    {
+        "id": "2a7dbcfb83d9321a10d76ff067ee48e8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-21T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Charlotte Hornets",
+        "date": "20241220"
+    },
+    {
+        "id": "de4b0a58518b04e6a594bf13cf088bf9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-21T00:40:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Milwaukee Bucks",
+        "date": "20241220"
+    },
+    {
+        "id": "7e71c7e05484687ee8c14b8a0b9ab364",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-21T01:10:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20241220"
+    }
+]
