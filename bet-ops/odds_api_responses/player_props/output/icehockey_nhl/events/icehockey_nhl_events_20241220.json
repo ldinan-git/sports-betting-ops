@@ -1,0 +1,65 @@
+[
+    {
+        "id": "5367c99632f0815179bc5ff1d0924bd5",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T00:00:00Z",
+        "home_team": "Buffalo Sabres",
+        "away_team": "Toronto Maple Leafs",
+        "date": "20241220"
+    },
+    {
+        "id": "8aa4c7d9f19a350c29755104c406561a",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T00:00:00Z",
+        "home_team": "Washington Capitals",
+        "away_team": "Carolina Hurricanes",
+        "date": "20241220"
+    },
+    {
+        "id": "8492409a4960de3adef5ea028abcff90",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T00:00:00Z",
+        "home_team": "Detroit Red Wings",
+        "away_team": "Montr\u00e9al Canadiens",
+        "date": "20241220"
+    },
+    {
+        "id": "916cb753022c302d81c9df2a9f8c09fb",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T00:00:00Z",
+        "home_team": "Florida Panthers",
+        "away_team": "St Louis Blues",
+        "date": "20241220"
+    },
+    {
+        "id": "fccd645a529bd94e0204ebbc3c6dcebf",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T01:00:00Z",
+        "home_team": "Dallas Stars",
+        "away_team": "New York Rangers",
+        "date": "20241220"
+    },
+    {
+        "id": "761bba91bd49e2150ffd86b8a3b9eaa7",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T01:00:00Z",
+        "home_team": "Minnesota Wild",
+        "away_team": "Utah Hockey Club",
+        "date": "20241220"
+    },
+    {
+        "id": "8d1925290110e88d555bd69ba1da3b47",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2024-12-21T03:00:00Z",
+        "home_team": "Anaheim Ducks",
+        "away_team": "Colorado Avalanche",
+        "date": "20241220"
+    }
+]

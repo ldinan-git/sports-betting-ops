@@ -1,0 +1,41 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+draftkings,180.0,-0.0003881370158121955,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Dylan Larkin,Yes,,118.0,145.0,,115.0,180.0,165.0,175.0,165.0,165.0,0.3570042367800671,2.8
+ballybet,-315.0,-0.007665689905474893,Montréal Canadiens @ Detroit Red Wings,player_power_play_points,Patrik Laine,Under,0.5,-315.0,-450.0,,,,-450.0,,-505.0,,0.7532176088669287,1.3174603174603174
+fanduel,270.0,0.07429239665249576,Utah Hockey Club @ Minnesota Wild,player_goals,Marco Rossi,Over,0.5,,,,,,200.0,270.0,200.0,200.0,0.2903492963925664,3.7
+fanduel,370.0,0.11106545711717652,St Louis Blues @ Florida Panthers,player_goals,Jake Neighbours,Over,0.5,,,,,,275.0,370.0,255.0,260.0,0.236396905769612,4.7
+fanduel,290.0,0.07065585191071877,New York Rangers @ Dallas Stars,player_goals,Vincent Trocheck,Over,0.5,,,,,,230.0,290.0,210.0,210.0,0.2745271415155689,3.9
+ballybet,-150.0,0.0004652864566927484,Colorado Avalanche @ Anaheim Ducks,player_power_play_points,Cale Makar,Under,0.5,-150.0,-190.0,,,,-190.0,,-200.0,,0.6002791718740158,1.6666666666666663
+fanduel,175.0,-0.018238348854815456,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Dylan Larkin,Yes,,118.0,145.0,,115.0,180.0,165.0,175.0,165.0,165.0,0.3570042367800671,2.75
+ballybet,325.0,0.09356617418151925,New York Rangers @ Dallas Stars,player_power_play_points,Miro Heiskanen,Over,0.5,325.0,250.0,,,,250.0,,235.0,250.0,0.2573096880427104,4.25
+fanduel,320.0,0.07251318568067067,New York Rangers @ Dallas Stars,player_goals,Alexis Lafrenière,Over,0.5,,,,,,250.0,320.0,230.0,240.0,0.2553602823049216,4.2
+fanduel,360.0,0.0840057014679485,Utah Hockey Club @ Minnesota Wild,player_goals,Logan Cooley,Over,0.5,,,,,,275.0,360.0,265.0,260.0,0.2356534133625975,4.6
+betmgm,900.0,0.25041504015793903,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Joe Veleno,Yes,,410.0,900.0,,400.0,850.0,650.0,750.0,600.0,650.0,0.1250415040157939,10.0
+ballybet,120.0,0.029830384219514894,Colorado Avalanche @ Anaheim Ducks,player_shots_on_goal,Artturi Lehkonen,Over,2.5,120.0,-105.0,100.0,,-105.0,-110.0,108.0,-110.0,-105.0,0.4681047200997795,2.2
+betmgm,500.0,0.09783142826621072,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Michael Rasmussen,Yes,,275.0,500.0,,270.0,450.0,400.0,500.0,385.0,400.0,0.1829719047110351,6.0
+fanduel,500.0,0.09783142826621072,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Michael Rasmussen,Yes,,275.0,500.0,,270.0,450.0,400.0,500.0,385.0,400.0,0.1829719047110351,6.0
+ballybet,135.0,0.036967389287544616,St Louis Blues @ Florida Panthers,player_shots_on_goal,Matthew Tkachuk,Over,3.5,135.0,110.0,112.0,,110.0,107.0,110.0,100.0,110.0,0.4412627188457636,2.35
+fanduel,240.0,0.03473604793239993,Colorado Avalanche @ Anaheim Ducks,player_goals,Frank Vatrano,Over,0.5,,,,,,190.0,240.0,185.0,190.0,0.3043341317448235,3.4
+draftkings,850.0,0.19567027175722784,Colorado Avalanche @ Anaheim Ducks,player_goal_scorer_anytime,Givani Smith,Yes,,420.0,,,425.0,850.0,800.0,,745.0,800.0,0.125860028606024,9.5
+draftkings,650.0,0.15435971296084694,Colorado Avalanche @ Anaheim Ducks,player_goal_scorer_anytime,Ivan Prosvetov,Yes,,420.0,360.0,,425.0,650.0,700.0,360.0,610.0,400.0,0.1539146283947796,7.5
+ballybet,-143.0,-0.006043536295971319,Colorado Avalanche @ Anaheim Ducks,player_power_play_points,Nathan MacKinnon,Under,0.5,-143.0,-175.0,,,,-175.0,,-185.0,,0.5849208819328235,1.6993006993006992
+fanduel,400.0,0.09080480244163114,New York Rangers @ Dallas Stars,player_goals,Filip Chytil,Over,0.5,,,,,,300.0,400.0,290.0,300.0,0.2181609604883262,5.0
+fanduel,350.0,0.06784833569195547,St Louis Blues @ Florida Panthers,player_goals,Pavel Buchnevich,Over,0.5,,,,,,275.0,350.0,260.0,260.0,0.2372996301537679,4.5
+ballybet,120.0,0.024524859526874,Colorado Avalanche @ Anaheim Ducks,player_shots_on_goal,Cale Makar,Over,3.5,120.0,-105.0,102.0,,100.0,-106.0,106.0,-110.0,-105.0,0.4656931179667608,2.2
+fanduel,1800.0,0.5730963883137792,St Louis Blues @ Florida Panthers,player_goal_scorer_anytime,Uvis Balinskis,Yes,,650.0,1700.0,,650.0,700.0,950.0,1800.0,875.0,1000.0,0.0827945467533568,19.0
+ballybet,145.0,0.03237201520276667,New York Rangers @ Dallas Stars,player_shots_on_goal,Mika Zibanejad,Over,2.5,145.0,115.0,122.0,,120.0,115.0,126.0,110.0,120.0,0.4213763327358231,2.45
+fanduel,140.0,-0.00956720219358953,Toronto Maple Leafs @ Buffalo Sabres,player_goals,William Nylander,Over,0.5,,,,,,115.0,140.0,115.0,115.0,0.4126803324193377,2.4
+fanduel,290.0,0.041545089501271004,Carolina Hurricanes @ Washington Capitals,player_goals,Tom Wilson,Over,0.5,,,,,,240.0,290.0,220.0,225.0,0.2670628434618644,3.9
+draftkings,850.0,0.18789428815004205,Montréal Canadiens @ Detroit Red Wings,player_goal_scorer_anytime,Joe Veleno,Yes,,410.0,900.0,,400.0,850.0,650.0,750.0,600.0,650.0,0.1250415040157939,9.5
+ballybet,-157.0,-0.013262788801293945,Colorado Avalanche @ Anaheim Ducks,player_power_play_points,Mikko Rantanen,Under,0.5,-157.0,-190.0,,,,-190.0,,-200.0,,0.6027927710435675,1.6369426751592355
+betmgm,1700.0,0.49030184156042256,St Louis Blues @ Florida Panthers,player_goal_scorer_anytime,Uvis Balinskis,Yes,,650.0,1700.0,,650.0,700.0,950.0,1800.0,875.0,1000.0,0.0827945467533568,18.0
+fanduel,145.0,-0.010557991620653517,St Louis Blues @ Florida Panthers,player_goals,Matthew Tkachuk,Over,0.5,,,,,,135.0,145.0,110.0,115.0,0.4038538809711618,2.45
+fanduel,290.0,0.036400510066928016,Colorado Avalanche @ Anaheim Ducks,player_goals,Troy Terry,Over,0.5,,,,,,240.0,290.0,225.0,225.0,0.2657437205299816,3.9
+ballybet,-275.0,-0.027237749241337372,Carolina Hurricanes @ Washington Capitals,player_power_play_points,Andrei Svechnikov,Under,0.5,-275.0,-350.0,,,,-340.0,,-370.0,,0.7133589838896859,1.3636363636363638
+ballybet,104.0,0.004583408445674175,Montréal Canadiens @ Detroit Red Wings,player_shots_on_goal,Alex DeBrincat,Under,2.5,104.0,-115.0,-114.0,,-115.0,-114.0,-115.0,-120.0,-115.0,0.4924428472772912,2.04
+fanduel,210.0,0.009732635152341018,Toronto Maple Leafs @ Buffalo Sabres,player_goals,Mitch Marner,Over,0.5,,,,,,175.0,210.0,170.0,170.0,0.3257202048878519,3.1
+ballybet,-295.0,-0.029903555697043505,Montréal Canadiens @ Detroit Red Wings,player_power_play_points,Nick Suzuki,Under,0.5,-295.0,-375.0,,,,-375.0,,-395.0,,0.7245024077705624,1.3389830508474576
+espnbet,700.0,0.23131702715823677,Colorado Avalanche @ Anaheim Ducks,player_goal_scorer_anytime,Ivan Prosvetov,Yes,,420.0,360.0,,425.0,650.0,700.0,360.0,610.0,400.0,0.1539146283947796,8.0
+draftkings,550.0,0.07348651255767402,Utah Hockey Club @ Minnesota Wild,player_goal_scorer_anytime,Jack McBain,Yes,,335.0,500.0,,330.0,550.0,,500.0,,,0.1651517711627191,6.5
+ballybet,-125.0,-0.0005655184019139892,New York Rangers @ Dallas Stars,player_shots_on_goal,Wyatt Johnston,Over,2.5,-125.0,-155.0,-147.0,,-148.0,-150.0,-138.0,-165.0,-150.0,0.5552413786656033,1.8
+ballybet,-157.0,-0.007713484210511878,Utah Hockey Club @ Minnesota Wild,player_shots_on_goal,Mikhail Sergachev,Over,1.5,-157.0,-200.0,-182.0,,-182.0,-200.0,-170.0,-205.0,-195.0,0.606182813147664,1.6369426751592355
+ballybet,-315.0,-0.02897893178949973,Montréal Canadiens @ Detroit Red Wings,player_power_play_points,Cole Caufield,Under,0.5,-315.0,-400.0,,,,-400.0,,-425.0,,0.7370400879188135,1.3174603174603174
