@@ -1,0 +1,20 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+hardrockbet,2500.0,5.494132400007486,Washington Wizards @ Milwaukee Bucks,player_points_alternate,Alex Sarr,Over,24.5,,,,-10000.0,,2200.0,,,2500.0,0.249774323077211,26.0
+espnbet,2200.0,4.744809430775853,Washington Wizards @ Milwaukee Bucks,player_points_alternate,Alex Sarr,Over,24.5,,,,-10000.0,,2200.0,,,2500.0,0.249774323077211,23.0
+fanduel,-270.0,-0.03523794112384615,Miami Heat @ Orlando Magic,player_assists_alternate,Wendell Carter Jr,Over,1.5,,,-476.0,,,-400.0,-270.0,,,0.7040155564771934,1.3703703703703702
+betonlineag,-213.0,-0.039089480175896085,Los Angeles Clippers @ Dallas Mavericks,player_assists_alternate,P.J. Washington,Over,1.5,,,-213.0,,,-325.0,-250.0,,,0.6539103537461153,1.4694835680751177
+bovada,900.0,0.5775087248024251,Utah Jazz @ Brooklyn Nets,player_rebounds_alternate,John Collins,Over,11.5,,,390.0,900.0,425.0,450.0,440.0,,400.0,0.1577508724802425,10.0
+betonlineag,-323.0,-0.04417510788220147,Memphis Grizzlies @ Atlanta Hawks,player_assists_alternate,Desmond Bane,Over,3.5,,,-323.0,,-450.0,-525.0,,,-575.0,0.7298615606478697,1.3095975232198145
+bovada,-110.0,-0.006457033916158705,Boston Celtics @ Chicago Bulls,player_rebounds_alternate,Kristaps Porzingis,Over,7.5,,,-164.0,-110.0,-175.0,-155.0,-110.0,,-160.0,0.5204272679486789,1.9090909090909087
+fanduel,-110.0,-0.006457033916158705,Boston Celtics @ Chicago Bulls,player_rebounds_alternate,Kristaps Porzingis,Over,7.5,,,-164.0,-110.0,-175.0,-155.0,-110.0,,-160.0,0.5204272679486789,1.9090909090909087
+ballybet,-167.0,0.026932849260888014,New York Knicks @ New Orleans Pelicans,player_blocks,Karl-Anthony Towns,Over,0.5,-167.0,-250.0,,,,-250.0,,-250.0,-240.0,0.6423138045938888,1.598802395209581
+fanduel,-250.0,-0.05451979892406733,Utah Jazz @ Brooklyn Nets,player_assists_alternate,John Collins,Over,1.5,,,-400.0,,,-325.0,-250.0,,,0.6753430007685234,1.4
+betonlineag,-161.0,-0.03718564496671639,Memphis Grizzlies @ Atlanta Hawks,player_assists_alternate,Desmond Bane,Over,4.5,,-250.0,-161.0,,-205.0,-240.0,,,-240.0,0.5939199661316424,1.62111801242236
+ballybet,540.0,0.2915546668257122,Washington Wizards @ Milwaukee Bucks,player_double_double,Alex Sarr,Yes,,540.0,310.0,,,,330.0,420.0,300.0,300.0,0.2018054166915175,6.4
+fanduel,-135.0,-0.02238824740108225,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Anthony Davis,Over,11.5,,,-179.0,-150.0,-185.0,-190.0,-135.0,,-200.0,0.5616067514929953,1.7407407407407407
+betmgm,300.0,0.10340801476846351,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,De'Aaron Fox,Over,6.5,,300.0,188.0,,220.0,200.0,,,210.0,0.2758520036921159,4.0
+fanduel,-130.0,-0.027970536976044902,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Malik Monk,Over,3.5,,,-141.0,-150.0,-200.0,-185.0,-130.0,,-190.0,0.5494079573613659,1.7692307692307692
+fanduel,175.0,0.03519587813475433,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Anthony Davis,Over,13.5,,,128.0,150.0,120.0,135.0,175.0,,,0.3764348647762743,2.75
+draftkings,-195.0,0.01786754707191074,Miami Heat @ Orlando Magic,player_blocks,Jimmy Butler,Under,0.5,,-275.0,,,-195.0,-280.0,,-300.0,-275.0,0.6728277006068563,1.5128205128205128
+fanduel,-370.0,-0.06289259158824378,Portland Trail Blazers @ San Antonio Spurs,player_rebounds_alternate,Deandre Ayton,Over,7.5,,,,,-550.0,-525.0,-370.0,,-575.0,0.7377228534305316,1.2702702702702702
+fanduel,350.0,0.1328630757679965,Los Angeles Lakers @ Sacramento Kings,player_rebounds_alternate,Malik Monk,Over,5.5,,,238.0,300.0,215.0,250.0,350.0,,225.0,0.2517473501706659,4.5
