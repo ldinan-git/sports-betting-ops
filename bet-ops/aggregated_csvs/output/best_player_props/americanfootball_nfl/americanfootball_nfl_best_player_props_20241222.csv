@@ -1,0 +1,69 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+bovada,3300.0,4.258243700449428,Tennessee Titans @ Indianapolis Colts,player_rush_yds_alternate,Jonathan Taylor,Over,124.5,,310.0,,3300.0,,400.0,320.0,,,0.1546542264838067,34.0
+draftkings,1000.0,1.2495025963329978,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Chase Brown,Over,79.5,,,817.0,,1000.0,-170.0,,,800.0,0.2045002360302725,11.0
+betonlineag,817.0,0.8752671643975989,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Chase Brown,Over,79.5,,,817.0,,1000.0,-170.0,,,800.0,0.2045002360302725,9.17
+hardrockbet,800.0,0.8405021242724526,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Chase Brown,Over,79.5,,,817.0,,1000.0,-170.0,,,800.0,0.2045002360302725,9.0
+betonlineag,128.0,0.12214579277525439,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,4.5,,,128.0,100.0,,-800.0,100.0,,,0.4921692073575677,2.28
+hardrockbet,600.0,0.5849115151324085,Arizona Cardinals @ Carolina Panthers,player_anytime_td,DeeJay Dallas,Yes,,195.0,190.0,300.0,260.0,310.0,250.0,310.0,540.0,600.0,0.2264159307332012,7.0
+betonlineag,115.0,0.05877150710359136,San Francisco 49ers @ Miami Dolphins,player_receptions_alternate,Patrick Taylor,Over,1.5,,,115.0,,,-220.0,100.0,,-110.0,0.4924518637691122,2.15
+fliff,540.0,0.44906195669248783,Arizona Cardinals @ Carolina Panthers,player_anytime_td,DeeJay Dallas,Yes,,195.0,190.0,300.0,260.0,310.0,250.0,310.0,540.0,600.0,0.2264159307332012,6.4
+betonlineag,-143.0,0.004081962427964214,Los Angeles Rams @ New York Jets,player_receptions_alternate,Breece Hall,Over,2.5,,,-143.0,-200.0,,-350.0,-186.0,,,0.5908795087539049,1.6993006993006992
+fanduel,2800.0,2.3834305098019097,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Kenny McIntosh,Yes,,575.0,310.0,1400.0,1000.0,1400.0,1400.0,2800.0,1575.0,260.0,0.1166700175793762,29.0
+fanduel,270.0,0.1346646808123222,San Francisco 49ers @ Miami Dolphins,player_receptions_alternate,Patrick Taylor,Over,2.5,,,183.0,,,140.0,270.0,,,0.3066661299492763,3.7
+bovada,350.0,0.20382981857462013,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,6.5,,,314.0,350.0,,-175.0,320.0,,,0.2675177374610267,4.5
+betonlineag,-105.0,0.0028867207257419203,Detroit Lions @ Chicago Bears,player_receptions_alternate,Tim Patrick,Over,2.5,,,-105.0,,,-185.0,-130.0,,,0.51367368622538,1.9523809523809523
+hardrockbet,1200.0,0.9254948979026071,Philadelphia Eagles @ Washington Commanders,player_anytime_td,Ben Sinnott,Yes,,525.0,425.0,400.0,400.0,400.0,400.0,400.0,890.0,1200.0,0.1481149921463544,13.0
+hardrockbet,2000.0,1.592833438401565,Tampa Bay Buccaneers @ Dallas Cowboys,player_anytime_td,Sean Tucker,Yes,,600.0,450.0,550.0,400.0,550.0,500.0,850.0,1135.0,2000.0,0.1234682589715031,21.0
+draftkings,275.0,0.17500807062608748,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Zach Charbonnet,Yes,,190.0,-110.0,270.0,162.0,275.0,160.0,240.0,225.0,240.0,0.31333548550029,3.75
+fanduel,2400.0,1.7597125806844471,Tennessee Titans @ Indianapolis Colts,player_anytime_td,Julius Chestnut,Yes,,1150.0,400.0,750.0,400.0,750.0,650.0,2400.0,,,0.1103885032273779,25.0
+betonlineag,270.0,0.15934129635107297,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Zach Charbonnet,Yes,,190.0,-110.0,270.0,162.0,275.0,160.0,240.0,225.0,240.0,0.31333548550029,3.7
+draftkings,850.0,0.474727512276919,Arizona Cardinals @ Carolina Panthers,player_reception_yds_alternate,Greg Dortch,Over,39.5,,,263.0,,850.0,,,,400.0,0.1552344749765178,9.5
+fanduel,850.0,0.5382961903742746,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Ke'Shawn Vaughn,Yes,,500.0,,,350.0,,,850.0,385.0,425.0,0.1619259147762394,9.5
+draftkings,850.0,0.4575173673493833,Los Angeles Rams @ New York Jets,player_reception_yds_alternate,Tutu Atwell,Over,39.5,,,263.0,,850.0,,,,400.0,0.1534228807736193,9.5
+fanduel,210.0,0.060759294265910535,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Jerome Ford,Over,24.5,,,,,130.0,150.0,210.0,,140.0,0.3421804175051324,3.1
+fanduel,650.0,0.425468199809546,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Brock Purdy,Yes,,450.0,400.0,250.0,400.0,245.0,325.0,650.0,365.0,400.0,0.1900624266412728,7.5
+hardrockbet,600.0,0.3820537625422311,New England Patriots @ Buffalo Bills,player_anytime_td,Ty Johnson,Yes,,250.0,325.0,325.0,300.0,330.0,275.0,340.0,555.0,600.0,0.1974362517917473,7.0
+fliff,530.0,0.32277336045019756,Detroit Lions @ Chicago Bears,player_anytime_td,Craig Reynolds,Yes,,220.0,333.0,300.0,275.0,310.0,275.0,420.0,530.0,400.0,0.2099640254682853,6.3
+fanduel,-154.0,-0.026415114625554903,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Ja'Marr Chase,Over,79.5,,,,-650.0,-175.0,,-154.0,,-170.0,0.5902837494002542,1.6493506493506491
+fanduel,700.0,0.4360460461232648,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Ricky Pearsall,Yes,,410.0,400.0,270.0,400.0,280.0,400.0,700.0,420.0,450.0,0.1795057557654081,8.0
+fanduel,-200.0,-0.04383352847584465,Arizona Cardinals @ Carolina Panthers,player_receptions_alternate,James Conner,Over,2.5,,,-312.0,,,-325.0,-200.0,,,0.6374443143494369,1.5
+fanduel,320.0,0.1235744973363122,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,6.5,,,314.0,350.0,,-175.0,320.0,,,0.2675177374610267,4.2
+betonlineag,-185.0,-0.03435756617092767,Detroit Lions @ Chicago Bears,player_receptions_alternate,Cole Kmet,Over,1.5,,,-185.0,-275.0,,-300.0,-260.0,,-250.0,0.6268205272223802,1.5405405405405406
+betonlineag,171.0,0.0198583662714098,Minnesota Vikings @ Seattle Seahawks,player_receptions_alternate,Josh Oliver,Over,1.5,,,171.0,,,-120.0,,,150.0,0.3763315004691549,2.71
+hardrockbet,475.0,0.2545017626791919,Los Angeles Rams @ New York Jets,player_anytime_td,Braelon Allen,Yes,,255.0,210.0,350.0,225.0,350.0,210.0,430.0,430.0,475.0,0.2181742195963812,5.75
+bovada,115.0,0.06383048352353593,Minnesota Vikings @ Seattle Seahawks,player_rush_yds,Zach Charbonnet,Under,18.5,-118.0,-120.0,,115.0,,,,-130.0,-120.0,0.4948048760574586,2.15
+fanduel,100.0,-0.015096272461775473,San Francisco 49ers @ Miami Dolphins,player_receptions_alternate,Patrick Taylor,Over,1.5,,,115.0,,,-220.0,100.0,,-110.0,0.4924518637691122,2.0
+fanduel,260.0,0.10716814880382453,Tennessee Titans @ Indianapolis Colts,player_anytime_td,Tyjae Spears,Yes,,148.0,145.0,220.0,125.0,225.0,160.0,260.0,195.0,210.0,0.3075467080010624,3.6
+betonlineag,314.0,0.10752343308865075,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,6.5,,,314.0,350.0,,-175.0,320.0,,,0.2675177374610267,4.140000000000001
+bovada,100.0,-0.0156615852848645,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,4.5,,,128.0,100.0,,-800.0,100.0,,,0.4921692073575677,2.0
+fanduel,100.0,-0.0156615852848645,Cleveland Browns @ Cincinnati Bengals,player_receptions_alternate,Chase Brown,Over,4.5,,,128.0,100.0,,-800.0,100.0,,,0.4921692073575677,2.0
+fliff,1575.0,0.9542227944545515,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Kenny McIntosh,Yes,,575.0,310.0,1400.0,1000.0,1400.0,1400.0,2800.0,1575.0,260.0,0.1166700175793762,16.75
+fliff,555.0,0.2932074492359449,New England Patriots @ Buffalo Bills,player_anytime_td,Ty Johnson,Yes,,250.0,325.0,325.0,300.0,330.0,275.0,340.0,555.0,600.0,0.1974362517917473,6.55
+hardrockbet,130.0,0.01871060448810047,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Patrick Taylor,Yes,,-108.0,110.0,-125.0,-106.0,-125.0,-115.0,110.0,120.0,130.0,0.4429176541252611,2.3
+fanduel,1500.0,0.7224187792947632,Arizona Cardinals @ Carolina Panthers,player_anytime_td,Michael Carter,Yes,,,,,,,,1500.0,550.0,600.0,0.1076511737059227,16.0
+fanduel,-500.0,-0.05588433593183195,Jacksonville Jaguars @ Las Vegas Raiders,player_pass_yds_alternate,Mac Jones,Over,149.5,,-2500.0,,-600.0,-800.0,,-500.0,-1615.0,,0.78676305339014,1.2
+fanduel,-138.0,-0.032693974092839806,Jacksonville Jaguars @ Las Vegas Raiders,player_pass_yds_alternate,Mac Jones,Over,199.5,,-275.0,,-145.0,-175.0,-175.0,-138.0,,,0.560874922584824,1.7246376811594204
+fliff,890.0,0.46633842224890865,Philadelphia Eagles @ Washington Commanders,player_anytime_td,Ben Sinnott,Yes,,525.0,425.0,400.0,400.0,400.0,400.0,400.0,890.0,1200.0,0.1481149921463544,9.9
+fanduel,-113.0,-0.029630624806725514,Tampa Bay Buccaneers @ Dallas Cowboys,player_rush_yds_alternate,Rachaad White,Over,39.5,,,,-140.0,-135.0,,-113.0,,-165.0,0.5147968985767138,1.8849557522123888
+fanduel,820.0,0.34371757069206854,Detroit Lions @ Chicago Bears,player_rush_yds_alternate,Caleb Williams,Over,59.5,,,308.0,,,,820.0,515.0,,0.1460562576839205,9.2
+betonlineag,139.0,0.0008567427678867201,Minnesota Vikings @ Seattle Seahawks,player_receptions_alternate,Kenneth Walker III,Over,3.5,,,139.0,120.0,,-125.0,124.0,,100.0,0.4187685116183626,2.39
+fanduel,460.0,0.20593200496586817,New York Giants @ Atlanta Falcons,player_anytime_td,Devin Singletary,Yes,,255.0,425.0,220.0,350.0,220.0,325.0,460.0,305.0,325.0,0.2153450008867622,5.6
+bovada,135.0,0.049662125578783134,Detroit Lions @ Chicago Bears,player_pass_completions,Jared Goff,Over,23.5,,100.0,,135.0,,,,-110.0,110.0,0.4466647342888438,2.35
+betonlineag,1400.0,0.7500502636906431,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Kenny McIntosh,Yes,,575.0,310.0,1400.0,1000.0,1400.0,1400.0,2800.0,1575.0,260.0,0.1166700175793762,15.0
+draftkings,1400.0,0.7500502636906431,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Kenny McIntosh,Yes,,575.0,310.0,1400.0,1000.0,1400.0,1400.0,2800.0,1575.0,260.0,0.1166700175793762,15.0
+espnbet,1400.0,0.7500502636906431,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Kenny McIntosh,Yes,,575.0,310.0,1400.0,1000.0,1400.0,1400.0,2800.0,1575.0,260.0,0.1166700175793762,15.0
+betonlineag,-179.0,-0.055168637556938904,Los Angeles Rams @ New York Jets,player_receptions_alternate,Allen Lazard,Over,1.5,,,-179.0,,,-275.0,,,-220.0,0.6061821285925015,1.558659217877095
+fanduel,1600.0,0.7122288256561826,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Erik Ezukanma,Yes,,,,,,,,1600.0,580.0,650.0,0.1007193426856578,17.0
+fanduel,410.0,0.14095892030674628,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Mike Gesicki,Over,49.5,,290.0,188.0,,300.0,,410.0,,275.0,0.223717435354264,5.1
+fanduel,650.0,0.30801257142711713,Cleveland Browns @ Cincinnati Bengals,player_anytime_td,D'Onta Foreman,Yes,,525.0,400.0,350.0,500.0,390.0,500.0,650.0,295.0,300.0,0.1744016761902823,7.5
+fanduel,550.0,0.21256038647342945,San Francisco 49ers @ Miami Dolphins,player_anytime_td,Israel Abanikanda,Yes,,350.0,400.0,,350.0,350.0,275.0,550.0,,,0.186547751765143,6.5
+fanduel,710.0,0.2528154285484454,Cleveland Browns @ Cincinnati Bengals,player_reception_yds_alternate,Mike Gesicki,Over,59.5,,,276.0,,475.0,,710.0,,,0.154668571425734,8.1
+bovada,750.0,0.3564531486991662,Philadelphia Eagles @ Washington Commanders,player_anytime_td,Grant Calcaterra,Yes,,440.0,400.0,290.0,750.0,290.0,600.0,700.0,465.0,500.0,0.1595827233763725,8.5
+fanduel,240.0,0.06534065070098594,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Zach Charbonnet,Yes,,190.0,-110.0,270.0,162.0,275.0,160.0,240.0,225.0,240.0,0.31333548550029,3.4
+hardrockbet,240.0,0.06534065070098594,Minnesota Vikings @ Seattle Seahawks,player_anytime_td,Zach Charbonnet,Yes,,190.0,-110.0,270.0,162.0,275.0,160.0,240.0,225.0,240.0,0.31333548550029,3.4
+betonlineag,-303.0,-0.05401765607626119,Jacksonville Jaguars @ Las Vegas Raiders,player_pass_tds_alternate,Aidan O'Connell,Over,0.5,,,-303.0,-450.0,-450.0,-475.0,-430.0,-540.0,,0.7112472709898086,1.33003300330033
+fanduel,420.0,0.16548351321701005,Arizona Cardinals @ Carolina Panthers,player_anytime_td,Michael Wilson,Yes,,295.0,250.0,260.0,260.0,265.0,275.0,420.0,295.0,325.0,0.224131444849425,5.2
+betmgm,500.0,0.18752666703848797,Cleveland Browns @ Cincinnati Bengals,player_tds_over,Ja'Marr Chase,Over,1.5,360.0,500.0,300.0,275.0,,,390.0,,325.0,0.1979211111730813,6.0
+fanduel,270.0,0.05226896251214619,Jacksonville Jaguars @ Las Vegas Raiders,player_receptions_alternate,Tre Tucker,Over,3.5,,,175.0,260.0,,160.0,270.0,,,0.2843970168951746,3.7
+betonlineag,-179.0,-0.053881465517579774,Detroit Lions @ Chicago Bears,player_receptions_alternate,D'Andre Swift,Over,1.5,,,-179.0,,,-325.0,-225.0,,-210.0,0.6070079486464273,1.558659217877095
+ballybet,170.0,0.09053031255071975,San Francisco 49ers @ Miami Dolphins,player_receptions,Deebo Samuel,Over,4.5,170.0,125.0,134.0,130.0,135.0,125.0,,115.0,125.0,0.4039001157595258,2.7
