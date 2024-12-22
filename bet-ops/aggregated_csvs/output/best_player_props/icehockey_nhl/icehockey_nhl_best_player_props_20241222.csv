@@ -1,0 +1,46 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,270.0,0.10254146802957997,Carolina Hurricanes @ New York Rangers,player_goals,Vincent Trocheck,Over,0.5,,,,,,190.0,270.0,185.0,190.0,0.2979841805485351,3.7
+fanduel,280.0,0.10515520267130585,Carolina Hurricanes @ New York Rangers,player_goals,Chris Kreider,Over,0.5,,,,,,200.0,280.0,190.0,195.0,0.2908303164924489,3.8
+fanduel,195.0,0.050010969434913344,Florida Panthers @ Tampa Bay Lightning,player_goals,Matthew Tkachuk,Over,0.5,,,,,,150.0,195.0,140.0,145.0,0.3559359218423435,2.95
+betmgm,185.0,0.009583811261388409,Ottawa Senators @ Edmonton Oilers,player_goal_scorer_anytime,Zach Hyman,Yes,,132.0,185.0,,130.0,145.0,135.0,160.0,115.0,115.0,0.3542399337759258,2.85
+fanduel,160.0,0.028701433053549108,Ottawa Senators @ Edmonton Oilers,player_goals,Zach Hyman,Over,0.5,,,,,,135.0,160.0,115.0,115.0,0.3956543973282881,2.6
+fanduel,180.0,0.028840763632384192,Seattle Kraken @ Colorado Avalanche,player_goals,Valeri Nichushkin,Over,0.5,,,,,,140.0,180.0,135.0,140.0,0.3674431298687087,2.8
+ballybet,225.0,0.0549138270161611,Anaheim Ducks @ Utah Hockey Club,player_power_play_points,Clayton Keller,Over,0.5,225.0,180.0,,,,180.0,,165.0,180.0,0.3245888698511265,3.25
+fanduel,360.0,0.08961277766956921,Seattle Kraken @ Colorado Avalanche,player_goals,Oliver Bjorkstrand,Over,0.5,,,,,,275.0,360.0,255.0,260.0,0.2368723429716455,4.6
+fanduel,130.0,0.0022119992984763748,Ottawa Senators @ Edmonton Oilers,player_goals,Leon Draisaitl,Over,0.5,,,,,,110.0,130.0,100.0,100.0,0.4357443475210767,2.3
+fanduel,195.0,0.023480954128068277,Carolina Hurricanes @ New York Rangers,player_goals,Artemi Panarin,Over,0.5,,,,,,155.0,195.0,150.0,155.0,0.3469426963145994,2.95
+betmgm,140.0,-0.03632119775513698,Ottawa Senators @ Edmonton Oilers,player_goal_scorer_anytime,Leon Draisaitl,Yes,,106.0,140.0,,105.0,115.0,110.0,130.0,100.0,100.0,0.4015328342686929,2.4
+draftkings,950.0,0.23764822134387353,Seattle Kraken @ Colorado Avalanche,player_goal_scorer_anytime,Givani Smith,Yes,,450.0,,,450.0,950.0,950.0,,765.0,900.0,0.117871259175607,10.5
+ballybet,145.0,0.040670463735386964,Los Angeles Kings @ Washington Capitals,player_shots_on_goal,Alex Laferriere,Over,2.5,145.0,110.0,124.0,120.0,120.0,110.0,132.0,105.0,115.0,0.4247634545858722,2.45
+fanduel,330.0,0.06692053066220693,Florida Panthers @ Tampa Bay Lightning,player_goals,Anthony Cirelli,Over,0.5,,,,,,260.0,330.0,240.0,250.0,0.2481210536423737,4.3
+ballybet,-112.0,0.014858701795704476,Los Angeles Kings @ Washington Capitals,player_shots_on_goal,Kevin Fiala,Over,2.5,-112.0,-145.0,-135.0,-135.0,-135.0,-145.0,-128.0,-150.0,-140.0,0.53615176698641,1.8928571428571428
+draftkings,750.0,0.19611748959575048,Seattle Kraken @ Colorado Avalanche,player_goal_scorer_anytime,Ivan Prosvetov,Yes,,450.0,400.0,,450.0,750.0,700.0,460.0,595.0,525.0,0.1407197046583236,8.5
+fanduel,400.0,0.08802000316139447,Los Angeles Kings @ Washington Capitals,player_goals,Quinton Byfield,Over,0.5,,,,,,300.0,400.0,290.0,300.0,0.2176040006322789,5.0
+fanduel,230.0,0.027063978765222485,Los Angeles Kings @ Washington Capitals,player_goals,Connor McMichael,Over,0.5,,,,,,185.0,230.0,175.0,185.0,0.3112315087167341,3.3
+fanduel,-125.0,0.00863944589780985,Los Angeles Kings @ Washington Capitals,player_shots_on_goal,Dylan Strome,Over,1.5,-150.0,-165.0,-141.0,-145.0,-142.0,-160.0,-125.0,-175.0,-165.0,0.5603552477210054,1.8
+draftkings,1000.0,0.2830472018892516,Carolina Hurricanes @ New York Rangers,player_goal_scorer_anytime,Adam Fox,Yes,,500.0,750.0,,500.0,1000.0,550.0,700.0,480.0,525.0,0.1166406547172047,11.0
+fanduel,300.0,0.052588036321218334,Carolina Hurricanes @ New York Rangers,player_goals,Alexis Lafrenière,Over,0.5,,,,,,240.0,300.0,225.0,230.0,0.2631470090803046,4.0
+fanduel,165.0,0.0010007014040032125,Florida Panthers @ Tampa Bay Lightning,player_goals,Brayden Point,Over,0.5,,,,,,135.0,165.0,130.0,135.0,0.3777361137373597,2.65
+fanduel,230.0,-0.008657129987389212,Los Angeles Kings @ Washington Capitals,player_goal_scorer_anytime,Connor McMichael,Yes,,160.0,210.0,,160.0,195.0,185.0,230.0,175.0,185.0,0.3004069303068518,3.3
+ballybet,120.0,0.023442928040780187,Florida Panthers @ Tampa Bay Lightning,player_shots_on_goal,Aleksander Barkov,Over,2.5,120.0,-105.0,102.0,100.0,100.0,-106.0,106.0,-110.0,-105.0,0.4652013309276273,2.2
+ballybet,145.0,0.03534974788327894,Carolina Hurricanes @ New York Rangers,player_shots_on_goal,Brent Burns,Over,2.5,145.0,115.0,122.0,120.0,120.0,115.0,122.0,110.0,120.0,0.4225917338299097,2.45
+ballybet,-335.0,-0.027989487983097194,Ottawa Senators @ Edmonton Oilers,player_power_play_points,Drake Batherson,Under,0.5,-335.0,-450.0,,,,-450.0,,-470.0,,0.748559819599224,1.2985074626865671
+betmgm,950.0,0.2465780998389686,Florida Panthers @ Tampa Bay Lightning,player_goal_scorer_anytime,Michael Eyssimont,Yes,,440.0,950.0,,440.0,650.0,600.0,950.0,540.0,575.0,0.1187217237941875,10.5
+fanduel,950.0,0.2465780998389686,Florida Panthers @ Tampa Bay Lightning,player_goal_scorer_anytime,Michael Eyssimont,Yes,,440.0,950.0,,440.0,650.0,600.0,950.0,540.0,575.0,0.1187217237941875,10.5
+ballybet,150.0,0.03466508540482849,Los Angeles Kings @ Washington Capitals,player_shots_on_goal,Warren Foegele,Over,2.5,150.0,120.0,128.0,125.0,126.0,120.0,132.0,110.0,120.0,0.4138660341619314,2.5
+ballybet,-106.0,0.01169134696937224,Ottawa Senators @ Edmonton Oilers,player_shots_on_goal,Evan Bouchard,Over,2.5,-106.0,-135.0,-118.0,-125.0,-125.0,-134.0,-125.0,-140.0,-135.0,0.5205790426153081,1.9433962264150944
+ballybet,120.0,0.020712336115746854,Carolina Hurricanes @ New York Rangers,player_shots_on_goal,Vincent Trocheck,Over,2.5,120.0,-105.0,103.0,100.0,100.0,-106.0,110.0,-110.0,-105.0,0.4639601527798849,2.2
+ballybet,-125.0,0.00641615678612284,Carolina Hurricanes @ New York Rangers,player_shots_on_goal,Sebastian Aho,Over,2.5,-125.0,-155.0,-149.0,-150.0,-148.0,-160.0,-144.0,-165.0,-155.0,0.5591200871034014,1.8
+betmgm,200.0,-0.02382905582249295,Seattle Kraken @ Colorado Avalanche,player_goal_scorer_anytime,Valeri Nichushkin,Yes,,165.0,200.0,,165.0,150.0,140.0,180.0,135.0,140.0,0.3253903147258357,3.0
+ballybet,-150.0,-0.014760390156319136,Seattle Kraken @ Colorado Avalanche,player_power_play_points,Cale Makar,Under,0.5,-150.0,-185.0,,,,-175.0,,-195.0,,0.5911437659062087,1.6666666666666663
+betmgm,550.0,0.09812409812409784,Anaheim Ducks @ Utah Hockey Club,player_goal_scorer_anytime,Michael Carcone,Yes,,320.0,550.0,,320.0,400.0,400.0,550.0,365.0,375.0,0.1689421689421689,6.5
+fanduel,550.0,0.09812409812409784,Anaheim Ducks @ Utah Hockey Club,player_goal_scorer_anytime,Michael Carcone,Yes,,320.0,550.0,,320.0,400.0,400.0,550.0,365.0,375.0,0.1689421689421689,6.5
+fanduel,260.0,0.027797898338460914,Seattle Kraken @ Colorado Avalanche,player_goals,Ross Colton,Over,0.5,,,,,,210.0,260.0,200.0,210.0,0.285499416205128,3.6
+ballybet,-122.0,0.0017011992562392386,Carolina Hurricanes @ New York Rangers,player_shots_on_goal,Martin Necas,Over,2.5,-122.0,-150.0,-145.0,-145.0,-142.0,-150.0,-138.0,-165.0,-150.0,0.5504844428345098,1.819672131147541
+ballybet,-143.0,-0.0013389419798701674,Ottawa Senators @ Edmonton Oilers,player_shots_on_goal,Zach Hyman,Over,2.5,-143.0,-175.0,-169.0,-170.0,-168.0,-180.0,-168.0,-190.0,-175.0,0.5876894292052616,1.6993006993006992
+draftkings,900.0,0.20312859443294196,Carolina Hurricanes @ New York Rangers,player_goal_scorer_anytime,William Carrier,Yes,,500.0,600.0,,500.0,900.0,650.0,600.0,550.0,600.0,0.1203128594432942,10.0
+fanduel,280.0,-0.004075203233688818,Carolina Hurricanes @ New York Rangers,player_goal_scorer_anytime,Chris Kreider,Yes,,215.0,270.0,,215.0,215.0,200.0,280.0,190.0,195.0,0.2620854728332398,3.8
+fanduel,210.0,0.00824154518916842,Los Angeles Kings @ Washington Capitals,player_goals,Adrian Kempe,Over,0.5,,,,,,175.0,210.0,165.0,175.0,0.3252392081255382,3.1
+ballybet,-315.0,-0.029615542368498837,Carolina Hurricanes @ New York Rangers,player_power_play_points,Andrei Svechnikov,Under,0.5,-315.0,-400.0,,,,-400.0,,-435.0,,0.7365568774793322,1.3174603174603174
+draftkings,500.0,0.06625639806417793,Carolina Hurricanes @ New York Rangers,player_goal_scorer_anytime,Eric Robinson,Yes,,285.0,425.0,,280.0,500.0,500.0,420.0,440.0,475.0,0.177709399677363,6.0
+fanduel,165.0,-0.008728105319952384,Florida Panthers @ Tampa Bay Lightning,player_goals,Jake Guentzel,Over,0.5,,,,,,135.0,165.0,135.0,140.0,0.3740648659169991,2.65
