@@ -1,0 +1,29 @@
+[
+    {
+        "id": "34df465b55c9b15d02fdfde3184afacc",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-22T23:00:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Indiana Pacers",
+        "date": "20241222"
+    },
+    {
+        "id": "06bea5c751ad73d3977dc90d2b8e198b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-22T23:10:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Houston Rockets",
+        "date": "20241222"
+    },
+    {
+        "id": "01d70bf94d2e1519cbfbfb51c684fc25",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-12-23T00:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Denver Nuggets",
+        "date": "20241222"
+    }
+]
