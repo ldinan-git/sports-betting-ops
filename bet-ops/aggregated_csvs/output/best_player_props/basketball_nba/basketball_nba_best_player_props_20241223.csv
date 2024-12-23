@@ -1,0 +1,12 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,340.0,0.22692259097827017,San Antonio Spurs @ Philadelphia 76ers,player_rebounds_alternate,K.J. Martin,Over,5.5,,,201.0,300.0,165.0,220.0,340.0,,185.0,0.2788460434041523,4.4
+betmgm,275.0,0.10565684899485728,Phoenix Suns @ Denver Nuggets,player_assists_alternate,Jusuf Nurkic,Over,2.5,,275.0,,,125.0,210.0,,,210.0,0.2948418263986286,3.75
+fanduel,360.0,0.17818649094102024,Indiana Pacers @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,5.5,,,194.0,,235.0,,360.0,,240.0,0.2561274980306566,4.6
+fanduel,175.0,0.0656498465706794,San Antonio Spurs @ Philadelphia 76ers,player_points_alternate,Caleb Martin,Over,9.5,,130.0,,120.0,125.0,135.0,175.0,,120.0,0.3875090351166107,2.75
+fanduel,300.0,0.1264426605733111,Washington Wizards @ Oklahoma City Thunder,player_points_alternate,Alex Caruso,Over,9.5,,185.0,,,200.0,225.0,300.0,,,0.2816106651433278,4.0
+fanduel,-120.0,-0.007937004751427335,Minnesota Timberwolves @ Atlanta Hawks,player_points_alternate,Clint Capela,Over,9.5,,-185.0,,-150.0,-135.0,-175.0,-120.0,,-175.0,0.5411252701355851,1.8333333333333333
+fanduel,400.0,0.1911195330502624,Detroit Pistons @ Los Angeles Lakers,player_points_alternate,Simone Fontecchio,Over,9.5,,250.0,,,250.0,275.0,400.0,,275.0,0.2382239066100525,5.0
+draftkings,-160.0,-0.030344202898550665,Toronto Raptors @ New York Knicks,player_points_alternate,R.J. Barrett,Over,19.5,,-225.0,,,-160.0,-225.0,,,-220.0,0.596711259754738,1.625
+fanduel,-125.0,-0.015789978705579744,Indiana Pacers @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,3.5,,,-172.0,,-175.0,-170.0,-125.0,,-175.0,0.5467833451635667,1.8
+fanduel,-125.0,-0.016420436275346395,Indiana Pacers @ Golden State Warriors,player_rebounds_alternate,Tyrese Haliburton,Over,3.5,,,-182.0,-150.0,-160.0,-175.0,-125.0,,-185.0,0.5464330909581409,1.8
+fanduel,420.0,0.17627458751530822,Detroit Pistons @ Los Angeles Lakers,player_rebounds_alternate,Austin Reaves,Over,5.5,,,197.0,,310.0,,420.0,,300.0,0.2262066514452516,5.2
