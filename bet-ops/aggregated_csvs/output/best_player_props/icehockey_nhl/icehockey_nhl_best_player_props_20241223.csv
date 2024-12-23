@@ -3,17 +3,18 @@ fanduel,480.0,0.587741636868452,Philadelphia Flyers @ Pittsburgh Penguins,player
 draftkings,475.0,0.5740542089644136,Philadelphia Flyers @ Pittsburgh Penguins,player_goal_scorer_anytime,Bobby Brink,Yes,,370.0,-2000.0,,360.0,475.0,450.0,480.0,435.0,450.0,0.2737485580807676,5.75
 ballybet,370.0,0.2866182229796077,Philadelphia Flyers @ Pittsburgh Penguins,player_goal_scorer_anytime,Bobby Brink,Yes,,370.0,-2000.0,,360.0,475.0,450.0,480.0,435.0,450.0,0.2737485580807676,4.7
 bovada,360.0,0.25924336717153085,Philadelphia Flyers @ Pittsburgh Penguins,player_goal_scorer_anytime,Bobby Brink,Yes,,370.0,-2000.0,,360.0,475.0,450.0,480.0,435.0,450.0,0.2737485580807676,4.6
-fanduel,210.0,0.06847739324634228,Carolina Hurricanes @ Nashville Predators,player_goals,Sebastian Aho,Over,0.5,,,,,,155.0,210.0,150.0,150.0,0.3446701268536588,3.1
-ballybet,225.0,0.08408490527685886,Washington Capitals @ Boston Bruins,player_power_play_points,David Pastrnak,Over,0.5,225.0,170.0,,,,170.0,,160.0,170.0,0.3335645862390335,3.25
-draftkings,550.0,0.19755775290527078,New York Rangers @ New Jersey Devils,player_goal_scorer_anytime,Paul Cotter,Yes,,310.0,333.0,,300.0,550.0,450.0,330.0,425.0,450.0,0.1842396542931186,6.5
-fanduel,230.0,0.05997665079977188,Carolina Hurricanes @ Nashville Predators,player_goals,Seth Jarvis,Over,0.5,,,,,,175.0,230.0,165.0,170.0,0.3212050456969006,3.3
-fanduel,320.0,0.0914071046576832,New York Rangers @ New Jersey Devils,player_goals,Alexis Lafrenière,Over,0.5,,,,,,240.0,320.0,225.0,230.0,0.2598588344423055,4.2
+fanduel,240.0,0.08572981398986279,Carolina Hurricanes @ Nashville Predators,player_goals,Seth Jarvis,Over,0.5,,,,,,175.0,240.0,165.0,170.0,0.3193322982323126,3.4
+fanduel,210.0,0.06698392534238162,Carolina Hurricanes @ Nashville Predators,player_goals,Sebastian Aho,Over,0.5,,,,,,155.0,210.0,150.0,150.0,0.3441883630136715,3.1
+ballybet,225.0,0.08091309051084106,Washington Capitals @ Boston Bruins,player_power_play_points,David Pastrnak,Over,0.5,225.0,170.0,,,,170.0,,160.0,175.0,0.3325886432341049,3.25
+fanduel,330.0,0.11234908306951574,New York Rangers @ New Jersey Devils,player_goals,Alexis Lafrenière,Over,0.5,,,,,,240.0,330.0,225.0,230.0,0.2586858332719804,4.3
+draftkings,550.0,0.1925787413539637,New York Rangers @ New Jersey Devils,player_goal_scorer_anytime,Paul Cotter,Yes,,310.0,333.0,,300.0,550.0,450.0,340.0,425.0,450.0,0.1834736525159944,6.5
 ballybet,-315.0,-0.015988534534653764,Montréal Canadiens @ Columbus Blue Jackets,player_power_play_points,Patrik Laine,Under,0.5,-315.0,-450.0,,,,-450.0,,-480.0,,0.7469002689676725,1.3174603174603174
 betmgm,200.0,0.004851109798636122,New York Rangers @ New Jersey Devils,player_goal_scorer_anytime,Nico Hischier,Yes,,120.0,200.0,,125.0,170.0,160.0,190.0,155.0,160.0,0.3349503699328787,3.0
+fanduel,210.0,0.0417171348990335,New York Rangers @ New Jersey Devils,player_goals,Timo Meier,Over,0.5,,,,,,160.0,210.0,160.0,160.0,0.3360377854513011,3.1
 betmgm,240.0,0.022079301450254385,San Jose Sharks @ Vancouver Canucks,player_goal_scorer_anytime,J.T. Miller,Yes,,135.0,240.0,,135.0,215.0,200.0,240.0,190.0,195.0,0.3006115592500748,3.4
 fanduel,240.0,0.022079301450254385,San Jose Sharks @ Vancouver Canucks,player_goal_scorer_anytime,J.T. Miller,Yes,,135.0,240.0,,135.0,215.0,200.0,240.0,190.0,195.0,0.3006115592500748,3.4
 fanduel,390.0,0.11056954366479055,Washington Capitals @ Boston Bruins,player_goals,Aliaksei Protas,Over,0.5,,,,,,290.0,390.0,270.0,275.0,0.2266468456458756,4.9
-draftkings,850.0,0.27969720907921625,Washington Capitals @ Boston Bruins,player_goal_scorer_anytime,Hendrix Lapierre,Yes,,440.0,450.0,,440.0,850.0,800.0,430.0,745.0,850.0,0.1347049693767596,9.5
+draftkings,850.0,0.27969720907921625,Washington Capitals @ Boston Bruins,player_goal_scorer_anytime,Hendrix Lapierre,Yes,,440.0,450.0,,440.0,850.0,800.0,430.0,745.0,900.0,0.1347049693767596,9.5
 fanduel,430.0,0.12038711330721574,Chicago Blackhawks @ Minnesota Wild,player_goals,Tyler Bertuzzi,Over,0.5,,,,,,320.0,430.0,295.0,300.0,0.2113937949636256,5.3
 fanduel,260.0,0.05068183979709895,St Louis Blues @ Detroit Red Wings,player_goals,Alex DeBrincat,Over,0.5,,,,,,200.0,260.0,195.0,200.0,0.2918560666103053,3.6
 fanduel,210.0,0.029568900464025827,New York Rangers @ New Jersey Devils,player_goals,Artemi Panarin,Over,0.5,,,,,,165.0,210.0,160.0,165.0,0.3321190001496857,3.1
@@ -27,11 +28,8 @@ fanduel,210.0,0.023366047210811036,Dallas Stars @ Utah Hockey Club,player_goals,
 fanduel,210.0,-0.007270680335663471,St Louis Blues @ Detroit Red Wings,player_goal_scorer_anytime,Dylan Larkin,Yes,,143.0,195.0,,130.0,185.0,175.0,210.0,170.0,175.0,0.3202352644078505,3.1
 fanduel,350.0,0.07389256575719072,Dallas Stars @ Utah Hockey Club,player_goals,Logan Cooley,Over,0.5,,,,,,275.0,350.0,250.0,260.0,0.2386427923904868,4.5
 fanduel,230.0,0.029722274829688144,Buffalo Sabres @ New York Islanders,player_goals,Bo Horvat,Over,0.5,,,,,,185.0,230.0,175.0,180.0,0.3120370529786934,3.3
-fanduel,270.0,0.045586124318682364,New York Rangers @ New Jersey Devils,player_goals,Vincent Trocheck,Over,0.5,,,,,,210.0,270.0,205.0,210.0,0.2825908444104547,3.7
 betmgm,320.0,0.026214666073729243,Buffalo Sabres @ New York Islanders,player_goal_scorer_anytime,Anthony Duclair,Yes,,210.0,320.0,,210.0,260.0,,310.0,,,0.2443368252556498,4.2
 ballybet,-235.0,-0.019961576301820272,Anaheim Ducks @ Vegas Golden Knights,player_power_play_points,Shea Theodore,Under,0.5,-235.0,-300.0,,,,-300.0,,-325.0,,0.6874896405046933,1.425531914893617
 fanduel,330.0,0.06597862134114418,Washington Capitals @ Boston Bruins,player_goals,Pavel Zacha,Over,0.5,,,,,,260.0,330.0,240.0,250.0,0.2479020049630568,4.3
-draftkings,700.0,0.17812384353027033,New York Rangers @ New Jersey Devils,player_goal_scorer_anytime,Tomas Tatar,Yes,,360.0,500.0,,360.0,700.0,700.0,460.0,605.0,650.0,0.1472654804412838,8.0
-fanduel,280.0,0.04625416433167984,New York Rangers @ New Jersey Devils,player_goals,Chris Kreider,Over,0.5,,,,,,230.0,280.0,210.0,210.0,0.2753300432451789,3.8
 betmgm,210.0,-0.017391304347826098,Tampa Bay Lightning @ Florida Panthers,player_goal_scorer_anytime,Carter Verhaeghe,Yes,,140.0,210.0,,140.0,,190.0,200.0,185.0,190.0,0.3169705469845722,3.1
 ballybet,300.0,0.06482953771919164,Dallas Stars @ Utah Hockey Club,player_power_play_points,Clayton Keller,Over,0.5,300.0,240.0,,,,235.0,,220.0,240.0,0.2662073844297979,4.0

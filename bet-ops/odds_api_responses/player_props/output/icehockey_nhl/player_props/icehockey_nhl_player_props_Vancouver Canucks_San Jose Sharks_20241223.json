@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:15Z",
+                    "last_update": "2024-12-23T14:45:31Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -238,7 +238,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:15Z",
+                    "last_update": "2024-12-23T14:45:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -712,7 +712,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:15Z",
+                    "last_update": "2024-12-23T14:45:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -754,7 +754,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:15Z",
+                    "last_update": "2024-12-23T14:45:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -886,7 +886,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:55Z",
+                    "last_update": "2024-12-23T14:44:42Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1312,7 +1312,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:55Z",
+                    "last_update": "2024-12-23T14:44:42Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1474,7 +1474,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:55Z",
+                    "last_update": "2024-12-23T14:44:42Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1654,7 +1654,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1880,7 +1880,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2354,7 +2354,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2432,7 +2432,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2564,7 +2564,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:29Z",
+                    "last_update": "2024-12-23T14:45:02Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -2730,7 +2730,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:29Z",
+                    "last_update": "2024-12-23T14:45:02Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2856,7 +2856,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:27Z",
+                    "last_update": "2024-12-23T14:45:02Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2885,13 +2885,13 @@
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": -168,
+                            "price": -148,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Macklin Celebrini",
-                            "price": 128,
+                            "price": 114,
                             "point": 2.5
                         },
                         {
@@ -2969,25 +2969,25 @@
                         {
                             "name": "Over",
                             "description": "Fabian Zetterlund",
-                            "price": 148,
+                            "price": 150,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Fabian Zetterlund",
-                            "price": -196,
+                            "price": -198,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Mikael Granlund",
-                            "price": 138,
+                            "price": 136,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Mikael Granlund",
-                            "price": -182,
+                            "price": -178,
                             "point": 2.5
                         },
                         {
@@ -3030,18 +3030,18 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:29Z",
+                    "last_update": "2024-12-23T14:45:02Z",
                     "outcomes": [
-                        {
-                            "name": "Over",
-                            "description": "Macklin Celebrini",
-                            "price": 148,
-                            "point": 3.5
-                        },
                         {
                             "name": "Over",
                             "description": "Quinn Hughes",
                             "price": 154,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Macklin Celebrini",
+                            "price": 168,
                             "point": 3.5
                         },
                         {
@@ -3077,7 +3077,7 @@
                         {
                             "name": "Over",
                             "description": "Mikael Granlund",
-                            "price": 340,
+                            "price": 330,
                             "point": 3.5
                         },
                         {
@@ -3106,14 +3106,14 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Macklin Celebrini",
-                            "price": -168,
+                            "description": "Quinn Hughes",
+                            "price": -165,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
-                            "description": "Quinn Hughes",
-                            "price": -165,
+                            "description": "Macklin Celebrini",
+                            "price": -148,
                             "point": 2.5
                         },
                         {
@@ -3149,13 +3149,7 @@
                         {
                             "name": "Over",
                             "description": "Mikael Granlund",
-                            "price": 138,
-                            "point": 2.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Fabian Zetterlund",
-                            "price": 148,
+                            "price": 136,
                             "point": 2.5
                         },
                         {
@@ -3167,6 +3161,12 @@
                         {
                             "name": "Over",
                             "description": "Jake DeBrusk",
+                            "price": 150,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Fabian Zetterlund",
                             "price": 150,
                             "point": 2.5
                         },
@@ -3184,14 +3184,14 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Macklin Celebrini",
-                            "price": -530,
+                            "description": "Quinn Hughes",
+                            "price": -520,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
-                            "description": "Quinn Hughes",
-                            "price": -520,
+                            "description": "Macklin Celebrini",
+                            "price": -480,
                             "point": 1.5
                         },
                         {
@@ -3203,7 +3203,7 @@
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": -295,
+                            "price": -305,
                             "point": 1.5
                         },
                         {
@@ -3215,7 +3215,7 @@
                         {
                             "name": "Over",
                             "description": "Jake Walman",
-                            "price": -270,
+                            "price": -265,
                             "point": 1.5
                         },
                         {
@@ -3227,7 +3227,7 @@
                         {
                             "name": "Over",
                             "description": "Mikael Granlund",
-                            "price": -230,
+                            "price": -225,
                             "point": 1.5
                         },
                         {
@@ -3238,14 +3238,14 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Fabian Zetterlund",
+                            "description": "J.T. Miller",
                             "price": -215,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
-                            "description": "J.T. Miller",
-                            "price": -215,
+                            "description": "Fabian Zetterlund",
+                            "price": -210,
                             "point": 1.5
                         },
                         {
@@ -3268,14 +3268,14 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Macklin Celebrini",
-                            "price": 325,
+                            "description": "Quinn Hughes",
+                            "price": 340,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
-                            "description": "Quinn Hughes",
-                            "price": 340,
+                            "description": "Macklin Celebrini",
+                            "price": 365,
                             "point": 4.5
                         },
                         {
@@ -3322,6 +3322,12 @@
                         },
                         {
                             "name": "Over",
+                            "description": "Fabian Zetterlund",
+                            "price": -1300,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
                             "description": "J.T. Miller",
                             "price": -1300,
                             "point": 0.5
@@ -3340,12 +3346,6 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Fabian Zetterlund",
-                            "price": -1200,
-                            "point": 0.5
-                        },
-                        {
-                            "name": "Over",
                             "description": "Kiefer Sherwood",
                             "price": -1000,
                             "point": 0.5
@@ -3359,14 +3359,8 @@
                         {
                             "name": "Over",
                             "description": "William Eklund",
-                            "price": -490,
+                            "price": -500,
                             "point": 0.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Macklin Celebrini",
-                            "price": 700,
-                            "point": 5.5
                         },
                         {
                             "name": "Over",
@@ -3384,7 +3378,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:44Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3550,7 +3544,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:44Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3724,7 +3718,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:44Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4150,18 +4144,18 @@
             "markets": [
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:44:45Z",
                     "outcomes": [
                         {
                             "name": "Under",
                             "description": "Macklin Celebrini",
-                            "price": 122,
+                            "price": 119,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": -159,
+                            "price": -154,
                             "point": 2.5
                         },
                         {
@@ -4287,13 +4281,13 @@
                         {
                             "name": "Under",
                             "description": "Tyler Toffoli",
-                            "price": -132,
+                            "price": -133,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 102,
+                            "price": 103,
                             "point": 2.5
                         },
                         {
@@ -4324,42 +4318,42 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:44:45Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": 148,
+                            "price": 151,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": -159,
+                            "price": -154,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": 728,
+                            "price": 735,
                             "point": 5.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": 324,
+                            "price": 329,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": -556,
+                            "price": -526,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Macklin Celebrini",
-                            "price": 1704,
+                            "price": 1711,
                             "point": 6.5
                         },
                         {
@@ -4683,25 +4677,25 @@
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 357,
+                            "price": 359,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 102,
+                            "price": 103,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 1385,
+                            "price": 1387,
                             "point": 6.5
                         },
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 694,
+                            "price": 695,
                             "point": 5.5
                         },
                         {
@@ -4713,7 +4707,7 @@
                         {
                             "name": "Over",
                             "description": "Tyler Toffoli",
-                            "price": 188,
+                            "price": 189,
                             "point": 3.5
                         },
                         {
@@ -4792,7 +4786,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:20:17Z",
+                    "last_update": "2024-12-23T14:44:19Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4973,7 +4967,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:20:17Z",
+                    "last_update": "2024-12-23T14:44:19Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5063,7 +5057,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:10Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5224,7 +5218,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:10Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5386,7 +5380,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:10Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5566,7 +5560,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5782,7 +5776,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5866,7 +5860,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6046,7 +6040,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:44:47Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -6076,17 +6070,17 @@
                         {
                             "name": "Yes",
                             "description": "Nils Hoglander",
-                            "price": 230
+                            "price": 250
                         },
                         {
                             "name": "Yes",
                             "description": "Kiefer Sherwood",
-                            "price": 260
+                            "price": 250
                         },
                         {
                             "name": "Yes",
                             "description": "Pius Suter",
-                            "price": 280
+                            "price": 260
                         },
                         {
                             "name": "Yes",
@@ -6106,7 +6100,7 @@
                         {
                             "name": "Yes",
                             "description": "Dakota Joshua",
-                            "price": 330
+                            "price": 400
                         },
                         {
                             "name": "Yes",
@@ -6236,12 +6230,12 @@
                         {
                             "name": "Yes",
                             "description": "Shakir Mukhamadullin",
-                            "price": 1000
+                            "price": 950
                         },
                         {
                             "name": "Yes",
                             "description": "Jack Thompson",
-                            "price": 1000
+                            "price": 950
                         },
                         {
                             "name": "Yes",
@@ -6262,17 +6256,12 @@
                             "name": "Yes",
                             "description": "Jan Rutta",
                             "price": 1600
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Phillip Di Giuseppe",
-                            "price": 300
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:41:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6452,7 +6441,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:10Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6878,7 +6867,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:10Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7004,7 +6993,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:10Z",
                     "outcomes": [
                         {
                             "name": "Over",

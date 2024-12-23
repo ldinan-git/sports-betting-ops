@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:16Z",
+                    "last_update": "2024-12-23T14:44:58Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -450,7 +450,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:16Z",
+                    "last_update": "2024-12-23T14:44:58Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -600,7 +600,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:16Z",
+                    "last_update": "2024-12-23T14:44:58Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -780,7 +780,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:01Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1011,7 +1011,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:01Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1491,7 +1491,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:01Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1533,7 +1533,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:01Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1665,7 +1665,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:14Z",
+                    "last_update": "2024-12-23T14:45:32Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1896,7 +1896,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:14Z",
+                    "last_update": "2024-12-23T14:45:32Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2376,7 +2376,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:14Z",
+                    "last_update": "2024-12-23T14:45:32Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2454,7 +2454,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:14Z",
+                    "last_update": "2024-12-23T14:45:32Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2586,7 +2586,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:19Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -2650,12 +2650,12 @@
                         },
                         {
                             "name": "Yes",
-                            "description": "Conor Timmins",
+                            "description": "Christopher Tanev",
                             "price": 1200
                         },
                         {
                             "name": "Yes",
-                            "description": "Christopher Tanev",
+                            "description": "Conor Timmins",
                             "price": 1200
                         },
                         {
@@ -2772,7 +2772,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:19Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2946,7 +2946,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:19Z",
+                    "last_update": "2024-12-23T14:44:51Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3426,7 +3426,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:45:34Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3602,7 +3602,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:45:34Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3716,7 +3716,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:45:34Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3890,7 +3890,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:41Z",
+                    "last_update": "2024-12-23T14:45:34Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4244,7 +4244,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:20:06Z",
+                    "last_update": "2024-12-23T14:44:15Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4430,7 +4430,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:20:06Z",
+                    "last_update": "2024-12-23T14:44:15Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4514,7 +4514,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:25:24Z",
+                    "last_update": "2024-12-23T14:44:41Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4675,7 +4675,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:25:24Z",
+                    "last_update": "2024-12-23T14:44:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4825,7 +4825,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:25:24Z",
+                    "last_update": "2024-12-23T14:44:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5005,7 +5005,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:42Z",
+                    "last_update": "2024-12-23T14:45:00Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5227,7 +5227,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:42Z",
+                    "last_update": "2024-12-23T14:45:00Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5305,7 +5305,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:42Z",
+                    "last_update": "2024-12-23T14:45:00Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5485,7 +5485,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:25Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5716,7 +5716,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:39:17Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5896,7 +5896,7 @@
             "markets": [
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6070,7 +6070,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6520,7 +6520,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:21Z",
+                    "last_update": "2024-12-23T14:45:22Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6633,13 +6633,13 @@
                         {
                             "name": "Over",
                             "description": "Jake McCabe",
-                            "price": 950,
+                            "price": 1000,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Jake McCabe",
-                            "price": -3500,
+                            "price": -4000,
                             "point": 0.5
                         },
                         {
@@ -6681,13 +6681,13 @@
                         {
                             "name": "Over",
                             "description": "Morgan Barron",
-                            "price": 750,
+                            "price": 700,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Morgan Barron",
-                            "price": -2500,
+                            "price": -2000,
                             "point": 0.5
                         },
                         {
@@ -6729,25 +6729,25 @@
                         {
                             "name": "Over",
                             "description": "Conor Timmins",
-                            "price": 1100,
+                            "price": 1000,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Conor Timmins",
-                            "price": -5000,
+                            "price": -4000,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Neal Pionk",
-                            "price": 700,
+                            "price": 750,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Neal Pionk",
-                            "price": -2000,
+                            "price": -2500,
                             "point": 0.5
                         },
                         {
@@ -6958,7 +6958,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:21Z",
+                    "last_update": "2024-12-23T14:45:22Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6975,13 +6975,13 @@
                         {
                             "name": "Over",
                             "description": "Mark Scheifele",
-                            "price": 225,
+                            "price": 235,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Mark Scheifele",
-                            "price": -320,
+                            "price": -340,
                             "point": 0.5
                         },
                         {
@@ -7084,7 +7084,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:21Z",
+                    "last_update": "2024-12-23T14:45:22Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7101,14 +7101,14 @@
                         {
                             "name": "Over",
                             "description": "John Tavares",
-                            "price": -185,
-                            "point": 2.5
+                            "price": 130,
+                            "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "John Tavares",
-                            "price": 135,
-                            "point": 2.5
+                            "price": -180,
+                            "point": 3.5
                         },
                         {
                             "name": "Over",
@@ -7161,13 +7161,13 @@
                         {
                             "name": "Over",
                             "description": "Max Pacioretty",
-                            "price": 130,
+                            "price": 135,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Max Pacioretty",
-                            "price": -180,
+                            "price": -185,
                             "point": 2.5
                         },
                         {
@@ -7209,13 +7209,13 @@
                         {
                             "name": "Over",
                             "description": "Gabriel Vilardi",
-                            "price": -180,
+                            "price": -185,
                             "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Gabriel Vilardi",
-                            "price": 130,
+                            "price": 135,
                             "point": 1.5
                         },
                         {

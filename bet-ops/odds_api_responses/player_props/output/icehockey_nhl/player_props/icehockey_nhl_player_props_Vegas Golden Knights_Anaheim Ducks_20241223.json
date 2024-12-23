@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -223,7 +223,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -649,7 +649,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -691,7 +691,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -823,7 +823,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:28Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1249,7 +1249,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:28Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1387,7 +1387,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:28Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1591,7 +1591,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1802,7 +1802,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2228,7 +2228,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2306,7 +2306,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:25Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2438,32 +2438,32 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:51Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Yes",
                             "description": "Jack Eichel",
-                            "price": 140
+                            "price": 135
                         },
                         {
                             "name": "Yes",
                             "description": "Mark Stone",
-                            "price": 170
+                            "price": 165
                         },
                         {
                             "name": "Yes",
                             "description": "Victor Olofsson",
-                            "price": 185
+                            "price": 190
                         },
                         {
                             "name": "Yes",
                             "description": "Pavel Dorofeyev",
-                            "price": 200
+                            "price": 195
                         },
                         {
                             "name": "Yes",
                             "description": "Tomas Hertl",
-                            "price": 210
+                            "price": 220
                         },
                         {
                             "name": "Yes",
@@ -2473,22 +2473,22 @@
                         {
                             "name": "Yes",
                             "description": "Frank Vatrano",
-                            "price": 270
+                            "price": 260
                         },
                         {
                             "name": "Yes",
                             "description": "Troy Terry",
-                            "price": 310
+                            "price": 320
                         },
                         {
                             "name": "Yes",
                             "description": "Tanner Pearson",
-                            "price": 340
+                            "price": 360
                         },
                         {
                             "name": "Yes",
                             "description": "Brett Howden",
-                            "price": 370
+                            "price": 390
                         },
                         {
                             "name": "Yes",
@@ -2497,18 +2497,18 @@
                         },
                         {
                             "name": "Yes",
+                            "description": "Keegan Kolesar",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
                             "description": "Mason McTavish",
                             "price": 460
                         },
                         {
                             "name": "Yes",
-                            "description": "Keegan Kolesar",
-                            "price": 460
-                        },
-                        {
-                            "name": "Yes",
                             "description": "Leo Carlsson",
-                            "price": 470
+                            "price": 460
                         },
                         {
                             "name": "Yes",
@@ -2518,12 +2518,7 @@
                         {
                             "name": "Yes",
                             "description": "Cutter Gauthier",
-                            "price": 470
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Robby Fabbri",
-                            "price": 490
+                            "price": 480
                         },
                         {
                             "name": "Yes",
@@ -2532,7 +2527,17 @@
                         },
                         {
                             "name": "Yes",
+                            "description": "Robby Fabbri",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
                             "description": "Alexander Holtz",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brock McGinn",
                             "price": 550
                         },
                         {
@@ -2544,11 +2549,6 @@
                             "name": "Yes",
                             "description": "Tanner Laczynski",
                             "price": 550
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Brock McGinn",
-                            "price": 600
                         },
                         {
                             "name": "Yes",
@@ -2568,7 +2568,7 @@
                         {
                             "name": "Yes",
                             "description": "Olen Zellweger",
-                            "price": 950
+                            "price": 900
                         },
                         {
                             "name": "Yes",
@@ -2582,13 +2582,13 @@
                         },
                         {
                             "name": "Yes",
-                            "description": "Jackson LaCombe",
+                            "description": "Pavel Mintyukov",
                             "price": 1000
                         },
                         {
                             "name": "Yes",
-                            "description": "Pavel Mintyukov",
-                            "price": 1100
+                            "description": "Jackson LaCombe",
+                            "price": 1000
                         },
                         {
                             "name": "Yes",
@@ -2602,46 +2602,41 @@
                         },
                         {
                             "name": "Yes",
-                            "description": "Jacob Trouba",
-                            "price": 1400
-                        },
-                        {
-                            "name": "Yes",
                             "description": "Nicolas Hague",
                             "price": 1500
                         },
                         {
                             "name": "Yes",
-                            "description": "Radko Gudas",
+                            "description": "Jacob Trouba",
                             "price": 1500
                         },
                         {
                             "name": "Yes",
-                            "description": "Brian Dumoulin",
-                            "price": 1900
+                            "description": "Radko Gudas",
+                            "price": 1600
                         }
                     ]
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:51Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Tomas Hertl",
-                            "price": 210,
+                            "price": 220,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Tomas Hertl",
-                            "price": -290,
+                            "price": -300,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Mark Stone",
-                            "price": 170,
+                            "price": 165,
                             "point": 0.5
                         },
                         {
@@ -2665,13 +2660,13 @@
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": 200,
+                            "price": 195,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Pavel Dorofeyev",
-                            "price": -270,
+                            "price": -260,
                             "point": 0.5
                         },
                         {
@@ -2689,7 +2684,7 @@
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": 310,
+                            "price": 320,
                             "point": 0.5
                         },
                         {
@@ -2713,7 +2708,7 @@
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": 140,
+                            "price": 135,
                             "point": 0.5
                         },
                         {
@@ -2725,7 +2720,7 @@
                         {
                             "name": "Over",
                             "description": "Victor Olofsson",
-                            "price": 185,
+                            "price": 190,
                             "point": 0.5
                         },
                         {
@@ -2737,7 +2732,7 @@
                         {
                             "name": "Over",
                             "description": "Leo Carlsson",
-                            "price": 470,
+                            "price": 460,
                             "point": 0.5
                         },
                         {
@@ -2749,43 +2744,43 @@
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": 270,
+                            "price": 260,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Frank Vatrano",
-                            "price": -400,
+                            "price": -370,
                             "point": 0.5
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:51Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Alex Pietrangelo",
-                            "price": 142,
+                            "price": 138,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Alex Pietrangelo",
-                            "price": -188,
+                            "price": -182,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": 100,
+                            "price": -102,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Troy Terry",
-                            "price": -130,
+                            "price": -128,
                             "point": 2.5
                         },
                         {
@@ -2803,37 +2798,37 @@
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": -130,
+                            "price": -132,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Pavel Dorofeyev",
-                            "price": 100,
+                            "price": 102,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": -118,
+                            "price": -120,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Jack Eichel",
-                            "price": -110,
+                            "price": -108,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Victor Olofsson",
-                            "price": 132,
+                            "price": 130,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Victor Olofsson",
-                            "price": -176,
+                            "price": -170,
                             "point": 2.5
                         },
                         {
@@ -2851,13 +2846,13 @@
                         {
                             "name": "Over",
                             "description": "Mason McTavish",
-                            "price": -152,
+                            "price": -154,
                             "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Mason McTavish",
-                            "price": 116,
+                            "price": 118,
                             "point": 1.5
                         },
                         {
@@ -2875,44 +2870,44 @@
                         {
                             "name": "Over",
                             "description": "William Karlsson",
-                            "price": -104,
+                            "price": -108,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "William Karlsson",
-                            "price": -125,
+                            "price": -120,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Cutter Gauthier",
-                            "price": 150,
-                            "point": 2.5
+                            "price": -196,
+                            "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Cutter Gauthier",
-                            "price": -198,
-                            "point": 2.5
+                            "price": 148,
+                            "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": 136,
+                            "price": 128,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Frank Vatrano",
-                            "price": -182,
+                            "price": -168,
                             "point": 3.5
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:51Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2923,25 +2918,25 @@
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": -188,
+                            "price": -192,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": -130,
+                            "price": -132,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "William Karlsson",
-                            "price": -104,
+                            "price": -108,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": 100,
+                            "price": -102,
                             "point": 2.5
                         },
                         {
@@ -2953,109 +2948,109 @@
                         {
                             "name": "Over",
                             "description": "Victor Olofsson",
-                            "price": 132,
+                            "price": 130,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Alex Pietrangelo",
-                            "price": 142,
+                            "price": 138,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Cutter Gauthier",
-                            "price": 150,
+                            "price": 158,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Olen Zellweger",
-                            "price": 178,
+                            "price": 175,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Mason McTavish",
-                            "price": 205,
+                            "price": 210,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Alex Killorn",
-                            "price": 235,
+                            "price": 245,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": 188,
+                            "price": 185,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": 300,
+                            "price": 275,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": 415,
+                            "price": 410,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": 550,
+                            "price": 530,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "William Karlsson",
-                            "price": 550,
+                            "price": 530,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Shea Theodore",
-                            "price": 670,
+                            "price": 630,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": 750,
+                            "price": 700,
                             "point": 6.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": -118,
+                            "price": -120,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": 136,
+                            "price": 128,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": 188,
+                            "price": 185,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "William Karlsson",
-                            "price": 240,
+                            "price": 235,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": 245,
+                            "price": 240,
                             "point": 3.5
                         },
                         {
@@ -3078,14 +3073,14 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Cutter Gauthier",
-                            "price": 375,
+                            "description": "Olen Zellweger",
+                            "price": 415,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
-                            "description": "Olen Zellweger",
-                            "price": 450,
+                            "description": "Cutter Gauthier",
+                            "price": 410,
                             "point": 3.5
                         },
                         {
@@ -3115,25 +3110,25 @@
                         {
                             "name": "Over",
                             "description": "Olen Zellweger",
-                            "price": -900,
+                            "price": -870,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Mason McTavish",
-                            "price": -780,
+                            "price": -800,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Alex Killorn",
-                            "price": -620,
+                            "price": -660,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Eichel",
-                            "price": 360,
+                            "price": 370,
                             "point": 5.5
                         },
                         {
@@ -3151,25 +3146,25 @@
                         {
                             "name": "Over",
                             "description": "Frank Vatrano",
-                            "price": -590,
+                            "price": -660,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Pavel Dorofeyev",
-                            "price": -420,
+                            "price": -440,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "William Karlsson",
-                            "price": -335,
+                            "price": -355,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Troy Terry",
-                            "price": -305,
+                            "price": -310,
                             "point": 1.5
                         },
                         {
@@ -3181,19 +3176,19 @@
                         {
                             "name": "Over",
                             "description": "Victor Olofsson",
-                            "price": -240,
+                            "price": -245,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Alex Pietrangelo",
-                            "price": -220,
+                            "price": -215,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Cutter Gauthier",
-                            "price": -210,
+                            "price": -196,
                             "point": 1.5
                         },
                         {
@@ -3205,7 +3200,7 @@
                         {
                             "name": "Over",
                             "description": "Mason McTavish",
-                            "price": -152,
+                            "price": -154,
                             "point": 1.5
                         },
                         {
@@ -3224,7 +3219,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:30Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3400,7 +3395,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:30Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Under",
@@ -3598,7 +3593,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:30Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4012,7 +4007,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:20:17Z",
+                    "last_update": "2024-12-23T14:44:19Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4193,7 +4188,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:20:17Z",
+                    "last_update": "2024-12-23T14:44:19Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4271,7 +4266,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4447,7 +4442,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4585,7 +4580,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:45:38Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4789,7 +4784,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5005,7 +5000,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5077,7 +5072,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:17Z",
+                    "last_update": "2024-12-23T14:45:35Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5281,7 +5276,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:43Z",
+                    "last_update": "2024-12-23T14:45:02Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5492,7 +5487,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:25:42Z",
+                    "last_update": "2024-12-23T14:43:00Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5696,7 +5691,7 @@
             "markets": [
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:11Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5894,7 +5889,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:45:11Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6428,7 +6423,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:05Z",
+                    "last_update": "2024-12-23T14:45:09Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6854,7 +6849,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:05Z",
+                    "last_update": "2024-12-23T14:45:09Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6944,7 +6939,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:05Z",
+                    "last_update": "2024-12-23T14:45:09Z",
                     "outcomes": [
                         {
                             "name": "Over",

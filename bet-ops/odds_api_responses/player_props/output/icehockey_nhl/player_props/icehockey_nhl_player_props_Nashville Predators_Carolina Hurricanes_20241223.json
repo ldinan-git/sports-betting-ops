@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:28Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -228,7 +228,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:28Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -690,7 +690,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:28Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -726,7 +726,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:13Z",
+                    "last_update": "2024-12-23T14:45:28Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -846,7 +846,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:37Z",
+                    "last_update": "2024-12-23T14:45:13Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1062,7 +1062,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:37Z",
+                    "last_update": "2024-12-23T14:45:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1524,7 +1524,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:37Z",
+                    "last_update": "2024-12-23T14:45:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1590,7 +1590,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:37Z",
+                    "last_update": "2024-12-23T14:45:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1710,7 +1710,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2136,7 +2136,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2262,7 +2262,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2406,26 +2406,26 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:44Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Yes",
-                            "description": "Filip Forsberg",
-                            "price": 180
+                            "description": "Martin Necas",
+                            "price": 195
                         },
                         {
                             "name": "Yes",
-                            "description": "Martin Necas",
+                            "description": "Filip Forsberg",
                             "price": 190
                         },
                         {
                             "name": "Yes",
-                            "description": "Sebastian Aho",
-                            "price": 210
+                            "description": "Andrei Svechnikov",
+                            "price": 200
                         },
                         {
                             "name": "Yes",
-                            "description": "Andrei Svechnikov",
+                            "description": "Sebastian Aho",
                             "price": 210
                         },
                         {
@@ -2436,56 +2436,56 @@
                         {
                             "name": "Yes",
                             "description": "Seth Jarvis",
-                            "price": 230
+                            "price": 240
                         },
                         {
                             "name": "Yes",
                             "description": "Steven Stamkos",
-                            "price": 260
+                            "price": 270
                         },
                         {
                             "name": "Yes",
                             "description": "Ryan O'Reilly",
-                            "price": 330
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Gustav Nyquist",
-                            "price": 370
+                            "price": 340
                         },
                         {
                             "name": "Yes",
                             "description": "Jack Roslovic",
-                            "price": 390
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Gustav Nyquist",
+                            "price": 380
                         },
                         {
                             "name": "Yes",
                             "description": "Roman Josi",
-                            "price": 400
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Luke Evangelista",
-                            "price": 400
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Zachary L'Heureux",
-                            "price": 460
+                            "price": 430
                         },
                         {
                             "name": "Yes",
                             "description": "Jordan Staal",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Luke Evangelista",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zachary L'Heureux",
                             "price": 470
                         },
                         {
                             "name": "Yes",
-                            "description": "Eric Robinson",
-                            "price": 490
+                            "description": "Jesperi Kotkaniemi",
+                            "price": 500
                         },
                         {
                             "name": "Yes",
-                            "description": "Jesperi Kotkaniemi",
+                            "description": "Eric Robinson",
                             "price": 500
                         },
                         {
@@ -2501,7 +2501,7 @@
                         {
                             "name": "Yes",
                             "description": "Jordan Martinook",
-                            "price": 550
+                            "price": 600
                         },
                         {
                             "name": "Yes",
@@ -2531,7 +2531,7 @@
                         {
                             "name": "Yes",
                             "description": "Tyson Jost",
-                            "price": 800
+                            "price": 750
                         },
                         {
                             "name": "Yes",
@@ -2540,22 +2540,22 @@
                         },
                         {
                             "name": "Yes",
-                            "description": "Cole Smith",
-                            "price": 900
+                            "description": "Brent Burns",
+                            "price": 850
                         },
                         {
                             "name": "Yes",
-                            "description": "Brent Burns",
+                            "description": "Cole Smith",
                             "price": 950
                         },
                         {
                             "name": "Yes",
-                            "description": "Dmitry Orlov",
-                            "price": 1100
+                            "description": "Jaccob Slavin",
+                            "price": 1000
                         },
                         {
                             "name": "Yes",
-                            "description": "Jaccob Slavin",
+                            "description": "Dmitry Orlov",
                             "price": 1100
                         },
                         {
@@ -2565,23 +2565,23 @@
                         },
                         {
                             "name": "Yes",
+                            "description": "Nick Blankenburg",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
                             "description": "Jalen Chatfield",
                             "price": 1300
                         },
                         {
                             "name": "Yes",
-                            "description": "Nick Blankenburg",
+                            "description": "Jeremy Lauzon",
                             "price": 1400
                         },
                         {
                             "name": "Yes",
                             "description": "Adam Wilsby",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Jeremy Lauzon",
-                            "price": 1500
+                            "price": 1600
                         },
                         {
                             "name": "Yes",
@@ -2592,7 +2592,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:44Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2603,13 +2603,13 @@
                         {
                             "name": "Under",
                             "description": "Sebastian Aho",
-                            "price": -280,
+                            "price": -290,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Roslovic",
-                            "price": 390,
+                            "price": 380,
                             "point": 0.5
                         },
                         {
@@ -2621,7 +2621,7 @@
                         {
                             "name": "Over",
                             "description": "Martin Necas",
-                            "price": 190,
+                            "price": 195,
                             "point": 0.5
                         },
                         {
@@ -2633,19 +2633,19 @@
                         {
                             "name": "Over",
                             "description": "Gustav Nyquist",
-                            "price": 370,
+                            "price": 380,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Gustav Nyquist",
-                            "price": -550,
+                            "price": -600,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": 210,
+                            "price": 200,
                             "point": 0.5
                         },
                         {
@@ -2669,151 +2669,151 @@
                         {
                             "name": "Over",
                             "description": "Steven Stamkos",
-                            "price": 260,
+                            "price": 270,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Steven Stamkos",
-                            "price": -350,
+                            "price": -370,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Seth Jarvis",
-                            "price": 230,
+                            "price": 240,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Seth Jarvis",
-                            "price": -320,
+                            "price": -330,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Ryan O'Reilly",
-                            "price": 330,
+                            "price": 340,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Ryan O'Reilly",
-                            "price": -480,
+                            "price": -500,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Filip Forsberg",
-                            "price": 180,
+                            "price": 190,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Filip Forsberg",
-                            "price": -250,
+                            "price": -260,
                             "point": 0.5
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:44Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Filip Forsberg",
-                            "price": 112,
+                            "price": 114,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Filip Forsberg",
-                            "price": -146,
+                            "price": -148,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Jonathan Marchessault",
-                            "price": -113,
+                            "price": -110,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Jonathan Marchessault",
-                            "price": -115,
+                            "price": -118,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": -130,
+                            "price": -132,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Andrei Svechnikov",
-                            "price": 100,
+                            "price": 102,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Martin Necas",
-                            "price": -113,
+                            "price": -108,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Martin Necas",
-                            "price": -115,
+                            "price": -120,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Seth Jarvis",
-                            "price": 126,
+                            "price": 128,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Seth Jarvis",
-                            "price": -165,
+                            "price": -168,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Steven Stamkos",
-                            "price": 126,
+                            "price": 122,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Steven Stamkos",
-                            "price": -165,
+                            "price": -160,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Brady Skjei",
-                            "price": -164,
+                            "price": -168,
                             "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Brady Skjei",
-                            "price": 125,
+                            "price": 128,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Brent Burns",
-                            "price": 148,
+                            "price": 142,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Brent Burns",
-                            "price": -196,
+                            "price": -188,
                             "point": 2.5
                         },
                         {
@@ -2843,115 +2843,115 @@
                         {
                             "name": "Over",
                             "description": "Sebastian Aho",
-                            "price": -122,
+                            "price": -120,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Sebastian Aho",
-                            "price": -106,
+                            "price": -108,
                             "point": 2.5
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:44Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Filip Forsberg",
-                            "price": -215,
+                            "price": -220,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": -130,
+                            "price": -132,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Sebastian Aho",
-                            "price": -122,
+                            "price": -120,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Jonathan Marchessault",
-                            "price": -113,
+                            "price": -110,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Martin Necas",
-                            "price": -113,
+                            "price": -108,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Steven Stamkos",
-                            "price": 126,
+                            "price": 122,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Seth Jarvis",
-                            "price": 126,
+                            "price": 128,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Brent Burns",
-                            "price": 148,
-                            "point": 2.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Brady Skjei",
-                            "price": 188,
+                            "price": 142,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Shayne Gostisbehere",
-                            "price": 182,
+                            "price": 175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brady Skjei",
+                            "price": 185,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Jordan Martinook",
-                            "price": 290,
+                            "price": 285,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Filip Forsberg",
-                            "price": 112,
+                            "price": 114,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": 195,
+                            "price": 192,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Sebastian Aho",
-                            "price": 195,
-                            "point": 3.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Martin Necas",
-                            "price": 225,
+                            "price": 210,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Jonathan Marchessault",
-                            "price": 230,
+                            "price": 225,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Martin Necas",
+                            "price": 240,
                             "point": 3.5
                         },
                         {
@@ -2969,7 +2969,7 @@
                         {
                             "name": "Over",
                             "description": "Brent Burns",
-                            "price": 360,
+                            "price": 350,
                             "point": 3.5
                         },
                         {
@@ -2981,25 +2981,25 @@
                         {
                             "name": "Over",
                             "description": "Brady Skjei",
-                            "price": 470,
+                            "price": 460,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Steven Stamkos",
-                            "price": -1500,
+                            "price": -1800,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Seth Jarvis",
-                            "price": -1600,
+                            "price": -1450,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Brent Burns",
-                            "price": -1200,
+                            "price": -1300,
                             "point": 0.5
                         },
                         {
@@ -3029,13 +3029,13 @@
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": -395,
+                            "price": -415,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Sebastian Aho",
-                            "price": -385,
+                            "price": -380,
                             "point": 1.5
                         },
                         {
@@ -3047,25 +3047,25 @@
                         {
                             "name": "Over",
                             "description": "Martin Necas",
-                            "price": -355,
-                            "point": 1.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Seth Jarvis",
-                            "price": -255,
+                            "price": -345,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Steven Stamkos",
-                            "price": -250,
+                            "price": -255,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Seth Jarvis",
+                            "price": -240,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Brent Burns",
-                            "price": -205,
+                            "price": -215,
                             "point": 1.5
                         },
                         {
@@ -3077,7 +3077,7 @@
                         {
                             "name": "Over",
                             "description": "Brady Skjei",
-                            "price": -164,
+                            "price": -168,
                             "point": 1.5
                         },
                         {
@@ -3095,13 +3095,13 @@
                         {
                             "name": "Over",
                             "description": "Andrei Svechnikov",
-                            "price": 430,
+                            "price": 415,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Sebastian Aho",
-                            "price": 450,
+                            "price": 470,
                             "point": 4.5
                         },
                         {
@@ -3132,7 +3132,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:48Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3318,7 +3318,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:48Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3456,7 +3456,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:48Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3810,7 +3810,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:20:13Z",
+                    "last_update": "2024-12-23T14:44:17Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3991,7 +3991,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:20:13Z",
+                    "last_update": "2024-12-23T14:44:17Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4063,7 +4063,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:56Z",
+                    "last_update": "2024-12-23T14:45:11Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4239,7 +4239,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:56Z",
+                    "last_update": "2024-12-23T14:45:11Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4365,7 +4365,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:56Z",
+                    "last_update": "2024-12-23T14:45:11Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4509,7 +4509,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:06Z",
+                    "last_update": "2024-12-23T14:45:19Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4725,7 +4725,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:06Z",
+                    "last_update": "2024-12-23T14:45:19Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4791,7 +4791,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:06Z",
+                    "last_update": "2024-12-23T14:45:19Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4935,7 +4935,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:40Z",
+                    "last_update": "2024-12-23T14:44:52Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4950,12 +4950,12 @@
                         {
                             "name": "Yes",
                             "description": "Jonathan Marchessault",
-                            "price": 240
+                            "price": 220
                         },
                         {
                             "name": "Yes",
                             "description": "Ryan O'Reilly",
-                            "price": 240
+                            "price": 245
                         },
                         {
                             "name": "Yes",
@@ -4965,12 +4965,12 @@
                         {
                             "name": "Yes",
                             "description": "Roman Josi",
-                            "price": 360
+                            "price": 375
                         },
                         {
                             "name": "Yes",
                             "description": "Tommy Novak",
-                            "price": 360
+                            "price": 375
                         },
                         {
                             "name": "Yes",
@@ -4980,7 +4980,7 @@
                         {
                             "name": "Yes",
                             "description": "Colton Sissons",
-                            "price": 425
+                            "price": 440
                         },
                         {
                             "name": "Yes",
@@ -4990,7 +4990,7 @@
                         {
                             "name": "Yes",
                             "description": "Juuso Parssinen",
-                            "price": 500
+                            "price": 525
                         },
                         {
                             "name": "Yes",
@@ -5065,7 +5065,7 @@
                         {
                             "name": "Yes",
                             "description": "Seth Jarvis",
-                            "price": 190
+                            "price": 195
                         },
                         {
                             "name": "Yes",
@@ -5090,22 +5090,22 @@
                         {
                             "name": "Yes",
                             "description": "Jackson Blake",
-                            "price": 420
+                            "price": 425
                         },
                         {
                             "name": "Yes",
                             "description": "Shayne Gostisbehere",
-                            "price": 420
+                            "price": 425
                         },
                         {
                             "name": "Yes",
                             "description": "Tyson Jost",
-                            "price": 420
+                            "price": 425
                         },
                         {
                             "name": "Yes",
                             "description": "Jordan Staal",
-                            "price": 420
+                            "price": 425
                         },
                         {
                             "name": "Yes",
@@ -5151,7 +5151,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:17:25Z",
+                    "last_update": "2024-12-23T14:44:52Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5295,7 +5295,7 @@
             "markets": [
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5433,7 +5433,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:08Z",
+                    "last_update": "2024-12-23T14:45:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5823,7 +5823,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:38Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6249,7 +6249,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:38Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6363,7 +6363,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:38Z",
+                    "last_update": "2024-12-23T14:45:37Z",
                     "outcomes": [
                         {
                             "name": "Over",

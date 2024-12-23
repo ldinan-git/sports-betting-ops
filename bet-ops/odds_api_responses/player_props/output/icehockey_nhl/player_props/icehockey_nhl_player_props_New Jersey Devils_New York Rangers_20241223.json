@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -438,7 +438,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -600,7 +600,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:04Z",
+                    "last_update": "2024-12-23T14:44:46Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -780,7 +780,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:44:47Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1011,7 +1011,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:44:47Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1491,7 +1491,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:44:47Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1533,7 +1533,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:26Z",
+                    "last_update": "2024-12-23T14:44:47Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1665,7 +1665,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:12Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1896,7 +1896,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:27:12Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2376,7 +2376,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:27:12Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2454,7 +2454,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:12Z",
+                    "last_update": "2024-12-23T14:45:29Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2586,12 +2586,12 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:26:45Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Yes",
                             "description": "Jack Hughes",
-                            "price": 145
+                            "price": 140
                         },
                         {
                             "name": "Yes",
@@ -2600,33 +2600,33 @@
                         },
                         {
                             "name": "Yes",
-                            "description": "Timo Meier",
-                            "price": 200
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Jesper Bratt",
-                            "price": 200
-                        },
-                        {
-                            "name": "Yes",
                             "description": "Artemi Panarin",
                             "price": 210
                         },
                         {
                             "name": "Yes",
-                            "description": "Dawson Mercer",
-                            "price": 260
+                            "description": "Timo Meier",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jesper Bratt",
+                            "price": 210
                         },
                         {
                             "name": "Yes",
                             "description": "Vincent Trocheck",
-                            "price": 270
+                            "price": 260
                         },
                         {
                             "name": "Yes",
                             "description": "Chris Kreider",
-                            "price": 280
+                            "price": 270
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Mercer",
+                            "price": 270
                         },
                         {
                             "name": "Yes",
@@ -2636,17 +2636,7 @@
                         {
                             "name": "Yes",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 320
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Paul Cotter",
                             "price": 330
-                        },
-                        {
-                            "name": "Yes",
-                            "description": "Ondrej Palat",
-                            "price": 340
                         },
                         {
                             "name": "Yes",
@@ -2655,18 +2645,28 @@
                         },
                         {
                             "name": "Yes",
+                            "description": "Paul Cotter",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ondrej Palat",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
                             "description": "Will Cuylle",
-                            "price": 390
+                            "price": 380
                         },
                         {
                             "name": "Yes",
                             "description": "Reilly Smith",
-                            "price": 400
+                            "price": 410
                         },
                         {
                             "name": "Yes",
                             "description": "Erik Haula",
-                            "price": 400
+                            "price": 410
                         },
                         {
                             "name": "Yes",
@@ -2681,7 +2681,7 @@
                         {
                             "name": "Yes",
                             "description": "Tomas Tatar",
-                            "price": 460
+                            "price": 480
                         },
                         {
                             "name": "Yes",
@@ -2691,7 +2691,7 @@
                         {
                             "name": "Yes",
                             "description": "Luke Hughes",
-                            "price": 650
+                            "price": 700
                         },
                         {
                             "name": "Yes",
@@ -2701,7 +2701,7 @@
                         {
                             "name": "Yes",
                             "description": "Justin Dowling",
-                            "price": 800
+                            "price": 850
                         },
                         {
                             "name": "Yes",
@@ -2716,7 +2716,7 @@
                         {
                             "name": "Yes",
                             "description": "Sam Carrick",
-                            "price": 1000
+                            "price": 950
                         },
                         {
                             "name": "Yes",
@@ -2752,7 +2752,7 @@
                 },
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:45Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2769,13 +2769,13 @@
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 200,
+                            "price": 210,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Timo Meier",
-                            "price": -280,
+                            "price": -290,
                             "point": 0.5
                         },
                         {
@@ -2787,13 +2787,13 @@
                         {
                             "name": "Under",
                             "description": "Mika Zibanejad",
-                            "price": -500,
+                            "price": -490,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Jesper Bratt",
-                            "price": 200,
+                            "price": 210,
                             "point": 0.5
                         },
                         {
@@ -2805,13 +2805,13 @@
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 320,
+                            "price": 330,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": -470,
+                            "price": -480,
                             "point": 0.5
                         },
                         {
@@ -2829,13 +2829,13 @@
                         {
                             "name": "Over",
                             "description": "Will Cuylle",
-                            "price": 390,
+                            "price": 380,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Will Cuylle",
-                            "price": -600,
+                            "price": -550,
                             "point": 0.5
                         },
                         {
@@ -2853,37 +2853,37 @@
                         {
                             "name": "Over",
                             "description": "Dawson Mercer",
-                            "price": 260,
+                            "price": 270,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Dawson Mercer",
-                            "price": -380,
+                            "price": -390,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Chris Kreider",
-                            "price": 280,
+                            "price": 270,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Chris Kreider",
-                            "price": -410,
+                            "price": -400,
                             "point": 0.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": 145,
+                            "price": 140,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Jack Hughes",
-                            "price": -200,
+                            "price": -195,
                             "point": 0.5
                         },
                         {
@@ -2901,20 +2901,20 @@
                         {
                             "name": "Over",
                             "description": "Vincent Trocheck",
-                            "price": 270,
+                            "price": 260,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Vincent Trocheck",
-                            "price": -380,
+                            "price": -360,
                             "point": 0.5
                         }
                     ]
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:45Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2931,61 +2931,61 @@
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": -148,
+                            "price": -152,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Jack Hughes",
-                            "price": 114,
+                            "price": 116,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": -188,
+                            "price": -182,
                             "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 142,
+                            "price": 138,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Chris Kreider",
-                            "price": 130,
+                            "price": 128,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Chris Kreider",
-                            "price": -170,
+                            "price": -168,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Artemi Panarin",
-                            "price": -164,
+                            "price": -160,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Artemi Panarin",
-                            "price": 125,
+                            "price": 122,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Jesper Bratt",
-                            "price": -128,
+                            "price": -122,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Jesper Bratt",
-                            "price": -102,
+                            "price": -106,
                             "point": 2.5
                         },
                         {
@@ -3003,26 +3003,26 @@
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 118,
+                            "price": 120,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Timo Meier",
-                            "price": -154,
+                            "price": -156,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": -198,
-                            "point": 1.5
+                            "price": 144,
+                            "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Mika Zibanejad",
-                            "price": 150,
-                            "point": 1.5
+                            "price": -188,
+                            "point": 2.5
                         },
                         {
                             "name": "Over",
@@ -3039,13 +3039,13 @@
                         {
                             "name": "Over",
                             "description": "Vincent Trocheck",
-                            "price": 106,
+                            "price": 108,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Vincent Trocheck",
-                            "price": -138,
+                            "price": -140,
                             "point": 2.5
                         },
                         {
@@ -3064,24 +3064,24 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:26:45Z",
+                    "last_update": "2024-12-23T14:45:24Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": 154,
+                            "price": 148,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 265,
+                            "price": 255,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Artemi Panarin",
-                            "price": 330,
+                            "price": 350,
                             "point": 4.5
                         },
                         {
@@ -3099,31 +3099,31 @@
                         {
                             "name": "Over",
                             "description": "Jesper Bratt",
-                            "price": 450,
+                            "price": 460,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Vincent Trocheck",
-                            "price": 580,
+                            "price": 600,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": -385,
+                            "price": -380,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": -220,
+                            "price": -215,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Artemi Panarin",
-                            "price": -164,
+                            "price": -160,
                             "point": 2.5
                         },
                         {
@@ -3141,37 +3141,37 @@
                         {
                             "name": "Over",
                             "description": "Jesper Bratt",
-                            "price": -128,
+                            "price": -122,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Vincent Trocheck",
-                            "price": 106,
+                            "price": 108,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Chris Kreider",
-                            "price": 130,
+                            "price": 128,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 158,
+                            "price": 144,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 168,
+                            "price": 172,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Filip Chytil",
-                            "price": 215,
+                            "price": 205,
                             "point": 2.5
                         },
                         {
@@ -3183,13 +3183,13 @@
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": -1500,
+                            "price": -1600,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": -700,
+                            "price": -750,
                             "point": 1.5
                         },
                         {
@@ -3201,43 +3201,43 @@
                         {
                             "name": "Over",
                             "description": "Dougie Hamilton",
-                            "price": -480,
+                            "price": -450,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Nico Hischier",
-                            "price": -420,
-                            "point": 1.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Jesper Bratt",
                             "price": -415,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
+                            "description": "Jesper Bratt",
+                            "price": -405,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
                             "description": "Vincent Trocheck",
-                            "price": -295,
+                            "price": -280,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Chris Kreider",
-                            "price": -240,
+                            "price": -250,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": -198,
+                            "price": -215,
                             "point": 1.5
                         },
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": -188,
+                            "price": -182,
                             "point": 1.5
                         },
                         {
@@ -3255,19 +3255,19 @@
                         {
                             "name": "Over",
                             "description": "Jack Hughes",
-                            "price": -148,
+                            "price": -152,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 118,
+                            "price": 120,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Artemi Panarin",
-                            "price": 154,
+                            "price": 162,
                             "point": 3.5
                         },
                         {
@@ -3285,7 +3285,7 @@
                         {
                             "name": "Over",
                             "description": "Jesper Bratt",
-                            "price": 198,
+                            "price": 205,
                             "point": 3.5
                         },
                         {
@@ -3303,13 +3303,13 @@
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 390,
+                            "price": 360,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 415,
+                            "price": 430,
                             "point": 3.5
                         },
                         {
@@ -3320,8 +3320,14 @@
                         },
                         {
                             "name": "Over",
+                            "description": "Vincent Trocheck",
+                            "price": -1800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
                             "description": "Chris Kreider",
-                            "price": -1450,
+                            "price": -1600,
                             "point": 0.5
                         },
                         {
@@ -3333,7 +3339,7 @@
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": -1050,
+                            "price": -950,
                             "point": 0.5
                         },
                         {
@@ -3345,7 +3351,7 @@
                         {
                             "name": "Over",
                             "description": "Adam Fox",
-                            "price": -670,
+                            "price": -660,
                             "point": 0.5
                         },
                         {
@@ -3357,7 +3363,7 @@
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 550,
+                            "price": 500,
                             "point": 5.5
                         },
                         {
@@ -3376,7 +3382,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:23Z",
+                    "last_update": "2024-12-23T14:44:52Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -3411,7 +3417,7 @@
                         {
                             "name": "Yes",
                             "description": "Reilly Smith",
-                            "price": 400
+                            "price": 380
                         },
                         {
                             "name": "Yes",
@@ -3441,7 +3447,7 @@
                         {
                             "name": "Yes",
                             "description": "Urho Vaakanainen",
-                            "price": 1200
+                            "price": 1300
                         },
                         {
                             "name": "Yes",
@@ -3461,12 +3467,12 @@
                         {
                             "name": "Yes",
                             "description": "Chad Ruhwedel",
-                            "price": 800
+                            "price": 850
                         },
                         {
                             "name": "Yes",
                             "description": "Zac Jones",
-                            "price": 1200
+                            "price": 1100
                         },
                         {
                             "name": "Yes",
@@ -3506,7 +3512,7 @@
                         {
                             "name": "Yes",
                             "description": "Dawson Mercer",
-                            "price": 360
+                            "price": 350
                         },
                         {
                             "name": "Yes",
@@ -3526,7 +3532,7 @@
                         {
                             "name": "Yes",
                             "description": "Jonas Siegenthaler",
-                            "price": 1000
+                            "price": 1100
                         },
                         {
                             "name": "Yes",
@@ -3546,7 +3552,7 @@
                         {
                             "name": "Yes",
                             "description": "Justin Dowling",
-                            "price": 750
+                            "price": 700
                         },
                         {
                             "name": "Yes",
@@ -3562,7 +3568,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:23Z",
+                    "last_update": "2024-12-23T14:44:52Z",
                     "outcomes": [
                         {
                             "name": "Under",
@@ -3736,7 +3742,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:23Z",
+                    "last_update": "2024-12-23T14:44:52Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4228,7 +4234,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:19:59Z",
+                    "last_update": "2024-12-23T14:44:02Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4409,7 +4415,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:19:59Z",
+                    "last_update": "2024-12-23T14:44:02Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4499,7 +4505,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:25:59Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4660,12 +4666,12 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:25:59Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 475,
+                            "price": 450,
                             "point": 0.5
                         },
                         {
@@ -4803,7 +4809,7 @@
                         {
                             "name": "Under",
                             "description": "Jesper Bratt",
-                            "price": -275,
+                            "price": -300,
                             "point": 0.5
                         },
                         {
@@ -4822,12 +4828,12 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:25:59Z",
+                    "last_update": "2024-12-23T14:45:12Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Timo Meier",
-                            "price": 110,
+                            "price": 105,
                             "point": 3.5
                         },
                         {
@@ -4947,7 +4953,7 @@
                         {
                             "name": "Over",
                             "description": "Dougie Hamilton",
-                            "price": -145,
+                            "price": -140,
                             "point": 2.5
                         },
                         {
@@ -4983,7 +4989,7 @@
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 130,
+                            "price": 135,
                             "point": 2.5
                         },
                         {
@@ -5002,7 +5008,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:46Z",
+                    "last_update": "2024-12-23T14:45:05Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5218,7 +5224,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:46Z",
+                    "last_update": "2024-12-23T14:45:05Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5302,7 +5308,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:46Z",
+                    "last_update": "2024-12-23T14:45:05Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5482,7 +5488,7 @@
             "markets": [
                 {
                     "key": "player_goal_scorer_anytime",
-                    "last_update": "2024-12-23T14:27:12Z",
+                    "last_update": "2024-12-23T14:45:27Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5497,7 +5503,7 @@
                         {
                             "name": "Yes",
                             "description": "Timo Meier",
-                            "price": 155
+                            "price": 160
                         },
                         {
                             "name": "Yes",
@@ -5713,7 +5719,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:12Z",
+                    "last_update": "2024-12-23T14:43:23Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5893,12 +5899,12 @@
             "markets": [
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:27:18Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Under",
                             "description": "Jesper Bratt",
-                            "price": -104,
+                            "price": -105,
                             "point": 2.5
                         },
                         {
@@ -5910,13 +5916,13 @@
                         {
                             "name": "Under",
                             "description": "Mika Zibanejad",
-                            "price": -185,
+                            "price": -189,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 141,
+                            "price": 144,
                             "point": 2.5
                         },
                         {
@@ -6067,7 +6073,7 @@
                 },
                 {
                     "key": "player_shots_on_goal_alternate",
-                    "last_update": "2024-12-23T14:27:18Z",
+                    "last_update": "2024-12-23T14:45:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6180,37 +6186,37 @@
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 567,
+                            "price": 571,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 1243,
+                            "price": 1248,
                             "point": 5.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 141,
+                            "price": 144,
                             "point": 2.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 2804,
+                            "price": 2802,
                             "point": 6.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": 266,
+                            "price": 269,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Mika Zibanejad",
-                            "price": -227,
+                            "price": -222,
                             "point": 1.5
                         },
                         {
@@ -6559,7 +6565,7 @@
             "markets": [
                 {
                     "key": "player_goals",
-                    "last_update": "2024-12-23T14:26:24Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6924,13 +6930,13 @@
                         {
                             "name": "Over",
                             "description": "Sam Carrick",
-                            "price": 750,
+                            "price": 800,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Sam Carrick",
-                            "price": -2500,
+                            "price": -2800,
                             "point": 0.5
                         },
                         {
@@ -6973,7 +6979,7 @@
                 },
                 {
                     "key": "player_power_play_points",
-                    "last_update": "2024-12-23T14:26:24Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7014,13 +7020,13 @@
                         {
                             "name": "Over",
                             "description": "Adam Fox",
-                            "price": 190,
+                            "price": 200,
                             "point": 0.5
                         },
                         {
                             "name": "Under",
                             "description": "Adam Fox",
-                            "price": -260,
+                            "price": -280,
                             "point": 0.5
                         },
                         {
@@ -7111,7 +7117,7 @@
                 },
                 {
                     "key": "player_shots_on_goal",
-                    "last_update": "2024-12-23T14:26:24Z",
+                    "last_update": "2024-12-23T14:45:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7224,13 +7230,13 @@
                         {
                             "name": "Over",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": 130,
+                            "price": 135,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Alexis Lafreni\u00e8re",
-                            "price": -180,
+                            "price": -185,
                             "point": 2.5
                         },
                         {
