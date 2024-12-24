@@ -1,0 +1,20 @@
+[
+    {
+        "id": "ce94e5673c8b7a0834f1948f1c5f52c7",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2024-12-25T18:00:00Z",
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Kansas City Chiefs",
+        "date": "20241225"
+    },
+    {
+        "id": "adf41cffa9d818a982d19273df911106",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2024-12-25T21:30:00Z",
+        "home_team": "Houston Texans",
+        "away_team": "Baltimore Ravens",
+        "date": "20241225"
+    }
+]

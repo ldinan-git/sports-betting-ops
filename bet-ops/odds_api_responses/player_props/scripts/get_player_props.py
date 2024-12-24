@@ -25,7 +25,7 @@ with open(os.path.join(ROOT_DIR, 'configuration/api_parameters.json')) as f:
 with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
     directories = json.load(f)
 
-def output_response(response, output_dir, file_name, json_flag=False):
+def output_response(response, output_dir, file_name, override_date, json_flag=False):
     if not json_flag:
         data = response.json()  # Parse JSON response
     else:
@@ -118,7 +118,7 @@ def player_props_endpoint(sport, events, api_key, count):
         # Make the API request
         invoke_request(url, params=params, file_name=file_name, output=True, output_dir=output_dir)
 
-def get_player_props(sport, api_key):
+def get_player_props(sport, api_key, override_date):
     # Validate sport
     print(sport)
     sports = sports_endpoint(api_key)
@@ -133,7 +133,7 @@ def get_player_props(sport, api_key):
 
     # Get Events for sport
     events = events_endpoint(sport, api_key)
-    events = add_events_date(events)
+    events = add_events_date(events, override_date)
     output_dir = os.path.join(ROOT_DIR, directories['odds_api_responses_output'], sport, 'events')
     file_name = config["events"]["prefix"].replace("{sport_key}", sport)
     
@@ -142,7 +142,7 @@ def get_player_props(sport, api_key):
     # Get Player Props
     player_props_endpoint(sport, events, api_key, count=300)
 
-def add_events_date(events):
+def add_events_date(events, override_date):
     for event in events:
         # event['commence_time'] ="2024-12-25T17:00:00Z"
         utc_time = datetime.strptime(event['commence_time'], '%Y-%m-%dT%H:%M:%SZ')
@@ -155,7 +155,7 @@ def add_events_date(events):
 
     e = []
     for event in events:
-        if event['date'] == datetime.now().strftime('%Y%m%d'):
+        if event['date'] == override_date:
             e.append(event)
     
     return e
@@ -166,6 +166,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--sport', help='The sport to retrieve player props for')
     parser.add_argument('--api_key', help='API Key to use for requests')
+    parser.add_argument('--override_date', help='override date')
 
     # Parse the command-line arguments
     args = parser.parse_args()
@@ -177,4 +178,6 @@ if __name__ == '__main__':
     if not args.api_key:
         print("Please provide an API Key using the --api_key argument.")
 
-    get_player_props(sport=args.sport, api_key=args.api_key)
+    override_date = args.override_date if args.override_date else datetime.now().strftime('%Y%m%d')
+
+    get_player_props(sport=args.sport, api_key=args.api_key, override_date=override_date)

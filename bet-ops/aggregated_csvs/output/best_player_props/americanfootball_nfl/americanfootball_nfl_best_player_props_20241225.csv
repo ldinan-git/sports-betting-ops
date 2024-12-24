@@ -1,0 +1,77 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+bovada,-110.0,0.12628769147084884,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,DeAndre Hopkins,Over,2.5,,,-256.0,-110.0,,-275.0,-245.0,,,0.5899602193418733,1.9090909090909087
+bovada,-265.0,0.033002317113538515,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,DeAndre Hopkins,Over,1.5,,,,-265.0,,-900.0,-850.0,,-700.0,0.7499879836577745,1.3773584905660377
+bovada,200.0,0.20005351148512274,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,DeAndre Hopkins,Over,3.5,,,115.0,200.0,,-105.0,104.0,,110.0,0.4000178371617076,3.0
+bovada,400.0,0.2651575576025351,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,DeAndre Hopkins,Over,4.5,,,207.0,400.0,,210.0,220.0,,,0.253031511520507,5.0
+fanduel,310.0,0.12113367429577326,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Isiah Pacheco,Over,2.5,,,157.0,,,185.0,310.0,,,0.2734472376331154,4.1
+fanduel,110.0,-0.013024897807506597,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Isiah Pacheco,Over,1.5,,,-108.0,,,-170.0,110.0,,-110.0,0.4699881439011873,2.1
+fanduel,490.0,0.2342618163380441,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Calvin Austin III,Yes,,290.0,260.0,300.0,275.0,320.0,325.0,490.0,310.0,325.0,0.2091969180233973,5.9
+bovada,175.0,0.03208845791811532,Baltimore Ravens @ Houston Texans,player_anytime_td,Rashod Bateman,Yes,,143.0,120.0,130.0,175.0,130.0,125.0,120.0,,,0.3753048937884056,2.75
+fanduel,700.0,0.3337587617096096,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Mike Williams,Yes,,400.0,350.0,350.0,275.0,390.0,360.0,700.0,520.0,575.0,0.1667198452137012,8.0
+draftkings,-195.0,-0.048681186961670675,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,49.5,,-275.0,,-300.0,-195.0,-275.0,-280.0,,-250.0,0.6288378594660143,1.5128205128205128
+ballybet,1150.0,0.5218718479588037,Baltimore Ravens @ Houston Texans,player_anytime_td,Cade Stover,Yes,,1150.0,550.0,600.0,500.0,600.0,550.0,,,,0.1217497478367043,12.5
+espnbet,450.0,0.11761426978818279,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Kareem Hunt,Over,24.5,,,,,340.0,450.0,420.0,,200.0,0.2032025945069423,5.5
+fanduel,-136.0,-0.04765964356757191,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Jaylen Warren,Over,2.5,,,-152.0,-150.0,,-275.0,-136.0,,,0.5488063070966535,1.7352941176470589
+draftkings,-350.0,-0.06930918079681503,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,39.5,,,,-550.0,-350.0,,-530.0,,-475.0,0.7238706371580328,1.2857142857142856
+hardrockbet,750.0,0.2448802772526779,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Isiah Pacheco,Over,3.5,,,268.0,,,500.0,,,750.0,0.1464565032061974,8.5
+betmgm,270.0,0.0697563400489194,Baltimore Ravens @ Houston Texans,player_anytime_td,Lamar Jackson,Yes,,200.0,270.0,210.0,185.0,215.0,185.0,210.0,180.0,190.0,0.2891233351483566,3.7
+espnbet,1000.0,0.36867932989751595,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Travis Kelce,Over,8.5,,,336.0,600.0,,1000.0,580.0,,,0.1244253936270469,11.0
+draftkings,850.0,0.2730755167070045,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Samaje Perine,Over,39.5,,,354.0,,850.0,,,,400.0,0.1340079491270531,9.5
+bovada,-110.0,0.03195312746180168,Baltimore Ravens @ Houston Texans,player_receptions,Dalton Schultz,Over,3.5,-124.0,-135.0,-149.0,-110.0,-150.0,-155.0,-128.0,-140.0,-140.0,0.5405468762895153,1.9090909090909087
+bovada,770.0,0.25947614073185865,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,DeAndre Hopkins,Over,5.5,,,397.0,770.0,,500.0,410.0,,525.0,0.1447673724979148,8.7
+betonlineag,-122.0,-0.04907198437005844,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Marquise Brown,Over,3.5,,,-122.0,-160.0,,-170.0,-148.0,,-165.0,0.5225820626434814,1.819672131147541
+bovada,110.0,0.03786326241545768,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions,Xavier Worthy,Over,4.5,-113.0,-115.0,-120.0,110.0,-125.0,-120.0,-114.0,-115.0,-105.0,0.4942206011502178,2.1
+fanduel,106.0,0.007247749966417416,Kansas City Chiefs @ Pittsburgh Steelers,player_sacks,Alex Highsmith,Over,0.5,,,-125.0,,,-115.0,106.0,-125.0,-115.0,0.4889552184302997,2.06
+draftkings,-120.0,-0.0548182350196319,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,59.5,,,,-180.0,-120.0,-135.0,-162.0,,,0.5155536899892917,1.8333333333333333
+hardrockbet,-120.0,-0.05659757609379179,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Noah Gray,Over,1.5,,,-143.0,,,-175.0,-144.0,,-120.0,0.5145831403124772,1.8333333333333333
+betmgm,225.0,0.020325981051683817,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Kareem Hunt,Yes,,170.0,225.0,160.0,175.0,165.0,175.0,175.0,175.0,185.0,0.3139464557082104,3.25
+betonlineag,-103.0,0.010724430491424464,Kansas City Chiefs @ Pittsburgh Steelers,player_sacks,George Karlaftis,Under,0.5,,,-103.0,,,-130.0,,-135.0,-125.0,0.51283062236757,1.970873786407767
+bovada,240.0,0.011588825253421309,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,Xavier Hutchinson,Over,24.5,,,145.0,240.0,180.0,200.0,230.0,,180.0,0.2975261250745357,3.4
+fanduel,-400.0,-0.07840842108083479,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Jaylen Warren,Over,1.5,,,-625.0,-420.0,,-1000.0,-400.0,,-500.0,0.7372732631353321,1.25
+bovada,375.0,0.08716688802721473,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Marquise Brown,Yes,,255.0,275.0,260.0,375.0,260.0,325.0,330.0,245.0,260.0,0.2288772395846768,4.75
+bovada,185.0,-0.014666943042362823,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,John Metchie III,Over,39.5,,,,185.0,150.0,145.0,144.0,,150.0,0.3457308971781183,2.85
+hardrockbet,-260.0,-0.08033365500284206,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Marquise Brown,Over,24.5,,-350.0,,-360.0,,,-340.0,,-260.0,0.6642034713868363,1.3846153846153846
+fanduel,420.0,0.0566534914361001,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Kareem Hunt,Over,24.5,,,,,340.0,450.0,420.0,,200.0,0.2032025945069423,5.2
+betmgm,190.0,-0.0020865025793115333,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Isiah Pacheco,Yes,,143.0,190.0,150.0,150.0,150.0,145.0,150.0,150.0,160.0,0.3441081025588581,2.9
+espnbet,210.0,-0.00782519017596417,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,79.5,,,,140.0,200.0,210.0,152.0,,150.0,0.320056390265818,3.1
+fanduel,126.0,0.03781803590817456,Baltimore Ravens @ Houston Texans,player_pass_interceptions,Lamar Jackson,Over,0.5,100.0,100.0,104.0,105.0,100.0,105.0,126.0,-105.0,105.0,0.4592115203133516,2.26
+betonlineag,-147.0,-0.06677370741257171,Baltimore Ravens @ Houston Texans,player_receptions_alternate,John Metchie III,Over,2.5,,,-147.0,-200.0,,-225.0,-166.0,,,0.5554018826330039,1.6802721088435373
+hardrockbet,650.0,0.1516089406092681,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Noah Gray,Over,3.5,,,322.0,,,450.0,520.0,,650.0,0.1535478587479024,7.5
+fanduel,700.0,0.19146553929162557,Baltimore Ravens @ Houston Texans,player_anytime_td,Keaton Mitchell,Yes,,550.0,450.0,350.0,550.0,380.0,550.0,700.0,,,0.1489331924114532,8.0
+fanduel,106.0,-0.04779179290317492,Baltimore Ravens @ Houston Texans,player_pass_yds_alternate,C.J. Stroud,Over,249.5,,-125.0,,-115.0,-105.0,-110.0,106.0,,-125.0,0.4622369937363228,2.06
+fanduel,3800.0,1.485460694606045,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Anthony Firkser,Yes,,1300.0,600.0,,1400.0,1300.0,,3800.0,1470.0,1200.0,0.063729761400155,39.0
+bovada,315.0,0.02993801200294055,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,John Metchie III,Over,49.5,,230.0,,315.0,255.0,,240.0,,240.0,0.248177834217576,4.15
+hardrockbet,-185.0,-0.07113849599888677,Baltimore Ravens @ Houston Texans,player_receptions_alternate,Robert Woods,Over,1.5,,,-227.0,-230.0,,-300.0,-215.0,,-185.0,0.6029451868077401,1.5405405405405406
+espnbet,-145.0,-0.06551095296971055,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Travis Kelce,Over,39.5,,,,-180.0,-180.0,-145.0,-162.0,,-180.0,0.5530649462015998,1.6896551724137931
+fanduel,-340.0,-0.0733307364043172,Baltimore Ravens @ Houston Texans,player_pass_yds_alternate,C.J. Stroud,Over,199.5,,-500.0,,-360.0,-390.0,-400.0,-340.0,-625.0,-525.0,0.716062612778482,1.2941176470588236
+fanduel,168.0,-0.028966464292373817,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Jaylen Warren,Over,3.5,,,137.0,160.0,,-105.0,168.0,,150.0,0.362325946159562,2.68
+betonlineag,100.0,-0.0007362663825886129,Kansas City Chiefs @ Pittsburgh Steelers,player_sacks,T.J. Watt,Under,0.5,,,100.0,,,-120.0,,-130.0,-120.0,0.4996318668087057,2.0
+draftkings,370.0,0.057982115808278945,Kansas City Chiefs @ Pittsburgh Steelers,player_pass_yds_alternate,Russell Wilson,Over,274.5,,,,240.0,370.0,260.0,270.0,305.0,275.0,0.2251025778315487,4.7
+draftkings,450.0,0.0885300504133435,Baltimore Ravens @ Houston Texans,player_pass_yds_alternate,Lamar Jackson,Over,274.5,,,,280.0,450.0,300.0,300.0,360.0,375.0,0.1979145546206079,5.5
+hardrockbet,115.0,-0.053736237684093746,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Kareem Hunt,Over,1.5,,,110.0,,,-130.0,-108.0,,115.0,0.4401226801469332,2.15
+draftkings,370.0,0.0576342528135807,Baltimore Ravens @ Houston Texans,player_pass_yds_alternate,C.J. Stroud,Over,299.5,,250.0,,300.0,370.0,275.0,320.0,260.0,275.0,0.2250285644284214,4.7
+draftkings,185.0,-0.015628342482907565,Kansas City Chiefs @ Pittsburgh Steelers,player_pass_yds_alternate,Russell Wilson,Over,249.5,,120.0,,130.0,185.0,155.0,152.0,170.0,155.0,0.345393564041085,2.85
+fanduel,230.0,-0.007978982644900268,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,Dalton Schultz,Over,49.5,,155.0,,200.0,185.0,185.0,230.0,,190.0,0.3006124295015454,3.3
+hardrockbet,-115.0,-0.06634246152702039,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Marquise Brown,Over,39.5,,,,-140.0,,-125.0,-128.0,,-115.0,0.4993982182529892,1.869565217391304
+draftkings,130.0,-0.0517072885453842,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,69.5,,,,-115.0,130.0,125.0,100.0,,,0.4123011788933112,2.3
+espnbet,250.0,-0.01071822810953238,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Travis Kelce,Over,6.5,,,164.0,180.0,,250.0,200.0,,,0.2826519348258479,3.5
+betmgm,550.0,0.11586341338001915,Baltimore Ravens @ Houston Texans,player_last_td,Derrick Henry,Yes,,330.0,550.0,,350.0,,425.0,470.0,410.0,400.0,0.1716712943661568,6.5
+bovada,-420.0,-0.08718548373720791,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Jaylen Warren,Over,1.5,,,-625.0,-420.0,,-1000.0,-400.0,,-500.0,0.7372732631353321,1.238095238095238
+betonlineag,128.0,-0.054067960717414265,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Travis Kelce,Over,5.5,,,128.0,-110.0,,,110.0,,-105.0,0.4148824733695552,2.28
+draftkings,-265.0,-0.0843859301041806,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,Mark Andrews,Over,24.5,,-600.0,,-315.0,-265.0,,-295.0,,-275.0,0.6647609000613484,1.3773584905660377
+espnbet,325.0,0.010624368618758484,Baltimore Ravens @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,89.5,,,,210.0,290.0,325.0,230.0,,,0.2377939690867667,4.25
+hardrockbet,575.0,0.1253589551924832,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Mike Williams,Yes,,400.0,350.0,350.0,275.0,390.0,360.0,700.0,520.0,575.0,0.1667198452137012,6.75
+hardrockbet,400.0,0.041574845959313045,Baltimore Ravens @ Houston Texans,player_receptions_alternate,Robert Woods,Over,3.5,,,249.0,300.0,,275.0,320.0,,400.0,0.2083149691918626,5.0
+fanduel,230.0,-0.018163787254032338,Baltimore Ravens @ Houston Texans,player_reception_yds_alternate,Xavier Hutchinson,Over,24.5,,,145.0,240.0,180.0,200.0,230.0,,180.0,0.2975261250745357,3.3
+hardrockbet,200.0,-0.03303494924048289,Kansas City Chiefs @ Pittsburgh Steelers,player_reception_yds_alternate,Noah Gray,Over,24.5,,,142.0,,180.0,150.0,186.0,,200.0,0.3223216835865057,3.0
+fanduel,-158.0,-0.08085817911820203,Baltimore Ravens @ Houston Texans,player_receptions_alternate,Mark Andrews,Over,3.5,,,-238.0,-175.0,,-175.0,-158.0,,,0.5628853011601709,1.6329113924050631
+fanduel,360.0,0.041316165190359966,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Pat Freiermuth,Yes,,240.0,270.0,290.0,240.0,295.0,260.0,360.0,310.0,325.0,0.2263730793892087,4.6
+betonlineag,128.0,0.021690606185110983,Baltimore Ravens @ Houston Texans,player_pass_tds,Lamar Jackson,Under,1.5,105.0,105.0,128.0,110.0,110.0,110.0,108.0,-105.0,105.0,0.4481099149934698,2.28
+betmgm,700.0,0.16470384762754486,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Russell Wilson,Yes,,525.0,700.0,500.0,500.0,500.0,550.0,700.0,370.0,400.0,0.1455879809534431,8.0
+fanduel,700.0,0.16470384762754486,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Russell Wilson,Yes,,525.0,700.0,500.0,500.0,500.0,550.0,700.0,370.0,400.0,0.1455879809534431,8.0
+betonlineag,-143.0,-0.07596655705910915,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Travis Kelce,Over,4.5,,,-143.0,-205.0,,-155.0,-180.0,,,0.5437727668335284,1.6993006993006992
+fanduel,600.0,0.12581535576376157,Kansas City Chiefs @ Pittsburgh Steelers,player_anytime_td,Noah Gray,Yes,,350.0,525.0,350.0,375.0,380.0,400.0,600.0,495.0,550.0,0.1608307651091088,7.0
+betonlineag,-114.0,-0.010192598302002476,Baltimore Ravens @ Houston Texans,player_sacks,Danielle Hunter,Under,0.5,,,-114.0,,,-132.0,,-145.0,-135.0,0.5272805784746342,1.8771929824561404
+espnbet,250.0,-0.02026424367550128,Kansas City Chiefs @ Pittsburgh Steelers,player_rush_yds_alternate,Najee Harris,Over,59.5,,,,190.0,195.0,250.0,210.0,,,0.2799245018069996,3.5
+espnbet,250.0,-0.012708834137390435,Kansas City Chiefs @ Pittsburgh Steelers,player_rush_yds_alternate,Jaylen Warren,Over,49.5,,160.0,,210.0,195.0,250.0,235.0,,220.0,0.2820831902464599,3.5
+fanduel,210.0,-0.03938458073959694,Kansas City Chiefs @ Pittsburgh Steelers,player_receptions_alternate,Noah Gray,Over,2.5,,,155.0,,,165.0,210.0,,,0.3098759416969042,3.1

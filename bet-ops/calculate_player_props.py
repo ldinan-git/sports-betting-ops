@@ -43,7 +43,7 @@ def main():
     # Step 1: Generate odds for a given day
     if args.get_player_props.lower() == "true" and args.api_key:
         print("Getting player props...")
-        run_command(f"python {os.path.join(PLAYER_PROPS_RESPONSES_SCRIPT_LOC, 'get_player_props.py')} --sport {args.sport} --api_key {args.api_key}")
+        run_command(f"python {os.path.join(PLAYER_PROPS_RESPONSES_SCRIPT_LOC, 'get_player_props.py')} --sport {args.sport} --api_key {args.api_key} --override_date {args.override_date}")
 
     if args.get_odds.lower() == "true" and args.api_key:
         print("Getting odds...")
