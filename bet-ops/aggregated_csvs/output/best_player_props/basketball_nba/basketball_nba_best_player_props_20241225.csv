@@ -1,0 +1,16 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+espnbet,225.0,0.2032132030806475,Philadelphia 76ers @ Boston Celtics,player_points_alternate,Kristaps Porzingis,Over,19.5,,140.0,,,120.0,225.0,105.0,,150.0,0.3702194471017377,3.25
+draftkings,-235.0,-0.028522972556275006,Los Angeles Lakers @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,4.5,,-500.0,,,-235.0,-400.0,,,-400.0,0.6814838849232101,1.425531914893617
+draftkings,-400.0,-0.04085276202478472,Los Angeles Lakers @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,3.5,,,,,-400.0,-800.0,-650.0,,-900.0,0.7673177903801722,1.25
+espnbet,700.0,0.45447709595744157,Philadelphia 76ers @ Boston Celtics,player_points_alternate,Kristaps Porzingis,Over,24.5,,450.0,308.0,,340.0,700.0,310.0,,425.0,0.1818096369946802,8.0
+draftkings,-150.0,-0.02382198265459312,Denver Nuggets @ Phoenix Suns,player_points_rebounds_assists_alternate,Monte Morris,Over,9.5,,,-256.0,,-150.0,-185.0,,,,0.5857068104072443,1.6666666666666663
+fanduel,280.0,0.1250960541234758,Los Angeles Lakers @ Golden State Warriors,player_points_alternate,Max Christie,Over,9.5,,210.0,,,190.0,185.0,280.0,,190.0,0.2960779089798621,3.8
+fanduel,290.0,0.1348467541727283,Philadelphia 76ers @ Boston Celtics,player_points_alternate,K.J. Martin,Over,9.5,,240.0,147.0,,210.0,200.0,290.0,,195.0,0.2909863472237765,3.9
+fanduel,-140.0,-0.02395740905057664,Denver Nuggets @ Phoenix Suns,player_assists_alternate,Jamal Murray,Over,5.5,,,-200.0,,-180.0,,-140.0,,-200.0,0.5693581780538303,1.7142857142857144
+fanduel,-120.0,-0.011595433504933306,Denver Nuggets @ Phoenix Suns,player_points_alternate,Kevin Durant,Over,29.5,,-200.0,-182.0,,-170.0,-145.0,-120.0,,-150.0,0.5391297635427637,1.8333333333333333
+fanduel,330.0,0.13948494916501475,Los Angeles Lakers @ Golden State Warriors,player_points_alternate,Brandin Podziemski,Over,9.5,,250.0,,,215.0,225.0,330.0,,225.0,0.2649964998058174,4.3
+fanduel,-110.0,-0.016141551274139743,Minnesota Timberwolves @ Dallas Mavericks,player_points_alternate,Julius Randle,Over,19.5,,-155.0,,,-150.0,-140.0,-110.0,,-145.0,0.5153544255230698,1.9090909090909087
+fanduel,340.0,0.09786378993465039,Minnesota Timberwolves @ Dallas Mavericks,player_rebounds_alternate,Rudy Gobert,Over,13.5,,,235.0,,240.0,,340.0,,,0.2495144977124205,4.4
+espnbet,-600.0,-0.06645681684044835,Philadelphia 76ers @ Boston Celtics,player_points_alternate,Kristaps Porzingis,Over,9.5,,-1600.0,,,,-600.0,-1600.0,,-900.0,0.8001798712796155,1.1666666666666667
+betmgm,390.0,0.1380609160660311,San Antonio Spurs @ New York Knicks,player_points_alternate,Precious Achiuwa,Over,9.5,,390.0,200.0,,285.0,325.0,,,,0.2322573298093941,4.9
+draftkings,-190.0,-0.05269289708648961,Denver Nuggets @ Phoenix Suns,player_rebounds_alternate,Ryan Dunn,Over,2.5,,-350.0,-270.0,,-190.0,-225.0,,,,0.6206494812191965,1.526315789473684

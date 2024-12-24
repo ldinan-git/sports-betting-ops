@@ -25,7 +25,7 @@ with open(os.path.join(ROOT_DIR, 'configuration/api_parameters.json')) as f:
 with open(os.path.join(ROOT_DIR, 'configuration/directories.json')) as f:
     directories = json.load(f)
 
-def output_response(response, output_dir, file_name, override_date, json_flag=False):
+def output_response(response, output_dir, file_name, json_flag=False):
     if not json_flag:
         data = response.json()  # Parse JSON response
     else:
