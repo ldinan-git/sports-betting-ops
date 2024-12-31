@@ -1,0 +1,15 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+espnbet,1100.0,1.912608396389511,Los Angeles Clippers @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,780.0,-10000.0,,1100.0,,,1000.0,0.2427173663657926,12.0
+hardrockbet,1000.0,1.6698910300237189,Los Angeles Clippers @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,780.0,-10000.0,,1100.0,,,1000.0,0.2427173663657926,11.0
+betonlineag,780.0,1.135912824018975,Los Angeles Clippers @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,780.0,-10000.0,,1100.0,,,1000.0,0.2427173663657926,8.8
+betonlineag,103.0,0.009944985291886366,Memphis Grizzlies @ Phoenix Suns,player_points_rebounds_assists_alternate,Mason Plumlee,Over,19.5,,,103.0,,-145.0,-135.0,,,,0.4975098449713726,2.03
+betonlineag,103.0,0.023363268534753123,Memphis Grizzlies @ Phoenix Suns,player_points_alternate,Bradley Beal,Over,19.5,,-150.0,103.0,-130.0,-125.0,-130.0,-120.0,,-155.0,0.5041198367166272,2.03
+betmgm,250.0,0.09453725394427814,Memphis Grizzlies @ Phoenix Suns,player_rebounds_alternate,Luke Kennard,Over,4.5,,250.0,175.0,,130.0,200.0,,,185.0,0.3127249296983652,3.5
+hardrockbet,260.0,0.06116080715623062,Minnesota Timberwolves @ Oklahoma City Thunder,player_points_alternate,Cason Wallace,Over,9.5,,175.0,,,175.0,,,,260.0,0.2947668908767307,3.6
+fanduel,-150.0,-0.02227011126209455,Minnesota Timberwolves @ Oklahoma City Thunder,player_assists_alternate,Anthony Edwards,Over,3.5,,,-222.0,-180.0,-235.0,-200.0,-150.0,,-200.0,0.5866379332427434,1.6666666666666663
+betonlineag,-152.0,-0.02662719677965908,Memphis Grizzlies @ Phoenix Suns,player_assists_alternate,Luke Kennard,Over,2.5,,-225.0,-152.0,,-260.0,-190.0,,,-195.0,0.5871137543233802,1.6578947368421053
+draftkings,-145.0,-0.046314698824264866,Minnesota Timberwolves @ Oklahoma City Thunder,player_points_rebounds_assists_alternate,Jalen Williams,Over,29.5,,,-200.0,,-145.0,-175.0,,,,0.5644259945733943,1.6896551724137931
+betonlineag,106.0,-0.013565600284874746,Memphis Grizzlies @ Phoenix Suns,player_rebounds_alternate,Kevin Durant,Over,7.5,,,106.0,-125.0,-115.0,-130.0,-110.0,,-135.0,0.4788516503471481,2.06
+betonlineag,-244.0,-0.0624092175442581,Memphis Grizzlies @ Phoenix Suns,player_assists_alternate,Scotty Pippen Jr,Over,4.5,,,-244.0,,-360.0,-350.0,,,-375.0,0.6650353224395378,1.4098360655737705
+espnbet,-110.0,-0.0342311080029567,Milwaukee Bucks @ Indiana Pacers,player_assists_alternate,Pascal Siakam,Over,2.5,,-160.0,-147.0,,-150.0,-110.0,,,-135.0,0.5058789434270228,1.9090909090909087
+fanduel,260.0,0.07092084564894974,Minnesota Timberwolves @ Oklahoma City Thunder,player_rebounds_alternate,Jaden McDaniels,Over,5.5,,,186.0,100.0,205.0,210.0,260.0,,250.0,0.2974780126802638,3.6
