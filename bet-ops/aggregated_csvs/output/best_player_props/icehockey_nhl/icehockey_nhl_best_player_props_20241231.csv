@@ -1,0 +1,31 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+draftkings,600.0,0.3171447212507612,Vancouver Canucks @ Calgary Flames,player_goal_scorer_anytime,Nils Hoglander,Yes,,280.0,425.0,,280.0,600.0,600.0,430.0,525.0,525.0,0.1881635316072516,7.0
+fanduel,270.0,0.11396218990013951,New Jersey Devils @ Anaheim Ducks,player_goals,Frank Vatrano,Over,0.5,,,,,,190.0,270.0,180.0,185.0,0.3010708621351728,3.7
+draftkings,600.0,0.27290199800718706,Carolina Hurricanes @ Columbus Blue Jackets,player_goal_scorer_anytime,Eric Robinson,Yes,,260.0,400.0,,260.0,600.0,600.0,340.0,515.0,350.0,0.1818431425724553,7.0
+ballybet,-165.0,0.0155450341771175,Winnipeg Jets @ Colorado Avalanche,player_power_play_points,Cale Makar,Under,0.5,-165.0,-225.0,,,,-230.0,,-250.0,,0.6323204929782053,1.606060606060606
+fanduel,230.0,0.07954687497801538,Carolina Hurricanes @ Columbus Blue Jackets,player_goals,Kirill Marchenko,Over,0.5,,,,,,165.0,230.0,160.0,165.0,0.3271354166600047,3.3
+fanduel,175.0,0.049421644409429755,Boston Bruins @ Washington Capitals,player_goals,David Pastrnak,Over,0.5,,,,,,130.0,175.0,125.0,130.0,0.3816078706943381,2.75
+fanduel,160.0,0.03025414039173313,Winnipeg Jets @ Colorado Avalanche,player_goals,Kyle Connor,Over,0.5,,,,,,125.0,160.0,115.0,120.0,0.3962515924583589,2.6
+fanduel,220.0,0.05187803749866893,Winnipeg Jets @ Colorado Avalanche,player_goals,Mark Scheifele,Over,0.5,,,,,,165.0,220.0,160.0,165.0,0.328711886718334,3.2
+fanduel,270.0,0.07541615719174266,Winnipeg Jets @ Colorado Avalanche,player_goals,Gabriel Vilardi,Over,0.5,,,,,,200.0,270.0,190.0,200.0,0.2906530154572277,3.7
+fanduel,250.0,0.06130585268865174,Carolina Hurricanes @ Columbus Blue Jackets,player_goals,Sean Monahan,Over,0.5,,,,,,190.0,250.0,180.0,185.0,0.303230243625329,3.5
+fanduel,350.0,0.10703225457973109,Vancouver Canucks @ Calgary Flames,player_goals,Mikael Backlund,Over,0.5,,,,,,260.0,350.0,235.0,250.0,0.2460071676843847,4.5
+draftkings,550.0,0.17415075971967742,Utah Hockey Club @ Edmonton Oilers,player_goal_scorer_anytime,Vasily Podkolzin,Yes,,270.0,400.0,,275.0,550.0,500.0,370.0,465.0,500.0,0.1806385784184119,6.5
+draftkings,600.0,0.19474237240354153,New Jersey Devils @ Anaheim Ducks,player_goal_scorer_anytime,Paul Cotter,Yes,,290.0,425.0,,300.0,600.0,550.0,400.0,475.0,500.0,0.1706774817719345,7.0
+fanduel,240.0,0.053928404853832546,Nashville Predators @ Minnesota Wild,player_goals,Jonathan Marchessault,Over,0.5,,,,,,190.0,240.0,170.0,180.0,0.3099789426040684,3.4
+draftkings,400.0,0.09824646535064896,Philadelphia Flyers @ San Jose Sharks,player_goal_scorer_anytime,Noah Cates,Yes,,215.0,290.0,,230.0,400.0,380.0,300.0,355.0,375.0,0.2196492930701298,5.0
+betmgm,650.0,0.17494824016563137,St Louis Blues @ Chicago Blackhawks,player_goal_scorer_anytime,Philipp Kurashev,Yes,,350.0,650.0,,350.0,600.0,,,,,0.1566597653554175,7.5
+fanduel,200.0,0.03357666132488335,New York Islanders @ Toronto Maple Leafs,player_goals,Mitch Marner,Over,0.5,,,,,,155.0,200.0,150.0,155.0,0.3445255537749611,3.0
+fanduel,250.0,0.055179003648562874,Nashville Predators @ Minnesota Wild,player_goals,Joel Eriksson Ek,Over,0.5,,,,,,200.0,250.0,180.0,185.0,0.3014797153281608,3.5
+fanduel,320.0,0.08204314338143837,Winnipeg Jets @ Colorado Avalanche,player_goals,Nikolaj Ehlers,Over,0.5,,,,,,250.0,320.0,225.0,230.0,0.2576293198527234,4.2
+fanduel,310.0,0.07308274196877917,Vancouver Canucks @ Calgary Flames,player_goals,Matt Coronato,Over,0.5,,,,,,240.0,310.0,220.0,230.0,0.2617274980411657,4.1
+betonlineag,-182.0,-0.05269162677229111,Boston Bruins @ Washington Capitals,player_shots_on_goal_alternate,Connor McMichael,Over,1.5,,,-182.0,,-240.0,-230.0,-245.0,,,0.611383418182422,1.5494505494505495
+fanduel,350.0,0.08730470651627609,Utah Hockey Club @ Edmonton Oilers,player_goals,Logan Cooley,Over,0.5,,,,,,260.0,350.0,250.0,260.0,0.241623268114728,4.5
+draftkings,425.0,0.09043312729878872,New Jersey Devils @ Anaheim Ducks,player_goal_scorer_anytime,Ondrej Palat,Yes,,270.0,300.0,,280.0,425.0,380.0,280.0,345.0,375.0,0.2077015480569121,5.25
+fanduel,380.0,0.09480738607179684,Boston Bruins @ Washington Capitals,player_goals,Pierre-Luc Dubois,Over,0.5,,,,,,290.0,380.0,265.0,275.0,0.228084872098291,4.8
+fanduel,300.0,0.06170576964070151,New Jersey Devils @ Anaheim Ducks,player_goals,Troy Terry,Over,0.5,,,,,,240.0,300.0,215.0,225.0,0.2654264424101754,4.0
+fanduel,290.0,0.05783111546547759,St Louis Blues @ Chicago Blackhawks,player_goals,Dylan Holloway,Over,0.5,,,,,,230.0,290.0,210.0,220.0,0.2712387475552507,3.9
+draftkings,230.0,0.004044381768352645,Pittsburgh Penguins @ Detroit Red Wings,player_goal_scorer_anytime,Lucas Raymond,Yes,,145.0,195.0,,145.0,230.0,210.0,200.0,200.0,210.0,0.3042558732631372,3.3
+ballybet,120.0,0.027532072451134093,Winnipeg Jets @ Colorado Avalanche,player_shots_on_goal,Nikolaj Ehlers,Over,2.5,120.0,-105.0,102.0,-105.0,-105.0,-106.0,108.0,-110.0,-105.0,0.4670600329323336,2.2
+fanduel,175.0,-0.024203725461587222,Philadelphia Flyers @ San Jose Sharks,player_goal_scorer_anytime,Travis Konecny,Yes,,110.0,160.0,,110.0,165.0,160.0,175.0,150.0,160.0,0.3548350089230592,2.75
+draftkings,650.0,0.1259683457503986,New Jersey Devils @ Anaheim Ducks,player_goal_scorer_anytime,Tomas Tatar,Yes,,350.0,,,360.0,650.0,650.0,,555.0,600.0,0.1501291127667198,7.5
