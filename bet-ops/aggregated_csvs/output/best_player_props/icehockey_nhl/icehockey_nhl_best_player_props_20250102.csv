@@ -1,0 +1,49 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,280.0,0.12483446874251691,Boston Bruins @ New York Rangers,player_goals,Chris Kreider,Over,0.5,,,,,,210.0,280.0,175.0,180.0,0.296009070721715,3.8
+ballybet,-175.0,0.01658795264542212,Buffalo Sabres @ Colorado Avalanche,player_power_play_points,Mikko Rantanen,Under,0.5,-175.0,-250.0,,,,-250.0,,-275.0,,0.6469196062289049,1.5714285714285714
+ballybet,-165.0,0.019545518802229322,Buffalo Sabres @ Colorado Avalanche,player_power_play_points,Cale Makar,Under,0.5,-165.0,-225.0,,,,-230.0,,-255.0,,0.6348113607636523,1.606060606060606
+fanduel,200.0,0.05641714213467308,Ottawa Senators @ Dallas Stars,player_goals,Brady Tkachuk,Over,0.5,,,,,,150.0,200.0,145.0,145.0,0.3521390473782244,3.0
+fanduel,180.0,0.038049180448241904,Detroit Red Wings @ Columbus Blue Jackets,player_goals,Kirill Marchenko,Over,0.5,,,,,,135.0,180.0,135.0,135.0,0.3707318501600864,2.8
+betmgm,1100.0,0.43923709141100353,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Darren Raddysh,Yes,,340.0,1100.0,,340.0,800.0,750.0,1100.0,670.0,750.0,0.1199364242842503,12.0
+fanduel,1100.0,0.43923709141100353,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Darren Raddysh,Yes,,340.0,1100.0,,340.0,800.0,750.0,1100.0,670.0,750.0,0.1199364242842503,12.0
+fanduel,210.0,0.046182525463612345,Carolina Hurricanes @ Florida Panthers,player_goals,Sebastian Aho,Over,0.5,,,,,,160.0,210.0,155.0,160.0,0.3374782340205201,3.1
+fanduel,185.0,0.03227011578105543,Anaheim Ducks @ Winnipeg Jets,player_goals,Gabriel Vilardi,Over,0.5,,,,,,150.0,185.0,135.0,140.0,0.3622000406249317,2.85
+draftkings,650.0,0.2108917801451593,Buffalo Sabres @ Colorado Avalanche,player_goal_scorer_anytime,Logan O'Connor,Yes,,380.0,350.0,,380.0,650.0,600.0,370.0,520.0,550.0,0.1614522373526879,7.5
+draftkings,650.0,0.20491216828001835,Vancouver Canucks @ Seattle Kraken,player_goal_scorer_anytime,Nils Hoglander,Yes,,310.0,450.0,,300.0,650.0,650.0,450.0,555.0,600.0,0.1606549557706691,7.5
+fanduel,260.0,0.05619885683224246,Anaheim Ducks @ Winnipeg Jets,player_goals,Frank Vatrano,Over,0.5,,,,,,200.0,260.0,190.0,195.0,0.2933885713422896,3.6
+fanduel,250.0,0.05285610531500384,Boston Bruins @ New York Rangers,player_goals,Alexis Lafrenière,Over,0.5,,,,,,190.0,250.0,185.0,190.0,0.3008160300900011,3.5
+draftkings,700.0,0.21990825315633433,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Nikolai Kovalenko,Yes,,320.0,500.0,,320.0,700.0,650.0,500.0,565.0,600.0,0.1524885316445418,8.0
+fanduel,330.0,0.08647046293726235,Utah Hockey Club @ Calgary Flames,player_goals,Mikael Backlund,Over,0.5,,,,,,250.0,330.0,235.0,240.0,0.2526675495202936,4.3
+fanduel,380.0,0.10114577686595494,Tampa Bay Lightning @ San Jose Sharks,player_goals,Fabian Zetterlund,Over,0.5,,,,,,290.0,380.0,260.0,275.0,0.2294053701804073,4.8
+fanduel,280.0,0.029722180384137653,Boston Bruins @ New York Rangers,player_goal_scorer_anytime,Chris Kreider,Yes,,190.0,270.0,,190.0,225.0,210.0,280.0,175.0,180.0,0.2709795211537204,3.8
+betmgm,450.0,0.10039032416159044,Ottawa Senators @ Dallas Stars,player_goal_scorer_anytime,Evgenii Dadonov,Yes,,260.0,450.0,,260.0,360.0,320.0,380.0,300.0,300.0,0.2000709680293801,5.5
+fanduel,-106.0,0.019881130859666918,Anaheim Ducks @ Winnipeg Jets,player_shots_on_goal,Kyle Connor,Under,3.5,-136.0,-140.0,-120.0,,-125.0,-134.0,-106.0,-145.0,-135.0,0.5247932032578868,1.9433962264150944
+betmgm,700.0,0.19813519813519764,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Michael Eyssimont,Yes,,340.0,700.0,,340.0,500.0,500.0,650.0,440.0,475.0,0.1497668997668997,8.0
+fanduel,300.0,0.06230215190071475,Carolina Hurricanes @ Florida Panthers,player_goals,Sam Bennett,Over,0.5,,,,,,240.0,300.0,215.0,225.0,0.2655755379751787,4.0
+draftkings,750.0,0.21698400593836586,Carolina Hurricanes @ Florida Panthers,player_goal_scorer_anytime,Eric Robinson,Yes,,335.0,550.0,,330.0,750.0,650.0,600.0,585.0,650.0,0.1431745889339254,8.5
+fanduel,290.0,0.05844758282299556,Ottawa Senators @ Dallas Stars,player_goals,Jamie Benn,Over,0.5,,,,,,230.0,290.0,210.0,220.0,0.2713968161084604,3.9
+ballybet,130.0,0.03404390566164184,Carolina Hurricanes @ Florida Panthers,player_shots_on_goal,Sam Reinhart,Over,2.5,130.0,100.0,109.0,,105.0,103.0,114.0,-105.0,105.0,0.4495843068094095,2.3
+fanduel,280.0,0.0494701130603965,Minnesota Wild @ Washington Capitals,player_goals,Tom Wilson,Over,0.5,,,,,,230.0,280.0,205.0,210.0,0.2761763455422096,3.8
+fanduel,165.0,0.005753882669408461,Ottawa Senators @ Dallas Stars,player_goals,Wyatt Johnston,Over,0.5,,,,,,140.0,165.0,125.0,130.0,0.3795297670450598,2.65
+betmgm,950.0,0.2792696788860465,Detroit Red Wings @ Columbus Blue Jackets,player_goal_scorer_anytime,Mikael Pyyhtia,Yes,,380.0,950.0,,380.0,800.0,650.0,900.0,570.0,600.0,0.1218352075129568,10.5
+draftkings,475.0,0.07101399744420323,Utah Hockey Club @ Calgary Flames,player_goal_scorer_anytime,Andrei Kuzmenko,Yes,,285.0,,,280.0,475.0,450.0,,415.0,425.0,0.1862633039033397,5.75
+fanduel,155.0,-0.0036601647403439186,Tampa Bay Lightning @ San Jose Sharks,player_goals,Brandon Hagel,Over,0.5,,,,,,140.0,155.0,115.0,120.0,0.3907215040233945,2.55
+ballybet,120.0,0.02489184227682184,Toronto Maple Leafs @ New York Islanders,player_shots_on_goal,Mitch Marner,Over,2.5,120.0,-105.0,102.0,,100.0,-106.0,108.0,-115.0,-105.0,0.4658599283076463,2.2
+ballybet,-143.0,0.003768681479960234,Detroit Red Wings @ Columbus Blue Jackets,player_shots_on_goal,Kirill Marchenko,Over,2.5,-143.0,-185.0,-172.0,,-175.0,-185.0,-160.0,-195.0,-180.0,0.5906951500067256,1.6993006993006992
+betmgm,135.0,-0.04174399032620024,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Brayden Point,Yes,,107.0,135.0,,105.0,115.0,120.0,120.0,-105.0,-105.0,0.4077685147548084,2.35
+ballybet,-143.0,0.005726271550315243,Ottawa Senators @ Dallas Stars,player_shots_on_goal,Wyatt Johnston,Over,2.5,-143.0,-185.0,-172.0,-175.0,-175.0,-180.0,-165.0,-195.0,-180.0,0.5918471474555353,1.6993006993006992
+ballybet,110.0,0.017554988372330493,Anaheim Ducks @ Winnipeg Jets,player_shots_on_goal,Mark Scheifele,Over,2.5,110.0,-110.0,-108.0,,-110.0,-110.0,-114.0,-120.0,-110.0,0.4845499944630145,2.1
+ballybet,120.0,0.023455924984999488,Boston Bruins @ New York Rangers,player_shots_on_goal,Alexis Lafrenière,Over,2.5,120.0,-105.0,102.0,,100.0,-106.0,108.0,-110.0,-105.0,0.4652072386295452,2.2
+draftkings,550.0,0.10891917742706814,Philadelphia Flyers @ Vegas Golden Knights,player_goal_scorer_anytime,Alexander Holtz,Yes,,310.0,400.0,,300.0,550.0,550.0,410.0,490.0,525.0,0.1706029503733951,6.5
+ballybet,-143.0,0.0016925562390657234,Toronto Maple Leafs @ New York Islanders,player_shots_on_goal,John Tavares,Over,2.5,-143.0,-175.0,-172.0,,-168.0,-180.0,-178.0,-190.0,-175.0,0.5894733972929482,1.6993006993006992
+draftkings,330.0,0.02576238445803669,Toronto Maple Leafs @ New York Islanders,player_goal_scorer_anytime,Brock Nelson,Yes,,225.0,270.0,,225.0,330.0,290.0,260.0,260.0,275.0,0.2385493917344271,4.3
+ballybet,-130.0,0.0031617352441188906,Detroit Red Wings @ Columbus Blue Jackets,player_shots_on_goal,Dylan Larkin,Over,2.5,-130.0,-160.0,-156.0,,-154.0,-160.0,-154.0,-175.0,-160.0,0.5670044590510237,1.7692307692307692
+betmgm,270.0,0.002624228268765627,Boston Bruins @ New York Rangers,player_goal_scorer_anytime,Chris Kreider,Yes,,190.0,270.0,,190.0,225.0,210.0,280.0,175.0,180.0,0.2709795211537204,3.7
+draftkings,240.0,-0.00824549846288991,Philadelphia Flyers @ Vegas Golden Knights,player_goal_scorer_anytime,Travis Konecny,Yes,,150.0,220.0,,150.0,240.0,210.0,230.0,205.0,210.0,0.2916925004520912,3.4
+ballybet,150.0,0.030255160472426823,Carolina Hurricanes @ Florida Panthers,player_shots_on_goal,Brent Burns,Over,2.5,150.0,120.0,128.0,,126.0,120.0,132.0,115.0,120.0,0.4121020641889708,2.5
+fanduel,260.0,0.026461245422414015,Minnesota Wild @ Washington Capitals,player_goals,Joel Eriksson Ek,Over,0.5,,,,,,210.0,260.0,200.0,210.0,0.2851281237284483,3.6
+fanduel,290.0,0.03749283378919088,Philadelphia Flyers @ Vegas Golden Knights,player_goals,William Karlsson,Over,0.5,,,,,,240.0,290.0,220.0,225.0,0.26602380353569,3.9
+betmgm,120.0,-0.053527900545826346,Tampa Bay Lightning @ San Jose Sharks,player_goal_scorer_anytime,Nikita Kucherov,Yes,,-112.0,120.0,,-112.0,110.0,110.0,110.0,-110.0,-105.0,0.430214590660988,2.2
+ballybet,120.0,0.01994791114910277,Vancouver Canucks @ Seattle Kraken,player_shots_on_goal,Conor Garland,Over,2.5,120.0,-105.0,106.0,100.0,100.0,-106.0,116.0,-115.0,-105.0,0.4636126868859558,2.2
+ballybet,-136.0,0.00166632602489436,Utah Hockey Club @ Calgary Flames,player_shots_on_goal,Jonathan Huberdeau,Over,1.5,-136.0,-165.0,-164.0,-165.0,-162.0,-165.0,-165.0,-180.0,-165.0,0.5772314421160408,1.7352941176470589
+fanduel,900.0,0.218352075129568,Detroit Red Wings @ Columbus Blue Jackets,player_goal_scorer_anytime,Mikael Pyyhtia,Yes,,380.0,950.0,,380.0,800.0,650.0,900.0,570.0,600.0,0.1218352075129568,10.0
