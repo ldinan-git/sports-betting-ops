@@ -1,0 +1,490 @@
+{
+    "id": "b1b05543c486b3b658d206f23ef75513",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-04T02:00:00Z",
+    "home_team": "Denver Nuggets",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-01-03T13:57:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Nikola Jokic",
+                            "price": -105,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikola Jokic",
+                            "price": -125,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-03T13:57:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Nikola Jokic",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Russell Westbrook",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jamal Murray",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Porter Jr",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julian Champagnie",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Christian Braun",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 425
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-01-03T13:57:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Nikola Jokic",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikola Jokic",
+                            "price": -125,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 26.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-01-03T13:57:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Nikola Jokic",
+                            "price": 105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikola Jokic",
+                            "price": -135,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-01-03T13:57:22Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nikola Jokic",
+                            "price": -166,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nikola Jokic",
+                            "price": 130,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-03T13:57:01Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Christian Braun",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jamal Murray",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julian Champagnie",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Porter Jr",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikola Jokic",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Russell Westbrook",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-03T13:57:31Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikola Jokic",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julian Champagnie",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jamal Murray",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Porter Jr",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Russell Westbrook",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Christian Braun",
+                            "price": 1200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-03T13:57:31Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 450
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": -800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikola Jokic",
+                            "price": 525
+                        },
+                        {
+                            "name": "No",
+                            "description": "Nikola Jokic",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julian Champagnie",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Julian Champagnie",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jamal Murray",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jamal Murray",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Porter Jr",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Michael Porter Jr",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 600
+                        },
+                        {
+                            "name": "No",
+                            "description": "Devin Vassell",
+                            "price": -1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Russell Westbrook",
+                            "price": 700
+                        },
+                        {
+                            "name": "No",
+                            "description": "Russell Westbrook",
+                            "price": -1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 850
+                        },
+                        {
+                            "name": "No",
+                            "description": "Harrison Barnes",
+                            "price": -1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Christian Braun",
+                            "price": 850
+                        },
+                        {
+                            "name": "No",
+                            "description": "Christian Braun",
+                            "price": -1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1300
+                        },
+                        {
+                            "name": "No",
+                            "description": "Chris Paul",
+                            "price": -3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-03T13:55:43Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nikola Jokic",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jamal Murray",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Michael Porter Jr",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julian Champagnie",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Russell Westbrook",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Christian Braun",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1200
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
