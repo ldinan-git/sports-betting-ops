@@ -1,0 +1,51 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,410.0,0.15213721113401557,Ottawa Senators @ St Louis Blues,player_goals,Shane Pinto,Over,0.5,,,,,,290.0,410.0,265.0,275.0,0.2259092570851011,5.1
+draftkings,425.0,0.12593387577164328,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Jeff Skinner,Yes,,235.0,300.0,,235.0,425.0,380.0,300.0,350.0,375.0,0.2144635953850749,5.25
+fanduel,220.0,0.054485174536309744,Montréal Canadiens @ Chicago Blackhawks,player_goals,Patrik Laine,Over,0.5,,,,,,165.0,220.0,160.0,165.0,0.3295266170425968,3.2
+fanduel,220.0,0.021412504348455874,Montréal Canadiens @ Chicago Blackhawks,player_goal_scorer_anytime,Patrik Laine,Yes,,140.0,210.0,,140.0,170.0,165.0,220.0,160.0,165.0,0.3191914076088924,3.2
+ballybet,-315.0,-0.011560305116324887,Montréal Canadiens @ Chicago Blackhawks,player_power_play_points,Cole Caufield,Under,0.5,-315.0,-450.0,,,,-450.0,,-500.0,,0.7502614551526691,1.3174603174603174
+draftkings,450.0,0.12144161868366865,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Vasily Podkolzin,Yes,,235.0,350.0,,235.0,450.0,400.0,340.0,375.0,400.0,0.2038984761243034,5.5
+ballybet,350.0,0.11954086585270518,Ottawa Senators @ St Louis Blues,player_power_play_points,Jordan Kyrou,Over,0.5,350.0,260.0,,,,275.0,,235.0,260.0,0.2487868590783789,4.5
+betmgm,500.0,0.11898411474233317,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Ridly Greig,Yes,,310.0,500.0,,300.0,350.0,320.0,450.0,295.0,300.0,0.1864973524570555,6.0
+ballybet,250.0,0.05945173597863884,Ottawa Senators @ St Louis Blues,player_power_play_points,Robert Thomas,Over,0.5,250.0,200.0,,,,200.0,,185.0,200.0,0.3027004959938968,3.5
+fanduel,300.0,0.06230215190071475,Anaheim Ducks @ Edmonton Oilers,player_goals,Troy Terry,Over,0.5,,,,,,240.0,300.0,215.0,225.0,0.2655755379751787,4.0
+ballybet,350.0,0.0933014430106145,Ottawa Senators @ St Louis Blues,player_power_play_points,Pavel Buchnevich,Over,0.5,350.0,270.0,,,,275.0,,250.0,275.0,0.242955876224581,4.5
+fanduel,270.0,0.043753106976651246,Ottawa Senators @ St Louis Blues,player_goals,Robert Thomas,Over,0.5,,,,,,210.0,270.0,205.0,210.0,0.2820954343180138,3.7
+betmgm,210.0,-0.010506636412433434,Montréal Canadiens @ Chicago Blackhawks,player_goal_scorer_anytime,Patrik Laine,Yes,,140.0,210.0,,140.0,170.0,165.0,220.0,160.0,165.0,0.3191914076088924,3.1
+fanduel,175.0,0.007871972962421925,Ottawa Senators @ St Louis Blues,player_goals,Brady Tkachuk,Over,0.5,,,,,,140.0,175.0,140.0,140.0,0.3664988992590625,2.75
+draftkings,425.0,0.07007990259600394,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Connor Brown,Yes,,255.0,340.0,,250.0,425.0,380.0,330.0,355.0,375.0,0.2038247433516198,5.25
+betmgm,280.0,0.012489597197243185,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Robert Thomas,Yes,,190.0,280.0,,190.0,225.0,210.0,270.0,205.0,210.0,0.2664446308413798,3.8
+draftkings,260.0,0.002706638977093112,Pittsburgh Penguins @ Florida Panthers,player_goal_scorer_anytime,Sidney Crosby,Yes,,190.0,210.0,,190.0,260.0,230.0,200.0,210.0,220.0,0.2785296219380814,3.6
+betmgm,270.0,0.004246420696462083,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,J.T. Miller,Yes,,190.0,270.0,,190.0,220.0,200.0,260.0,,195.0,0.2714179515395843,3.7
+fanduel,290.0,0.040972922998293804,Ottawa Senators @ St Louis Blues,player_goals,Dylan Holloway,Over,0.5,,,,,,240.0,290.0,215.0,225.0,0.2669161341021266,3.9
+ballybet,200.0,0.01720825867766207,Nashville Predators @ Vancouver Canucks,player_power_play_points,J.T. Miller,Over,0.5,200.0,165.0,,,,170.0,,,165.0,0.3390694195592207,3.0
+fanduel,190.0,0.007091329785108735,Ottawa Senators @ St Louis Blues,player_goals,Jordan Kyrou,Over,0.5,,,,,,155.0,190.0,150.0,155.0,0.3472728723396927,2.9
+ballybet,225.0,0.02842076819986472,Anaheim Ducks @ Edmonton Oilers,player_power_play_points,Evan Bouchard,Over,0.5,225.0,185.0,,,,190.0,,175.0,185.0,0.3164371594461122,3.25
+fanduel,360.0,0.05976761505598749,Montréal Canadiens @ Chicago Blackhawks,player_goals,Tyler Bertuzzi,Over,0.5,,,,,,290.0,360.0,265.0,275.0,0.230384264142606,4.6
+betmgm,425.0,0.051311513893522065,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Brayden Schenn,Yes,,260.0,425.0,,260.0,350.0,340.0,410.0,305.0,325.0,0.2002498121701947,5.25
+ballybet,105.0,0.010775092382834695,Nashville Predators @ Vancouver Canucks,player_shots_on_goal,Conor Garland,Over,2.5,105.0,-120.0,-112.0,,-115.0,-122.0,-104.0,,-120.0,0.4930610206745536,2.05
+fanduel,210.0,-0.023351868706691592,Pittsburgh Penguins @ Florida Panthers,player_goal_scorer_anytime,Carter Verhaeghe,Yes,,135.0,200.0,,135.0,195.0,190.0,210.0,185.0,190.0,0.315047784288164,3.1
+ballybet,-114.0,0.0023391202655056453,Pittsburgh Penguins @ Florida Panthers,player_shots_on_goal,Bryan Rust,Over,2.5,-114.0,-140.0,-135.0,,-135.0,-140.0,-138.0,-145.0,-135.0,0.5339563537862974,1.8771929824561404
+ballybet,100.0,-0.02198616683943122,Anaheim Ducks @ Edmonton Oilers,player_power_play_points,Connor McDavid,Over,0.5,100.0,-115.0,,,,-115.0,,-125.0,-115.0,0.4890069165802844,2.0
+betmgm,500.0,0.07360939423560875,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Kasperi Kapanen,Yes,,255.0,500.0,,250.0,475.0,450.0,500.0,425.0,450.0,0.1789348990392681,6.0
+fanduel,500.0,0.07360939423560875,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Kasperi Kapanen,Yes,,255.0,500.0,,250.0,475.0,450.0,500.0,425.0,450.0,0.1789348990392681,6.0
+fanduel,108.0,0.011541138138228546,Montréal Canadiens @ Chicago Blackhawks,player_shots_on_goal,Connor Bedard,Under,2.5,-104.0,-120.0,101.0,,-105.0,-122.0,108.0,-125.0,-110.0,0.4863178548741483,2.08
+fanduel,185.0,0.0012615902591266437,Pittsburgh Penguins @ Florida Panthers,player_goals,Aleksander Barkov,Over,0.5,,,,,,160.0,185.0,145.0,150.0,0.3513198562312725,2.85
+betmgm,850.0,0.18818681318681318,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,Max Sasson,Yes,,420.0,850.0,,420.0,600.0,600.0,850.0,,575.0,0.1250722961249277,9.5
+fanduel,850.0,0.18818681318681318,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,Max Sasson,Yes,,420.0,850.0,,420.0,600.0,600.0,850.0,,575.0,0.1250722961249277,9.5
+draftkings,475.0,0.061272141706923966,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Corey Perry,Yes,,300.0,360.0,,300.0,475.0,450.0,350.0,425.0,450.0,0.1845690681229433,5.75
+fanduel,700.0,0.13071812090044888,Pittsburgh Penguins @ Florida Panthers,player_goal_scorer_anytime,Jesper Boqvist,Yes,,340.0,650.0,,340.0,650.0,600.0,700.0,510.0,550.0,0.1413397651125561,8.0
+draftkings,270.0,-0.01215738952063028,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Tim Stützle,Yes,,190.0,210.0,,190.0,270.0,250.0,250.0,230.0,240.0,0.2669844893187486,3.7
+fanduel,270.0,-0.01415486588689463,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Robert Thomas,Yes,,190.0,280.0,,190.0,225.0,210.0,270.0,205.0,210.0,0.2664446308413798,3.7
+fanduel,420.0,0.06276096542534937,Anaheim Ducks @ Edmonton Oilers,player_goals,Mason McTavish,Over,0.5,,,,,,340.0,420.0,310.0,325.0,0.2043771087356441,5.2
+ballybet,100.0,-0.02782736865154989,Anaheim Ducks @ Edmonton Oilers,player_power_play_points,Leon Draisaitl,Over,0.5,100.0,-115.0,,,,-115.0,,-120.0,-115.0,0.486086315674225,2.0
+draftkings,425.0,0.03272958549846949,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Claude Giroux,Yes,,295.0,333.0,,290.0,425.0,360.0,350.0,330.0,350.0,0.1967103972378037,5.25
+ballybet,140.0,0.015265032144189505,Ottawa Senators @ St Louis Blues,player_shots_on_goal,Pavel Buchnevich,Over,2.5,140.0,115.0,122.0,,120.0,115.0,122.0,110.0,120.0,0.4230270967267456,2.4
+betmgm,210.0,-0.034328461841120594,Ottawa Senators @ St Louis Blues,player_goal_scorer_anytime,Jordan Kyrou,Yes,,175.0,210.0,,175.0,165.0,155.0,190.0,150.0,155.0,0.3115069477931869,3.1
+draftkings,700.0,0.1164888923003391,Anaheim Ducks @ Edmonton Oilers,player_goal_scorer_anytime,Mattias Janmark,Yes,,370.0,600.0,,360.0,700.0,700.0,550.0,605.0,650.0,0.1395611115375424,8.0
+ballybet,105.0,0.001491482113021969,Anaheim Ducks @ Edmonton Oilers,player_shots_on_goal,Alex Killorn,Under,1.5,105.0,-110.0,-111.0,,-110.0,-114.0,-114.0,-120.0,-110.0,0.4885324302990351,2.05
+fanduel,500.0,0.08149330636959795,Anaheim Ducks @ Edmonton Oilers,player_goals,Leo Carlsson,Over,0.5,,,,,,400.0,500.0,365.0,375.0,0.180248884394933,6.0
+betmgm,475.0,0.0432669600019886,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,Pius Suter,Yes,,360.0,475.0,,360.0,340.0,320.0,430.0,,300.0,0.1814377321742589,5.75
+fanduel,1300.0,0.2906095514791165,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,Tyler Myers,Yes,,600.0,1200.0,,600.0,800.0,800.0,1300.0,,850.0,0.0921863965342226,14.0
+ballybet,145.0,0.014605506727901618,Pittsburgh Penguins @ Florida Panthers,player_shots_on_goal,Rickard Rakell,Over,2.5,145.0,120.0,126.0,,126.0,120.0,126.0,115.0,125.0,0.4141246966236333,2.45
+fanduel,260.0,-0.022895374457496454,Nashville Predators @ Vancouver Canucks,player_goal_scorer_anytime,J.T. Miller,Yes,,190.0,270.0,,190.0,220.0,200.0,260.0,,195.0,0.2714179515395843,3.6

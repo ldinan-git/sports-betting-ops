@@ -1,0 +1,47 @@
+[
+    {
+        "id": "9c5d91c96cbdc30cc48c8ab751780b59",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-04T00:00:00Z",
+        "home_team": "Florida Panthers",
+        "away_team": "Pittsburgh Penguins",
+        "date": "20250103"
+    },
+    {
+        "id": "9ea0d44b79f7aaf238ad3f2eca9789fb",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-04T01:00:00Z",
+        "home_team": "Chicago Blackhawks",
+        "away_team": "Montr\u00e9al Canadiens",
+        "date": "20250103"
+    },
+    {
+        "id": "60ec45b22c9888f77499dc348709cc2e",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-04T01:00:00Z",
+        "home_team": "St Louis Blues",
+        "away_team": "Ottawa Senators",
+        "date": "20250103"
+    },
+    {
+        "id": "7da828411b70a5fc50f0cf271d3a88fe",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-04T02:00:00Z",
+        "home_team": "Edmonton Oilers",
+        "away_team": "Anaheim Ducks",
+        "date": "20250103"
+    },
+    {
+        "id": "ea3a48472d9cd4655ec1a1917ab6c086",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-04T03:00:00Z",
+        "home_team": "Vancouver Canucks",
+        "away_team": "Nashville Predators",
+        "date": "20250103"
+    }
+]
