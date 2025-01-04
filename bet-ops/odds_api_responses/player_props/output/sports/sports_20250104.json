@@ -88,6 +88,14 @@
         "has_outrights": true
     },
     {
+        "key": "basketball_wncaab",
+        "group": "Basketball",
+        "title": "WNCAAB",
+        "description": "US Women's College Basketball",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "boxing_boxing",
         "group": "Boxing",
         "title": "Boxing",
@@ -331,6 +339,14 @@
         "key": "soccer_italy_serie_a",
         "group": "Soccer",
         "title": "Serie A - Italy",
+        "description": "Italian Soccer",
+        "active": true,
+        "has_outrights": false
+    },
+    {
+        "key": "soccer_italy_serie_b",
+        "group": "Soccer",
+        "title": "Serie B - Italy",
         "description": "Italian Soccer",
         "active": true,
         "has_outrights": false
