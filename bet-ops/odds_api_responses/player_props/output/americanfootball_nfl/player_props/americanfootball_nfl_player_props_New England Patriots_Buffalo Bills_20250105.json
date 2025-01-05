@@ -1,0 +1,2780 @@
+{
+    "id": "a578e4a27a55666b1043c20dbb3d74cd",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2025-01-05T18:00:00Z",
+    "home_team": "New England Patriots",
+    "away_team": "Buffalo Bills",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Terrell Jennings",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 145
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 235
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Buffalo Bills D/ST",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Reggie Gilliam",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "New England Patriots D/ST",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 125,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 500,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 340,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -205,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 800,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 215,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 220,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 360,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 800,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 135,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -185,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 550,
+                            "point": 69.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Reggie Gilliam",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 230
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Terrell Jennings",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 140
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 450
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -114,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -114,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -114,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -114,
+                            "point": 31.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 305,
+                            "point": 63.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -114,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 1206,
+                            "point": 93.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -250,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 133,
+                            "point": 43.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 3527,
+                            "point": 113.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 471,
+                            "point": 73.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 743,
+                            "point": 83.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 201,
+                            "point": 53.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 2023,
+                            "point": 103.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 1088,
+                            "point": 91.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 131,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 443,
+                            "point": 71.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 195,
+                            "point": 51.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 686,
+                            "point": 81.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 1779,
+                            "point": 101.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 292,
+                            "point": 61.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -114,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -263,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 3012,
+                            "point": 111.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Reggie Gilliam",
+                            "price": 150,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Reggie Gilliam",
+                            "price": 5900,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Reggie Gilliam",
+                            "price": 800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dawson Knox",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dawson Knox",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dawson Knox",
+                            "price": 5400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 230,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 10000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quintin Morris",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quintin Morris",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quintin Morris",
+                            "price": 6900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Allen",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Allen",
+                            "price": 4400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Allen",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kendrick Bourne",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kendrick Bourne",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kendrick Bourne",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "James Cook",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "James Cook",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "James Cook",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Khalil Shakir",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Khalil Shakir",
+                            "price": 3900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Khalil Shakir",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Hunter Henry",
+                            "price": 400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Hunter Henry",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Hunter Henry",
+                            "price": 3400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 3900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Kincaid",
+                            "price": 4900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Kincaid",
+                            "price": 600,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Kincaid",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 3400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Antonio Gibson",
+                            "price": 220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Antonio Gibson",
+                            "price": 1400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Antonio Gibson",
+                            "price": 9400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "JaMycal Hasty",
+                            "price": 6400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "JaMycal Hasty",
+                            "price": 750,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "JaMycal Hasty",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ty Johnson",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ty Johnson",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ty Johnson",
+                            "price": 8400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Austin Hooper",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Austin Hooper",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Austin Hooper",
+                            "price": 4400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Curtis Samuel",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Curtis Samuel",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Curtis Samuel",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Terrell Jennings",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Terrell Jennings",
+                            "price": 30000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Terrell Jennings",
+                            "price": 1400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mack Hollins",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mack Hollins",
+                            "price": 2900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mack Hollins",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ray Davis",
+                            "price": 700,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ray Davis",
+                            "price": 140,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ray Davis",
+                            "price": 5400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 3400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jaheim Bell",
+                            "price": 1900,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jaheim Bell",
+                            "price": 30000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jaheim Bell",
+                            "price": 12000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Javon Baker",
+                            "price": 8400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Javon Baker",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Javon Baker",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Drake Maye",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Drake Maye",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Drake Maye",
+                            "price": 450,
+                            "point": 0.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 2300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 3000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 950
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 2500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -117,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -117,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -113,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -121,
+                            "point": 32.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -400,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -170,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 112,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 195,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 310,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 480,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 700,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 1000,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -355,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -145,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 135,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 230,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 380,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 600,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 900,
+                            "point": 79.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:17Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 950,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Curtis Samuel",
+                            "price": 1600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 1900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 1900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 2100,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mack Hollins",
+                            "price": 2300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kendrick Bourne",
+                            "price": 2600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Austin Hooper",
+                            "price": 2900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Kincaid",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quintin Morris",
+                            "price": 4500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 2500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 3500,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 7500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 130
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 225
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 175
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 7500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 670
+                        },
+                        {
+                            "name": "No",
+                            "description": "Rhamondre Stevenson",
+                            "price": -3225
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 840
+                        },
+                        {
+                            "name": "No",
+                            "description": "Keon Coleman",
+                            "price": -15525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 860
+                        },
+                        {
+                            "name": "No",
+                            "description": "Curtis Samuel",
+                            "price": -23710
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 955
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kayshon Boutte",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 955
+                        },
+                        {
+                            "name": "No",
+                            "description": "Mack Hollins",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1020
+                        },
+                        {
+                            "name": "No",
+                            "description": "DeMario Douglas",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1045
+                        },
+                        {
+                            "name": "No",
+                            "description": "Dalton Kincaid",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1105
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kendrick Bourne",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 1180
+                        },
+                        {
+                            "name": "No",
+                            "description": "Austin Hooper",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 1425
+                        },
+                        {
+                            "name": "No",
+                            "description": "Quintin Morris",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 280
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 280
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 390
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 430
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 745
+                        },
+                        {
+                            "name": "No",
+                            "description": "Rhamondre Stevenson",
+                            "price": -330
+                        },
+                        {
+                            "name": "No",
+                            "description": "Keon Coleman",
+                            "price": -530
+                        },
+                        {
+                            "name": "No",
+                            "description": "Curtis Samuel",
+                            "price": -530
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kayshon Boutte",
+                            "price": -595
+                        },
+                        {
+                            "name": "No",
+                            "description": "DeMario Douglas",
+                            "price": -635
+                        },
+                        {
+                            "name": "No",
+                            "description": "Mack Hollins",
+                            "price": -820
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kendrick Bourne",
+                            "price": -870
+                        },
+                        {
+                            "name": "No",
+                            "description": "Dalton Kincaid",
+                            "price": -1025
+                        },
+                        {
+                            "name": "No",
+                            "description": "Austin Hooper",
+                            "price": -1125
+                        },
+                        {
+                            "name": "No",
+                            "description": "Quintin Morris",
+                            "price": -5335
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 770
+                        },
+                        {
+                            "name": "No",
+                            "description": "Rhamondre Stevenson",
+                            "price": -6610
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 835
+                        },
+                        {
+                            "name": "No",
+                            "description": "Curtis Samuel",
+                            "price": -14395
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 850
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kayshon Boutte",
+                            "price": -19510
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 875
+                        },
+                        {
+                            "name": "No",
+                            "description": "DeMario Douglas",
+                            "price": -52530
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 885
+                        },
+                        {
+                            "name": "No",
+                            "description": "Keon Coleman",
+                            "price": -71330
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 980
+                        },
+                        {
+                            "name": "No",
+                            "description": "Kendrick Bourne",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1040
+                        },
+                        {
+                            "name": "No",
+                            "description": "Mack Hollins",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1090
+                        },
+                        {
+                            "name": "No",
+                            "description": "Dalton Kincaid",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 1105
+                        },
+                        {
+                            "name": "No",
+                            "description": "Austin Hooper",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 1400
+                        },
+                        {
+                            "name": "No",
+                            "description": "Quintin Morris",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -125,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -120,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -120,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -125,
+                            "point": 31.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:16:54Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mitch Trubisky",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 480
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Reggie Gilliam",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 510
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 195
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 410
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:10Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ty Johnson",
+                            "price": 220
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mitch Trubisky",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Hunter Henry",
+                            "price": 380
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "James Cook",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Javon Baker",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaheim Bell",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 480
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Khalil Shakir",
+                            "price": 525
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Allen",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Reggie Gilliam",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ray Davis",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Drake Maye",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 510
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Antonio Gibson",
+                            "price": 195
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dawson Knox",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 410
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "JaMycal Hasty",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:16:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -120,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:45Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 4000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Rhamondre Stevenson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Curtis Samuel",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Coleman",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "DeMario Douglas",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kayshon Boutte",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Kendrick Bourne",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mack Hollins",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Kincaid",
+                            "price": 1750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Hooper",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Quintin Morris",
+                            "price": 4000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_pass_interceptions",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Marte Mapu",
+                            "price": 600,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "DeMario Douglas",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Kayshon Boutte",
+                            "price": -115,
+                            "point": 33.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 120,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": -185,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 145,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": -210,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 200,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 240,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 400,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 500,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 800,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 750,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 1000,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 1000,
+                            "point": 99.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:16:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Curtis Samuel",
+                            "price": 2000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 2500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kayshon Boutte",
+                            "price": 2500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Kincaid",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mack Hollins",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Quintin Morris",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Austin Hooper",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "DeMario Douglas",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Kendrick Bourne",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Rhamondre Stevenson",
+                            "price": 7500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Keon Coleman",
+                            "price": 7500,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

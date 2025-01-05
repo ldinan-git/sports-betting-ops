@@ -1,0 +1,4939 @@
+{
+    "id": "b1d966863dd3f4c8fc78180f63a20a2f",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2025-01-05T18:00:00Z",
+    "home_team": "Tennessee Titans",
+    "away_team": "Houston Texans",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tennessee Titans D/ST",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Houston Texans D/ST",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Touchdown",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1400
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tennessee Titans D/ST",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 340
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 125
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Houston Texans D/ST",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -135
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 165
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 370
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 175
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -115,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -115,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 30.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 270,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 185,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -120,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -350,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 500,
+                            "point": 109.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 700,
+                            "point": 119.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -1200,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 125,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 380,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -195,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 245,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -170,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 145,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 600,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 390,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 950,
+                            "point": 79.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -120,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -110,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -120,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -115,
+                            "point": 85.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": -115,
+                            "point": 85.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 195,
+                            "point": 109.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 100,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -370,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 265,
+                            "point": 119.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 140,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -145,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -230,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -10000,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -700,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -1600,
+                            "point": 39.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 170
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -154
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 120
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyler Boyd",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Rudolph",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -114,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -114,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -114,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -114,
+                            "point": 64.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -114,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 370,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 179,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1913,
+                            "point": 109.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 126,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1225,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -222,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 256,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 541,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 805,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1459,
+                            "point": 144.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 170,
+                            "point": 84.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 467,
+                            "point": 114.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 330,
+                            "point": 104.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -196,
+                            "point": 54.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 979,
+                            "point": 134.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 671,
+                            "point": 124.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 122,
+                            "point": 74.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 236,
+                            "point": 94.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -114,
+                            "point": 64.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -132,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 102,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -118,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions_alternate",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -417,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -118,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 164,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 607,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1210,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 2488,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 313,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -233,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 292,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 102,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1656,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 508,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 170,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 904,
+                            "point": 8.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": -114,
+                            "point": 87.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -114,
+                            "point": 87.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 346,
+                            "point": 127.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -114,
+                            "point": 87.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 496,
+                            "point": 137.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 244,
+                            "point": 117.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 124,
+                            "point": 97.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 722,
+                            "point": 147.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 173,
+                            "point": 107.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1626,
+                            "point": 167.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -189,
+                            "point": 77.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1071,
+                            "point": 157.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -333,
+                            "point": 67.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 500,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 3900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 6900,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 170,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 8900,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 160,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 850,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 6400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 4400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 550,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 8400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 3400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 400,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 350,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 2900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 325,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 2600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 12000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 1000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 8400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1900,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -154,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 320,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 3400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 120,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 8400,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 200,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Boyd",
+                            "price": 17500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Boyd",
+                            "price": 450,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyler Boyd",
+                            "price": 3600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 6900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 650,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 5400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Rudolph",
+                            "price": 750,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Rudolph",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Rudolph",
+                            "price": 6400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 6400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 750,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 6400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 750,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 800,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 6900,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -175
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 215
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 250
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 360
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 330
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -148,
+                            "point": 63.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": 108,
+                            "point": 63.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -117,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -117,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -295,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -130,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 140,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 235,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 375,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 575,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 850,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -1200,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -490,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -263,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -178,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -110,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 130,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 195,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 285,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 425,
+                            "point": 109.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 600,
+                            "point": 119.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 800,
+                            "point": 129.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -109,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -117,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -117,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions_alternate",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 200,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 475,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -900,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -285,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -116,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 185,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 360,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 675,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -121,
+                            "point": 86.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": -113,
+                            "point": 86.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -530,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -285,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -170,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -104,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 145,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 205,
+                            "point": 109.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 290,
+                            "point": 119.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 420,
+                            "point": 129.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 550,
+                            "point": 139.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 800,
+                            "point": 149.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1000,
+                            "point": 159.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:20Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 305,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 2600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 2900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 4500,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 360
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 3000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 425
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -120
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 3500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -130,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": 100,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -220,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -130,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 120,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 175,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 250,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -160,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 120,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 155,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 200,
+                            "point": 44.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -110,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions_alternate",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -1100,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -155,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 260,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1100,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -3000,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -155,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 155,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 375,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -300,
+                            "point": 69.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -160,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 100,
+                            "point": 89.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 155,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 425,
+                            "point": 124.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "David Martin-Robinson",
+                            "price": 8000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bryce Oliver",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 3300
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 205
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 125
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bryce Oliver",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 185
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 260
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "David Martin-Robinson",
+                            "price": 2900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -129
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 950
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 7500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Diontae Johnson",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 13000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joshua Kelley",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 2200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joshua Kelley",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 11000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 480,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 9000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 4000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Irv Smith Jr.",
+                            "price": 16000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Kinsey",
+                            "price": 18000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bryce Oliver",
+                            "price": 16000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 2400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 20000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 11000,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:28Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 2400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 325
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "David Martin-Robinson",
+                            "price": 8000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bryce Oliver",
+                            "price": 4500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 3300
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:28Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 440
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 205
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 125
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 1700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Bryce Oliver",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 185
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 260
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "David Martin-Robinson",
+                            "price": 2900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -129
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 950
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:28Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 7500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Diontae Johnson",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 9000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 13000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joshua Kelley",
+                            "price": 25000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 2200,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joshua Kelley",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 7000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 11000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 16000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 480,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 9000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 3500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 4000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 11000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Irv Smith Jr.",
+                            "price": 16000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Mason Kinsey",
+                            "price": 18000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 5500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Bryce Oliver",
+                            "price": 16000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 2400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 20000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 22500,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 11000,
+                            "point": 1.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 285
+                        },
+                        {
+                            "name": "No",
+                            "description": "Tony Pollard",
+                            "price": -530
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 680
+                        },
+                        {
+                            "name": "No",
+                            "description": "Calvin Ridley",
+                            "price": -3460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 930
+                        },
+                        {
+                            "name": "No",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -999900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1030
+                        },
+                        {
+                            "name": "No",
+                            "description": "Chigoziem Okonkwo",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 195
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 335
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 370
+                        },
+                        {
+                            "name": "No",
+                            "description": "Tony Pollard",
+                            "price": 105
+                        },
+                        {
+                            "name": "No",
+                            "description": "Calvin Ridley",
+                            "price": -315
+                        },
+                        {
+                            "name": "No",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -680
+                        },
+                        {
+                            "name": "No",
+                            "description": "Chigoziem Okonkwo",
+                            "price": -790
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 320
+                        },
+                        {
+                            "name": "No",
+                            "description": "Tony Pollard",
+                            "price": -635
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 625
+                        },
+                        {
+                            "name": "No",
+                            "description": "Calvin Ridley",
+                            "price": -2555
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 855
+                        },
+                        {
+                            "name": "No",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -24900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1005
+                        },
+                        {
+                            "name": "No",
+                            "description": "Chigoziem Okonkwo",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -125,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -125,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -125,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -125,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -115,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -135,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -120,
+                            "point": 85.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": -125,
+                            "point": 85.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Houston Texans D/ST",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tennessee Titans D/ST",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Touchdown",
+                            "price": 4000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": -105
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 160
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 175
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 310
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 333
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Houston Texans D/ST",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tennessee Titans D/ST",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Touchdown",
+                            "price": 4000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -135,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": 100,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -120,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -1400,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -225,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 300,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 625,
+                            "point": 124.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 125,
+                            "point": 74.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 650,
+                            "point": 74.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 225,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -200,
+                            "point": 24.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -110,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -120,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -155,
+                            "point": 85.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": 115,
+                            "point": 85.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 250,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 775,
+                            "point": 74.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": -250,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 750,
+                            "point": 149.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -210,
+                            "point": 74.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 340,
+                            "point": 124.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 145,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -1100,
+                            "point": 49.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "C.J. Stroud",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 900,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dameon Pierce",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dare Ogunbowale",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 1400,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Diontae Johnson",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Xavier Hutchinson",
+                            "price": 10000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Robert Woods",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Stover",
+                            "price": 12500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Irv Smith Jr.",
+                            "price": 15000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Houston Texans D/ST",
+                            "price": 3300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Will Levis",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 350,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 1200,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1600,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jha'Quan Jackson",
+                            "price": 5000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 2800,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Josh Whyle",
+                            "price": 12500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Vannett",
+                            "price": 8000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tennessee Titans D/ST",
+                            "price": 6000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Joe Mixon",
+                            "price": 3000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nico Collins",
+                            "price": 8000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "John Metchie III",
+                            "price": 20000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Diontae Johnson",
+                            "price": 30000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Dalton Schultz",
+                            "price": 15000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 2000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Julius Chestnut",
+                            "price": 5000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 4000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 10000,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 20000,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Touchdown",
+                            "price": 700
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 225
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 225
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -139
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 110
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 375
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 162
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 175
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 330
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 550
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:04:04Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joe Mixon",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nico Collins",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Julius Chestnut",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Joshua Kelley",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dalton Schultz",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dameon Pierce",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "John Metchie III",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Vannett",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Will Levis",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Diontae Johnson",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jha'Quan Jackson",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Whyle",
+                            "price": 2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Robert Woods",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Xavier Hutchinson",
+                            "price": 2800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Cade Stover",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. Stroud",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Irv Smith Jr.",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Kinsey",
+                            "price": 3300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dare Ogunbowale",
+                            "price": 5000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "No Scorer",
+                            "price": 5000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:18Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 115,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -150,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_1st_td",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_anytime_td",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": -150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 400
+                        }
+                    ]
+                },
+                {
+                    "key": "player_last_td",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Tony Pollard",
+                            "price": 350
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Calvin Ridley",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chigoziem Okonkwo",
+                            "price": 1600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -115,
+                            "point": 60.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -115,
+                            "point": 60.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_reception_yds_alternate",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 100,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -160,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -900,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 150,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 180,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -220,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -325,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 240,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 350,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 475,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 800,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000,
+                            "point": 99.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -120,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -110,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -110,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Calvin Ridley",
+                            "price": -120,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_receptions_alternate",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 185,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -250,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 210,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": -375,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 650,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 1000,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": -2200,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -115,
+                            "point": 85.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tony Pollard",
+                            "price": -115,
+                            "point": 85.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rush_yds_alternate",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -155,
+                            "point": 79.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 150,
+                            "point": 99.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -300,
+                            "point": 64.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -750,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": -1600,
+                            "point": 39.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_tds_over",
+                    "last_update": "2025-01-05T16:17:25Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 1300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tony Pollard",
+                            "price": 1300,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Nick Westbrook-Ikhine",
+                            "price": 3000,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Calvin Ridley",
+                            "price": 7500,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

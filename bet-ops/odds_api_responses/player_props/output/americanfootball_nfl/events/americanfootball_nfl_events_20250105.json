@@ -1,0 +1,128 @@
+[
+    {
+        "id": "4da44c8ba4e595d3fe313cbeb1fe797b",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Atlanta Falcons",
+        "away_team": "Carolina Panthers",
+        "date": "20250105"
+    },
+    {
+        "id": "a578e4a27a55666b1043c20dbb3d74cd",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "New England Patriots",
+        "away_team": "Buffalo Bills",
+        "date": "20250105"
+    },
+    {
+        "id": "d2e5d211cba187e5865c9783f3db5288",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Green Bay Packers",
+        "away_team": "Chicago Bears",
+        "date": "20250105"
+    },
+    {
+        "id": "e1ba96b7e56eba655eafcf8249b1d3df",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Dallas Cowboys",
+        "away_team": "Washington Commanders",
+        "date": "20250105"
+    },
+    {
+        "id": "b1d966863dd3f4c8fc78180f63a20a2f",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Tennessee Titans",
+        "away_team": "Houston Texans",
+        "date": "20250105"
+    },
+    {
+        "id": "ec3a43f544c27aba390eea6b4f1bb55a",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Indianapolis Colts",
+        "away_team": "Jacksonville Jaguars",
+        "date": "20250105"
+    },
+    {
+        "id": "983cd3ee325119e16969d4797a6d94f2",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "New Orleans Saints",
+        "date": "20250105"
+    },
+    {
+        "id": "60b1da9a88c680190bfbf3ac935bff82",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T18:00:00Z",
+        "home_team": "Philadelphia Eagles",
+        "away_team": "New York Giants",
+        "date": "20250105"
+    },
+    {
+        "id": "ebda13c375e6e6bb69822f91bce86756",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T21:25:00Z",
+        "home_team": "Arizona Cardinals",
+        "away_team": "San Francisco 49ers",
+        "date": "20250105"
+    },
+    {
+        "id": "d0a37e977bf675c070587b2e13a37e17",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T21:25:00Z",
+        "home_team": "Denver Broncos",
+        "away_team": "Kansas City Chiefs",
+        "date": "20250105"
+    },
+    {
+        "id": "6b14461632df941a9ea60ff83ddca897",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T21:25:00Z",
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Los Angeles Chargers",
+        "date": "20250105"
+    },
+    {
+        "id": "2cf5abcfe39f3ac0d82ffb5a90b49e93",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T21:25:00Z",
+        "home_team": "Los Angeles Rams",
+        "away_team": "Seattle Seahawks",
+        "date": "20250105"
+    },
+    {
+        "id": "704a4d59f3dd729fbf089bbe0b6ae27d",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-05T21:25:00Z",
+        "home_team": "New York Jets",
+        "away_team": "Miami Dolphins",
+        "date": "20250105"
+    },
+    {
+        "id": "09d8388d4ccba7ddafec2e400b5c013f",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-06T01:23:00Z",
+        "home_team": "Detroit Lions",
+        "away_team": "Minnesota Vikings",
+        "date": "20250105"
+    }
+]
