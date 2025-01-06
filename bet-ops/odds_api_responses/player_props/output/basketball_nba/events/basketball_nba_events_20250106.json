@@ -1,0 +1,83 @@
+[
+    {
+        "id": "e1dd5208841d8c7c791147ba258da58a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Portland Trail Blazers",
+        "date": "20250106"
+    },
+    {
+        "id": "0a123fe416474ac425b98712fc902e5f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Phoenix Suns",
+        "date": "20250106"
+    },
+    {
+        "id": "24dbb7067e8182d548694aa5d911357b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T00:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Indiana Pacers",
+        "date": "20250106"
+    },
+    {
+        "id": "908313a6c56573588f7274810736f16e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Milwaukee Bucks",
+        "date": "20250106"
+    },
+    {
+        "id": "1005cff17ce99fccd2cc820369d5738a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T00:40:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Orlando Magic",
+        "date": "20250106"
+    },
+    {
+        "id": "a4bb1101bac62c47c838f65850145f3f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "San Antonio Spurs",
+        "date": "20250106"
+    },
+    {
+        "id": "703669dbf20b294f62d381849b88aaa0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T01:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Dallas Mavericks",
+        "date": "20250106"
+    },
+    {
+        "id": "fbfbfeb570fc433c8dc87a901e5636ad",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T01:10:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Los Angeles Clippers",
+        "date": "20250106"
+    },
+    {
+        "id": "dacca6522f193996c2b8e0e0f144e3d5",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-07T03:10:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Miami Heat",
+        "date": "20250106"
+    }
+]
