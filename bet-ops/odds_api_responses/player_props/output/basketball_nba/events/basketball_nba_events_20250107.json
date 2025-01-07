@@ -1,0 +1,65 @@
+[
+    {
+        "id": "842ec88046f2bba42a95f2bac85ff78a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Phoenix Suns",
+        "date": "20250107"
+    },
+    {
+        "id": "e0b8319e07a33042a1affc78f653b6ae",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T00:10:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Houston Rockets",
+        "date": "20250107"
+    },
+    {
+        "id": "2543b2068a7bf0c7fcc32e1c63c3a03a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T00:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Los Angeles Lakers",
+        "date": "20250107"
+    },
+    {
+        "id": "23f985ec811f2813e01c771501c0fac0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20250107"
+    },
+    {
+        "id": "36ee31070e4af2e4abd3d9fa2286ca1b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T02:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Atlanta Hawks",
+        "date": "20250107"
+    },
+    {
+        "id": "aa8848c4a9648b9f79a361891b0141c8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T03:10:00Z",
+        "home_team": "Denver Nuggets",
+        "away_team": "Boston Celtics",
+        "date": "20250107"
+    },
+    {
+        "id": "46ba25589d5f7c05ca919da07e61bbcf",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-08T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Miami Heat",
+        "date": "20250107"
+    }
+]
