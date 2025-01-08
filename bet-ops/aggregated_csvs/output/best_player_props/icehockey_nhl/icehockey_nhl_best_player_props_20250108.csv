@@ -1,0 +1,96 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+draftkings,850.0,0.36911397780962996,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Jere Innala,Yes,,320.0,550.0,,320.0,850.0,750.0,550.0,655.0,750.0,0.1441172608220663,9.5
+fanduel,250.0,0.051540798959979206,Calgary Flames @ Los Angeles Kings,player_goals,Nazem Kadri,Over,0.5,,,,,,190.0,250.0,185.0,190.0,0.3004402282742798,3.5
+fanduel,240.0,0.04908539040972082,Colorado Avalanche @ Chicago Blackhawks,player_goals,Jonathan Drouin,Over,0.5,,,,,,185.0,240.0,175.0,185.0,0.3085545265910944,3.4
+fanduel,310.0,0.0785185618150599,Vancouver Canucks @ Washington Capitals,player_goals,J.T. Miller,Over,0.5,,,,,,240.0,310.0,220.0,225.0,0.2630533077597707,4.1
+fanduel,360.0,0.09005075664201923,Calgary Flames @ Los Angeles Kings,player_goals,Mikael Backlund,Over,0.5,,,,,,275.0,360.0,255.0,260.0,0.2369675557917433,4.6
+fanduel,250.0,0.016023943613457714,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Carter Verhaeghe,Yes,,155.0,230.0,,155.0,215.0,210.0,250.0,200.0,210.0,0.2902925553181308,3.5
+betmgm,320.0,0.04375374040468083,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,J.T. Miller,Yes,,205.0,320.0,,205.0,265.0,240.0,310.0,220.0,225.0,0.2485127953344478,4.2
+draftkings,650.0,0.13384484228474003,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Akil Thomas,Yes,,350.0,,,350.0,650.0,650.0,,575.0,600.0,0.151179312304632,7.5
+fanduel,400.0,0.09191625316268448,Calgary Flames @ Los Angeles Kings,player_goals,Matt Coronato,Over,0.5,,,,,,300.0,400.0,285.0,300.0,0.2183832506325369,5.0
+ballybet,-143.0,-0.008351440981314018,Colorado Avalanche @ Chicago Blackhawks,player_power_play_points,Cale Makar,Under,0.5,-143.0,-175.0,,,,-175.0,,-185.0,,0.5835627322620252,1.6993006993006992
+fanduel,310.0,0.018902460871236038,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,J.T. Miller,Yes,,205.0,320.0,,205.0,265.0,240.0,310.0,220.0,225.0,0.2485127953344478,4.1
+fanduel,230.0,0.020354527854591353,Vancouver Canucks @ Washington Capitals,player_goals,Tom Wilson,Over,0.5,,,,,,185.0,230.0,180.0,185.0,0.3091983417741186,3.3
+ballybet,140.0,0.030769608009169724,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Aleksander Barkov,Over,2.5,140.0,110.0,118.0,120.0,120.0,110.0,120.0,105.0,115.0,0.4294873366704874,2.4
+fanduel,220.0,0.015614596738859898,Florida Panthers @ Utah Hockey Club,player_goals,Aleksander Barkov,Over,0.5,,,,,,185.0,220.0,170.0,175.0,0.3173795614808937,3.2
+betmgm,600.0,0.11549609810479322,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Mackie Samoskevich,Yes,,300.0,600.0,,300.0,550.0,500.0,600.0,440.0,475.0,0.1593565854435419,7.0
+fanduel,600.0,0.11549609810479322,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Mackie Samoskevich,Yes,,300.0,600.0,,300.0,550.0,500.0,600.0,440.0,475.0,0.1593565854435419,7.0
+fanduel,950.0,0.22995405891825327,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Max Sasson,Yes,,440.0,900.0,,440.0,700.0,650.0,950.0,575.0,600.0,0.1171384818017384,10.5
+ballybet,130.0,0.01828527776293487,Vancouver Canucks @ Washington Capitals,player_shots_on_goal,Tom Wilson,Over,2.5,130.0,105.0,110.0,110.0,110.0,107.0,114.0,100.0,110.0,0.4427327294621456,2.3
+draftkings,500.0,0.06612330550949486,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Andrew Mangiapane,Yes,,290.0,425.0,,290.0,500.0,500.0,410.0,445.0,475.0,0.1776872175849158,6.0
+fanduel,290.0,0.028882720193422085,Florida Panthers @ Utah Hockey Club,player_goals,Sam Bennett,Over,0.5,,,,,,240.0,290.0,225.0,230.0,0.2638160821008775,3.9
+ballybet,-400.0,-0.03477045589354588,Calgary Flames @ Los Angeles Kings,player_power_play_points,Anze Kopitar,Under,0.5,-400.0,-550.0,,,,-500.0,,-580.0,,0.7721836352851633,1.25
+fanduel,200.0,0.0011776068444584453,Florida Panthers @ Utah Hockey Club,player_goals,Clayton Keller,Over,0.5,,,,,,165.0,200.0,160.0,170.0,0.3337258689481528,3.0
+ballybet,115.0,0.00859334575181181,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Sam Bennett,Over,2.5,115.0,-105.0,100.0,-105.0,-105.0,-106.0,108.0,-110.0,-105.0,0.4691131840706101,2.15
+fanduel,330.0,0.03358615569582257,Colorado Avalanche @ Chicago Blackhawks,player_goals,Tyler Bertuzzi,Over,0.5,,,,,,275.0,330.0,255.0,260.0,0.2403688734176332,4.3
+fanduel,300.0,0.025460525804228862,Colorado Avalanche @ Chicago Blackhawks,player_goals,Cale Makar,Over,0.5,,,,,,250.0,300.0,235.0,240.0,0.2563651314510572,4.0
+fanduel,310.0,0.026662388399585124,Florida Panthers @ Utah Hockey Club,player_goals,Logan Cooley,Over,0.5,,,,,,260.0,310.0,240.0,250.0,0.2504054605852647,4.1
+betmgm,900.0,0.17138481801738414,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Max Sasson,Yes,,440.0,900.0,,440.0,700.0,650.0,950.0,575.0,600.0,0.1171384818017384,10.0
+draftkings,650.0,0.0937924796620444,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Tanner Jeannot,Yes,,425.0,450.0,,425.0,650.0,650.0,440.0,545.0,600.0,0.1458389972882726,7.5
+fanduel,-156.0,-0.011458790812733932,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Nick Schmaltz,Over,1.5,-195.0,-200.0,-172.0,-175.0,-175.0,-200.0,-156.0,-215.0,-165.0,0.6023922993484903,1.641025641025641
+fanduel,195.0,-0.007451922591141691,Florida Panthers @ Utah Hockey Club,player_goals,Matthew Tkachuk,Over,0.5,,,,,,165.0,195.0,160.0,165.0,0.3364569753928333,2.95
+fanduel,310.0,0.022874957072127167,Vancouver Canucks @ Washington Capitals,player_goals,Conor Garland,Over,0.5,,,,,,260.0,310.0,245.0,250.0,0.2494816968468603,4.1
+fanduel,250.0,0.005108460576785934,Florida Panthers @ Utah Hockey Club,player_goals,Carter Verhaeghe,Over,0.5,,,,,,210.0,250.0,200.0,210.0,0.2871738458790817,3.5
+ballybet,-150.0,-0.012007600503599725,Colorado Avalanche @ Chicago Blackhawks,player_shots_on_goal,Tyler Bertuzzi,Over,1.5,-150.0,-185.0,-172.0,-175.0,-175.0,-185.0,-160.0,-195.0,-180.0,0.5927954396978403,1.6666666666666663
+ballybet,-143.0,-0.013285640266446075,Colorado Avalanche @ Chicago Blackhawks,player_shots_on_goal,Nathan MacKinnon,Over,3.5,-143.0,-165.0,-167.0,-165.0,-162.0,-175.0,,-185.0,-165.0,0.5806590676621326,1.6993006993006992
+fanduel,-130.0,-0.011588977568691927,Calgary Flames @ Los Angeles Kings,player_shots_on_goal,Rasmus Andersson,Over,1.5,,-160.0,-143.0,-145.0,-142.0,-150.0,-130.0,-175.0,-160.0,0.5586670996350872,1.7692307692307692
+ballybet,-400.0,-0.03664304024362042,Calgary Flames @ Los Angeles Kings,player_power_play_points,Kevin Fiala,Under,0.5,-400.0,-500.0,,,,-500.0,,-575.0,,0.7706855678051037,1.25
+betmgm,1800.0,0.4118334067183169,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Uvis Balinskis,Yes,,750.0,1800.0,,750.0,950.0,950.0,1800.0,845.0,1000.0,0.0743070214062272,19.0
+fanduel,1800.0,0.4118334067183169,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Uvis Balinskis,Yes,,750.0,1800.0,,750.0,950.0,950.0,1800.0,845.0,1000.0,0.0743070214062272,19.0
+ballybet,-150.0,-0.014215962724478892,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Logan Cooley,Over,1.5,-150.0,-185.0,-172.0,,-175.0,-185.0,-152.0,-195.0,-180.0,0.5914704223653128,1.6666666666666663
+ballybet,145.0,0.011660502993264932,Calgary Flames @ Los Angeles Kings,player_shots_on_goal,Alex Laferriere,Over,2.5,145.0,125.0,124.0,125.0,126.0,125.0,125.0,115.0,125.0,0.4129226542829652,2.45
+fanduel,450.0,0.015912451937296623,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Jonathan Lekkerimäki,Yes,,320.0,,,320.0,390.0,380.0,450.0,340.0,350.0,0.1847113548976903,5.5
+fanduel,290.0,-0.023179149369449648,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Sam Bennett,Yes,,210.0,280.0,,210.0,260.0,240.0,290.0,225.0,230.0,0.2504668847770642,3.9
+fanduel,170.0,-0.019890539132515928,Calgary Flames @ Los Angeles Kings,player_goals,Adrian Kempe,Over,0.5,,,,,,150.0,170.0,140.0,145.0,0.3630035040249941,2.7
+betmgm,360.0,-0.004211728440114748,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Aliaksei Protas,Yes,,290.0,360.0,,290.0,310.0,275.0,290.0,250.0,260.0,0.2164757112086707,4.6
+draftkings,550.0,0.04717249218527986,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Jack McBain,Yes,,325.0,500.0,,325.0,550.0,500.0,500.0,450.0,475.0,0.1611034603361969,6.5
+ballybet,145.0,0.009295948653190278,Colorado Avalanche @ Chicago Blackhawks,player_shots_on_goal,Artturi Lehkonen,Over,2.5,145.0,125.0,130.0,125.0,126.0,120.0,130.0,115.0,125.0,0.4119575300625266,2.45
+fanduel,450.0,0.049988305123588095,Vancouver Canucks @ Washington Capitals,player_goals,Jonathan Lekkerimäki,Over,0.5,,,,,,380.0,450.0,340.0,350.0,0.1909069645679251,5.5
+fanduel,-128.0,-0.011911457044261442,Vancouver Canucks @ Washington Capitals,player_shots_on_goal,Connor McMichael,Over,1.5,-150.0,-155.0,-139.0,-145.0,-142.0,-145.0,-128.0,-165.0,-155.0,0.5547163749926953,1.78125
+betmgm,230.0,-0.042034567450168425,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Carter Verhaeghe,Yes,,155.0,230.0,,155.0,215.0,210.0,250.0,200.0,210.0,0.2902925553181308,3.3
+draftkings,350.0,-0.009962807567584164,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Trevor Moore,Yes,,245.0,300.0,,245.0,350.0,320.0,310.0,305.0,325.0,0.2200082649849813,4.5
+fanduel,170.0,-0.058377068894874595,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Adrian Kempe,Yes,,135.0,160.0,,135.0,155.0,150.0,170.0,140.0,145.0,0.348749233742639,2.7
+draftkings,750.0,0.09601449275362284,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Nils Hoglander,Yes,,410.0,700.0,,400.0,750.0,700.0,650.0,595.0,650.0,0.1289428815004262,8.5
+fanduel,165.0,-0.02528179545910314,Florida Panthers @ Utah Hockey Club,player_goals,Sam Reinhart,Over,0.5,,,,,,140.0,165.0,140.0,145.0,0.3678181903927913,2.65
+fanduel,300.0,-0.025381252442594704,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Connor McMichael,Yes,,210.0,280.0,,210.0,280.0,275.0,300.0,255.0,260.0,0.2436546868893513,4.0
+ballybet,-106.0,-0.010962717670223054,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Sam Reinhart,Over,2.5,-106.0,-125.0,-116.0,-120.0,-120.0,-125.0,-114.0,-135.0,-125.0,0.5089220967327979,1.9433962264150944
+ballybet,150.0,-0.024652829645749663,Vancouver Canucks @ Washington Capitals,player_power_play_points,Quinn Hughes,Over,0.5,150.0,135.0,,,,135.0,,125.0,135.0,0.3901388681417001,2.5
+fanduel,-152.0,-0.019404299762770916,Florida Panthers @ Utah Hockey Club,player_shots_on_goal,Logan Cooley,Over,1.5,-150.0,-185.0,-172.0,,-175.0,-185.0,-152.0,-195.0,-180.0,0.5914704223653128,1.6578947368421053
+draftkings,195.0,-0.05496894409937869,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Kevin Fiala,Yes,,150.0,180.0,,150.0,195.0,175.0,180.0,170.0,175.0,0.3203495104747869,2.95
+draftkings,550.0,0.03581780538302226,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Mackie Samoskevich,Yes,,300.0,600.0,,300.0,550.0,500.0,600.0,440.0,475.0,0.1593565854435419,6.5
+fanduel,260.0,-0.0029968266259025045,Vancouver Canucks @ Washington Capitals,player_goals,Jake DeBrusk,Over,0.5,,,,,,230.0,260.0,210.0,220.0,0.2769453259372493,3.6
+fanduel,270.0,-0.0035892011661297074,Vancouver Canucks @ Washington Capitals,player_goals,Dylan Strome,Over,0.5,,,,,,240.0,270.0,220.0,225.0,0.269300215901046,3.7
+fanduel,300.0,0.0037641794027987174,Calgary Flames @ Los Angeles Kings,player_goals,Jonathan Huberdeau,Over,0.5,,,,,,260.0,300.0,245.0,250.0,0.2509410448506997,4.0
+fanduel,165.0,-0.06445236019625833,Florida Panthers @ Utah Hockey Club,player_goal_scorer_anytime,Sam Reinhart,Yes,,132.0,160.0,,130.0,150.0,140.0,165.0,140.0,145.0,0.3530368452089591,2.65
+fanduel,300.0,-0.0329660254749804,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Quinton Byfield,Yes,,230.0,290.0,,230.0,265.0,250.0,300.0,235.0,240.0,0.2417584936312549,4.0
+betmgm,800.0,0.08870642078341595,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Phillip Di Giuseppe,Yes,,410.0,800.0,,400.0,800.0,750.0,800.0,645.0,700.0,0.1209673800870462,9.0
+draftkings,800.0,0.08870642078341595,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Phillip Di Giuseppe,Yes,,410.0,800.0,,400.0,800.0,750.0,800.0,645.0,700.0,0.1209673800870462,9.0
+fanduel,800.0,0.08870642078341595,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Phillip Di Giuseppe,Yes,,410.0,800.0,,400.0,800.0,750.0,800.0,645.0,700.0,0.1209673800870462,9.0
+draftkings,225.0,-0.05138196994046029,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Brock Boeser,Yes,,175.0,210.0,,175.0,225.0,210.0,195.0,200.0,210.0,0.2918824707875507,3.25
+ballybet,145.0,-0.0008773169652774859,Calgary Flames @ Los Angeles Kings,player_shots_on_goal,Nazem Kadri,Over,3.5,145.0,115.0,134.0,140.0,140.0,125.0,132.0,110.0,120.0,0.4078051767488663,2.45
+ballybet,130.0,-0.00508182196162521,Vancouver Canucks @ Washington Capitals,player_shots_on_goal,Conor Garland,Over,2.5,130.0,115.0,117.0,115.0,115.0,110.0,118.0,105.0,115.0,0.4325731208862499,2.3
+fanduel,330.0,0.006445532712126445,Calgary Flames @ Los Angeles Kings,player_goals,Blake Coleman,Over,0.5,,,,,,290.0,330.0,265.0,275.0,0.2340571006307271,4.3
+ballybet,130.0,-0.00446667890714747,Colorado Avalanche @ Chicago Blackhawks,player_shots_on_goal,Taylor Hall,Under,1.5,130.0,115.0,119.0,120.0,120.0,110.0,108.0,105.0,115.0,0.4328405743881968,2.3
+draftkings,295.0,-0.03742333535633602,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Anze Kopitar,Yes,,205.0,290.0,,205.0,295.0,275.0,290.0,255.0,275.0,0.2436902948464972,3.95
+ballybet,-106.0,-0.04724956152122162,Colorado Avalanche @ Chicago Blackhawks,player_power_play_points,Nathan MacKinnon,Over,0.5,-106.0,-115.0,,,,-115.0,,-125.0,-115.0,0.4902502256250025,1.9433962264150944
+betmgm,700.0,0.04925973670846484,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Lukas Reichel,Yes,,430.0,700.0,,425.0,700.0,,700.0,,,0.1311574670885581,8.0
+draftkings,700.0,0.04925973670846484,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Lukas Reichel,Yes,,430.0,700.0,,425.0,700.0,,700.0,,,0.1311574670885581,8.0
+fanduel,700.0,0.04925973670846484,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Lukas Reichel,Yes,,430.0,700.0,,425.0,700.0,,700.0,,,0.1311574670885581,8.0
+fanduel,350.0,0.006548922617376052,Vancouver Canucks @ Washington Capitals,player_goals,Pierre-Luc Dubois,Over,0.5,,,,,,300.0,350.0,280.0,300.0,0.2236775383594169,4.5
+fanduel,110.0,-0.048637412346936526,Colorado Avalanche @ Chicago Blackhawks,player_goals,Nathan MacKinnon,Over,0.5,,,,,,100.0,110.0,-110.0,100.0,0.4530298036443159,2.1
+betmgm,270.0,-0.045988443686653446,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Dylan Strome,Yes,,200.0,270.0,,200.0,260.0,240.0,270.0,220.0,225.0,0.2578409611657693,3.7
+fanduel,270.0,-0.045988443686653446,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Dylan Strome,Yes,,200.0,270.0,,200.0,260.0,240.0,270.0,220.0,225.0,0.2578409611657693,3.7
+hardrockbet,-155.0,-0.025744000457812666,Calgary Flames @ Los Angeles Kings,player_shots_on_goal,Nazem Kadri,Under,3.5,-195.0,-160.0,-175.0,-185.0,-182.0,-175.0,-176.0,-170.0,-155.0,0.5921948232511336,1.6451612903225803
+draftkings,400.0,-0.018157370873110534,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Phillip Danault,Yes,,300.0,320.0,,300.0,400.0,360.0,370.0,340.0,350.0,0.1963685258253779,5.0
+betmgm,700.0,0.04915267234107756,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,John Carlson,Yes,,440.0,700.0,,440.0,600.0,600.0,650.0,515.0,550.0,0.1311440840426347,8.0
+betmgm,260.0,-0.049762875999071476,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Connor Bedard,Yes,,188.0,260.0,,185.0,260.0,240.0,260.0,220.0,225.0,0.2639547566669246,3.6
+draftkings,260.0,-0.049762875999071476,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Connor Bedard,Yes,,188.0,260.0,,185.0,260.0,240.0,260.0,220.0,225.0,0.2639547566669246,3.6
+fanduel,260.0,-0.049762875999071476,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,Connor Bedard,Yes,,188.0,260.0,,185.0,260.0,240.0,260.0,220.0,225.0,0.2639547566669246,3.6
+betmgm,375.0,-0.024751611386756633,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Mikael Backlund,Yes,,335.0,375.0,,330.0,280.0,275.0,360.0,255.0,260.0,0.205315450234367,4.75
+hardrockbet,2000.0,0.2406253167122716,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Noah Juulsen,Yes,,1200.0,1500.0,,1200.0,1100.0,1200.0,1500.0,1160.0,2000.0,0.0590773960339177,21.0
+fanduel,550.0,0.046036352420260496,Colorado Avalanche @ Chicago Blackhawks,player_goals,Jason Dickinson,Over,0.5,,,,,,450.0,550.0,430.0,450.0,0.160928669603117,6.5
+hardrockbet,2000.0,0.09144563876021672,Colorado Avalanche @ Chicago Blackhawks,player_goal_scorer_anytime,TJ Brodie,Yes,,1600.0,,,1600.0,1200.0,1200.0,1600.0,1170.0,2000.0,0.0519736018457246,21.0
+betonlineag,167.0,-0.006856797242106083,Calgary Flames @ Los Angeles Kings,player_shots_on_goal,Warren Foegele,Under,1.5,,145.0,167.0,160.0,160.0,140.0,,135.0,145.0,0.3719637463512711,2.67
+betmgm,850.0,0.07598749644785441,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Teddy Blueger,Yes,,525.0,850.0,,525.0,650.0,650.0,850.0,585.0,650.0,0.1132618417313531,9.5
+fanduel,850.0,0.07598749644785441,Vancouver Canucks @ Washington Capitals,player_goal_scorer_anytime,Teddy Blueger,Yes,,525.0,850.0,,525.0,650.0,650.0,850.0,585.0,650.0,0.1132618417313531,9.5
+hardrockbet,2000.0,0.059220574821596705,Calgary Flames @ Los Angeles Kings,player_goal_scorer_anytime,Joel Hanley,Yes,,1600.0,,,1600.0,1200.0,1200.0,1900.0,1180.0,2000.0,0.0504390749915046,21.0

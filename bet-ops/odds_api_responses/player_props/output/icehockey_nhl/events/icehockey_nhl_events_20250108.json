@@ -1,0 +1,38 @@
+[
+    {
+        "id": "bf74012278f2195feb2ecbc8980ae9b3",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-09T00:30:00Z",
+        "home_team": "Chicago Blackhawks",
+        "away_team": "Colorado Avalanche",
+        "date": "20250108"
+    },
+    {
+        "id": "d1631b0d75b0637d453a05d5dc9be98a",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-09T00:30:00Z",
+        "home_team": "Washington Capitals",
+        "away_team": "Vancouver Canucks",
+        "date": "20250108"
+    },
+    {
+        "id": "88c7bcb4c8453c33f23482a49fc6dbfe",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-09T03:00:00Z",
+        "home_team": "Utah Hockey Club",
+        "away_team": "Florida Panthers",
+        "date": "20250108"
+    },
+    {
+        "id": "7c0a03ea0b11ff0edfaa40ba9b84b18f",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-09T03:30:00Z",
+        "home_team": "Los Angeles Kings",
+        "away_team": "Calgary Flames",
+        "date": "20250108"
+    }
+]
