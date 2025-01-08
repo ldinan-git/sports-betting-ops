@@ -1,0 +1,74 @@
+[
+    {
+        "id": "e49c35167662c7e6ea6970b981b018f8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T00:00:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Washington Wizards",
+        "date": "20250108"
+    },
+    {
+        "id": "c62f042c293d7c240b837a532e82e1f9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Chicago Bulls",
+        "date": "20250108"
+    },
+    {
+        "id": "5d1e8ab87ce778e4c7ab00c0553faa9f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T00:10:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20250108"
+    },
+    {
+        "id": "b5c93aa8425dd073ff0965efeee639f8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T00:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Detroit Pistons",
+        "date": "20250108"
+    },
+    {
+        "id": "c33de7a122ef4c821ab8550248df9a08",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T00:40:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Toronto Raptors",
+        "date": "20250108"
+    },
+    {
+        "id": "c5d1a55aacf259e6a3e167e5fd5d0372",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T01:00:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Portland Trail Blazers",
+        "date": "20250108"
+    },
+    {
+        "id": "dd8248b21938d4246870fa725dd003b0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T02:00:00Z",
+        "home_team": "Denver Nuggets",
+        "away_team": "Los Angeles Clippers",
+        "date": "20250108"
+    },
+    {
+        "id": "ce5fe0a6d5f99b9c1659e2f03a0b405e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-09T02:40:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "San Antonio Spurs",
+        "date": "20250108"
+    }
+]
