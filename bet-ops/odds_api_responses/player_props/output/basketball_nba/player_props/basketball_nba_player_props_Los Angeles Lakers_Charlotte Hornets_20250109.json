@@ -1,0 +1,4196 @@
+{
+    "id": "b708fe113f15f5f0129b149182b0f325",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-10T03:40:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 1000,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 600,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -370,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 140,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 390,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 240,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -205,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 235,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -220,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -450,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 400,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 140,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 650,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 650,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 1300,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 150,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -145,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -350,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 300,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 360,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 165,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -320,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 750,
+                            "point": 6.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 370
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -105,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -125,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -125,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -105,
+                            "point": 19.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -700,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 230,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 105,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1200,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -235,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 500,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -160,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 475,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 1300,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -525,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -130,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 175,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 225,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 550,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 1500,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -525,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -310,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 600,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1700,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -170,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -900,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 235,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -340,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -125,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -105,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -105,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -125,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -110,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 23.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -110,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 27.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists_alternate",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 500,
+                            "point": 54.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 1200,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 115,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 250,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -125,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -205,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -525,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 250,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -350,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1000,
+                            "point": 59.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -155,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 500,
+                            "point": 54.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 125,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 650,
+                            "point": 54.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 310,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 155,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -310,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -135,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 275,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 650,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -125,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -210,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -650,
+                            "point": 19.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-01-09T14:24:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -130,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -135,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 105,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 390,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -550,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 115,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 550,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 850,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -205,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -340,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 170,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -130,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 260,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -190,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 425,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 155,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 700,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 260,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -360,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 1100,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 350,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 195,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -450,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 650,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -200,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 650,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -600,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1200,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -115,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 340,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -235,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 175,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -105,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -125,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -135,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 105,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": 110,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -140,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 8.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-01-09T14:24:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 120,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -154,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 130,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -166,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:49Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 1100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:39Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 400
+                        },
+                        {
+                            "name": "No",
+                            "description": "Anthony Davis",
+                            "price": -700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "LeBron James",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Miles Bridges",
+                            "price": -1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 525
+                        },
+                        {
+                            "name": "No",
+                            "description": "LaMelo Ball",
+                            "price": -950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Mark Williams",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 600
+                        },
+                        {
+                            "name": "No",
+                            "description": "Austin Reaves",
+                            "price": -1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 750
+                        },
+                        {
+                            "name": "No",
+                            "description": "Brandon Miller",
+                            "price": -1500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 900
+                        },
+                        {
+                            "name": "No",
+                            "description": "Rui Hachimura",
+                            "price": -2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1000
+                        },
+                        {
+                            "name": "No",
+                            "description": "Max Christie",
+                            "price": -2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1400
+                        },
+                        {
+                            "name": "No",
+                            "description": "Josh Green",
+                            "price": -3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:47Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 420
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -141,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 106,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -112,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -125,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -113,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -118,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": -715
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": -112
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 225
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -167,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": 120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -159,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 116,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -122,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -109,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -124,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -107,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -127,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -103,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -157,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": 115,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 114,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -157,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 120,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -167,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -129,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -104,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -157,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 114,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -134,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -127,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 102,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -136,
+                            "point": 26.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -121,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -109,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -112,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -121,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -112,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -114,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -117,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -117,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -113,
+                            "point": 23.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -112,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -121,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -112,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -127,
+                            "point": 41.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -127,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -104,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -129,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -109,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -122,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 104,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -137,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -132,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -122,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -108,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 112,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -148,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -139,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": 105,
+                            "point": 12.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -134,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 123,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -162,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -180,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-01-09T14:24:46Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 750
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -141,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 106,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -112,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -125,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -113,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -118,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": -715
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": -112
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 225
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 800
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -167,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": 120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -159,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 116,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -122,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -109,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -124,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -107,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -105,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -127,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -103,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -157,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": 115,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 114,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -157,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 120,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -167,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -129,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -104,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -157,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 114,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -134,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -127,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -105,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 102,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -136,
+                            "point": 26.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -121,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -109,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -112,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -121,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -112,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -114,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -117,
+                            "point": 32.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -117,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -113,
+                            "point": 23.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -112,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -110,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -121,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -112,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -120,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -127,
+                            "point": 41.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -127,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -104,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -129,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -109,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -122,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 104,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -137,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -132,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -122,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -108,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 112,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -148,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -139,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": 105,
+                            "point": 12.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -134,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 123,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -162,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 135,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -180,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-01-09T14:24:51Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 750
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -113,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -113,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -106,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -146,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": 114,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 135,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 220,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -2400,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -140,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 390,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 650,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -185,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 950,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -700,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -410,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 320,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 430,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -1300,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -850,
+                            "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": -550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": -130
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 180
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1400
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -102,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -125,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -113,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -113,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -104,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -122,
+                            "point": 19.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -210,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -135,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -105,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 270,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 600,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 1200,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 2000,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 120,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 200,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 270,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 750,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1300,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 4200,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 270,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 550,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 650,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1800,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -600,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -430,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -330,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 100,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -2200,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -1800,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -1450,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -320,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -1600,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -104,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -122,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -104,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -122,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -122,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -104,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -113,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -113,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -111,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -125,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -102,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -108,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -125,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -102,
+                            "point": 31.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -120,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -106,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -111,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -115,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -111,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -111,
+                            "point": 42.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 42.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -102,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -111,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -128,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -122,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -104,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -180,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 700,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -550,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 260,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 900,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1800,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -1500,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 360,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 650,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -1900,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -420,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -250,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 140,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 2000,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 320,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -360,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 100,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 170,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 100,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -128,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -111,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 102,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -130,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 104,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -132,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 132,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -170,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -102,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 124,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -160,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-01-09T14:24:15Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 2900
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -150,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 300,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 350,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -2500,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -450,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -125,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 210,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 600,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -800,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -190,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 120,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 350,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 900,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Anthony Davis",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Austin Reaves",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LeBron James",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Rui Hachimura",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Max Christie",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1400
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -2000,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -500,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -145,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 180,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 500,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 1200,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 4000,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -2000,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -400,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -120,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 230,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 650,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1500,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -2200,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -650,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -230,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 110,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 250,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 550,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 1200,
+                            "point": 44.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 3000,
+                            "point": 49.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -1600,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -380,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -115,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 250,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 600,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 1700,
+                            "point": 39.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -135,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": 105,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 105,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -135,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 105,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -135,
+                            "point": 33.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -110,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -120,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -135,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": 105,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -115,
+                            "point": 33.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -135,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": 105,
+                            "point": 31.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -2000,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -700,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -230,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 105,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": 250,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": -270,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 150,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 600,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 1600,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -450,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": -110,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 350,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 850,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -2000,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -370,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": -110,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 230,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 650,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 1800,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-09T14:24:35Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Anthony Davis",
+                            "price": -115,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Brandon Miller",
+                            "price": 105,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Brandon Miller",
+                            "price": -135,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LaMelo Ball",
+                            "price": 110,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LaMelo Ball",
+                            "price": -145,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "LeBron James",
+                            "price": 105,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "LeBron James",
+                            "price": -135,
+                            "point": 16.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "84c46a915d78675134a5fcf018c7771e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T00:10:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Toronto Raptors",
+        "date": "20250109"
+    },
+    {
+        "id": "78bde2ba3a89a79b6285c8055f3d850e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Golden State Warriors",
+        "date": "20250109"
+    },
+    {
+        "id": "3a1881e49680765b7cab8c196c103e99",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T00:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20250109"
+    },
+    {
+        "id": "50d160a91a56524fee4c471ae8b69754",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T01:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Houston Rockets",
+        "date": "20250109"
+    },
+    {
+        "id": "f030170fabee1ee9bc17ed360ce1712a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T01:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Portland Trail Blazers",
+        "date": "20250109"
+    },
+    {
+        "id": "4f1c87b0757e1a2a475fdce9cfb37f9f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Atlanta Hawks",
+        "date": "20250109"
+    },
+    {
+        "id": "7702b35a172bb027ea579fd0a9787313",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T02:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Miami Heat",
+        "date": "20250109"
+    },
+    {
+        "id": "b708fe113f15f5f0129b149182b0f325",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-10T03:40:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Charlotte Hornets",
+        "date": "20250109"
+    }
+]
