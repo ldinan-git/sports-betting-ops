@@ -1,0 +1,20 @@
+[
+    {
+        "id": "03dd880f071a65053e37000d3d826e14",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-11T21:31:00Z",
+        "home_team": "Houston Texans",
+        "away_team": "Los Angeles Chargers",
+        "date": "20250111"
+    },
+    {
+        "id": "08e2147df0b21744fdef99cbcdf3edb7",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-12T01:01:00Z",
+        "home_team": "Baltimore Ravens",
+        "away_team": "Pittsburgh Steelers",
+        "date": "20250111"
+    }
+]

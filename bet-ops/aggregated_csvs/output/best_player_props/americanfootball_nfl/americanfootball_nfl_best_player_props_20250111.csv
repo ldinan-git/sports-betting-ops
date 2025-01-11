@@ -1,0 +1,146 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,630.0,0.599377246198467,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Travis Jones,Over,0.5,,,260.0,,,300.0,630.0,270.0,300.0,0.2190927734518448,7.3
+fanduel,225.0,0.07649777780085376,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Nelson Agholor,Over,2.5,,,137.0,,,140.0,225.0,,,0.3312300854771858,3.25
+betonlineag,124.0,0.019574670693888296,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Pat Freiermuth,Over,4.5,,,124.0,-130.0,,-105.0,104.0,,,0.4551672637026286,2.24
+ballybet,1600.0,0.9702805421034895,Los Angeles Chargers @ Houston Texans,player_anytime_td,Kimani Vidal,Yes,,1600.0,1500.0,750.0,330.0,750.0,375.0,,,,0.1158988554178523,17.0
+fanduel,1200.0,0.6950151532771756,Los Angeles Chargers @ Houston Texans,player_anytime_td,Hassan Haskins,Yes,,950.0,550.0,750.0,260.0,750.0,375.0,1200.0,,,0.1303857810213212,13.0
+betmgm,1500.0,0.854381686685637,Los Angeles Chargers @ Houston Texans,player_anytime_td,Kimani Vidal,Yes,,1600.0,1500.0,750.0,330.0,750.0,375.0,,,,0.1158988554178523,16.0
+fanduel,420.0,0.190702168739459,Los Angeles Chargers @ Houston Texans,player_anytime_td,Gus Edwards,Yes,,310.0,400.0,325.0,137.0,340.0,210.0,420.0,,,0.2289811862960498,5.2
+hardrockbet,700.0,0.2939483186076305,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Diontae Johnson,Over,3.5,,,235.0,,,500.0,,,700.0,0.1617435398259538,8.0
+fanduel,-152.0,-0.03724179760146329,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Jaylen Warren,Over,2.5,,,-222.0,-200.0,,-225.0,-152.0,,,0.5807112966848317,1.6578947368421053
+fanduel,390.0,0.13299888517279845,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,J.K. Dobbins,Over,24.5,,,,250.0,290.0,300.0,390.0,,200.0,0.2312242622801629,4.9
+betmgm,400.0,0.144905931480249,Los Angeles Chargers @ Houston Texans,player_anytime_td,Gus Edwards,Yes,,310.0,400.0,325.0,137.0,340.0,210.0,420.0,,,0.2289811862960498,5.0
+fanduel,158.0,0.0006607226878050376,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Jaylen Warren,Over,3.5,,,126.0,120.0,,110.0,158.0,,120.0,0.3878529932898469,2.58
+betmgm,310.0,0.08339793792475625,Pittsburgh Steelers @ Baltimore Ravens,player_tds_over,Derrick Henry,Over,1.5,300.0,310.0,200.0,230.0,,,310.0,,190.0,0.264243399493843,4.1
+fanduel,310.0,0.08339793792475625,Pittsburgh Steelers @ Baltimore Ravens,player_tds_over,Derrick Henry,Over,1.5,300.0,310.0,200.0,230.0,,,310.0,,190.0,0.264243399493843,4.1
+espnbet,170.0,0.04928046056711932,Los Angeles Chargers @ Houston Texans,player_sacks,Joey Bosa,Over,0.5,,,160.0,,,170.0,-148.0,150.0,165.0,0.3886223928026368,2.7
+espnbet,250.0,0.046931150460907345,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,79.5,,,153.0,150.0,220.0,250.0,220.0,,190.0,0.2991231858459735,3.5
+espnbet,150.0,-0.013274260870482002,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,69.5,,,116.0,-120.0,135.0,150.0,142.0,,,0.3946902956518072,2.5
+ballybet,950.0,0.3690507007238726,Los Angeles Chargers @ Houston Texans,player_anytime_td,Hassan Haskins,Yes,,950.0,550.0,750.0,260.0,750.0,375.0,1200.0,,,0.1303857810213212,10.5
+fanduel,240.0,0.041477871926858256,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Lamar Jackson,Yes,,190.0,225.0,180.0,175.0,180.0,175.0,240.0,150.0,175.0,0.3063170211549583,3.4
+hardrockbet,575.0,0.20456946048787295,Los Angeles Chargers @ Houston Texans,player_anytime_td,DJ Chark Jr.,Yes,,475.0,325.0,300.0,330.0,300.0,,450.0,510.0,575.0,0.1784547348870923,6.75
+ballybet,300.0,0.05697359797537205,Pittsburgh Steelers @ Baltimore Ravens,player_tds_over,Derrick Henry,Over,1.5,300.0,310.0,200.0,230.0,,,310.0,,190.0,0.264243399493843,4.0
+bovada,330.0,0.06083628551238307,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,5.5,,,167.0,330.0,,250.0,300.0,,260.0,0.2467061129098565,4.3
+fanduel,1040.0,0.38086699842155114,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,C.J. Stroud,Over,39.5,,,,390.0,500.0,,1040.0,640.0,800.0,0.1211286840720659,11.4
+hardrockbet,165.0,0.029849340926987322,Los Angeles Chargers @ Houston Texans,player_sacks,Joey Bosa,Over,0.5,,,160.0,,,170.0,-148.0,150.0,165.0,0.3886223928026368,2.65
+espnbet,300.0,0.04391560583681109,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,C.J. Stroud,Over,24.5,,,177.0,175.0,230.0,300.0,290.0,,275.0,0.2609789014592028,4.0
+fanduel,270.0,0.03443953126322574,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Dalton Schultz,Over,49.5,,200.0,,175.0,200.0,210.0,270.0,,200.0,0.2795782516927637,3.7
+fanduel,-138.0,-0.05903772133758245,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Nelson Agholor,Over,1.5,,,-149.0,,,-225.0,-138.0,,-150.0,0.5455999767034185,1.7246376811594204
+fanduel,550.0,0.13667502624435068,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Nelson Agholor,Over,3.5,,,259.0,,,360.0,550.0,,475.0,0.1748730809606693,6.5
+fanduel,-440.0,-0.08032185206098252,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Jaylen Warren,Over,1.5,,,,-600.0,,-700.0,-440.0,,-600.0,0.7493673798021624,1.2272727272727273
+ballybet,-175.0,-0.008022353486474065,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Justin Madubuike,Under,0.5,-175.0,,,,,-220.0,,-245.0,-220.0,0.6312585023267893,1.5714285714285714
+fanduel,-108.0,-0.04913118677733952,Pittsburgh Steelers @ Baltimore Ravens,player_rush_yds_alternate,Najee Harris,Over,39.5,,,,-140.0,-125.0,-140.0,-108.0,,-130.0,0.4937203453271506,1.925925925925926
+espnbet,165.0,-0.023248686215898262,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,Justin Herbert,Over,24.5,,,,110.0,130.0,165.0,132.0,,150.0,0.3685854014279629,2.65
+fanduel,1100.0,0.41171722956670154,Los Angeles Chargers @ Houston Texans,player_anytime_td,Diontae Johnson,Yes,,525.0,400.0,650.0,,650.0,900.0,1100.0,600.0,700.0,0.1176431024638918,12.0
+hardrockbet,1400.0,0.44721437585263235,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,C.J. Stroud,Over,49.5,,,,550.0,700.0,,,970.0,1400.0,0.0964809583901755,15.0
+fanduel,158.0,-0.027700115866051145,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,4.5,,,110.0,150.0,,125.0,158.0,,,0.3768604202069569,2.58
+bovada,610.0,0.12955365855969325,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,6.5,,,253.0,610.0,,,550.0,,,0.1590920645858723,7.1
+fanduel,140.0,-0.023698919911662508,Los Angeles Chargers @ Houston Texans,player_anytime_td,J.K. Dobbins,Yes,,125.0,120.0,110.0,,115.0,110.0,140.0,100.0,110.0,0.406792116703474,2.4
+fanduel,122.0,-0.03882709807886753,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Quentin Johnston,Over,49.5,,-110.0,,100.0,110.0,105.0,122.0,,-105.0,0.4329607666311407,2.22
+fanduel,-650.0,-0.0777628382364699,Pittsburgh Steelers @ Baltimore Ravens,player_pass_yds_alternate,Lamar Jackson,Over,149.5,,-1600.0,,-900.0,-900.0,,-650.0,-1730.0,,0.7992722068617262,1.1538461538461535
+hardrockbet,150.0,-0.041926909627473474,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Tylan Wallace,Over,1.5,,,139.0,,,100.0,,,150.0,0.3832292361490106,2.5
+bovada,110.0,0.003383363814088325,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds,Mike Williams,Under,9.5,,-115.0,,110.0,,,,-125.0,100.0,0.4778016018162325,2.1
+fanduel,320.0,0.026210881928126484,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Jaylen Warren,Over,4.5,,,224.0,235.0,,250.0,320.0,,,0.2443359242686015,4.2
+fanduel,1000.0,0.3080205156151232,Los Angeles Chargers @ Houston Texans,player_tds_over,J.K. Dobbins,Over,1.5,750.0,750.0,550.0,550.0,,,1000.0,,550.0,0.1189109559650112,11.0
+bovada,-176.0,-0.06257986676040261,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Derrick Henry,Yes,,-190.0,-190.0,-250.0,-176.0,-210.0,-225.0,-180.0,-285.0,-240.0,0.597775157428149,1.5681818181818183
+fanduel,310.0,0.021898083216456143,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Van Jefferson,Over,24.5,,,,275.0,275.0,210.0,310.0,,200.0,0.249243434930843,4.1
+hardrockbet,-130.0,-0.06256208469225688,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Dalton Schultz,Over,3.5,,,-133.0,-200.0,,-190.0,-154.0,,-130.0,0.5298562130000287,1.7692307692307692
+fanduel,-134.0,-0.06171060018520902,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,George Pickens,Over,49.5,,-175.0,,-165.0,-165.0,-145.0,-134.0,,-180.0,0.5373110238255641,1.7462686567164178
+fliff,825.0,0.25461914309194555,Los Angeles Chargers @ Houston Texans,player_anytime_td,Xavier Hutchinson,Yes,,600.0,500.0,500.0,450.0,500.0,500.0,800.0,825.0,550.0,0.135634501955886,9.25
+betonlineag,-333.0,-0.08092528277001254,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,39.5,,,-333.0,-460.0,-475.0,,-355.0,,-450.0,0.7068172767611682,1.3003003003003002
+fanduel,550.0,0.12401519360291902,Los Angeles Chargers @ Houston Texans,player_tds_over,Joe Mixon,Over,1.5,510.0,500.0,400.0,350.0,,,550.0,,350.0,0.1729254144004491,6.5
+fanduel,290.0,0.017817715690890745,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,C.J. Stroud,Over,24.5,,,177.0,175.0,230.0,300.0,290.0,,275.0,0.2609789014592028,3.9
+hardrockbet,-110.0,-0.06515969525614795,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Diontae Johnson,Over,1.5,,,-123.0,,,-170.0,,,-110.0,0.4896782548658273,1.9090909090909087
+fanduel,178.0,-0.02975519833818241,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Isaiah Likely,Over,3.5,,,115.0,,,145.0,178.0,,140.0,0.3490089214610855,2.78
+fanduel,-355.0,-0.08404164115125523,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Rashod Bateman,Over,24.5,,-550.0,,-500.0,-525.0,,-355.0,,-425.0,0.7146488294314381,1.2816901408450705
+draftkings,-275.0,-0.08151532262204186,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Pat Freiermuth,Over,24.5,,-450.0,,-460.0,-275.0,,-300.0,,-300.0,0.6735554300771692,1.3636363636363638
+hardrockbet,350.0,0.03767793065365144,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Dalton Schultz,Over,5.5,,,273.0,210.0,,250.0,270.0,,350.0,0.2305950957008114,4.5
+betonlineag,160.0,0.010418221286855545,Los Angeles Chargers @ Houston Texans,player_sacks,Joey Bosa,Over,0.5,,,160.0,,,170.0,-148.0,150.0,165.0,0.3886223928026368,2.6
+fanduel,176.0,-0.02768134820995949,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Will Dissly,Over,39.5,,,,130.0,150.0,150.0,176.0,,145.0,0.3522893665905944,2.76
+fanduel,168.0,-0.02859287945560718,Pittsburgh Steelers @ Baltimore Ravens,player_rush_yds_alternate,Najee Harris,Over,49.5,,130.0,,135.0,140.0,135.0,168.0,,135.0,0.3624653434867137,2.68
+fanduel,146.0,-0.03962827349800202,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Dalton Schultz,Over,39.5,,,,-115.0,120.0,125.0,146.0,,140.0,0.3903950107731699,2.46
+fanduel,880.0,0.24029114428991605,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,Justin Herbert,Over,49.5,,,,500.0,500.0,,880.0,615.0,700.0,0.1265603208459098,9.8
+betonlineag,-145.0,-0.07437884473323109,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Najee Harris,Over,1.5,,,-145.0,,,-210.0,,,-155.0,0.5478166020966592,1.6896551724137931
+ballybet,1700.0,0.5847935753362183,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Keaton Mitchell,Yes,,1700.0,550.0,800.0,1000.0,750.0,900.0,,1060.0,1000.0,0.0880440875186788,18.0
+fanduel,-192.0,-0.07697351736622382,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Dalton Schultz,Over,24.5,,-250.0,,-290.0,-230.0,,-192.0,,-210.0,0.6069215228276883,1.5208333333333337
+draftkings,700.0,0.13304712338753766,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Robert Woods,Over,39.5,,,352.0,,700.0,,,,400.0,0.1416308904234422,8.0
+fanduel,1000.0,0.31214118553169956,Los Angeles Chargers @ Houston Texans,player_anytime_td,C.J. Stroud,Yes,,700.0,900.0,800.0,600.0,800.0,700.0,1000.0,400.0,450.0,0.1192855623210636,11.0
+fanduel,430.0,0.043090653526749345,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Robert Woods,Over,2.5,,,231.0,,,350.0,430.0,,,0.196809557269198,5.3
+fanduel,112.0,-0.0455204482610676,Los Angeles Chargers @ Houston Texans,player_pass_tds_alternate,Justin Herbert,Over,1.5,,,-108.0,-135.0,-105.0,-105.0,112.0,-105.0,105.0,0.4502262036504398,2.12
+fanduel,1300.0,0.4207233450051402,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Van Jefferson,Yes,,750.0,1000.0,900.0,550.0,900.0,750.0,1300.0,565.0,650.0,0.1014802389289386,14.0
+fanduel,800.0,0.220710517602974,Los Angeles Chargers @ Houston Texans,player_anytime_td,Xavier Hutchinson,Yes,,600.0,500.0,500.0,450.0,500.0,500.0,800.0,825.0,550.0,0.135634501955886,9.0
+betonlineag,-345.0,-0.026722575651653813,Los Angeles Chargers @ Houston Texans,player_sacks,Denico Autry,Under,0.5,,,-345.0,,,-450.0,,-515.0,-450.0,0.7545633964048977,1.289855072463768
+fanduel,144.0,-0.046939985474104495,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,J.K. Dobbins,Over,2.5,,,132.0,-105.0,,125.0,144.0,,,0.3905983666089735,2.44
+fanduel,470.0,0.051761218321320523,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Dalton Schultz,Over,59.5,,,,300.0,340.0,,470.0,,,0.1845195119861966,5.7
+fanduel,142.0,-0.044849484522626604,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,69.5,,,116.0,-120.0,135.0,150.0,142.0,,,0.3946902956518072,2.42
+betmgm,225.0,-0.004469681246385582,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Lamar Jackson,Yes,,190.0,225.0,180.0,175.0,180.0,175.0,240.0,150.0,175.0,0.3063170211549583,3.25
+fanduel,-110.0,-0.06323668246020586,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,59.5,,,-114.0,-175.0,-125.0,-120.0,-110.0,,,0.4906855472827494,1.9090909090909087
+hardrockbet,160.0,-0.02780973351677407,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Mark Andrews,Yes,,140.0,130.0,120.0,110.0,150.0,120.0,140.0,150.0,160.0,0.3739193332627792,2.6
+fanduel,-138.0,-0.06999722229650074,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,3.5,,,-147.0,-150.0,,-190.0,-138.0,,-170.0,0.5392453080801802,1.7246376811594204
+espnbet,140.0,0.009334099492958492,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Odafe Oweh,Over,0.5,125.0,,118.0,,,140.0,-132.0,130.0,140.0,0.4205558747887327,2.4
+hardrockbet,140.0,0.009334099492958492,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Odafe Oweh,Over,0.5,125.0,,118.0,,,140.0,-132.0,130.0,140.0,0.4205558747887327,2.4
+hardrockbet,210.0,-0.02296254210157278,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Pat Freiermuth,Over,5.5,,,194.0,150.0,,185.0,198.0,,210.0,0.3151733735156217,3.1
+draftkings,650.0,0.10337701451411374,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Mike Williams,Over,39.5,,,,,650.0,,490.0,,400.0,0.1471169352685485,7.5
+fanduel,-180.0,-0.07012753288954598,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Derrick Henry,Yes,,-190.0,-190.0,-250.0,-176.0,-210.0,-225.0,-180.0,-285.0,-240.0,0.597775157428149,1.5555555555555556
+betonlineag,102.0,0.00268442767743049,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds,Nelson Agholor,Over,20.5,-110.0,-120.0,102.0,,,,,-125.0,-120.0,0.4963784295432824,2.02
+fanduel,-225.0,-0.0828036632207717,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,George Pickens,Over,39.5,,,,-285.0,-285.0,,-225.0,,-260.0,0.6349820793086965,1.4444444444444444
+ballybet,102.0,0.013535109154657166,Los Angeles Chargers @ Houston Texans,player_receptions,Diontae Johnson,Over,1.5,102.0,-110.0,-123.0,-120.0,-120.0,-114.0,-120.0,-125.0,-110.0,0.5017500540369589,2.02
+betmgm,1100.0,0.3183545048362282,Pittsburgh Steelers @ Baltimore Ravens,player_anytime_td,Russell Wilson,Yes,,650.0,1100.0,900.0,650.0,900.0,800.0,950.0,460.0,500.0,0.109862875403019,12.0
+ballybet,102.0,-0.007540911278677953,Los Angeles Chargers @ Houston Texans,player_reception_yds,Ladd McConkey,Under,74.5,102.0,-115.0,,,,,,-125.0,-115.0,0.4913163805551099,2.02
+fanduel,114.0,-0.05829670273841159,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Will Dissly,Over,3.5,,,107.0,-120.0,,-105.0,114.0,,100.0,0.4400482697484058,2.14
+fanduel,108.0,0.013257484317803048,Los Angeles Chargers @ Houston Texans,player_pass_attempts,Justin Herbert,Over,31.5,,-110.0,-103.0,-115.0,-105.0,-110.0,108.0,-120.0,-110.0,0.4871430213066361,2.08
+betonlineag,-133.0,-0.0717556569247616,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Dalton Schultz,Over,3.5,,,-133.0,-200.0,,-190.0,-154.0,,-130.0,0.5298562130000287,1.7518796992481205
+draftkings,800.0,0.15638151412819612,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,109.5,,,356.0,570.0,800.0,,760.0,,,0.1284868349031329,9.0
+fanduel,102.0,0.009867689454416961,Pittsburgh Steelers @ Baltimore Ravens,player_pass_interceptions,Russell Wilson,Over,0.5,-110.0,-130.0,-114.0,-115.0,-115.0,-115.0,102.0,-140.0,-120.0,0.4999344997299094,2.02
+fanduel,280.0,0.007302101218127577,Pittsburgh Steelers @ Baltimore Ravens,player_pass_tds_alternate,Lamar Jackson,Over,2.5,,,175.0,250.0,215.0,225.0,280.0,225.0,250.0,0.2650795003205599,3.8
+fanduel,-220.0,-0.08432982518894272,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Will Dissly,Over,2.5,,,-263.0,-255.0,,-275.0,-220.0,,,0.6295232451826018,1.4545454545454546
+fliff,510.0,0.088573882811263,Los Angeles Chargers @ Houston Texans,player_anytime_td,DJ Chark Jr.,Yes,,475.0,325.0,300.0,330.0,300.0,,450.0,510.0,575.0,0.1784547348870923,6.1
+fanduel,-340.0,-0.08976782511754144,Pittsburgh Steelers @ Baltimore Ravens,player_rush_yds_alternate,Najee Harris,Over,24.5,,-550.0,,-420.0,-380.0,,-340.0,,-475.0,0.7033612260455361,1.2941176470588236
+fanduel,-138.0,-0.07402010430866379,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Ladd McConkey,Over,5.5,,,-227.0,-150.0,,-155.0,-138.0,,-145.0,0.5369127126277495,1.7246376811594204
+fanduel,-172.0,-0.072267076104227,Pittsburgh Steelers @ Baltimore Ravens,player_pass_yds_alternate,Lamar Jackson,Over,199.5,,-225.0,,-210.0,-200.0,-185.0,-172.0,-210.0,-210.0,0.5866546430517388,1.5813953488372094
+fanduel,122.0,-0.05802444778745053,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Jaylen Warren,Over,24.5,,,100.0,-105.0,100.0,100.0,122.0,,115.0,0.4243133118074547,2.22
+fanduel,-360.0,-0.09051187142545014,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Dalton Schultz,Over,2.5,,,-588.0,-450.0,,-500.0,-360.0,,,0.7117733180148651,1.2777777777777777
+betonlineag,-196.0,-0.024687350521602425,Los Angeles Chargers @ Houston Texans,player_sacks,Tuli Tuipulotu,Under,0.5,,,-196.0,,,-230.0,,-255.0,-240.0,0.6458151327627227,1.510204081632653
+fanduel,-188.0,-0.07822365264815556,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,49.5,,-250.0,-189.0,-270.0,-225.0,-210.0,-188.0,,-230.0,0.601715115632454,1.5319148936170213
+fanduel,-320.0,-0.08073885655407398,Pittsburgh Steelers @ Baltimore Ravens,player_pass_yds_alternate,Lamar Jackson,Over,174.5,,,,-420.0,-390.0,-350.0,-320.0,-500.0,-450.0,0.7003894426254674,1.3125
+fanduel,168.0,-0.04162750629889134,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Pat Freiermuth,Over,49.5,,120.0,,115.0,160.0,150.0,168.0,,140.0,0.357601676754145,2.68
+draftkings,340.0,0.010949941489735826,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,89.5,,,202.0,240.0,340.0,325.0,340.0,,,0.2297613503385763,4.4
+fanduel,340.0,0.010949941489735826,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,89.5,,,202.0,240.0,340.0,325.0,340.0,,,0.2297613503385763,4.4
+betonlineag,141.0,0.021048530840865887,Pittsburgh Steelers @ Baltimore Ravens,player_receptions,Mark Andrews,Under,3.5,123.0,110.0,141.0,115.0,135.0,115.0,,100.0,110.0,0.4236715895605252,2.41
+fanduel,-140.0,-0.0676513406976662,Pittsburgh Steelers @ Baltimore Ravens,player_pass_tds_alternate,Lamar Jackson,Over,1.5,,,-169.0,-160.0,-175.0,-170.0,-140.0,-165.0,-165.0,0.5438700512596947,1.7142857142857144
+hardrockbet,105.0,-0.010729927994828414,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Kyle Van Noy,Over,0.5,-114.0,,-114.0,,,100.0,-146.0,100.0,105.0,0.482570766831791,2.05
+fanduel,1400.0,0.33865965946991294,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,Justin Herbert,Over,59.5,,,,750.0,800.0,,1400.0,880.0,,0.0892439772979942,15.0
+fanduel,310.0,-0.0006630671592312565,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,Will Dissly,Over,49.5,,260.0,,240.0,260.0,,310.0,,240.0,0.2437407153270168,4.1
+fanduel,370.0,0.033556026190932786,Pittsburgh Steelers @ Baltimore Ravens,player_1st_td,Derrick Henry,Yes,,350.0,350.0,,200.0,310.0,275.0,370.0,265.0,275.0,0.2199055374874325,4.7
+betonlineag,-189.0,-0.07991709831862848,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,J.K. Dobbins,Over,49.5,,-250.0,-189.0,-270.0,-225.0,-210.0,-188.0,,-230.0,0.601715115632454,1.529100529100529
+espnbet,400.0,0.08271276955576656,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Cameron Heyward,Over,0.5,350.0,,350.0,,,400.0,178.0,370.0,400.0,0.2165425539111533,5.0
+hardrockbet,400.0,0.08271276955576656,Pittsburgh Steelers @ Baltimore Ravens,player_sacks,Cameron Heyward,Over,0.5,350.0,,350.0,,,400.0,178.0,370.0,400.0,0.2165425539111533,5.0
+fanduel,-110.0,-0.06534802325992473,Pittsburgh Steelers @ Baltimore Ravens,player_rush_yds_alternate,Lamar Jackson,Over,49.5,,-135.0,,-140.0,-125.0,-115.0,-110.0,-140.0,-135.0,0.489579606863849,1.9090909090909087
+draftkings,800.0,0.12312593703148389,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,J.K. Dobbins,Over,39.5,,,,700.0,800.0,,,,400.0,0.124791770781276,9.0
+fanduel,370.0,0.0015965536871980213,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Isaiah Likely,Over,4.5,,,201.0,,,325.0,370.0,,,0.2131056497206804,4.7
+hardrockbet,175.0,0.0006237771651662616,Los Angeles Chargers @ Houston Texans,player_sacks,Tuli Tuipulotu,Over,0.5,,,150.0,,,170.0,116.0,155.0,175.0,0.3638631916964241,2.75
+betmgm,130.0,0.014978305192502761,Los Angeles Chargers @ Houston Texans,player_rush_attempts,C.J. Stroud,Over,3.5,115.0,130.0,109.0,,105.0,115.0,108.0,115.0,,0.4412949153010882,2.3
+draftkings,1100.0,0.19970294355927565,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Mike Williams,Over,49.5,,,,,1100.0,,820.0,,600.0,0.0999752452966063,12.0
+espnbet,140.0,-0.05709397906919378,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,Joe Mixon,Over,79.5,,,,-115.0,125.0,140.0,130.0,,120.0,0.3928775087211693,2.4
+hardrockbet,500.0,0.03433468686836605,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Najee Harris,Over,3.5,,,306.0,,,375.0,,,500.0,0.172389114478061,6.0
+draftkings,340.0,0.0075172197026192045,Los Angeles Chargers @ Houston Texans,player_anytime_td,Gus Edwards,Yes,,310.0,400.0,325.0,137.0,340.0,210.0,420.0,,,0.2289811862960498,4.4
+fanduel,-205.0,-0.08517710336189188,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,J.K. Dobbins,Over,1.5,,,-244.0,-270.0,,-250.0,-205.0,,-220.0,0.6148809633141382,1.4878048780487805
+espnbet,375.0,0.008263797207747059,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Pat Freiermuth,Over,6.5,,,333.0,280.0,,375.0,360.0,,,0.212266062570052,4.75
+bovada,150.0,-0.05784894948260766,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,4.5,,,110.0,150.0,,125.0,158.0,,,0.3768604202069569,2.5
+bovada,150.0,0.0215968784647409,Pittsburgh Steelers @ Baltimore Ravens,player_receptions,George Pickens,Under,3.5,118.0,130.0,120.0,150.0,140.0,115.0,120.0,115.0,145.0,0.4086387513858964,2.5
+fanduel,104.0,-0.07145878204663747,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Pat Freiermuth,Over,4.5,,,124.0,-130.0,,-105.0,104.0,,,0.4551672637026286,2.04
+espnbet,100.0,-0.007615096517272546,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds,Calvin Austin III,Under,24.5,-108.0,-120.0,,,,100.0,,-125.0,-120.0,0.4961924517413637,2.0
+fanduel,116.0,-0.06843100189035911,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,George Pickens,Over,59.5,,,,-105.0,100.0,105.0,116.0,,,0.4312819435692782,2.16
+fanduel,-310.0,-0.09249226882502659,Pittsburgh Steelers @ Baltimore Ravens,player_receptions_alternate,Justice Hill,Over,1.5,,,-370.0,,,-475.0,-310.0,,-325.0,0.6861643821079066,1.3225806451612905
+bovada,-160.0,-0.009878691183320631,Pittsburgh Steelers @ Baltimore Ravens,player_receptions,Tylan Wallace,Under,1.5,-200.0,-175.0,-182.0,-160.0,-175.0,-210.0,-196.0,-220.0,-200.0,0.6093054208102642,1.625
+draftkings,320.0,-0.018109144302145608,Pittsburgh Steelers @ Baltimore Ravens,player_reception_yds_alternate,Nelson Agholor,Over,39.5,,,,,320.0,,310.0,,250.0,0.2337835370709177,4.2
+fanduel,410.0,0.034183552861445254,Pittsburgh Steelers @ Baltimore Ravens,player_last_td,Derrick Henry,Yes,,300.0,375.0,,300.0,,360.0,410.0,320.0,350.0,0.2027810887963618,5.1
+draftkings,550.0,0.06989979318784822,Pittsburgh Steelers @ Baltimore Ravens,player_pass_yds_alternate,Russell Wilson,Over,274.5,,,,410.0,550.0,,400.0,415.0,425.0,0.1645999681827459,6.5
+ballybet,510.0,0.05484502784273948,Los Angeles Chargers @ Houston Texans,player_tds_over,Joe Mixon,Over,1.5,510.0,500.0,400.0,350.0,,,550.0,,350.0,0.1729254144004491,6.1
+fanduel,300.0,-0.013175548360573885,Los Angeles Chargers @ Houston Texans,player_receptions_alternate,Quentin Johnston,Over,5.5,,,167.0,330.0,,250.0,300.0,,260.0,0.2467061129098565,4.0
+betmgm,900.0,0.19285562321063598,Los Angeles Chargers @ Houston Texans,player_anytime_td,C.J. Stroud,Yes,,700.0,900.0,800.0,600.0,800.0,700.0,1000.0,400.0,450.0,0.1192855623210636,10.0
+betmgm,1500.0,0.35053352444656805,Pittsburgh Steelers @ Baltimore Ravens,player_tds_over,Derrick Henry,Over,2.5,1200.0,1500.0,1100.0,1200.0,,,1500.0,,700.0,0.0844083452779105,16.0
+fanduel,1500.0,0.35053352444656805,Pittsburgh Steelers @ Baltimore Ravens,player_tds_over,Derrick Henry,Over,2.5,1200.0,1500.0,1100.0,1200.0,,,1500.0,,700.0,0.0844083452779105,16.0
+ballybet,-109.0,-0.002553294306910092,Los Angeles Chargers @ Houston Texans,player_pass_completions,Justin Herbert,Under,20.5,-109.0,-135.0,-114.0,-125.0,-120.0,-135.0,-128.0,-145.0,-135.0,0.5201994780887407,1.9174311926605505
+hardrockbet,275.0,-0.02132911952798966,Los Angeles Chargers @ Houston Texans,player_rush_yds_alternate,C.J. Stroud,Over,24.5,,,177.0,175.0,230.0,300.0,290.0,,275.0,0.2609789014592028,3.75
+fanduel,-102.0,-0.07871496952410006,Los Angeles Chargers @ Houston Texans,player_reception_yds_alternate,John Metchie III,Over,24.5,,,,,-115.0,-115.0,-102.0,,-130.0,0.465203332220504,1.9803921568627447
