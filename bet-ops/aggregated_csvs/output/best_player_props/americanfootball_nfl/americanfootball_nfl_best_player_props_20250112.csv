@@ -1,0 +1,136 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+draftkings,475.0,0.20692740240482443,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Audric Estime,Over,39.5,,,211.0,260.0,475.0,,420.0,,,0.2099004178095347,5.75
+betonlineag,-147.0,-0.032963794391507095,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Cade Otton,Over,2.5,,,-147.0,,,-225.0,-215.0,,,0.5755235717589007,1.6802721088435373
+fanduel,450.0,0.18530020703933736,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Jaleel McLaughlin,Over,24.5,,,,,425.0,250.0,450.0,,200.0,0.2155091285526068,5.5
+draftkings,950.0,0.3959758724431972,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Audric Estime,Over,49.5,,,331.0,500.0,950.0,,750.0,,,0.1329500830898283,10.5
+draftkings,425.0,0.13142292490118568,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Jaleel McLaughlin,Over,24.5,,,,,425.0,250.0,450.0,,200.0,0.2155091285526068,5.25
+hardrockbet,650.0,0.22377926095463518,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Cade Otton,Over,5.5,,,231.0,,,,520.0,,650.0,0.1631705681272847,7.5
+draftkings,360.0,0.08643892339544479,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Ty Johnson,Over,24.5,,,,,360.0,250.0,300.0,,200.0,0.2361823746511837,4.6
+hardrockbet,525.0,0.15892733905156264,Green Bay Packers @ Philadelphia Eagles,player_rush_yds_alternate,Emanuel Wilson,Over,24.5,,,,,390.0,275.0,350.0,,525.0,0.18542837424825,6.25
+draftkings,1100.0,0.4560336228802375,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Ray Davis,Over,49.5,,,293.0,,1100.0,,630.0,,750.0,0.1213361352400198,12.0
+betonlineag,-141.0,-0.05530085237135751,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Rachaad White,Over,1.5,,,-141.0,,,-210.0,,,-155.0,0.5527078000648904,1.7092198581560285
+fanduel,200.0,0.0012879106781327199,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Troy Franklin,Over,2.5,,,141.0,,,140.0,200.0,,,0.3337626368927109,3.0
+fanduel,420.0,0.09148217260958047,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Audric Estime,Over,39.5,,,211.0,260.0,475.0,,420.0,,,0.2099004178095347,5.2
+betmgm,700.0,0.2591842762970007,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Josh Jacobs,Over,1.5,540.0,700.0,450.0,350.0,,,550.0,,375.0,0.1573980345371251,8.0
+hardrockbet,525.0,0.1480401132674538,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Ray Davis,Over,39.5,,,197.0,,500.0,,360.0,,525.0,0.1836864181227926,6.25
+bovada,115.0,0.043839096820022405,Washington Commanders @ Tampa Bay Buccaneers,player_pass_attempts,Baker Mayfield,Over,33.5,,-120.0,-108.0,115.0,-110.0,-105.0,,-125.0,-120.0,0.4855065566604756,2.15
+betonlineag,-169.0,-0.06188375094839005,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Amari Cooper,Over,1.5,,,-169.0,,,-210.0,-220.0,,-210.0,0.5893741490324241,1.5917159763313609
+bovada,115.0,0.016997940886454788,Denver Broncos @ Buffalo Bills,player_reception_yds,Amari Cooper,Under,22.5,,105.0,,115.0,,,,-125.0,-115.0,0.4730222980867231,2.15
+fanduel,-340.0,-0.06522959107055415,Washington Commanders @ Tampa Bay Buccaneers,player_pass_yds_alternate,Baker Mayfield,Over,199.5,,-550.0,,-365.0,-500.0,-450.0,-340.0,-560.0,-500.0,0.7223225887182081,1.2941176470588236
+betmgm,1000.0,0.30267558528428096,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,K.J. Osborn,Yes,,,1000.0,,500.0,650.0,550.0,,,,0.1184250532076619,11.0
+draftkings,195.0,0.01035824522677986,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Jayden Daniels,Yes,,160.0,185.0,170.0,150.0,195.0,155.0,180.0,115.0,130.0,0.3424943204158576,2.95
+betmgm,425.0,0.1178359914108249,Denver Broncos @ Buffalo Bills,player_anytime_td,Bo Nix,Yes,,400.0,425.0,350.0,350.0,370.0,360.0,410.0,200.0,210.0,0.2129211412211095,5.25
+betmgm,500.0,0.13231979477077394,Denver Broncos @ Buffalo Bills,player_tds_over,Josh Allen,Over,1.5,370.0,500.0,300.0,330.0,,,450.0,,350.0,0.188719965795129,6.0
+fanduel,-700.0,-0.07655985451469138,Green Bay Packers @ Philadelphia Eagles,player_pass_yds_alternate,Jordan Love,Over,149.5,,-1400.0,,-1200.0,,,-700.0,-1655.0,,0.808010127299645,1.1428571428571428
+bovada,225.0,0.006954608560139963,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Dalton Kincaid,Over,49.5,,165.0,,225.0,180.0,175.0,200.0,,170.0,0.3098321872492738,3.25
+fanduel,750.0,0.24901799396480984,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Payne Durham,Yes,,380.0,300.0,600.0,300.0,600.0,425.0,750.0,665.0,750.0,0.1469432934076247,8.5
+hardrockbet,750.0,0.24901799396480984,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Payne Durham,Yes,,380.0,300.0,600.0,300.0,600.0,425.0,750.0,665.0,750.0,0.1469432934076247,8.5
+fanduel,1200.0,0.4483066497382511,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Sean Tucker,Yes,,650.0,600.0,600.0,550.0,600.0,700.0,1200.0,780.0,1000.0,0.1114082038260193,13.0
+hardrockbet,-275.0,-0.0773019866845045,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Sterling Shepard,Over,1.5,,,-455.0,,,-400.0,-330.0,,-275.0,0.6766452097646967,1.3636363636363638
+draftkings,500.0,0.10211850873675554,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Ray Davis,Over,39.5,,,197.0,,500.0,,360.0,,525.0,0.1836864181227926,6.0
+bovada,140.0,-0.024690172712689806,Denver Broncos @ Buffalo Bills,player_pass_yds_alternate,Josh Allen,Over,249.5,,100.0,,140.0,110.0,110.0,114.0,125.0,120.0,0.4063790947030459,2.4
+betonlineag,144.0,-0.036214092995690894,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Keon Coleman,Over,2.5,,,144.0,120.0,,-105.0,134.0,,,0.3949942241820939,2.44
+hardrockbet,135.0,-0.03985927538059253,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Jamison Crowder,Over,1.5,,,124.0,,,-120.0,106.0,,135.0,0.4085705211146415,2.35
+espnbet,275.0,0.07445999152170635,Green Bay Packers @ Philadelphia Eagles,player_sacks,Jalen Carter,Over,0.5,210.0,,225.0,,,275.0,136.0,250.0,275.0,0.2865226644057884,3.75
+hardrockbet,275.0,0.07445999152170635,Green Bay Packers @ Philadelphia Eagles,player_sacks,Jalen Carter,Over,0.5,210.0,,225.0,,,275.0,136.0,250.0,275.0,0.2865226644057884,3.75
+draftkings,300.0,0.01071672600424356,Washington Commanders @ Tampa Bay Buccaneers,player_reception_yds_alternate,Jamison Crowder,Over,24.5,,,,,300.0,210.0,290.0,,200.0,0.2526791815010609,4.0
+fanduel,300.0,0.04205072392032361,Denver Broncos @ Buffalo Bills,player_anytime_td,Dalton Kincaid,Yes,,230.0,240.0,240.0,200.0,240.0,210.0,300.0,225.0,240.0,0.2605126809800809,4.0
+hardrockbet,100.0,-0.055999683001971445,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Amari Cooper,Over,24.5,,-140.0,,,-120.0,-110.0,-128.0,,100.0,0.4720001584990143,2.0
+betmgm,100.0,-0.0019071553889250525,Denver Broncos @ Buffalo Bills,player_rush_reception_yds,Ray Davis,Over,24.5,,100.0,,,,-122.0,,-130.0,-120.0,0.4990464223055374,2.0
+ballybet,430.0,0.08031154490781822,Washington Commanders @ Tampa Bay Buccaneers,player_tds_over,Bucky Irving,Over,1.5,430.0,400.0,300.0,300.0,,,430.0,,260.0,0.2038323669637393,5.3
+fanduel,430.0,0.08031154490781822,Washington Commanders @ Tampa Bay Buccaneers,player_tds_over,Bucky Irving,Over,1.5,430.0,400.0,300.0,300.0,,,430.0,,260.0,0.2038323669637393,5.3
+ballybet,-286.0,-0.014937757582534794,Green Bay Packers @ Philadelphia Eagles,player_sacks,Jalen Carter,Under,0.5,-286.0,,-312.0,,,-400.0,,-455.0,-400.0,0.7298647702885882,1.3496503496503496
+fanduel,370.0,0.056335167967628386,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,360.0,360.0,250.0,260.0,,,370.0,,250.0,0.2247521633973677,4.7
+betonlineag,-435.0,-0.01690112022820267,Green Bay Packers @ Philadelphia Eagles,player_sacks,Edgerrin Cooper,Under,0.5,-530.0,,-435.0,,,-650.0,,-800.0,-650.0,0.799342079814452,1.2298850574712643
+hardrockbet,-375.0,-0.08690162494510334,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Javonte Williams,Over,1.5,,,,,,-700.0,-500.0,,-375.0,0.7208671382012343,1.2666666666666666
+fanduel,410.0,0.08589782022765835,Denver Broncos @ Buffalo Bills,player_anytime_td,Bo Nix,Yes,,400.0,425.0,350.0,350.0,370.0,360.0,410.0,200.0,210.0,0.2129211412211095,5.1
+bovada,-135.0,-0.06484633182970745,Denver Broncos @ Buffalo Bills,player_pass_yds_alternate,Josh Allen,Over,224.5,,,,-135.0,-170.0,-170.0,-174.0,,-165.0,0.5372159370339978,1.7407407407407407
+fanduel,142.0,-0.048613097448436005,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Audric Estime,Over,24.5,,,,-115.0,135.0,130.0,142.0,,,0.3931350836989934,2.42
+hardrockbet,240.0,-0.00826925213988905,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Devaughn Vele,Over,3.5,,,158.0,,,175.0,200.0,,240.0,0.2916855140765032,3.4
+betonlineag,120.0,-0.04825424345398843,Green Bay Packers @ Philadelphia Eagles,player_receptions_alternate,Tucker Kraft,Over,3.5,,,120.0,-105.0,,-115.0,114.0,,105.0,0.4326117075209143,2.2
+fanduel,200.0,-0.029593594810986112,Denver Broncos @ Buffalo Bills,player_receptions_alternate,James Cook,Over,2.5,,,134.0,,,175.0,200.0,,,0.3234688017296713,3.0
+fanduel,560.0,0.09077781950338837,Washington Commanders @ Tampa Bay Buccaneers,player_reception_yds_alternate,Cade Otton,Over,59.5,,,302.0,,425.0,,560.0,,,0.1652693665914225,6.6
+bovada,125.0,-0.04678971578319302,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Dalton Kincaid,Over,39.5,,,,125.0,100.0,105.0,112.0,,100.0,0.4236490152074697,2.25
+hardrockbet,-170.0,-0.07176183700286387,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Zach Ertz,Over,3.5,,,-286.0,-220.0,,-200.0,-188.0,,-170.0,0.5844462507759746,1.5882352941176472
+bovada,260.0,0.011685158982103871,Denver Broncos @ Buffalo Bills,player_pass_yds_alternate,Josh Allen,Over,274.5,,,,260.0,190.0,185.0,205.0,240.0,230.0,0.2810236552728066,3.6
+hardrockbet,250.0,-0.0071362348426160516,Washington Commanders @ Tampa Bay Buccaneers,player_rush_yds_alternate,Rachaad White,Over,24.5,,,141.0,,240.0,200.0,230.0,,250.0,0.2836753614735383,3.5
+betonlineag,106.0,-0.0625745950554134,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Mack Hollins,Over,1.5,,,106.0,,,-155.0,,,105.0,0.4550608761866925,2.06
+draftkings,275.0,0.020809074812039086,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Zach Ertz,Yes,,210.0,250.0,270.0,175.0,275.0,200.0,250.0,190.0,210.0,0.2722157532832104,3.75
+bovada,110.0,0.008418693816141243,Denver Broncos @ Buffalo Bills,player_reception_yds,Curtis Samuel,Over,7.5,,-110.0,,110.0,-105.0,,,-120.0,-110.0,0.4801993780076863,2.1
+espnbet,120.0,-0.0485139213660456,Washington Commanders @ Tampa Bay Buccaneers,player_rush_yds_alternate,Brian Robinson Jr.,Over,49.5,,-105.0,,-125.0,115.0,120.0,116.0,,-110.0,0.4324936721063429,2.2
+fanduel,340.0,0.04544354554585306,Denver Broncos @ Buffalo Bills,player_anytime_td,Jaleel McLaughlin,Yes,,290.0,333.0,,275.0,330.0,325.0,340.0,195.0,200.0,0.2376008058058757,4.4
+fanduel,300.0,0.03035560030000317,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Rachaad White,Yes,,245.0,275.0,220.0,260.0,225.0,250.0,300.0,205.0,210.0,0.2575889000750008,4.0
+fanduel,-152.0,-0.07327971376361342,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Troy Franklin,Over,1.5,,,-161.0,,,-225.0,-152.0,,-170.0,0.5589741409044872,1.6578947368421053
+fanduel,-146.0,0.005170572141228513,Washington Commanders @ Tampa Bay Buccaneers,player_receptions,Brian Robinson Jr.,Under,1.5,-182.0,-185.0,-169.0,-185.0,-160.0,-185.0,-146.0,-200.0,-185.0,0.5965646485065828,1.6849315068493151
+fanduel,330.0,0.023564631126067548,Washington Commanders @ Tampa Bay Buccaneers,player_reception_yds_alternate,Cade Otton,Over,49.5,,250.0,199.0,,275.0,,330.0,,275.0,0.2380382863083878,4.3
+bovada,-125.0,0.0009672012283481468,Denver Broncos @ Buffalo Bills,player_receptions,Nate Adkins,Over,0.5,,,-137.0,-125.0,-140.0,-165.0,,-180.0,-160.0,0.5560928895713045,1.8
+betmgm,-110.0,0.004738909883609699,Washington Commanders @ Tampa Bay Buccaneers,player_rush_attempts,Jayden Daniels,Under,9.5,,-110.0,-135.0,,-115.0,-140.0,,-155.0,,0.5262918099390338,1.9090909090909087
+espnbet,100.0,-0.0510153565649365,Green Bay Packers @ Philadelphia Eagles,player_anytime_td,Josh Jacobs,Yes,,-114.0,-120.0,-133.0,-112.0,-110.0,100.0,-115.0,-140.0,-125.0,0.4744923217175317,2.0
+hardrockbet,425.0,0.11565013994220719,Green Bay Packers @ Philadelphia Eagles,player_sacks,Edgerrin Cooper,Over,0.5,350.0,,300.0,,,400.0,220.0,375.0,425.0,0.2125047885604204,5.25
+ballybet,400.0,0.06460570610554761,Denver Broncos @ Buffalo Bills,player_anytime_td,Bo Nix,Yes,,400.0,425.0,350.0,350.0,370.0,360.0,410.0,200.0,210.0,0.2129211412211095,5.0
+fanduel,-186.0,-0.06943052408917427,Washington Commanders @ Tampa Bay Buccaneers,player_pass_yds_alternate,Baker Mayfield,Over,224.5,,,,-205.0,-230.0,-225.0,-186.0,-245.0,-230.0,0.6051955332846629,1.5376344086021505
+ballybet,360.0,0.03385995162789135,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,360.0,360.0,250.0,260.0,,,370.0,,250.0,0.2247521633973677,4.6
+betmgm,360.0,0.03385995162789135,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,360.0,360.0,250.0,260.0,,,370.0,,250.0,0.2247521633973677,4.6
+bovada,-275.0,-0.07593744001421243,Denver Broncos @ Buffalo Bills,player_pass_yds_alternate,Josh Allen,Over,199.5,,-450.0,,-275.0,-350.0,-325.0,-340.0,-335.0,-350.0,0.6776458773229108,1.3636363636363638
+fanduel,520.0,0.07547899035881733,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Troy Franklin,Over,3.5,,,292.0,,,360.0,520.0,,450.0,0.1734643532836802,6.2
+betonlineag,-125.0,-0.0682427192133368,Green Bay Packers @ Philadelphia Eagles,player_receptions_alternate,Romeo Doubs,Over,3.5,,,-125.0,-155.0,,-170.0,-158.0,,-135.0,0.5176429337703684,1.8
+bovada,-125.0,0.004109176502453682,Denver Broncos @ Buffalo Bills,player_receptions,James Cook,Over,1.5,-152.0,-160.0,-149.0,-125.0,-140.0,-150.0,-138.0,-175.0,-160.0,0.557838431390252,1.8
+fanduel,230.0,-0.005722724054296413,Washington Commanders @ Tampa Bay Buccaneers,player_pass_tds_alternate,Baker Mayfield,Over,2.5,,,160.0,200.0,195.0,160.0,230.0,195.0,200.0,0.3012961442259708,3.3
+hardrockbet,105.0,-0.06712520381728049,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Mack Hollins,Over,1.5,,,106.0,,,-155.0,,,105.0,0.4550608761866925,2.05
+hardrockbet,260.0,0.0363042392230275,Green Bay Packers @ Philadelphia Eagles,player_sacks,Josh Sweat,Over,0.5,,,225.0,,,250.0,148.0,230.0,260.0,0.2878622886730632,3.6
+betonlineag,110.0,0.01185541126517653,Denver Broncos @ Buffalo Bills,player_rush_attempts,Josh Allen,Under,7.5,-110.0,-110.0,110.0,,-105.0,-110.0,-108.0,-120.0,,0.4818359101262745,2.1
+fanduel,750.0,0.1300757062635407,Denver Broncos @ Buffalo Bills,player_rush_yds_alternate,Audric Estime,Over,49.5,,,331.0,500.0,950.0,,750.0,,,0.1329500830898283,8.5
+bovada,-365.0,-0.0797808116329678,Washington Commanders @ Tampa Bay Buccaneers,player_pass_yds_alternate,Baker Mayfield,Over,199.5,,-550.0,,-365.0,-500.0,-450.0,-340.0,-560.0,-500.0,0.7223225887182081,1.273972602739726
+betmgm,185.0,-0.023891186814805843,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Jayden Daniels,Yes,,160.0,185.0,170.0,150.0,195.0,155.0,180.0,115.0,130.0,0.3424943204158576,2.85
+hardrockbet,-110.0,-0.06885023664158285,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Devaughn Vele,Over,24.5,,,,-145.0,-135.0,-120.0,-132.0,,-110.0,0.4877451141401233,1.9090909090909087
+betonlineag,270.0,0.007198287147878624,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Zach Ertz,Yes,,210.0,250.0,270.0,175.0,275.0,200.0,250.0,190.0,210.0,0.2722157532832104,3.7
+fanduel,-670.0,-0.08534058442783587,Washington Commanders @ Tampa Bay Buccaneers,player_pass_yds_alternate,Baker Mayfield,Over,174.5,,,,-700.0,,,-670.0,-1890.0,-1200.0,0.7958724784848701,1.1492537313432836
+betmgm,600.0,0.10844593367476629,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Jalen Hurts,Over,1.5,540.0,600.0,400.0,350.0,,,600.0,,400.0,0.1583494190963952,7.0
+fanduel,600.0,0.10844593367476629,Green Bay Packers @ Philadelphia Eagles,player_tds_over,Jalen Hurts,Over,1.5,540.0,600.0,400.0,350.0,,,600.0,,400.0,0.1583494190963952,7.0
+espnbet,325.0,0.06615989392533095,Denver Broncos @ Buffalo Bills,player_sacks,Von Miller,Over,0.5,300.0,,275.0,,,325.0,152.0,290.0,325.0,0.2508611515118426,4.25
+hardrockbet,325.0,0.06615989392533095,Denver Broncos @ Buffalo Bills,player_sacks,Von Miller,Over,0.5,300.0,,275.0,,,325.0,152.0,290.0,325.0,0.2508611515118426,4.25
+betonlineag,-476.0,-0.03017044702350946,Green Bay Packers @ Philadelphia Eagles,player_sacks,Karl Brooks,Under,0.5,,,-476.0,,,-650.0,,-755.0,-650.0,0.8014563666958499,1.2100840336134453
+betmgm,333.0,0.02881148913944176,Denver Broncos @ Buffalo Bills,player_anytime_td,Jaleel McLaughlin,Yes,,290.0,333.0,,275.0,330.0,325.0,340.0,195.0,200.0,0.2376008058058757,4.33
+bovada,105.0,0.009828915980589437,Denver Broncos @ Buffalo Bills,player_rush_yds,Jaleel McLaughlin,Under,34.5,,-120.0,,105.0,-110.0,100.0,-113.0,-125.0,-120.0,0.4925994712100436,2.05
+bovada,-900.0,-0.08680662763850788,Denver Broncos @ Buffalo Bills,player_pass_yds_alternate,Bo Nix,Over,149.5,,-2000.0,,-900.0,,,-1100.0,-3015.0,,0.8218740351253428,1.1111111111111112
+fanduel,-146.0,-0.003328361516108491,Washington Commanders @ Tampa Bay Buccaneers,player_receptions,Jamison Crowder,Under,1.5,-167.0,-185.0,-161.0,-180.0,-170.0,-185.0,-146.0,-195.0,-180.0,0.591520565929464,1.6849315068493151
+fanduel,-115.0,-0.05948967888456258,Washington Commanders @ Tampa Bay Buccaneers,player_pass_tds_alternate,Jayden Daniels,Over,1.5,,,-125.0,-130.0,-135.0,-130.0,-115.0,-155.0,-130.0,0.5030636601315132,1.869565217391304
+fanduel,290.0,-0.014551192145862535,Washington Commanders @ Tampa Bay Buccaneers,player_reception_yds_alternate,Jamison Crowder,Over,24.5,,,,,300.0,210.0,290.0,,200.0,0.2526791815010609,3.9
+hardrockbet,3000.0,0.9746351525870608,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Ben Sinnott,Yes,,1400.0,1200.0,1000.0,,1000.0,1300.0,1300.0,1325.0,3000.0,0.0636979081479697,31.0
+espnbet,450.0,0.03228016216971863,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Austin Ekeler,Over,4.5,,,211.0,,,450.0,400.0,,,0.1876873022126761,5.5
+espnbet,110.0,0.009935859379174516,Washington Commanders @ Tampa Bay Buccaneers,player_pass_completions,Baker Mayfield,Over,22.5,-106.0,-120.0,-102.0,-105.0,-115.0,110.0,,-125.0,-110.0,0.4809218377996069,2.1
+espnbet,210.0,0.023379334341999902,Green Bay Packers @ Philadelphia Eagles,player_sacks,Rashan Gary,Over,0.5,180.0,,180.0,,,210.0,116.0,195.0,210.0,0.3301223659167742,3.1
+hardrockbet,210.0,0.023379334341999902,Green Bay Packers @ Philadelphia Eagles,player_sacks,Rashan Gary,Over,0.5,180.0,,180.0,,,210.0,116.0,195.0,210.0,0.3301223659167742,3.1
+draftkings,100.0,1.0782740184289707e-05,Washington Commanders @ Tampa Bay Buccaneers,player_rush_attempts,Brian Robinson Jr.,Under,11.5,-117.0,-120.0,,,100.0,-120.0,,-130.0,,0.5000053913700921,2.0
+ballybet,480.0,0.07883068588160302,Denver Broncos @ Buffalo Bills,player_anytime_td,Audric Estime,Yes,,480.0,375.0,400.0,330.0,400.0,400.0,420.0,300.0,325.0,0.1860052906692419,5.8
+hardrockbet,-115.0,-0.014780818162134501,Denver Broncos @ Buffalo Bills,player_reception_yds,Amari Cooper,Over,22.5,,-140.0,,-150.0,,,,-125.0,-115.0,0.526977701913277,1.869565217391304
+hardrockbet,135.0,-0.0573123312946453,Washington Commanders @ Tampa Bay Buccaneers,player_receptions_alternate,Bucky Irving,Over,3.5,,,128.0,,,-105.0,116.0,,135.0,0.4011436888107892,2.35
+betonlineag,-217.0,-0.08308874084573059,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Keon Coleman,Over,1.5,,,-217.0,-250.0,,-325.0,-230.0,,-250.0,0.6276648051623863,1.4608294930875576
+fanduel,1600.0,0.47172165133413835,Denver Broncos @ Buffalo Bills,player_anytime_td,Lucas Krull,Yes,,650.0,800.0,800.0,1100.0,800.0,1200.0,1600.0,820.0,1000.0,0.0865718618431846,17.0
+fanduel,680.0,0.09624060150375913,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Troy Franklin,Over,39.5,,,,,600.0,,680.0,,400.0,0.1405436668594563,7.8
+fanduel,-140.0,-0.07741850180432797,Denver Broncos @ Buffalo Bills,player_receptions_alternate,James Cook,Over,1.5,,,-149.0,,,-175.0,-140.0,,-160.0,0.538172540614142,1.7142857142857144
+hardrockbet,120.0,-0.059564567651270495,Green Bay Packers @ Philadelphia Eagles,player_receptions_alternate,DeVonta Smith,Over,5.5,,,115.0,-115.0,,-105.0,104.0,,120.0,0.4274706510676043,2.2
+betonlineag,130.0,-0.04793662508022678,Green Bay Packers @ Philadelphia Eagles,player_pass_tds_alternate,Jordan Love,Over,1.5,,,130.0,-105.0,120.0,105.0,130.0,100.0,115.0,0.4139405977912058,2.3
+fanduel,130.0,-0.04793662508022678,Green Bay Packers @ Philadelphia Eagles,player_pass_tds_alternate,Jordan Love,Over,1.5,,,130.0,-105.0,120.0,105.0,130.0,100.0,115.0,0.4139405977912058,2.3
+draftkings,130.0,0.010883394894342646,Denver Broncos @ Buffalo Bills,player_receptions,Javonte Williams,Under,2.5,110.0,115.0,,115.0,130.0,110.0,,-120.0,120.0,0.4395145195192794,2.3
+fanduel,-154.0,-0.07750249076757998,Washington Commanders @ Tampa Bay Buccaneers,player_rush_yds_alternate,Brian Robinson Jr.,Over,39.5,,,,-210.0,-180.0,-170.0,-154.0,,-175.0,0.5593095134716247,1.6493506493506491
+draftkings,330.0,0.02168346496526552,Denver Broncos @ Buffalo Bills,player_anytime_td,Jaleel McLaughlin,Yes,,290.0,333.0,,275.0,330.0,325.0,340.0,195.0,200.0,0.2376008058058757,4.3
+betonlineag,400.0,0.07170671839856457,Denver Broncos @ Buffalo Bills,player_sacks,John Franklin-Myers,Over,0.5,,,400.0,,,400.0,178.0,365.0,400.0,0.2143413436797129,5.0
+espnbet,400.0,0.07170671839856457,Denver Broncos @ Buffalo Bills,player_sacks,John Franklin-Myers,Over,0.5,,,400.0,,,400.0,178.0,365.0,400.0,0.2143413436797129,5.0
+hardrockbet,400.0,0.07170671839856457,Denver Broncos @ Buffalo Bills,player_sacks,John Franklin-Myers,Over,0.5,,,400.0,,,400.0,178.0,365.0,400.0,0.2143413436797129,5.0
+espnbet,375.0,0.013651708590320055,Washington Commanders @ Tampa Bay Buccaneers,player_rush_yds_alternate,Brian Robinson Jr.,Over,69.5,,,,220.0,370.0,375.0,320.0,,,0.2134003597032253,4.75
+hardrockbet,900.0,0.15355630078655813,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Mack Hollins,Over,3.5,,,483.0,,,550.0,,,900.0,0.1153556300786558,10.0
+betonlineag,-323.0,-0.025385389080471943,Washington Commanders @ Tampa Bay Buccaneers,player_sacks,Lavonte David,Under,0.5,-335.0,,-323.0,,,-450.0,,-490.0,-425.0,0.7442092655484811,1.3095975232198145
+ballybet,102.0,0.004461288085195747,Washington Commanders @ Tampa Bay Buccaneers,player_reception_yds,Sterling Shepard,Over,24.5,102.0,,-114.0,,-115.0,,-113.0,,,0.4972580634085127,2.02
+fanduel,290.0,0.049400966944713964,Green Bay Packers @ Philadelphia Eagles,player_sacks,Devonte Wyatt,Over,0.5,235.0,,240.0,,,235.0,290.0,220.0,240.0,0.2690771710114651,3.9
+hardrockbet,185.0,-0.050299467613131976,Denver Broncos @ Buffalo Bills,player_reception_yds_alternate,Mack Hollins,Over,24.5,,,140.0,,180.0,145.0,,,185.0,0.3332282569778484,2.85
+fanduel,-350.0,-0.0920091876007646,Green Bay Packers @ Philadelphia Eagles,player_receptions_alternate,Jayden Reed,Over,2.5,,,-556.0,-425.0,,-450.0,-350.0,,,0.7062150763105165,1.2857142857142856
+fanduel,140.0,-0.048304510282223156,Green Bay Packers @ Philadelphia Eagles,player_anytime_td,AJ Brown,Yes,,106.0,115.0,110.0,125.0,120.0,125.0,140.0,110.0,130.0,0.396539787382407,2.4
+hardrockbet,750.0,0.10695247083564974,Denver Broncos @ Buffalo Bills,player_receptions_alternate,Javonte Williams,Over,5.5,,,431.0,,,,470.0,,750.0,0.1302297024512529,8.5
+bovada,125.0,0.010017950987014634,Denver Broncos @ Buffalo Bills,player_receptions,Lil'Jordan Humphrey,Under,0.5,,100.0,114.0,125.0,110.0,107.0,,-105.0,100.0,0.4488968671053399,2.25
+espnbet,375.0,0.07529784964645847,Denver Broncos @ Buffalo Bills,player_sacks,Ed Oliver,Over,0.5,290.0,,285.0,,,375.0,220.0,340.0,375.0,0.2263784946624123,4.75
+hardrockbet,375.0,0.07529784964645847,Denver Broncos @ Buffalo Bills,player_sacks,Ed Oliver,Over,0.5,290.0,,285.0,,,375.0,220.0,340.0,375.0,0.2263784946624123,4.75
+betonlineag,-385.0,-0.08423868195706474,Green Bay Packers @ Philadelphia Eagles,player_pass_tds_alternate,Jordan Love,Over,0.5,,,-385.0,-600.0,-450.0,-500.0,-430.0,-610.0,-525.0,0.7269445514361444,1.2597402597402598
+ballybet,150.0,0.012085507074186319,Washington Commanders @ Tampa Bay Buccaneers,player_receptions,Zach Ertz,Under,3.5,150.0,125.0,,135.0,,125.0,,120.0,125.0,0.4048342028296745,2.5
+hardrockbet,475.0,0.06543795142296915,Denver Broncos @ Buffalo Bills,player_anytime_td,Mack Hollins,Yes,,375.0,340.0,350.0,300.0,350.0,325.0,460.0,440.0,475.0,0.185293556769212,5.75
+bovada,300.0,0.007662408761500705,Washington Commanders @ Tampa Bay Buccaneers,player_anytime_td,Austin Ekeler,Yes,,195.0,275.0,270.0,300.0,275.0,275.0,250.0,215.0,225.0,0.2519156021903752,4.0

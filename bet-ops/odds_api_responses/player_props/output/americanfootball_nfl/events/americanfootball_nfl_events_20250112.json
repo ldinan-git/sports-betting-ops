@@ -1,0 +1,29 @@
+[
+    {
+        "id": "4290cfcaa959dc5b452481cfff521b45",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-12T18:01:00Z",
+        "home_team": "Buffalo Bills",
+        "away_team": "Denver Broncos",
+        "date": "20250112"
+    },
+    {
+        "id": "edbc8c5b53a7705b9caa5e1908109e19",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-12T21:31:00Z",
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Green Bay Packers",
+        "date": "20250112"
+    },
+    {
+        "id": "afde2a86c73e9809e147d457d4d40f62",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2025-01-13T01:01:00Z",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Washington Commanders",
+        "date": "20250112"
+    }
+]
