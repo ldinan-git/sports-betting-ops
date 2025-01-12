@@ -1,0 +1,72 @@
+{
+    "id": "2f3cda7ca8ecf34aff79d9aad255729f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-12T23:00:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-12T05:29:39Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kristaps Porzingis",
+                            "price": 320
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Brown",
+                            "price": 460
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jayson Tatum",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jrue Holiday",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zion Williamson",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Derrick White",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Dejounte Murray",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "C.J. McCollum",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Yves Missi",
+                            "price": 1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Trey Murphy III",
+                            "price": 1700
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

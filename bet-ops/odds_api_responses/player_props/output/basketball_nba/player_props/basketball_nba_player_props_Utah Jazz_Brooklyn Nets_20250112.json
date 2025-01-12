@@ -1,0 +1,67 @@
+{
+    "id": "91f0488867fdd555b523926a9f4a260f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-13T01:00:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-12T05:29:58Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Walker Kessler",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Lauri Markkanen",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Collin Sexton",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Simmons",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Nicolas Claxton",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Noah Clowney",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Keon Johnson",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ziaire Williams",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Isaiah Collier",
+                            "price": 1200
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

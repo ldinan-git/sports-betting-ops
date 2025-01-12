@@ -1,0 +1,72 @@
+{
+    "id": "568a23a4d283ab157a879e1503263c5b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-13T02:00:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-12T05:29:13Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Kevin Durant",
+                            "price": 470
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Booker",
+                            "price": 470
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "LaMelo Ball",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Miles Bridges",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tyus Jones",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ryan Dunn",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Brandon Miller",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mark Williams",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Mason Plumlee",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Josh Green",
+                            "price": 1600
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
