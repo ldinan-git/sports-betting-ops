@@ -48,6 +48,14 @@
         "has_outrights": true
     },
     {
+        "key": "basketball_euroleague",
+        "group": "Basketball",
+        "title": "Basketball Euroleague",
+        "description": "Basketball Euroleague",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "basketball_nba",
         "group": "Basketball",
         "title": "NBA",
@@ -86,6 +94,14 @@
         "description": "US College Basketball Championship Winner",
         "active": true,
         "has_outrights": true
+    },
+    {
+        "key": "basketball_wncaab",
+        "group": "Basketball",
+        "title": "WNCAAB",
+        "description": "US Women's College Basketball",
+        "active": true,
+        "has_outrights": false
     },
     {
         "key": "boxing_boxing",

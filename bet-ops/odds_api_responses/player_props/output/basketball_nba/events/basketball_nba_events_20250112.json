@@ -30,18 +30,9 @@
         "id": "2f3cda7ca8ecf34aff79d9aad255729f",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2025-01-12T23:00:00Z",
+        "commence_time": "2025-01-12T23:10:00Z",
         "home_team": "Boston Celtics",
         "away_team": "New Orleans Pelicans",
-        "date": "20250112"
-    },
-    {
-        "id": "4e2e4b0bc4161ce2422c4fa329f1157b",
-        "sport_key": "basketball_nba",
-        "sport_title": "NBA",
-        "commence_time": "2025-01-12T23:00:00Z",
-        "home_team": "Orlando Magic",
-        "away_team": "Philadelphia 76ers",
         "date": "20250112"
     },
     {
@@ -63,10 +54,19 @@
         "date": "20250112"
     },
     {
+        "id": "4e2e4b0bc4161ce2422c4fa329f1157b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-12T23:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Philadelphia 76ers",
+        "date": "20250112"
+    },
+    {
         "id": "91f0488867fdd555b523926a9f4a260f",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2025-01-13T01:00:00Z",
+        "commence_time": "2025-01-13T01:10:00Z",
         "home_team": "Utah Jazz",
         "away_team": "Brooklyn Nets",
         "date": "20250112"
@@ -75,7 +75,7 @@
         "id": "568a23a4d283ab157a879e1503263c5b",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2025-01-13T02:00:00Z",
+        "commence_time": "2025-01-13T02:10:00Z",
         "home_team": "Phoenix Suns",
         "away_team": "Charlotte Hornets",
         "date": "20250112"
