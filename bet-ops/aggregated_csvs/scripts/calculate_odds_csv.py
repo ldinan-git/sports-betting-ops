@@ -32,7 +32,14 @@ def calculate_dejuice(row, new_df):
         dejuice = row[bookmaker] / denom
         dejuice_values[bookmaker.replace('_implied_prob', '_dejuice')] = dejuice
         if dejuice == 1:
-            denom = 1.15 # assume 15% vig for one way markets
+            if row[bookmaker] < 0.7:
+                denom = 1.05
+            elif row[bookmaker] < 0.8:
+                denom = 1.1
+            elif row[bookmaker] < 0.9:
+                denom = 1.15
+            else:
+                denom = 1.2
             dejuice = row[bookmaker] / denom
             dejuice_values[bookmaker.replace('_implied_prob', '_dejuice')] = dejuice
 
@@ -41,7 +48,6 @@ def calculate_dejuice(row, new_df):
 def get_files(sport, date, get_odds, get_player_props):
     if get_odds:
         odds_directory = os.path.join(ROOT_DIR, directories["game_odds_api_responses_output"], sport)
-        print(os.listdir(odds_directory))
         odds_files = [os.path.join(odds_directory, f) for f in os.listdir(odds_directory) if os.path.isfile(os.path.join(odds_directory, f)) and f.split('_')[-1].startswith(f'{date}')]
     else:
         odds_files = []
