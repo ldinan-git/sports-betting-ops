@@ -1,0 +1,65 @@
+[
+    {
+        "id": "2be789815b3355d543d2b9ac8ff09002",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20250114"
+    },
+    {
+        "id": "ceba1fb7f48df707eb6a5866c0aa9a26",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20250114"
+    },
+    {
+        "id": "0121869cd6f93c1f8873045e71fa1605",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T00:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Phoenix Suns",
+        "date": "20250114"
+    },
+    {
+        "id": "757dfa8ea873f51e304f699aa4d6105d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "New Orleans Pelicans",
+        "date": "20250114"
+    },
+    {
+        "id": "f9f0f4bb154f93d73bc364dfbb884cc4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T01:10:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Sacramento Kings",
+        "date": "20250114"
+    },
+    {
+        "id": "e893ba0c4269e68598bbbdaa065b71e8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T02:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Denver Nuggets",
+        "date": "20250114"
+    },
+    {
+        "id": "4b8bef24f19685b2141260a3090f95c3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-15T03:10:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Brooklyn Nets",
+        "date": "20250114"
+    }
+]
