@@ -33,7 +33,7 @@ def calculate_dejuice(row, new_df):
         dejuice_values[bookmaker.replace('_implied_prob', '_dejuice')] = dejuice
         if dejuice == 1:
             if row[bookmaker] > 0.3 and row[bookmaker] < 0.7:
-                denom = 1.05
+                denom = 1.075
             elif row[bookmaker] > 0.2 and row[bookmaker] < 0.8:
                 denom = 1.1
             elif row[bookmaker] > 0.1 and row[bookmaker] < 0.9:

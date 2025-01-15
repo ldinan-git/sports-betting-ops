@@ -1,0 +1,147 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+espnbet,1200.0,2.0088800082689713,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,866.0,-10000.0,,1200.0,,1000.0,0.2314523083283824,13.0
+hardrockbet,1000.0,1.5459753916122065,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,866.0,-10000.0,,1200.0,,1000.0,0.2314523083283824,11.0
+betonlineag,866.0,1.235829298452174,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Devin Vassell,Over,7.5,,,866.0,-10000.0,,1200.0,,1000.0,0.2314523083283824,9.66
+draftkings,1000.0,1.3867813688909676,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,7.5,,,727.0,-10000.0,1000.0,900.0,,800.0,0.2169801244446334,11.0
+bovada,-140.0,0.15447130110727914,New York Knicks @ Philadelphia 76ers,player_points_alternate,Josh Hart,Over,9.5,,-375.0,,-140.0,-310.0,-300.0,,-300.0,0.6734415923125795,1.7142857142857144
+espnbet,900.0,1.169801244446334,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,7.5,,,727.0,-10000.0,1000.0,900.0,,800.0,0.2169801244446334,10.0
+hardrockbet,800.0,0.9528211200017008,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,7.5,,,727.0,-10000.0,1000.0,900.0,,800.0,0.2169801244446334,9.0
+betonlineag,727.0,0.7944256291571182,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,7.5,,,727.0,-10000.0,1000.0,900.0,,800.0,0.2169801244446334,8.27
+betonlineag,369.0,0.3660042283298097,Miami Heat @ Los Angeles Lakers,player_assists_alternate,Haywood Highsmith,Over,2.5,,250.0,369.0,,175.0,180.0,,180.0,0.2912588972984669,4.69
+betonlineag,-149.0,0.05099098847599115,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Desmond Bane,Over,4.5,,-275.0,-149.0,,-210.0,-240.0,,-250.0,0.6289062541482839,1.6711409395973154
+hardrockbet,275.0,0.17864693446088786,Brooklyn Nets @ Los Angeles Clippers,player_assists_alternate,Kawhi Leonard,Over,2.5,,180.0,,,120.0,250.0,,275.0,0.3143058491895701,3.75
+fanduel,-310.0,-0.036482446440370575,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Stephon Castle,Over,9.5,,-550.0,,,-425.0,-550.0,-310.0,-525.0,0.7285132722036222,1.3225806451612905
+fanduel,410.0,0.2825384769028003,Brooklyn Nets @ Los Angeles Clippers,player_points_alternate,Kris Dunn,Over,9.5,,275.0,,,250.0,240.0,410.0,275.0,0.2514781327260393,5.1
+betonlineag,-303.0,-0.03038071265596709,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Desmond Bane,Over,3.5,,,-303.0,-500.0,-475.0,-575.0,-390.0,-575.0,0.7290189679038263,1.33003300330033
+fanduel,500.0,0.29827680282502156,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Giannis Antetokounmpo,Over,7.5,,,210.0,325.0,340.0,,500.0,,0.2163794671375036,6.0
+betmgm,300.0,0.18837273078039152,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Jake LaRavia,Over,9.5,,300.0,,,,200.0,,225.0,0.2970931826950979,4.0
+betmgm,333.0,0.20842955494118276,Charlotte Hornets @ Utah Jazz,player_points_alternate,Isaiah Collier,Over,14.5,,333.0,,,200.0,225.0,,,0.2790830380926519,4.33
+betonlineag,128.0,0.0881716537345062,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Vit Krejci,Over,9.5,,-110.0,128.0,,-115.0,,110.0,,0.477268269181801,2.28
+fanduel,135.0,0.08788365273197163,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Giannis Antetokounmpo,Over,5.5,,,103.0,-125.0,-105.0,,135.0,115.0,0.4629292139284985,2.35
+fanduel,-290.0,-0.04579344234516647,Golden State Warriors @ Minnesota Timberwolves,player_assists_alternate,Trayce Jackson-Davis,Over,1.5,,,-455.0,,,-400.0,-290.0,,0.7095382095382096,1.3448275862068966
+fanduel,-230.0,-0.008766626401769506,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Trae Young,Over,24.5,,-275.0,,-275.0,-310.0,-400.0,-230.0,-375.0,0.6908596240230092,1.434782608695652
+fanduel,110.0,0.0709191545833634,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Trae Young,Over,29.5,,105.0,-108.0,-120.0,-120.0,-140.0,110.0,-145.0,0.509961502182554,2.1
+fanduel,310.0,0.15646707943219584,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Vit Krejci,Over,5.5,,,228.0,,180.0,,310.0,,0.2820651413249258,4.1
+draftkings,-250.0,-0.02693814727749,Dallas Mavericks @ New Orleans Pelicans,player_rebounds_alternate,Daniel Gafford,Over,5.5,,,,-400.0,-250.0,,-310.0,-350.0,0.6950441805160786,1.4
+ballybet,380.0,0.22052698132432358,Dallas Mavericks @ New Orleans Pelicans,player_double_double,Daniel Gafford,Yes,,380.0,,,300.0,220.0,230.0,320.0,220.0,0.2542764544425674,4.8
+fanduel,300.0,0.16109043252081245,Charlotte Hornets @ Utah Jazz,player_rebounds_alternate,Brandon Miller,Over,5.5,,,185.0,,225.0,,300.0,220.0,0.2902726081302031,4.0
+betmgm,140.0,0.06914072061218202,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Bogdan Bogdanovic,Over,14.5,,140.0,,,115.0,105.0,,105.0,0.4454753002550758,2.4
+betmgm,275.0,0.15998400607948815,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Trae Young,Over,34.5,,275.0,204.0,220.0,195.0,165.0,260.0,170.0,0.3093290682878635,3.75
+betonlineag,-128.0,0.025331616995157846,Miami Heat @ Los Angeles Lakers,player_assists_alternate,Haywood Highsmith,Over,1.5,,,-128.0,,-175.0,-150.0,,,0.5756247674358781,1.78125
+fanduel,490.0,0.20676652035537035,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Vit Krejci,Over,14.5,,390.0,,,245.0,,490.0,,0.204536698365317,5.9
+betonlineag,128.0,0.0646870582060447,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Dyson Daniels,Over,5.5,,,128.0,-115.0,105.0,,110.0,100.0,0.4669680079851073,2.28
+betonlineag,120.0,0.05980066445182719,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Desmond Bane,Over,5.5,,,120.0,-110.0,-110.0,,110.0,-120.0,0.4817275747508305,2.2
+betmgm,400.0,0.1572847442412656,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Julian Champagnie,Over,4.5,,400.0,264.0,,,250.0,,275.0,0.2314569488482531,5.0
+betonlineag,-125.0,0.03845209035657593,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Trayce Jackson-Davis,Over,7.5,,,-125.0,-175.0,-165.0,-170.0,-140.0,-175.0,0.5769178279758755,1.8
+betmgm,550.0,0.2195575253943327,Charlotte Hornets @ Utah Jazz,player_points_alternate,Drew Eubanks,Over,14.5,,550.0,,,265.0,425.0,,,0.1876242346760512,6.5
+betonlineag,-128.0,0.02333635731424355,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Aaron Gordon,Over,3.5,,,-128.0,-170.0,-220.0,,-145.0,,0.5745046216501016,1.78125
+betonlineag,-204.0,-0.009836976562654254,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Fred VanVleet,Over,2.5,,,-204.0,,-260.0,-300.0,,-325.0,0.6644515025697977,1.4901960784313726
+fanduel,-270.0,-0.026412810011492316,Boston Celtics @ Toronto Raptors,player_rebounds_alternate,Jakob Poeltl,Over,7.5,,,,,-370.0,-375.0,-270.0,-375.0,0.7104555170186408,1.3703703703703702
+espnbet,250.0,0.1000704721634953,Brooklyn Nets @ Los Angeles Clippers,player_assists_alternate,Kawhi Leonard,Over,2.5,,180.0,,,120.0,250.0,,275.0,0.3143058491895701,3.5
+betonlineag,104.0,0.03453398233279259,Atlanta Hawks @ Chicago Bulls,player_points_rebounds_assists_alternate,Bogdan Bogdanovic,Over,19.5,,,104.0,,-115.0,-125.0,,,0.5071245011435258,2.04
+fanduel,-290.0,-0.046608841972354265,Boston Celtics @ Toronto Raptors,player_assists_alternate,Jakob Poeltl,Over,1.5,,,-455.0,,,-350.0,-290.0,,0.7089318867385058,1.3448275862068966
+fanduel,340.0,0.1580261595420558,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Brandon Clarke,Over,7.5,,,277.0,,,225.0,340.0,230.0,0.2631877635322854,4.4
+fanduel,-230.0,-0.017254263708308515,Dallas Mavericks @ New Orleans Pelicans,player_points_alternate,Daniel Gafford,Over,9.5,,,,-300.0,-245.0,-325.0,-230.0,-325.0,0.684943998021482,1.434782608695652
+fanduel,-290.0,-0.05523915158408266,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Zach Edey,Over,5.5,,,,-400.0,-400.0,,-290.0,-400.0,0.7025144770272206,1.3448275862068966
+betmgm,100.0,0.03022604390593453,Charlotte Hornets @ Utah Jazz,player_points_alternate,Drew Eubanks,Over,9.5,,100.0,,,-140.0,-110.0,,,0.5151130219529673,2.0
+betmgm,135.0,0.0546432167558949,New York Knicks @ Philadelphia 76ers,player_points_alternate,Caleb Martin,Over,9.5,,135.0,,,110.0,105.0,,105.0,0.4487843475556999,2.35
+betmgm,390.0,0.1464646464646462,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Jaden McDaniels,Over,6.5,,390.0,236.0,,300.0,,,260.0,0.2339723768295196,4.9
+fanduel,155.0,0.06870202200818487,Boston Celtics @ Toronto Raptors,player_assists_alternate,R.J. Barrett,Over,5.5,,,111.0,115.0,125.0,,155.0,125.0,0.4190988321600725,2.55
+fanduel,-135.0,0.0226998262008391,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,3.5,,,-179.0,-150.0,-175.0,-170.0,-135.0,-185.0,0.5875084107962267,1.7407407407407407
+betmgm,105.0,0.04542107947423557,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Trae Young,Over,29.5,,105.0,-108.0,-120.0,-120.0,-140.0,110.0,-145.0,0.509961502182554,2.05
+fanduel,110.0,0.042602913299315315,Boston Celtics @ Toronto Raptors,player_assists_alternate,Payton Pritchard,Over,3.5,,,104.0,,-125.0,-120.0,110.0,-115.0,0.4964775777615787,2.1
+fanduel,-360.0,-0.06740617288121309,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,3.5,,,,-440.0,-475.0,-550.0,-360.0,-550.0,0.7298560386147028,1.2777777777777777
+betonlineag,152.0,0.058537784551845995,Boston Celtics @ Toronto Raptors,player_assists_alternate,Davion Mitchell,Over,4.5,,110.0,152.0,,115.0,120.0,,115.0,0.4200546764094627,2.52
+betonlineag,-217.0,-0.014049138195434407,Boston Celtics @ Toronto Raptors,player_assists_alternate,Payton Pritchard,Over,2.5,,-350.0,-217.0,,-290.0,-285.0,,-300.0,0.6749253533488666,1.4608294930875576
+betmgm,210.0,0.09433952189125616,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Brandon Clarke,Over,9.5,,210.0,141.0,,,165.0,175.0,175.0,0.3530127489971794,3.1
+hardrockbet,325.0,0.13175488457190232,Charlotte Hornets @ Utah Jazz,player_points_alternate,Nick Richards,Over,9.5,,250.0,,,195.0,275.0,,325.0,0.2662952669580947,4.25
+fanduel,270.0,0.09520729894766866,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Aaron Gordon,Over,5.5,,,170.0,240.0,185.0,,270.0,,0.2960019726885591,3.7
+fanduel,-240.0,-0.026028618061616604,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Clint Capela,Over,7.5,,,,-260.0,-295.0,-350.0,-240.0,-350.0,0.6875092107800352,1.4166666666666667
+espnbet,-285.0,-0.050584126695956466,Houston Rockets @ Denver Nuggets,player_assists_alternate,Jalen Green,Over,1.5,,,-455.0,,,-285.0,-350.0,,0.7028143477705259,1.350877192982456
+betmgm,310.0,0.11070853242459022,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Victor Wembanyama,Over,14.5,,310.0,198.0,,245.0,225.0,,,0.2709045201035586,4.1
+betmgm,200.0,0.09331539806875566,Miami Heat @ Los Angeles Lakers,player_points_alternate,Haywood Highsmith,Over,9.5,,200.0,136.0,155.0,150.0,150.0,180.0,165.0,0.3644384660229185,3.0
+betmgm,450.0,0.1895050060320692,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Julius Randle,Over,9.5,,450.0,279.0,290.0,370.0,300.0,320.0,,0.2162736374603762,5.5
+betmgm,950.0,0.31512430543621406,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Clint Capela,Over,14.5,,950.0,593.0,,475.0,500.0,,,0.125249933851068,10.5
+fanduel,370.0,0.15586474041394505,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,7.5,,,228.0,290.0,270.0,250.0,370.0,275.0,0.2459286681731798,4.7
+draftkings,-320.0,-0.06099235642873746,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Santi Aldama,Over,3.5,,,,-500.0,-320.0,-425.0,-410.0,-450.0,0.7154343951019143,1.3125
+fanduel,550.0,0.21064586349595849,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Fred VanVleet,Over,5.5,,,253.0,475.0,475.0,,550.0,350.0,0.186253209768609,6.5
+fanduel,-140.0,0.016121581532476004,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Zaccharie Risacher,Over,9.5,,-200.0,,-165.0,-165.0,-170.0,-140.0,-170.0,0.5927375892272776,1.7142857142857144
+fanduel,-290.0,-0.05316034800403535,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Jaren Jackson Jr,Over,5.5,,,,-400.0,-310.0,,-290.0,-425.0,0.7040602540482814,1.3448275862068966
+betonlineag,-125.0,0.017979621065248086,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Onyeka Okongwu,Over,7.5,,,-125.0,,-155.0,-150.0,,-160.0,0.5655442339251378,1.8
+espnbet,900.0,0.30934813287331897,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Tre Jones,Over,7.5,,,354.0,,600.0,900.0,,,0.1309348132873319,10.0
+betonlineag,110.0,0.03933379165079898,Dallas Mavericks @ New Orleans Pelicans,player_rebounds_alternate,Daniel Gafford,Over,7.5,,,110.0,-115.0,-105.0,-120.0,100.0,-125.0,0.4949208531670471,2.1
+draftkings,300.0,0.126868701619532,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Santi Aldama,Over,7.5,,,175.0,250.0,300.0,220.0,250.0,225.0,0.281717175404883,4.0
+fanduel,120.0,0.04367347781832143,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Zaccharie Risacher,Over,3.5,,,104.0,100.0,100.0,105.0,120.0,-120.0,0.4743970353719642,2.2
+draftkings,105.0,0.03299815048508026,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Santi Aldama,Over,5.5,,,-116.0,-115.0,105.0,,-115.0,-125.0,0.5039015368219905,2.05
+fanduel,330.0,0.11294063079777339,Atlanta Hawks @ Chicago Bulls,player_assists_alternate,Vit Krejci,Over,5.5,,,292.0,,200.0,,330.0,,0.2588234025111101,4.3
+fanduel,330.0,0.1291223936279271,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,C.J. McCollum,Over,5.5,,,216.0,300.0,250.0,,330.0,240.0,0.2625866031692854,4.3
+fanduel,470.0,0.16825683889444232,Boston Celtics @ Toronto Raptors,player_assists_alternate,Payton Pritchard,Over,5.5,,,273.0,,350.0,,470.0,350.0,0.2049573401569197,5.7
+fanduel,260.0,0.11358464583630856,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Trae Young,Over,34.5,,275.0,204.0,220.0,195.0,165.0,260.0,170.0,0.3093290682878635,3.6
+betmgm,-140.0,0.006550365179496254,Charlotte Hornets @ Utah Jazz,player_points_alternate,Isaiah Collier,Over,9.5,,-140.0,,,-185.0,-150.0,,,0.5871543796880394,1.7142857142857144
+betmgm,310.0,0.0935254924709863,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Zach LaVine,Over,6.5,,310.0,189.0,,245.0,,,250.0,0.2667135347490211,4.1
+espnbet,-225.0,-0.023310758539481613,Brooklyn Nets @ Los Angeles Clippers,player_assists_alternate,Ivica Zubac,Over,1.5,,,-312.0,,,-225.0,-260.0,,0.676169474857282,1.4444444444444444
+espnbet,800.0,0.2618512187706241,Brooklyn Nets @ Los Angeles Clippers,player_assists_alternate,Kawhi Leonard,Over,3.5,,,,,310.0,800.0,,700.0,0.1402056909745138,9.0
+fanduel,-175.0,0.0028867873831530666,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Damian Lillard,Over,5.5,,,-213.0,-200.0,-230.0,,-175.0,-230.0,0.6382006828801883,1.5714285714285714
+fanduel,110.0,0.032897889640803424,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,5.5,,,104.0,-125.0,-115.0,,110.0,-110.0,0.4918561379241921,2.1
+betonlineag,152.0,0.04962908713563763,Charlotte Hornets @ Utah Jazz,player_threes,Keyonte George,Over,4.5,,,152.0,120.0,,120.0,,115.0,0.4165194790220784,2.52
+fanduel,210.0,0.08416204389492221,Brooklyn Nets @ Los Angeles Clippers,player_points_alternate,James Harden,Over,24.5,,140.0,158.0,,170.0,165.0,210.0,180.0,0.3497296915790072,3.1
+fanduel,-105.0,0.026651004451388127,Houston Rockets @ Denver Nuggets,player_points_alternate,Russell Westbrook,Over,14.5,,,-120.0,-125.0,-135.0,-130.0,-105.0,-135.0,0.5258456364263208,1.9523809523809523
+draftkings,220.0,0.06836226409115753,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Fred VanVleet,Over,4.5,,,157.0,,220.0,175.0,,170.0,0.3338632075284867,3.2
+draftkings,100.0,0.02231111972226496,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Stephon Castle,Over,14.5,,-110.0,,,100.0,-125.0,,-120.0,0.5111555598611325,2.0
+fanduel,132.0,0.0512470826964021,Orlando Magic @ Milwaukee Bucks,player_assists,Giannis Antetokounmpo,Over,5.5,108.0,,103.0,105.0,100.0,105.0,132.0,100.0,0.4531237425415525,2.3200000000000003
+draftkings,210.0,0.08139139933262718,Boston Celtics @ Toronto Raptors,player_rebounds_alternate,Scottie Barnes,Over,9.5,,175.0,147.0,150.0,210.0,180.0,155.0,,0.3488359352685894,3.1
+fanduel,155.0,0.05071663747268129,Golden State Warriors @ Minnesota Timberwolves,player_double_double,Rudy Gobert,Yes,,,,,130.0,130.0,120.0,155.0,120.0,0.4120457401853652,2.55
+fanduel,-380.0,-0.07546301482228246,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Alperen Sengun,Over,7.5,,,,-400.0,-550.0,-550.0,-380.0,-575.0,0.7319251132656931,1.263157894736842
+fanduel,-110.0,0.02224486214611332,Dallas Mavericks @ New Orleans Pelicans,player_assists_alternate,Dejounte Murray,Over,7.5,,,-120.0,-130.0,-140.0,-140.0,-110.0,-145.0,0.5354615944574881,1.9090909090909087
+betmgm,200.0,0.07752152503639076,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Zach Edey,Over,9.5,,200.0,136.0,150.0,145.0,165.0,175.0,180.0,0.3591738416787969,3.0
+fanduel,220.0,0.08727898751265828,New York Knicks @ Philadelphia 76ers,player_points_alternate,Jalen Brunson,Over,29.5,,200.0,142.0,150.0,170.0,180.0,220.0,185.0,0.3397746835977057,3.2
+betonlineag,126.0,0.030950097359626172,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Donte DiVincenzo,Over,4.5,,110.0,126.0,,-120.0,105.0,,100.0,0.4561726094511621,2.26
+bovada,525.0,0.17836667738450873,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Zaccharie Risacher,Over,5.5,,,336.0,525.0,390.0,,500.0,325.0,0.1885386683815214,6.25
+fanduel,-145.0,0.006954333933457679,Houston Rockets @ Denver Nuggets,player_points_alternate,Amen Thompson,Over,14.5,,,-185.0,-165.0,-165.0,-190.0,-145.0,-185.0,0.595952564981026,1.6896551724137931
+fanduel,290.0,0.11067345466812895,Atlanta Hawks @ Chicago Bulls,player_points_alternate,Zaccharie Risacher,Over,14.5,,240.0,210.0,260.0,205.0,210.0,290.0,230.0,0.2847880652995203,3.9
+betmgm,140.0,0.029900332225913262,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Mike Conley,Over,2.5,,140.0,,,110.0,110.0,,110.0,0.4291251384274639,2.4
+fanduel,-140.0,0.01157588899811235,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Paolo Banchero,Over,3.5,,,-169.0,-200.0,-170.0,-170.0,-140.0,-160.0,0.5900859352488989,1.7142857142857144
+fanduel,170.0,0.054545119729436875,Brooklyn Nets @ Los Angeles Clippers,player_rebounds_alternate,Kris Dunn,Over,3.5,,,134.0,,160.0,130.0,170.0,130.0,0.3905722665664581,2.7
+fanduel,-140.0,0.00882881927199608,Brooklyn Nets @ Los Angeles Clippers,player_points_alternate,James Harden,Over,19.5,,-225.0,,,-165.0,-160.0,-140.0,-160.0,0.5884834779086644,1.7142857142857144
+fanduel,380.0,0.12992959534419923,Memphis Grizzlies @ San Antonio Spurs,player_assists_alternate,Desmond Bane,Over,7.5,,,243.0,300.0,330.0,260.0,380.0,275.0,0.2354019990300415,4.8
+fanduel,165.0,0.0542781669700918,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Alperen Sengun,Over,11.5,,,131.0,150.0,125.0,130.0,165.0,130.0,0.397840817724563,2.65
+fanduel,-105.0,0.021531385426983185,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Zach Edey,Over,7.5,,,-114.0,-130.0,-135.0,-125.0,-105.0,-135.0,0.5232233925357719,1.9523809523809523
+fanduel,330.0,0.11415898915898892,Houston Rockets @ Denver Nuggets,player_points_alternate,Russell Westbrook,Over,19.5,,,,300.0,230.0,225.0,330.0,260.0,0.2591067416648812,4.3
+fanduel,-195.0,-0.015664899730542414,Orlando Magic @ Milwaukee Bucks,player_points_alternate,Brook Lopez,Over,9.5,,,-270.0,-220.0,-235.0,-240.0,-195.0,-240.0,0.6506621849238787,1.5128205128205128
+betmgm,135.0,0.026301218161683404,New York Knicks @ Philadelphia 76ers,player_rebounds_alternate,Caleb Martin,Over,4.5,,135.0,,,100.0,110.0,,110.0,0.4367239226219929,2.35
+betmgm,875.0,0.3071409564234573,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Santi Aldama,Over,9.5,,875.0,355.0,500.0,800.0,600.0,550.0,,0.1340657391203546,9.75
+draftkings,600.0,0.18457331245054975,Boston Celtics @ Toronto Raptors,player_rebounds_alternate,Scottie Barnes,Over,11.5,,,291.0,400.0,600.0,450.0,420.0,450.0,0.1692247589215071,7.0
+betmgm,170.0,0.05253077975376197,New York Knicks @ Philadelphia 76ers,player_points_alternate,Joel Embiid,Over,29.5,,170.0,116.0,,125.0,150.0,,155.0,0.3898262147236155,2.7
+bovada,100.0,0.02962899578945688,Miami Heat @ Los Angeles Lakers,player_assists,Anthony Davis,Under,3.5,,,-120.0,100.0,-130.0,-125.0,-125.0,-130.0,0.5148144978947284,2.0
+fanduel,-310.0,-0.055480188799868824,Golden State Warriors @ Minnesota Timberwolves,player_points_alternate,Naz Reid,Over,9.5,,-450.0,,-370.0,-425.0,-400.0,-310.0,-375.0,0.7141491255415625,1.3225806451612905
+fanduel,-104.0,0.024183439549890773,Dallas Mavericks @ New Orleans Pelicans,player_rebounds_assists,C.J. McCollum,Over,7.5,-109.0,,,,-130.0,-140.0,-104.0,-140.0,0.5221327338881796,1.9615384615384617
+betonlineag,120.0,0.03855920920899614,Memphis Grizzlies @ San Antonio Spurs,player_assists,Desmond Bane,Over,5.5,-109.0,,120.0,-105.0,-105.0,100.0,110.0,-120.0,0.4720723678222709,2.2
+fanduel,220.0,0.07728129384602433,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Clint Capela,Over,11.5,,,188.0,200.0,165.0,165.0,220.0,165.0,0.3366504043268826,3.2
+fanduel,300.0,0.09729545648238691,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Paolo Banchero,Over,5.5,,,214.0,210.0,250.0,,300.0,260.0,0.2743238641205967,4.0
+fanduel,210.0,0.0722117585558486,Orlando Magic @ Milwaukee Bucks,player_points_alternate,Brook Lopez,Over,14.5,,,146.0,190.0,180.0,160.0,210.0,170.0,0.3458747608244673,3.1
+fanduel,-310.0,-0.056558104428481415,Miami Heat @ Los Angeles Lakers,player_points_alternate,Jaime Jaquez Jr,Over,9.5,,-500.0,,-400.0,-360.0,-400.0,-310.0,-375.0,0.713334116163831,1.3225806451612905
+fanduel,-270.0,-0.04268634152397566,Boston Celtics @ Toronto Raptors,player_points_alternate,Jakob Poeltl,Over,9.5,,-450.0,,-300.0,-330.0,-325.0,-270.0,-325.0,0.698580237266288,1.3703703703703702
+draftkings,-115.0,0.015661340218728892,Golden State Warriors @ Minnesota Timberwolves,player_rebounds,Donte DiVincenzo,Under,4.5,,,-164.0,,-115.0,-140.0,-146.0,-145.0,0.5432607168611807,1.869565217391304
+hardrockbet,125.0,0.03003412124971061,Memphis Grizzlies @ San Antonio Spurs,player_points_alternate,Julian Champagnie,Over,9.5,,100.0,,,100.0,105.0,105.0,125.0,0.4577929427776492,2.25
+fanduel,170.0,0.045169108453471885,Orlando Magic @ Milwaukee Bucks,player_rebounds_alternate,Giannis Antetokounmpo,Over,13.5,,,131.0,130.0,155.0,,170.0,,0.3870996697975821,2.7
+betmgm,220.0,0.06620452941138377,Brooklyn Nets @ Los Angeles Clippers,player_rebounds_alternate,Norman Powell,Over,4.5,,220.0,150.0,,170.0,180.0,,185.0,0.3331889154410574,3.2
+betonlineag,126.0,0.032230779893731576,Golden State Warriors @ Minnesota Timberwolves,player_rebounds,Donte DiVincenzo,Over,4.5,,,126.0,,-115.0,105.0,114.0,100.0,0.4567392831388193,2.26
+fanduel,185.0,0.05971742900502175,New York Knicks @ Philadelphia 76ers,player_rebounds_alternate,Mikal Bridges,Over,3.5,,,135.0,160.0,155.0,145.0,185.0,150.0,0.3718306768438673,2.85
+betmgm,170.0,0.044099835027406664,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Jaylen Wells,Over,4.5,,170.0,128.0,,150.0,130.0,,130.0,0.3867036426027432,2.7
+fanduel,230.0,0.0749618838001529,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Jalen Green,Over,5.5,,,169.0,210.0,200.0,,230.0,170.0,0.3257460253939857,3.3
+fanduel,195.0,0.06318321415500328,Orlando Magic @ Milwaukee Bucks,player_assists_alternate,Damian Lillard,Over,7.5,,,141.0,175.0,155.0,160.0,195.0,155.0,0.3604010895440689,2.95
+fanduel,270.0,0.08850574980755588,Golden State Warriors @ Minnesota Timberwolves,player_assists_alternate,Donte DiVincenzo,Over,5.5,,,202.0,200.0,215.0,,270.0,220.0,0.2941907431912313,3.7
+bovada,115.0,0.024991182669586776,Brooklyn Nets @ Los Angeles Clippers,player_points,Kawhi Leonard,Under,12.5,,,,115.0,-110.0,-110.0,,-110.0,0.4767400849625985,2.15
+fanduel,500.0,0.16072936472049504,Orlando Magic @ Milwaukee Bucks,player_rebounds_alternate,Tristan da Silva,Over,7.5,,,307.0,450.0,350.0,350.0,500.0,350.0,0.1934548941200825,6.0
+fanduel,260.0,0.08358892569418863,Houston Rockets @ Denver Nuggets,player_points_alternate,Amen Thompson,Over,19.5,,,,225.0,225.0,185.0,260.0,200.0,0.3009969238039413,3.6
+draftkings,-245.0,-0.035487023194239686,Dallas Mavericks @ New Orleans Pelicans,player_points_alternate,Daniel Gafford,Over,9.5,,,,-300.0,-245.0,-325.0,-230.0,-325.0,0.684943998021482,1.4081632653061225
+betmgm,300.0,0.08331016166730199,New York Knicks @ Philadelphia 76ers,player_rebounds_alternate,Jalen Brunson,Over,4.5,,300.0,201.0,,220.0,240.0,,250.0,0.2708275404168255,4.0
+fanduel,-190.0,-0.014906798637361218,Houston Rockets @ Denver Nuggets,player_rebounds_alternate,Jalen Green,Over,3.5,,,-238.0,-210.0,-220.0,-250.0,-190.0,-260.0,0.6454058905479358,1.526315789473684
+fanduel,490.0,0.1453924441543719,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Trae Young,Over,5.5,,,295.0,420.0,340.0,,490.0,350.0,0.1941343125685376,5.9
+fanduel,-210.0,-0.020472118047214827,Boston Celtics @ Toronto Raptors,player_rebounds_alternate,Jayson Tatum,Over,7.5,,,-263.0,-300.0,-220.0,-260.0,-210.0,-275.0,0.6635511458389833,1.4761904761904765
+betmgm,775.0,0.20981554677206815,Golden State Warriors @ Minnesota Timberwolves,player_rebounds_alternate,Draymond Green,Over,9.5,,775.0,428.0,450.0,500.0,,600.0,,0.1382646339168078,8.75
+espnbet,-150.0,-0.00048707310435947004,Miami Heat @ Los Angeles Lakers,player_rebounds_alternate,Jaime Jaquez Jr,Over,4.5,,-210.0,-213.0,,-180.0,-150.0,,-165.0,0.5997077561373845,1.6666666666666663
+betmgm,275.0,0.07032915054253197,Memphis Grizzlies @ San Antonio Spurs,player_rebounds_alternate,Keldon Johnson,Over,6.5,,275.0,211.0,,210.0,,,210.0,0.2854211068113418,3.75
+fanduel,1100.0,0.2950118610771334,Atlanta Hawks @ Chicago Bulls,player_rebounds_alternate,Vit Krejci,Over,7.5,,,750.0,,475.0,,1100.0,,0.1079176550897611,12.0
+fanduel,180.0,0.050573933246004676,Golden State Warriors @ Minnesota Timberwolves,player_assists_alternate,Anthony Edwards,Over,5.5,,,144.0,135.0,160.0,,180.0,145.0,0.3752049761592874,2.8
+espnbet,425.0,0.09762749263240056,Golden State Warriors @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Donte DiVincenzo,Over,29.5,,,242.0,,330.0,425.0,,,0.2090719033585525,5.25
