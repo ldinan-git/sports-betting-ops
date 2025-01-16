@@ -12,7 +12,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -25,6 +25,30 @@
                             "description": "Cade Cunningham",
                             "price": -115,
                             "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyrese Haliburton",
+                            "price": 105,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyrese Haliburton",
+                            "price": -135,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pascal Siakam",
+                            "price": -166,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pascal Siakam",
+                            "price": 130,
+                            "point": 2.5
                         },
                         {
                             "name": "Over",
@@ -42,7 +66,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -53,7 +77,7 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": -360,
+                            "price": -350,
                             "point": 7.5
                         },
                         {
@@ -83,13 +107,13 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": -125,
+                            "price": -120,
                             "point": 9.5
                         },
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": -210,
+                            "price": -200,
                             "point": 8.5
                         },
                         {
@@ -101,19 +125,19 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 390,
+                            "price": 380,
                             "point": 4.5
                         },
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 850,
+                            "price": 800,
                             "point": 5.5
                         },
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 170,
+                            "price": 160,
                             "point": 3.5
                         },
                         {
@@ -124,24 +148,6 @@
                         },
                         {
                             "name": "Over",
-                            "description": "Jalen Duren",
-                            "price": 295,
-                            "point": 3.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Jalen Duren",
-                            "price": 700,
-                            "point": 4.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Jalen Duren",
-                            "price": 120,
-                            "point": 2.5
-                        },
-                        {
-                            "name": "Over",
                             "description": "Ausar Thompson",
                             "price": 700,
                             "point": 4.5
@@ -149,7 +155,7 @@
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 310,
+                            "price": 320,
                             "point": 3.5
                         },
                         {
@@ -160,8 +166,26 @@
                         },
                         {
                             "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": 310,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": 700,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": 125,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 265,
+                            "price": 260,
                             "point": 2.5
                         },
                         {
@@ -197,8 +221,24 @@
                     ]
                 },
                 {
+                    "key": "player_double_double",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Cade Cunningham",
+                            "price": -150
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tobias Harris",
+                            "price": 650
+                        }
+                    ]
+                },
+                {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -213,6 +253,30 @@
                             "point": 25.5
                         },
                         {
+                            "name": "Over",
+                            "description": "Pascal Siakam",
+                            "price": -105,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pascal Siakam",
+                            "price": -125,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyrese Haliburton",
+                            "price": -105,
+                            "point": 18.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyrese Haliburton",
+                            "price": -125,
+                            "point": 18.5
+                        },
+                        {
                             "name": "Under",
                             "description": "Malik Beasley",
                             "price": -115,
@@ -223,6 +287,18 @@
                             "description": "Malik Beasley",
                             "price": -115,
                             "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Myles Turner",
+                            "price": -120,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Myles Turner",
+                            "price": -110,
+                            "point": 14.5
                         },
                         {
                             "name": "Under",
@@ -252,7 +328,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -269,7 +345,7 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 190,
+                            "price": 180,
                             "point": 29.5
                         },
                         {
@@ -299,7 +375,7 @@
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 1200,
+                            "price": 1100,
                             "point": 29.5
                         },
                         {
@@ -347,19 +423,19 @@
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 1600,
+                            "price": 1500,
                             "point": 24.5
                         },
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 475,
+                            "price": 450,
                             "point": 19.5
                         },
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 300,
+                            "price": 290,
                             "point": 17.5
                         },
                         {
@@ -383,13 +459,13 @@
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": -275,
+                            "price": -270,
                             "point": 9.5
                         },
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 145,
+                            "price": 140,
                             "point": 14.5
                         },
                         {
@@ -401,7 +477,7 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 105,
+                            "price": 110,
                             "point": 14.5
                         },
                         {
@@ -413,13 +489,13 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 380,
+                            "price": 400,
                             "point": 19.5
                         },
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 230,
+                            "price": 240,
                             "point": 17.5
                         },
                         {
@@ -431,7 +507,7 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": -225,
+                            "price": -215,
                             "point": 11.5
                         },
                         {
@@ -461,13 +537,13 @@
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 125,
+                            "price": 130,
                             "point": 11.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -145,
+                            "price": -150,
                             "point": 9.5
                         },
                         {
@@ -491,7 +567,7 @@
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 155,
+                            "price": 150,
                             "point": 11.5
                         },
                         {
@@ -527,8 +603,122 @@
                     ]
                 },
                 {
+                    "key": "player_points_assists",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": -120,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": -110,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": -115,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": -115,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": -115,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": -125,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": -105,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Malik Beasley",
+                            "price": -120,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Malik Beasley",
+                            "price": -110,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tim Hardaway Jr",
+                            "price": 100,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tim Hardaway Jr",
+                            "price": -130,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": -110,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": -120,
+                            "point": 41.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": -125,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": -105,
+                            "point": 22.5
+                        }
+                    ]
+                },
+                {
                     "key": "player_points_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -551,7 +741,7 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 300,
+                            "price": 290,
                             "point": 49.5
                         },
                         {
@@ -563,25 +753,25 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 650,
+                            "price": 600,
                             "point": 54.5
                         },
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 390,
+                            "price": 380,
                             "point": 29.5
                         },
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 950,
+                            "price": 900,
                             "point": 34.5
                         },
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 155,
+                            "price": 160,
                             "point": 24.5
                         },
                         {
@@ -599,13 +789,13 @@
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": -550,
+                            "price": -525,
                             "point": 14.5
                         },
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": -270,
+                            "price": -260,
                             "point": 19.5
                         },
                         {
@@ -635,31 +825,31 @@
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 850,
+                            "price": 900,
                             "point": 34.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 330,
+                            "price": 340,
                             "point": 29.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -115,
+                            "price": -110,
                             "point": 22.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -220,
+                            "price": -210,
                             "point": 19.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 130,
+                            "price": 135,
                             "point": 24.5
                         },
                         {
@@ -720,7 +910,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Under",
@@ -737,13 +927,13 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": -140,
+                            "price": -145,
                             "point": 5.5
                         },
                         {
                             "name": "Under",
                             "description": "Cade Cunningham",
-                            "price": 110,
+                            "price": 114,
                             "point": 5.5
                         },
                         {
@@ -761,109 +951,109 @@
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 124,
+                            "price": 120,
                             "point": 2.5
                         },
                         {
                             "name": "Under",
                             "description": "Tim Hardaway Jr",
-                            "price": -160,
+                            "price": -154,
                             "point": 2.5
                         }
                     ]
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -340,
+                            "price": -320,
                             "point": 7.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 800,
+                            "price": 850,
                             "point": 15.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -600,
+                            "price": -125,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": -550,
                             "point": 6.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -135,
-                            "point": 9.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Jalen Duren",
-                            "price": -210,
+                            "price": -195,
                             "point": 8.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 115,
+                            "price": 120,
                             "point": 10.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 170,
+                            "price": 180,
                             "point": 11.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 370,
+                            "price": 400,
                             "point": 13.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 500,
-                            "point": 14.5
-                        },
-                        {
-                            "name": "Over",
-                            "description": "Jalen Duren",
-                            "price": 1100,
+                            "price": 1300,
                             "point": 16.5
                         },
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": 250,
+                            "price": 600,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": 275,
                             "point": 12.5
                         },
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": -160,
+                            "price": -155,
                             "point": 5.5
                         },
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 290,
+                            "price": 300,
                             "point": 8.5
                         },
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 450,
+                            "price": 475,
                             "point": 9.5
                         },
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 180,
+                            "price": 190,
                             "point": 7.5
                         },
                         {
@@ -875,13 +1065,13 @@
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 1100,
+                            "price": 1200,
                             "point": 11.5
                         },
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": -650,
+                            "price": -600,
                             "point": 3.5
                         },
                         {
@@ -893,7 +1083,7 @@
                         {
                             "name": "Over",
                             "description": "Ausar Thompson",
-                            "price": 110,
+                            "price": 115,
                             "point": 6.5
                         },
                         {
@@ -905,7 +1095,7 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": -700,
+                            "price": -750,
                             "point": 3.5
                         },
                         {
@@ -923,7 +1113,7 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 230,
+                            "price": 220,
                             "point": 7.5
                         },
                         {
@@ -935,13 +1125,13 @@
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 400,
+                            "price": 390,
                             "point": 8.5
                         },
                         {
                             "name": "Over",
                             "description": "Cade Cunningham",
-                            "price": 1300,
+                            "price": 1200,
                             "point": 10.5
                         },
                         {
@@ -953,7 +1143,7 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": -370,
+                            "price": -360,
                             "point": 4.5
                         },
                         {
@@ -971,7 +1161,7 @@
                         {
                             "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 950,
+                            "price": 1000,
                             "point": 10.5
                         },
                         {
@@ -989,19 +1179,19 @@
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 650,
+                            "price": 700,
                             "point": 5.5
                         },
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 145,
+                            "price": 150,
                             "point": 3.5
                         },
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": 310,
+                            "price": 320,
                             "point": 4.5
                         },
                         {
@@ -1013,7 +1203,7 @@
                         {
                             "name": "Over",
                             "description": "Tim Hardaway Jr",
-                            "price": 280,
+                            "price": 285,
                             "point": 3.5
                         },
                         {
@@ -1031,20 +1221,62 @@
                     ]
                 },
                 {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": -120,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": -110,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": 110,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": -140,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:30Z",
+                    "last_update": "2025-01-16T14:13:59Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": -135,
+                            "price": -140,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Malik Beasley",
-                            "price": 105,
+                            "price": 110,
                             "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyrese Haliburton",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyrese Haliburton",
+                            "price": 135,
+                            "point": 2.5
                         },
                         {
                             "name": "Over",
@@ -1072,15 +1304,50 @@
                         },
                         {
                             "name": "Over",
+                            "description": "Myles Turner",
+                            "price": -110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Myles Turner",
+                            "price": -120,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pascal Siakam",
+                            "price": -120,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pascal Siakam",
+                            "price": -110,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
                             "description": "Tobias Harris",
-                            "price": 120,
+                            "price": 124,
                             "point": 1.5
                         },
                         {
                             "name": "Under",
                             "description": "Tobias Harris",
-                            "price": -154,
+                            "price": -160,
                             "point": 1.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-01-16T14:13:59Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Cade Cunningham",
+                            "price": 800
                         }
                     ]
                 }
@@ -1092,7 +1359,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1134,7 +1401,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1206,7 +1473,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1242,7 +1509,7 @@
                 },
                 {
                     "key": "player_first_basket",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -1298,7 +1565,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1400,7 +1667,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1622,7 +1889,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1664,7 +1931,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1742,7 +2009,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1784,7 +2051,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -1862,7 +2129,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2066,7 +2333,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2108,7 +2375,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2126,7 +2393,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2204,7 +2471,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:59Z",
+                    "last_update": "2025-01-16T14:13:37Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -2221,7 +2488,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2335,7 +2602,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2521,7 +2788,7 @@
                 },
                 {
                     "key": "player_blocks",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2635,7 +2902,7 @@
                 },
                 {
                     "key": "player_blocks_steals",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2749,7 +3016,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -2825,7 +3092,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -2939,7 +3206,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3245,7 +3512,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3359,7 +3626,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3473,7 +3740,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3587,7 +3854,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3857,7 +4124,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -3971,7 +4238,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4217,7 +4484,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4331,7 +4598,7 @@
                 },
                 {
                     "key": "player_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4565,7 +4832,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4679,7 +4946,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4781,7 +5048,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -4797,7 +5064,7 @@
                 },
                 {
                     "key": "player_turnovers",
-                    "last_update": "2025-01-16T13:50:35Z",
+                    "last_update": "2025-01-16T14:13:41Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -4917,7 +5184,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5031,7 +5298,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5187,7 +5454,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5228,7 +5495,7 @@
                 },
                 {
                     "key": "player_first_basket",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -5279,7 +5546,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5393,7 +5660,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5615,7 +5882,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5729,7 +5996,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5818,13 +6085,13 @@
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -129,
+                            "price": -137,
                             "point": 19.5
                         },
                         {
                             "name": "Under",
                             "description": "Jalen Duren",
-                            "price": -106,
+                            "price": 100,
                             "point": 19.5
                         },
                         {
@@ -5843,7 +6110,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -5957,7 +6224,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6275,7 +6542,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6389,7 +6656,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6629,7 +6896,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -6743,7 +7010,7 @@
                 },
                 {
                     "key": "player_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7025,7 +7292,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7127,7 +7394,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:48:10Z",
+                    "last_update": "2025-01-16T14:12:16Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -7144,7 +7411,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7258,7 +7525,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7474,7 +7741,7 @@
                 },
                 {
                     "key": "player_blocks",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7588,7 +7855,7 @@
                 },
                 {
                     "key": "player_blocks_steals",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7702,7 +7969,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -7743,7 +8010,7 @@
                 },
                 {
                     "key": "player_first_basket",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -7839,7 +8106,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -7953,7 +8220,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -8211,7 +8478,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -8325,7 +8592,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -8439,7 +8706,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -8553,7 +8820,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -8667,7 +8934,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9051,7 +9318,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9165,7 +9432,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9279,7 +9546,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9381,7 +9648,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:34Z",
+                    "last_update": "2025-01-16T14:13:13Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -9398,7 +9665,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9512,7 +9779,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9758,7 +10025,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -9834,7 +10101,7 @@
                 },
                 {
                     "key": "player_first_basket",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -9885,7 +10152,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -9914,14 +10181,14 @@
                         {
                             "name": "Over",
                             "description": "Malik Beasley",
-                            "price": -125,
-                            "point": 15.5
+                            "price": -105,
+                            "point": 16.5
                         },
                         {
                             "name": "Under",
                             "description": "Malik Beasley",
-                            "price": -105,
-                            "point": 15.5
+                            "price": -125,
+                            "point": 16.5
                         },
                         {
                             "name": "Over",
@@ -9999,7 +10266,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -10390,12 +10657,228 @@
                             "description": "Cade Cunningham",
                             "price": 1300,
                             "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": 100,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": -130,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Cade Cunningham",
+                            "price": -140,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Cade Cunningham",
+                            "price": 105,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pascal Siakam",
+                            "price": -125,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pascal Siakam",
+                            "price": -105,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Pascal Siakam",
+                            "price": 115,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Pascal Siakam",
+                            "price": -150,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Malik Beasley",
+                            "price": -125,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Malik Beasley",
+                            "price": -105,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Malik Beasley",
+                            "price": 115,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Malik Beasley",
+                            "price": -150,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Myles Turner",
+                            "price": -150,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Myles Turner",
+                            "price": 115,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Myles Turner",
+                            "price": 115,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Myles Turner",
+                            "price": -150,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tim Hardaway Jr",
+                            "price": -130,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tim Hardaway Jr",
+                            "price": 100,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tim Hardaway Jr",
+                            "price": 120,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tim Hardaway Jr",
+                            "price": -160,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": -140,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": 105,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tobias Harris",
+                            "price": 120,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tobias Harris",
+                            "price": -160,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyrese Haliburton",
+                            "price": 100,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyrese Haliburton",
+                            "price": -130,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tyrese Haliburton",
+                            "price": -160,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tyrese Haliburton",
+                            "price": 120,
+                            "point": 17.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": 115,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jalen Duren",
+                            "price": -150,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Jalen Duren",
+                            "price": -170,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Jalen Duren",
+                            "price": 125,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ausar Thompson",
+                            "price": -140,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ausar Thompson",
+                            "price": 105,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Ausar Thompson",
+                            "price": 130,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Ausar Thompson",
+                            "price": -180,
+                            "point": 10.5
                         }
                     ]
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -10509,7 +10992,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -10623,7 +11106,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -10737,7 +11220,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -11109,7 +11592,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -11223,7 +11706,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -11523,7 +12006,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -11637,7 +12120,7 @@
                 },
                 {
                     "key": "player_rebounds_assists_alternate",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -11913,7 +12396,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12015,7 +12498,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -12031,7 +12514,7 @@
                 },
                 {
                     "key": "player_turnovers",
-                    "last_update": "2025-01-16T13:50:49Z",
+                    "last_update": "2025-01-16T14:13:31Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12151,7 +12634,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12265,7 +12748,7 @@
                 },
                 {
                     "key": "player_blocks",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12379,7 +12862,7 @@
                 },
                 {
                     "key": "player_blocks_steals",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12493,7 +12976,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -12559,7 +13042,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12673,7 +13156,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12714,13 +13197,13 @@
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -105,
+                            "price": -115,
                             "point": 12.5
                         },
                         {
                             "name": "Under",
                             "description": "Jalen Duren",
-                            "price": -125,
+                            "price": -115,
                             "point": 12.5
                         },
                         {
@@ -12787,7 +13270,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -12901,7 +13384,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13015,18 +13498,18 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
                             "description": "Tyrese Haliburton",
-                            "price": -120,
+                            "price": -110,
                             "point": 3.5
                         },
                         {
                             "name": "Under",
                             "description": "Tyrese Haliburton",
-                            "price": -110,
+                            "price": -120,
                             "point": 3.5
                         },
                         {
@@ -13117,7 +13600,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13231,7 +13714,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13345,7 +13828,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13447,7 +13930,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -13463,7 +13946,7 @@
                 },
                 {
                     "key": "player_turnovers",
-                    "last_update": "2025-01-16T13:49:47Z",
+                    "last_update": "2025-01-16T14:13:18Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13583,7 +14066,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13613,7 +14096,7 @@
                 },
                 {
                     "key": "player_assists_alternate",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13685,7 +14168,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -13721,7 +14204,7 @@
                 },
                 {
                     "key": "player_first_basket",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -13777,7 +14260,7 @@
                 },
                 {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -13891,7 +14374,7 @@
                 },
                 {
                     "key": "player_points_alternate",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14119,7 +14602,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:46:03Z",
+                    "last_update": "2025-01-16T14:11:25Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14161,7 +14644,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:46:03Z",
+                    "last_update": "2025-01-16T14:11:25Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14239,7 +14722,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14268,13 +14751,13 @@
                         {
                             "name": "Over",
                             "description": "Jalen Duren",
-                            "price": -160,
+                            "price": -150,
                             "point": 21.5
                         },
                         {
                             "name": "Under",
                             "description": "Jalen Duren",
-                            "price": 120,
+                            "price": 115,
                             "point": 21.5
                         },
                         {
@@ -14353,7 +14836,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14431,7 +14914,7 @@
                 },
                 {
                     "key": "player_rebounds_alternate",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14623,7 +15106,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:46:03Z",
+                    "last_update": "2025-01-16T14:11:25Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14665,7 +15148,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14755,7 +15238,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:09Z",
+                    "last_update": "2025-01-16T14:13:26Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -14772,7 +15255,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14814,7 +15297,7 @@
                 },
                 {
                     "key": "player_blocks",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14880,7 +15363,7 @@
                 },
                 {
                     "key": "player_blocks_steals",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -14946,7 +15429,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -14976,8 +15459,64 @@
                     ]
                 },
                 {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-16T14:13:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Cade Cunningham",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jalen Duren",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tim Hardaway Jr",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tobias Harris",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ausar Thompson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "T.J. McConnell",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Nembhard",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Sheppard",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pascal Siakam",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Myles Turner",
+                            "price": 650
+                        }
+                    ]
+                },
+                {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15067,7 +15606,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15109,7 +15648,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15187,7 +15726,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15229,7 +15768,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15307,7 +15846,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15349,7 +15888,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15439,7 +15978,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15505,7 +16044,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:11Z",
+                    "last_update": "2025-01-16T14:13:36Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -15522,7 +16061,7 @@
             "markets": [
                 {
                     "key": "player_assists",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15564,7 +16103,7 @@
                 },
                 {
                     "key": "player_blocks",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15630,7 +16169,7 @@
                 },
                 {
                     "key": "player_blocks_steals",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15696,7 +16235,7 @@
                 },
                 {
                     "key": "player_double_double",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Yes",
@@ -15726,8 +16265,64 @@
                     ]
                 },
                 {
+                    "key": "player_first_basket",
+                    "last_update": "2025-01-16T14:13:21Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Cade Cunningham",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jalen Duren",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tim Hardaway Jr",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Tobias Harris",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ausar Thompson",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "T.J. McConnell",
+                            "price": 1600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Andrew Nembhard",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ben Sheppard",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Pascal Siakam",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Myles Turner",
+                            "price": 650
+                        }
+                    ]
+                },
+                {
                     "key": "player_points",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15817,7 +16412,7 @@
                 },
                 {
                     "key": "player_points_assists",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15859,7 +16454,7 @@
                 },
                 {
                     "key": "player_points_rebounds",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15937,7 +16532,7 @@
                 },
                 {
                     "key": "player_points_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -15979,7 +16574,7 @@
                 },
                 {
                     "key": "player_rebounds",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -16057,7 +16652,7 @@
                 },
                 {
                     "key": "player_rebounds_assists",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -16099,7 +16694,7 @@
                 },
                 {
                     "key": "player_steals",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -16189,7 +16784,7 @@
                 },
                 {
                     "key": "player_threes",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Over",
@@ -16255,7 +16850,7 @@
                 },
                 {
                     "key": "player_triple_double",
-                    "last_update": "2025-01-16T13:50:08Z",
+                    "last_update": "2025-01-16T14:13:21Z",
                     "outcomes": [
                         {
                             "name": "Yes",
