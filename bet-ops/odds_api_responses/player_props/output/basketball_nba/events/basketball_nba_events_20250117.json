@@ -1,0 +1,83 @@
+[
+    {
+        "id": "95cafe4d06fb0ec814b86612635bb094",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T00:10:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Orlando Magic",
+        "date": "20250117"
+    },
+    {
+        "id": "8cfe98192375f79406df25997c65373b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T00:40:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20250117"
+    },
+    {
+        "id": "98e1d99a88a96fd2b4c7706a8806f883",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Charlotte Hornets",
+        "date": "20250117"
+    },
+    {
+        "id": "7ad3239c7447ea61f41bb61ba02dcd57",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T01:10:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Denver Nuggets",
+        "date": "20250117"
+    },
+    {
+        "id": "1919d2323b44dce7be0f3b5ed5ab9301",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T01:10:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Toronto Raptors",
+        "date": "20250117"
+    },
+    {
+        "id": "e8a60d35af7c2e468bfb924ca376ca27",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Utah Jazz",
+        "date": "20250117"
+    },
+    {
+        "id": "167ff7864fd94f3b57ff0b8e7782abd3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T01:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20250117"
+    },
+    {
+        "id": "de7b7ec3f43b79a85c949f46bf5e86d4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T02:40:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Memphis Grizzlies",
+        "date": "20250117"
+    },
+    {
+        "id": "eac986570ca49807e7f8fef6c7deace9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-18T03:40:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Brooklyn Nets",
+        "date": "20250117"
+    }
+]
