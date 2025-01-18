@@ -1,0 +1,274 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+espnbet,2000.0,3.9834384969931693,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Jordan Poole,Over,7.5,,,1761.0,-10000.0,,2000.0,,,2000.0,0.2373065950949128,21.0
+hardrockbet,2000.0,3.9834384969931693,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Jordan Poole,Over,7.5,,,1761.0,-10000.0,,2000.0,,,2000.0,0.2373065950949128,21.0
+betonlineag,1761.0,3.4162757347163275,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Jordan Poole,Over,7.5,,,1761.0,-10000.0,,2000.0,,,2000.0,0.2373065950949128,18.61
+draftkings,1100.0,1.7378463160139792,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Shaedon Sharpe,Over,5.5,,,666.0,-1000.0,1100.0,,,,850.0,0.2281538596678316,12.0
+hardrockbet,1600.0,2.3902762101830954,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Amen Thompson,Over,7.5,,,1229.0,-1000.0,,1500.0,,,1600.0,0.1994280123637115,17.0
+espnbet,1500.0,2.190848197819384,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Amen Thompson,Over,7.5,,,1229.0,-1000.0,,1500.0,,,1600.0,0.1994280123637115,16.0
+hardrockbet,850.0,1.1674616668444004,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Shaedon Sharpe,Over,5.5,,,666.0,-1000.0,1100.0,,,,850.0,0.2281538596678316,9.5
+betonlineag,1229.0,1.6503982843137255,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Amen Thompson,Over,7.5,,,1229.0,-1000.0,,1500.0,,,1600.0,0.1994280123637115,13.29
+betonlineag,666.0,0.7476585650555903,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Shaedon Sharpe,Over,5.5,,,666.0,-1000.0,1100.0,,,,850.0,0.2281538596678316,7.66
+fanduel,370.0,0.37441415577687454,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Anfernee Simons,Over,24.5,,240.0,200.0,210.0,230.0,190.0,370.0,195.0,210.0,0.2924285437823137,4.7
+fanduel,185.0,0.15931921258322856,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,7.5,,,141.0,150.0,-140.0,,185.0,,,0.4067786710818346,2.85
+betonlineag,-167.0,0.026192517100423807,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Cam Whitmore,Over,2.5,,-350.0,-167.0,,-230.0,-210.0,,,,0.6418507503961451,1.598802395209581
+fanduel,-260.0,-0.013254920252173341,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Anfernee Simons,Over,14.5,,-450.0,,-400.0,-380.0,-400.0,-260.0,-435.0,-375.0,0.7126492242623192,1.3846153846153846
+fanduel,430.0,0.22449063327158125,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,9.5,,,258.0,400.0,180.0,,430.0,,,0.2310359685418078,5.3
+fanduel,110.0,0.07781075754778488,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Anfernee Simons,Over,19.5,,-120.0,,-140.0,-125.0,-120.0,110.0,-130.0,-120.0,0.5132432178798976,2.1
+fanduel,-165.0,0.02430776481550656,Washington Wizards @ Golden State Warriors,player_points_alternate,Trayce Jackson-Davis,Over,9.5,,,-250.0,-180.0,-215.0,-240.0,-165.0,-260.0,-240.0,0.6377765328096551,1.606060606060606
+espnbet,900.0,0.42437750327743684,Houston Rockets @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Fred VanVleet,Over,34.5,,,298.0,,550.0,900.0,,,,0.1424377503277437,10.0
+fanduel,180.0,0.10926822917020673,Washington Wizards @ Golden State Warriors,player_points_alternate,Stephen Curry,Over,29.5,,135.0,132.0,150.0,120.0,130.0,180.0,,135.0,0.3961672247036453,2.8
+fanduel,260.0,0.1544890506672374,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Tyus Jones,Over,7.5,,,150.0,180.0,195.0,175.0,260.0,220.0,185.0,0.3206914029631215,3.6
+hardrockbet,190.0,0.11470871003056993,Washington Wizards @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,14.5,,120.0,120.0,130.0,145.0,150.0,140.0,,190.0,0.3843823138036448,2.9
+fanduel,145.0,0.08003367773315628,Washington Wizards @ Golden State Warriors,player_points_alternate,Carlton Carrington,Over,9.5,,-110.0,,115.0,105.0,120.0,145.0,110.0,120.0,0.4408300725441454,2.45
+betonlineag,-147.0,0.0002361385596177934,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,5.5,,,-147.0,-150.0,-425.0,,-155.0,,,0.5952822363087603,1.6802721088435373
+fanduel,-130.0,0.034271525323809504,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Anthony Edwards,Over,5.5,,,-182.0,-150.0,-180.0,,-130.0,,-170.0,0.5845882534438923,1.7692307692307692
+draftkings,185.0,0.09018402348610288,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Tim Hardaway Jr,Over,2.5,,115.0,136.0,,185.0,145.0,,,145.0,0.3825207099951238,2.85
+bovada,400.0,0.15517984270903895,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,9.5,,,258.0,400.0,180.0,,430.0,,,0.2310359685418078,5.0
+espnbet,-140.0,0.019421522047178508,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Cam Whitmore,Over,9.5,,-200.0,,,-170.0,-140.0,,,,0.5946625545275208,1.7142857142857144
+fanduel,-125.0,0.03292931862043069,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Tyus Jones,Over,5.5,,,-156.0,-180.0,-165.0,,-125.0,-155.0,-165.0,0.5738496214557948,1.8
+draftkings,190.0,0.07987550072078275,Philadelphia 76ers @ Indiana Pacers,player_points_rebounds_assists_alternate,Tyrese Maxey,Over,44.5,,,143.0,,190.0,145.0,,,,0.3723708623175113,2.9
+fanduel,-120.0,0.03695457084855813,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyle Kuzma,Over,14.5,,-190.0,,-130.0,-150.0,-150.0,-120.0,,-155.0,0.5656115840992135,1.8333333333333333
+fanduel,-320.0,-0.05819638027876006,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Shaedon Sharpe,Over,1.5,,,-400.0,,,-425.0,-320.0,,,0.7175646626447542,1.3125
+ballybet,550.0,0.2827623929572822,Cleveland Cavaliers @ Minnesota Timberwolves,player_double_double,Darius Garland,Yes,,550.0,350.0,,350.0,340.0,320.0,380.0,330.0,325.0,0.1973480604549665,6.5
+bovada,-150.0,-0.007862939485399623,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,5.5,,,-147.0,-150.0,-425.0,,-155.0,,,0.5952822363087603,1.6666666666666663
+bovada,135.0,0.04115079261179044,Cleveland Cavaliers @ Minnesota Timberwolves,player_points,Rudy Gobert,Over,10.5,,110.0,,135.0,,,,-115.0,110.0,0.4430428904731023,2.35
+fanduel,290.0,0.1442474584747231,Philadelphia 76ers @ Indiana Pacers,player_points_alternate,Bennedict Mathurin,Over,19.5,,200.0,200.0,200.0,190.0,220.0,290.0,,240.0,0.293396784224288,3.9
+espnbet,-125.0,0.009951826118367757,Phoenix Suns @ Detroit Pistons,player_rebounds_assists_alternate,Jalen Duren,Over,11.5,,,-208.0,,,-125.0,,-140.0,,0.5610843478435377,1.8
+fanduel,110.0,0.04364709450897175,Cleveland Cavaliers @ Minnesota Timberwolves,player_double_double,Evan Mobley,Yes,,100.0,-125.0,,-110.0,-110.0,-120.0,110.0,-130.0,-130.0,0.4969748069090341,2.1
+draftkings,-120.0,0.02864977663269075,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,19.5,,-175.0,,-175.0,-120.0,-145.0,-120.0,,-150.0,0.5610816963451041,1.8333333333333333
+fanduel,-120.0,0.02864977663269075,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,19.5,,-175.0,,-175.0,-120.0,-145.0,-120.0,,-150.0,0.5610816963451041,1.8333333333333333
+espnbet,-225.0,-0.022387087907707715,Washington Wizards @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,9.5,,-400.0,,-400.0,-260.0,-225.0,-320.0,,-230.0,0.6768089391408177,1.4444444444444444
+bovada,200.0,0.08911153176105158,Washington Wizards @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,14.5,,120.0,,200.0,160.0,145.0,185.0,,155.0,0.3630371772536839,3.0
+ballybet,160.0,0.07282190836077373,Cleveland Cavaliers @ Minnesota Timberwolves,player_threes,Jaden McDaniels,Over,1.5,160.0,120.0,128.0,125.0,124.0,120.0,146.0,110.0,115.0,0.4126238109079899,2.6
+espnbet,2000.0,0.7203192364754458,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Dennis Schroder,Over,34.5,,,487.0,,1000.0,2000.0,,,,0.0819199636416879,21.0
+bovada,-150.0,0.012854992937068044,Washington Wizards @ Golden State Warriors,player_points_alternate,Stephen Curry,Over,24.5,,-210.0,,-150.0,-205.0,-190.0,-150.0,,-190.0,0.607712995762241,1.6666666666666663
+fanduel,-150.0,0.012854992937068044,Washington Wizards @ Golden State Warriors,player_points_alternate,Stephen Curry,Over,24.5,,-210.0,,-150.0,-205.0,-190.0,-150.0,,-190.0,0.607712995762241,1.6666666666666663
+fanduel,120.0,0.045235613418218135,Atlanta Hawks @ Boston Celtics,player_points_alternate,Trae Young,Over,24.5,,-140.0,,100.0,-105.0,100.0,120.0,,105.0,0.4751070970082809,2.2
+fanduel,220.0,0.09484431871147403,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Malik Beasley,Over,3.5,,,157.0,150.0,195.0,175.0,220.0,,170.0,0.3421388495973356,3.2
+ballybet,285.0,0.11499956577725912,Atlanta Hawks @ Boston Celtics,player_double_double,Clint Capela,Yes,,285.0,210.0,,210.0,,210.0,240.0,190.0,195.0,0.2896102768252621,3.85
+draftkings,-145.0,0.0060971874039523755,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Mike Conley,Over,14.5,,,-179.0,,-145.0,-170.0,,-190.0,,0.5954452741778493,1.6896551724137931
+fanduel,280.0,0.11023976241389799,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Shaedon Sharpe,Over,5.5,,,193.0,250.0,200.0,,280.0,,210.0,0.2921683585299732,3.8
+fanduel,270.0,0.1158077069665937,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyle Kuzma,Over,19.5,,195.0,178.0,250.0,225.0,190.0,270.0,195.0,210.0,0.3015696505315118,3.7
+fanduel,-160.0,0.008296176335775285,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Shaedon Sharpe,Over,3.5,,,-222.0,-200.0,-220.0,-190.0,-160.0,,-195.0,0.6204899546681694,1.625
+fanduel,-150.0,0.013777699246553032,Washington Wizards @ Golden State Warriors,player_assists_alternate,Carlton Carrington,Over,3.5,,,-200.0,-175.0,-195.0,-190.0,-150.0,,-195.0,0.6082666195479319,1.6666666666666663
+ballybet,104.0,0.036670991468732206,Houston Rockets @ Portland Trail Blazers,player_rebounds,Dillon Brooks,Under,3.5,104.0,-120.0,-118.0,,-120.0,-120.0,-111.0,-150.0,-130.0,0.5081720546415354,2.04
+fanduel,-230.0,-0.024412701457827035,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Jayson Tatum,Over,7.5,,,,-280.0,-255.0,-300.0,-230.0,-330.0,-325.0,0.6799547838324236,1.434782608695652
+fanduel,-230.0,-0.025213591780199995,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,7.5,,,,-250.0,-290.0,-300.0,-230.0,-330.0,-325.0,0.6793965875471334,1.434782608695652
+bovada,105.0,0.0363652103284684,Phoenix Suns @ Detroit Pistons,player_points_rebounds,Devin Booker,Over,31.5,-118.0,-125.0,,105.0,-120.0,-125.0,-104.0,-135.0,-130.0,0.5055440050382773,2.05
+fanduel,260.0,0.10258200372174886,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Evan Mobley,Over,11.5,,,197.0,240.0,215.0,180.0,260.0,,180.0,0.3062727788115969,3.6
+betonlineag,-345.0,-0.05905186584381528,Washington Wizards @ Golden State Warriors,player_assists_alternate,Kyle Kuzma,Over,1.5,,,-345.0,,,-425.0,-500.0,-450.0,,0.7294991152446826,1.289855072463768
+fanduel,950.0,0.36941142546173933,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Anfernee Simons,Over,29.5,,675.0,,600.0,550.0,500.0,950.0,495.0,575.0,0.1304201357582609,10.5
+fanduel,-480.0,-0.07351196659266324,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Tyus Jones,Over,3.5,,,-769.0,-700.0,-700.0,-650.0,-480.0,-805.0,-700.0,0.7667487173026236,1.2083333333333333
+draftkings,550.0,0.1487665258279951,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Maxey,Over,6.5,,400.0,277.0,,550.0,,,,450.0,0.1767333116658454,6.5
+hardrockbet,-230.0,-0.02892630471100066,Washington Wizards @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,9.5,,-400.0,,-400.0,-260.0,-225.0,-320.0,,-230.0,0.6768089391408177,1.434782608695652
+fanduel,360.0,0.13829672272237437,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Toumani Camara,Over,14.5,,300.0,224.0,,285.0,250.0,360.0,,275.0,0.2474558092874727,4.6
+bovada,-180.0,-0.007903171184980962,Washington Wizards @ Golden State Warriors,player_points_alternate,Trayce Jackson-Davis,Over,9.5,,,-250.0,-180.0,-215.0,-240.0,-165.0,-260.0,-240.0,0.6377765328096551,1.5555555555555556
+fanduel,-125.0,0.01519305396577253,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Toumani Camara,Over,9.5,,-155.0,,,-150.0,-145.0,-125.0,,-150.0,0.5639961410920958,1.8
+fanduel,150.0,0.05366586456867506,Phoenix Suns @ Detroit Pistons,player_points_alternate,Devin Booker,Over,29.5,,110.0,121.0,130.0,120.0,120.0,150.0,,120.0,0.42146634582747,2.5
+bovada,400.0,0.12173127413291362,Washington Wizards @ Golden State Warriors,player_points_alternate,Stephen Curry,Over,34.5,,,,400.0,275.0,275.0,,,325.0,0.2243462548265827,5.0
+fanduel,125.0,0.03345374965344572,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,9.5,,,,105.0,120.0,100.0,125.0,-105.0,100.0,0.4593127776237536,2.25
+fanduel,-155.0,-0.020664708008168664,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,5.5,,,-147.0,-150.0,-425.0,,-155.0,,,0.5952822363087603,1.6451612903225803
+ballybet,110.0,0.036631803400736684,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_assists,Darius Garland,Over,9.5,110.0,-125.0,,105.0,-115.0,-115.0,-104.0,-135.0,-125.0,0.4936341920955889,2.1
+fanduel,160.0,0.05491926925794077,Cleveland Cavaliers @ Minnesota Timberwolves,player_double_double,Rudy Gobert,Yes,,150.0,115.0,,130.0,145.0,125.0,160.0,110.0,115.0,0.4057381804838234,2.6
+betmgm,350.0,0.1282014877261115,Atlanta Hawks @ Boston Celtics,player_points_alternate,Jaylen Brown,Over,29.5,,350.0,251.0,250.0,270.0,240.0,290.0,,260.0,0.2507114417169137,4.5
+fanduel,-390.0,-0.07613688195700707,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,3.5,,,,-500.0,-475.0,-550.0,-390.0,,-550.0,0.7353196245648311,1.2564102564102564
+fanduel,-230.0,-0.029715761244784367,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Devin Booker,Over,5.5,,,-303.0,-300.0,-260.0,,-230.0,,-300.0,0.6762587118596958,1.434782608695652
+ballybet,700.0,0.26364445533857284,Washington Wizards @ Golden State Warriors,player_double_double,Draymond Green,Yes,,700.0,450.0,,450.0,450.0,400.0,500.0,415.0,425.0,0.1579555569173216,8.0
+fanduel,260.0,0.09571573763280916,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Anthony Edwards,Over,7.5,,,190.0,240.0,190.0,190.0,260.0,,200.0,0.3043654826757803,3.6
+draftkings,155.0,0.03658723976961431,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Rudy Gobert,Over,24.5,,,131.0,,155.0,125.0,,,,0.4065047999096527,2.55
+fanduel,-190.0,-0.007684456600865253,Washington Wizards @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,9.5,,-350.0,-233.0,-200.0,-215.0,-240.0,-190.0,,-240.0,0.6501377698132262,1.526315789473684
+ballybet,500.0,0.19476004443569606,Washington Wizards @ Golden State Warriors,player_double_double,Alex Sarr,Yes,,500.0,350.0,,330.0,370.0,320.0,380.0,330.0,325.0,0.199126674072616,6.0
+bovada,650.0,0.22110490188474197,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Dyson Daniels,Over,7.5,,,415.0,650.0,550.0,400.0,550.0,,350.0,0.1628139869179656,7.5
+fanduel,-390.0,-0.07693634434138175,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,3.5,,,,-420.0,-475.0,-575.0,-390.0,,-600.0,0.7346833177691042,1.2564102564102564
+fanduel,-120.0,0.016747465861689736,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_alternate,Rudy Gobert,Over,9.5,,,-130.0,-140.0,-135.0,-150.0,-120.0,,-155.0,0.5545895268336489,1.8333333333333333
+fanduel,950.0,0.25474179325999613,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,11.5,,,481.0,900.0,425.0,,950.0,,,0.1194992184057139,10.5
+fanduel,290.0,0.07345789825538951,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,De'Andre Hunter,Over,5.5,,,167.0,250.0,250.0,,290.0,,,0.2752456149372794,3.9
+draftkings,-245.0,-0.032956198869533604,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Dyson Daniels,Over,3.5,,,-294.0,-300.0,-245.0,-325.0,-280.0,,-350.0,0.6867412500781572,1.4081632653061225
+espnbet,-110.0,0.019615563540713143,Atlanta Hawks @ Boston Celtics,player_assists_alternate,Trae Young,Over,9.5,,-175.0,-125.0,-150.0,-135.0,-110.0,-120.0,,,0.5340843428070403,1.9090909090909087
+bovada,105.0,0.0323419846453985,Phoenix Suns @ Detroit Pistons,player_points_assists,Devin Booker,Over,34.5,-112.0,-125.0,,105.0,-115.0,-125.0,-104.0,-135.0,-125.0,0.5035814559245847,2.05
+fanduel,-230.0,-0.0294411593593904,Atlanta Hawks @ Boston Celtics,player_points_alternate,Trae Young,Over,19.5,,-450.0,,-250.0,-285.0,-275.0,-230.0,,-275.0,0.6764501010525461,1.434782608695652
+fanduel,-102.0,0.02674933112132938,Phoenix Suns @ Detroit Pistons,player_points,Jalen Duren,Under,10.5,-121.0,-135.0,-120.0,,-130.0,-130.0,-102.0,-145.0,-135.0,0.5184575830414635,1.9803921568627447
+hardrockbet,325.0,0.08426985966918554,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Alperen Sengun,Over,6.5,,260.0,205.0,,265.0,,,,325.0,0.2551223199221613,4.25
+betonlineag,110.0,0.014146928192009911,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Trayce Jackson-Davis,Over,24.5,,,110.0,,-105.0,-110.0,,-115.0,,0.4829271086628618,2.1
+draftkings,170.0,0.03261780996627639,Philadelphia 76ers @ Indiana Pacers,player_assists_alternate,Myles Turner,Over,1.5,,,,,170.0,145.0,,145.0,,0.3824510407282505,2.7
+bovada,115.0,0.028776761276770202,Washington Wizards @ Golden State Warriors,player_points_alternate,Andrew Wiggins,Over,19.5,,-120.0,,115.0,-105.0,-110.0,115.0,,-110.0,0.4785008191984978,2.15
+fanduel,115.0,0.028776761276770202,Washington Wizards @ Golden State Warriors,player_points_alternate,Andrew Wiggins,Over,19.5,,-120.0,,115.0,-105.0,-110.0,115.0,,-110.0,0.4785008191984978,2.15
+espnbet,220.0,0.05832013558945315,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Dennis Schroder,Over,24.5,,,140.0,,170.0,220.0,,,,0.3307250423717041,3.2
+draftkings,-120.0,-0.006314980208254495,Atlanta Hawks @ Boston Celtics,player_turnovers,Jaylen Brown,Over,2.5,,-150.0,,,-120.0,-150.0,,-155.0,,0.5420100107954976,1.8333333333333333
+draftkings,475.0,0.14016117123940475,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Tim Hardaway Jr,Over,3.5,,,309.0,,475.0,350.0,,,350.0,0.1982888993459834,5.75
+betonlineag,120.0,0.017847485127096108,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Cam Whitmore,Over,3.5,,,120.0,,-105.0,105.0,,,,0.4626579477850436,2.2
+betmgm,650.0,0.22105575583240167,Atlanta Hawks @ Boston Celtics,player_points_alternate,Clint Capela,Over,14.5,,650.0,306.0,450.0,400.0,475.0,500.0,445.0,500.0,0.1628074341109869,7.5
+fanduel,-240.0,-0.0374562339436767,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Darius Garland,Over,5.5,,,-345.0,-260.0,-280.0,,-240.0,,-325.0,0.6794426583926988,1.4166666666666667
+fanduel,190.0,0.060976545014818084,Washington Wizards @ Golden State Warriors,player_double_double,Trayce Jackson-Davis,Yes,,185.0,145.0,,180.0,140.0,,190.0,140.0,140.0,0.3658539810395925,2.9
+draftkings,-310.0,-0.051726994304903684,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Trayce Jackson-Davis,Over,19.5,,,,,-310.0,-375.0,,-390.0,,0.7169869067450727,1.3225806451612905
+draftkings,-310.0,-0.051472386097930034,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Nickeil Alexander-Walker,Over,9.5,,,,,-310.0,-350.0,,-385.0,,0.7171794153893698,1.3225806451612905
+fanduel,270.0,0.0952623486863311,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,24.5,,195.0,192.0,220.0,260.0,200.0,270.0,,220.0,0.2960168509963057,3.7
+draftkings,185.0,0.04272519497655547,Houston Rockets @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Alperen Sengun,Over,39.5,,,152.0,,185.0,150.0,,,,0.3658684894654581,2.85
+fanduel,410.0,0.12783046350137894,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,7.5,,,301.0,300.0,320.0,300.0,410.0,,300.0,0.2211432281375253,5.1
+fanduel,-410.0,-0.08419158873635446,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,14.5,,-800.0,,-500.0,-425.0,-575.0,-410.0,,-575.0,0.7362381345452836,1.2439024390243902
+betonlineag,110.0,0.012687703376422,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Stephen Curry,Over,39.5,,,110.0,,-110.0,-105.0,,,,0.482232239703058,2.1
+fanduel,220.0,0.07335932218238983,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Shaedon Sharpe,Over,3.5,,,162.0,175.0,195.0,175.0,220.0,,175.0,0.3354247881819968,3.2
+fanduel,175.0,0.04910899827785731,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Alperen Sengun,Over,5.5,,,123.0,120.0,140.0,,175.0,,165.0,0.3814941811919481,2.75
+fanduel,-165.0,-0.0019520655836606782,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,3.5,,,-200.0,-185.0,-180.0,-215.0,-165.0,,-225.0,0.6214260723724377,1.606060606060606
+fanduel,145.0,0.03729622079143602,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Jarrett Allen,Over,11.5,,,123.0,125.0,125.0,115.0,145.0,110.0,115.0,0.4233862125679331,2.45
+fanduel,110.0,0.019027231404285194,Atlanta Hawks @ Boston Celtics,player_points_alternate,Clint Capela,Over,9.5,,-105.0,,100.0,-105.0,-110.0,110.0,-120.0,-105.0,0.4852510625734691,2.1
+espnbet,-125.0,-0.005357779395580686,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Jarrett Allen,Over,1.5,,,,,-160.0,-125.0,,-135.0,,0.5525790114468996,1.8
+draftkings,-135.0,-0.0066794452846928865,Atlanta Hawks @ Boston Celtics,player_turnovers,Jayson Tatum,Over,2.5,,-165.0,,,-135.0,-165.0,,-180.0,,0.5706309569641126,1.7407407407407407
+ballybet,550.0,0.17930186773323875,Philadelphia 76ers @ Indiana Pacers,player_double_double,Paul George,Yes,,550.0,375.0,,400.0,425.0,350.0,410.0,355.0,350.0,0.1814310565743444,6.5
+hardrockbet,115.0,0.026078674801165658,Philadelphia 76ers @ Indiana Pacers,player_points_alternate,Myles Turner,Over,14.5,,-120.0,-106.0,100.0,-120.0,-105.0,100.0,,115.0,0.4772458952563562,2.15
+espnbet,175.0,0.0291026457783643,Phoenix Suns @ Detroit Pistons,player_rebounds_assists_alternate,Tyus Jones,Over,9.5,,,103.0,,,175.0,,170.0,,0.3742191439194052,2.75
+fanduel,114.0,0.027795898884080295,Phoenix Suns @ Detroit Pistons,player_rebounds,Cade Cunningham,Under,5.5,-104.0,-110.0,100.0,,-110.0,-110.0,114.0,-120.0,-115.0,0.4802784574224674,2.14
+fanduel,240.0,0.07062393413765045,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Jrue Holiday,Over,5.5,,,169.0,200.0,230.0,,240.0,,185.0,0.3148893923934266,3.4
+fanduel,115.0,0.021131295995224786,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,5.5,,,110.0,100.0,-110.0,,115.0,,-110.0,0.4749447888349883,2.15
+fanduel,170.0,0.044383783838312874,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Bilal Coulibaly,Over,5.5,,,142.0,150.0,145.0,,170.0,,125.0,0.3868088088290047,2.7
+ballybet,205.0,0.06264583588301142,Houston Rockets @ Portland Trail Blazers,player_double_double,Deandre Ayton,Yes,,205.0,165.0,,150.0,170.0,160.0,165.0,160.0,160.0,0.3484084707813152,3.05
+fanduel,-185.0,-0.009708243927513016,Phoenix Suns @ Detroit Pistons,player_points_alternate,Devin Booker,Over,24.5,,-275.0,,-200.0,-215.0,-225.0,-185.0,,-230.0,0.6428209644681055,1.5405405405405406
+betmgm,275.0,0.0670542658950879,Washington Wizards @ Golden State Warriors,player_assists_alternate,Kyshawn George,Over,2.5,,275.0,,,205.0,210.0,,,220.0,0.2845478042386901,3.75
+ballybet,-124.0,-0.010031146904889376,Philadelphia 76ers @ Indiana Pacers,player_blocks,Tyrese Haliburton,Under,0.5,-124.0,-155.0,,,,,,-160.0,-150.0,0.5480184722490793,1.806451612903225
+fanduel,-650.0,-0.10915656378418803,Washington Wizards @ Golden State Warriors,player_assists_alternate,Bilal Coulibaly,Over,1.5,,,-909.0,,,-900.0,-650.0,,,0.7720643113870372,1.1538461538461535
+espnbet,-150.0,-0.007093329317395924,Phoenix Suns @ Detroit Pistons,player_points_rebounds_assists_alternate,Cade Cunningham,Over,39.5,,,-204.0,,-170.0,-150.0,,,,0.5957440024095626,1.6666666666666663
+espnbet,110.0,0.020404630127906387,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Deandre Ayton,Over,9.5,,-130.0,-102.0,-140.0,100.0,110.0,-105.0,,,0.4859069667275745,2.1
+fanduel,-150.0,0.003207929935015841,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Amen Thompson,Over,14.5,,-200.0,-196.0,-200.0,-155.0,-180.0,-150.0,,-180.0,0.6019247579610096,1.6666666666666663
+espnbet,-225.0,-0.030251609265870782,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Dillon Brooks,Over,2.5,,-350.0,-323.0,,-280.0,-225.0,,,-240.0,0.6713642705082433,1.4444444444444444
+fanduel,470.0,0.12686305733508874,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Haliburton,Over,5.5,,,333.0,400.0,370.0,,470.0,,325.0,0.1976952732166822,5.7
+fanduel,380.0,0.1096526000635587,Washington Wizards @ Golden State Warriors,player_assists_alternate,Dennis Schroder,Over,7.5,,,251.0,350.0,265.0,275.0,380.0,,300.0,0.2311776250132414,4.8
+betonlineag,-123.0,-0.0020034774430508495,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Draymond Green,Over,6.5,,-185.0,-123.0,,-135.0,,,,-145.0,0.5504644496614562,1.8130081300813008
+draftkings,124.0,0.004901904203810981,Philadelphia 76ers @ Indiana Pacers,player_turnovers,Pascal Siakam,Over,1.5,,100.0,,,124.0,100.0,,100.0,,0.4486169215195584,2.24
+fanduel,165.0,0.043003989774784146,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Alperen Sengun,Over,11.5,,,137.0,120.0,160.0,135.0,165.0,,130.0,0.3935864112357676,2.65
+draftkings,300.0,0.06723873481739395,Philadelphia 76ers @ Indiana Pacers,player_assists_alternate,Bennedict Mathurin,Over,2.5,,240.0,,,300.0,220.0,,,230.0,0.2668096837043485,4.0
+fanduel,270.0,0.07763923275288875,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Darius Garland,Over,3.5,,,181.0,250.0,235.0,200.0,270.0,,210.0,0.2912538466899699,3.7
+draftkings,-380.0,-0.06652675632349903,Atlanta Hawks @ Boston Celtics,player_points_rebounds_assists_alternate,Jayson Tatum,Over,34.5,,,,,-380.0,-450.0,,-500.0,,0.7389996512438967,1.263157894736842
+fanduel,350.0,0.08816269940156829,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Jarrett Allen,Over,13.5,,,269.0,325.0,255.0,,350.0,,,0.2418139332003485,4.5
+draftkings,114.0,0.02270287541278404,Atlanta Hawks @ Boston Celtics,player_rebounds_assists,Jrue Holiday,Over,8.5,104.0,-115.0,,,114.0,-110.0,104.0,-120.0,-115.0,0.4778985399125159,2.14
+betmgm,120.0,0.021980070288799447,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Clint Capela,Over,9.5,,120.0,110.0,100.0,100.0,105.0,-105.0,-110.0,,0.4645363955858179,2.2
+betmgm,240.0,0.05018139824064738,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Isaiah Stewart II,Over,2.5,,240.0,,,185.0,185.0,,,195.0,0.3088768818354845,3.4
+betmgm,120.0,0.023991472527663094,Atlanta Hawks @ Boston Celtics,player_points_alternate,Jaylen Brown,Over,24.5,,120.0,,-105.0,100.0,100.0,105.0,,100.0,0.4654506693307559,2.2
+bovada,900.0,0.19499218405713903,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,11.5,,,481.0,900.0,425.0,,950.0,,,0.1194992184057139,10.0
+draftkings,-700.0,-0.0907435014190765,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Mike Conley,Over,9.5,,,,,-700.0,-900.0,,-1170.0,,0.7955994362583081,1.1428571428571428
+draftkings,-600.0,-0.09006949806356834,Houston Rockets @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Anfernee Simons,Over,19.5,,,,,-600.0,-700.0,,-915.0,,0.779940430231227,1.1666666666666667
+draftkings,-475.0,-0.08865510329877824,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Jarrett Allen,Over,19.5,,,,,-475.0,-575.0,,-650.0,,0.752850132057531,1.2105263157894737
+fanduel,-550.0,-0.08821815204766126,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyle Kuzma,Over,9.5,,-1200.0,,-600.0,-700.0,-800.0,-550.0,-965.0,-750.0,0.7715077174981326,1.181818181818182
+fanduel,115.0,0.01986216858767942,Washington Wizards @ Golden State Warriors,player_assists_alternate,Bilal Coulibaly,Over,3.5,,,102.0,100.0,-105.0,105.0,115.0,,-115.0,0.4743544970175253,2.15
+fanduel,-260.0,-0.04758707186340627,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Alex Sarr,Over,5.5,,,,-300.0,-310.0,,-260.0,,-325.0,0.6878537814319844,1.3846153846153846
+fanduel,-250.0,-0.040758053867388844,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Bilal Coulibaly,Over,3.5,,,-294.0,-300.0,-285.0,-325.0,-250.0,,-350.0,0.6851728186661509,1.4
+ballybet,114.0,0.015863478308696832,Atlanta Hawks @ Boston Celtics,player_double_double,Jayson Tatum,Yes,,114.0,,,100.0,105.0,-105.0,-105.0,-120.0,-115.0,0.4747025599573349,2.14
+fanduel,135.0,0.01896008570024965,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Anfernee Simons,Over,5.5,,,117.0,,120.0,,135.0,105.0,110.0,0.4336000364681913,2.35
+betonlineag,-122.0,0.0002279930744110148,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Bilal Coulibaly,Over,4.5,,-165.0,-122.0,,-135.0,-150.0,,,-155.0,0.5496748430408924,1.819672131147541
+draftkings,100.0,0.002335973217006071,Atlanta Hawks @ Boston Celtics,player_points_rebounds_assists_alternate,Jrue Holiday,Over,19.5,,,-112.0,,100.0,-115.0,,,,0.501167986608503,2.0
+fanduel,-122.0,0.005319391994181855,Houston Rockets @ Portland Trail Blazers,player_rebounds_assists,Shaedon Sharpe,Over,6.5,-132.0,-155.0,,,,-150.0,-122.0,-165.0,-150.0,0.5524728190238297,1.819672131147541
+fanduel,-125.0,0.005087887045194028,Philadelphia 76ers @ Indiana Pacers,player_points_alternate,Bennedict Mathurin,Over,14.5,,-185.0,,-150.0,-165.0,-130.0,-125.0,,-135.0,0.5583821594695523,1.8
+betonlineag,-105.0,-0.005870305014151644,Atlanta Hawks @ Boston Celtics,player_points_rebounds_assists_alternate,Clint Capela,Over,19.5,,,-105.0,,,-115.0,,-125.0,,0.5091883803586053,1.9523809523809523
+fanduel,270.0,0.07007013163388409,Washington Wizards @ Golden State Warriors,player_assists_alternate,Carlton Carrington,Over,5.5,,,202.0,250.0,215.0,,270.0,,210.0,0.2892081436848335,3.7
+espnbet,-500.0,-0.09000770678843872,Washington Wizards @ Golden State Warriors,player_assists_alternate,Trayce Jackson-Davis,Over,1.5,,,-769.0,,,-500.0,,-575.0,,0.7583269110096345,1.2
+fanduel,290.0,0.07347981475888443,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Devin Booker,Over,5.5,,,212.0,200.0,250.0,,290.0,,250.0,0.2752512345535601,3.9
+draftkings,300.0,0.08477872226879324,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Jayson Tatum,Over,11.5,,,218.0,250.0,300.0,220.0,290.0,225.0,230.0,0.2711946805671983,4.0
+fanduel,-410.0,-0.08304742675971255,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Jarrett Allen,Over,7.5,,,,-430.0,-450.0,-575.0,-410.0,-660.0,-600.0,0.7371579510363094,1.2439024390243902
+ballybet,108.0,0.014364568417493118,Philadelphia 76ers @ Indiana Pacers,player_rebounds_assists,Pascal Siakam,Under,10.5,108.0,-105.0,,,-120.0,-125.0,,-115.0,-105.0,0.4876752732776409,2.08
+betmgm,390.0,0.10368829908043553,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Shaedon Sharpe,Over,24.5,,390.0,280.0,,340.0,260.0,350.0,,300.0,0.2252425100164154,4.9
+espnbet,600.0,0.11742309074324897,Washington Wizards @ Golden State Warriors,player_assists_alternate,Moses Moody,Over,2.5,,400.0,,,340.0,600.0,,,550.0,0.1596318701061784,7.0
+draftkings,270.0,0.05066096603109349,Atlanta Hawks @ Boston Celtics,player_assists_alternate,Jayson Tatum,Over,6.5,,200.0,184.0,,270.0,,,,260.0,0.2839624232516469,3.7
+fanduel,-310.0,-0.05154224949771247,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Anfernee Simons,Over,3.5,,,-455.0,,-360.0,-375.0,-310.0,-410.0,-375.0,0.7171265918431929,1.3225806451612905
+betmgm,750.0,0.19539715789590928,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Jalen Duren,Over,14.5,,750.0,312.0,,550.0,700.0,,560.0,,0.1406349597524599,8.5
+betonlineag,-103.0,0.004420797052365755,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Moses Moody,Over,2.5,,-125.0,-103.0,,-125.0,-125.0,,,-130.0,0.5096322270758309,1.970873786407767
+fanduel,250.0,0.06387059358590474,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,5.5,,,187.0,225.0,230.0,,250.0,,190.0,0.3039630267388299,3.5
+fanduel,165.0,0.03686932838181278,Philadelphia 76ers @ Indiana Pacers,player_assists_alternate,Tyrese Maxey,Over,7.5,,,137.0,150.0,145.0,130.0,165.0,,130.0,0.3912714446723821,2.65
+ballybet,106.0,0.0058146328706631945,Atlanta Hawks @ Boston Celtics,player_rebounds_assists,Trae Young,Under,12.5,106.0,-115.0,,,,-115.0,,-120.0,-110.0,0.4882595305197394,2.06
+draftkings,135.0,0.01794805106583497,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Maxey,Over,4.5,,100.0,107.0,,135.0,120.0,,,115.0,0.4331693834322702,2.35
+espnbet,450.0,0.08468411133445275,Phoenix Suns @ Detroit Pistons,player_rebounds_assists_alternate,Tyus Jones,Over,11.5,,,226.0,,,450.0,,430.0,,0.1972152929699005,5.5
+betonlineag,398.0,0.09028021579837331,Washington Wizards @ Golden State Warriors,player_assists_alternate,Trayce Jackson-Davis,Over,4.5,,,398.0,,300.0,300.0,,295.0,300.0,0.2189317702406372,4.98
+bovada,-130.0,0.0006974180216854364,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyle Kuzma,Over,14.5,,-190.0,,-130.0,-150.0,-150.0,-120.0,,-155.0,0.5656115840992135,1.7692307692307692
+espnbet,-210.0,-0.0243358554869203,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Dillon Brooks,Over,9.5,,-300.0,,-300.0,-225.0,-210.0,-270.0,,-210.0,0.6609337753153118,1.4761904761904765
+hardrockbet,-210.0,-0.0243358554869203,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Dillon Brooks,Over,9.5,,-300.0,,-300.0,-225.0,-210.0,-270.0,,-210.0,0.6609337753153118,1.4761904761904765
+bovada,100.0,0.009814786634148032,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Haliburton,Over,3.5,,,-111.0,100.0,-120.0,-110.0,100.0,,-135.0,0.504907393317074,2.0
+fanduel,100.0,0.009814786634148032,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Haliburton,Over,3.5,,,-111.0,100.0,-120.0,-110.0,100.0,,-135.0,0.504907393317074,2.0
+draftkings,160.0,0.03065865782829591,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Dyson Daniels,Over,5.5,,,141.0,150.0,160.0,,155.0,,115.0,0.3964071760878061,2.6
+fanduel,-310.0,-0.05822246946321419,Washington Wizards @ Golden State Warriors,player_points_alternate,Andrew Wiggins,Over,14.5,,-500.0,,-350.0,-340.0,-400.0,-310.0,,-375.0,0.7120756938204965,1.3225806451612905
+ballybet,185.0,0.042683845962838696,Washington Wizards @ Golden State Warriors,player_double_double,Trayce Jackson-Davis,Yes,,185.0,145.0,,180.0,140.0,,190.0,140.0,140.0,0.3658539810395925,2.85
+draftkings,-425.0,-0.09052936320876726,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,14.5,,-800.0,,-500.0,-425.0,-575.0,-410.0,,-575.0,0.7362381345452836,1.2352941176470589
+fanduel,390.0,0.09910089910089859,Phoenix Suns @ Detroit Pistons,player_points_alternate,Devin Booker,Over,34.5,,290.0,,350.0,300.0,275.0,390.0,,300.0,0.2243063059389589,4.9
+draftkings,-105.0,0.005075702133573667,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds,Mike Conley,Under,2.5,,-125.0,-130.0,,-105.0,-125.0,,-135.0,-130.0,0.5147948718245133,1.9523809523809523
+bovada,150.0,0.016946677704586355,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Nick Richards,Over,7.5,,,141.0,150.0,-140.0,,185.0,,,0.4067786710818346,2.5
+ballybet,102.0,0.016078021975206358,Cleveland Cavaliers @ Minnesota Timberwolves,player_points,Jaden McDaniels,Over,10.5,102.0,-120.0,-115.0,-120.0,-120.0,-120.0,-108.0,-130.0,-120.0,0.5030089217699041,2.02
+fanduel,440.0,0.10512949452176656,Philadelphia 76ers @ Indiana Pacers,player_points_alternate,Eric Gordon,Over,14.5,,380.0,,,330.0,325.0,440.0,320.0,,0.2046536100966234,5.4
+betmgm,340.0,0.0574314574314575,Washington Wizards @ Golden State Warriors,player_assists_alternate,Corey Kispert,Over,2.5,,340.0,,,260.0,250.0,,,275.0,0.2403253312344221,4.4
+fanduel,220.0,0.056206038586609,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Evan Mobley,Over,3.5,,,164.0,200.0,190.0,180.0,220.0,,180.0,0.3300643870583153,3.2
+betmgm,155.0,0.027778116944819575,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyshawn George,Over,9.5,,155.0,124.0,,145.0,130.0,,,135.0,0.4030502419391449,2.55
+draftkings,220.0,0.03330523260778917,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_rebounds_assists_alternate,Mike Conley,Over,19.5,,,,,220.0,185.0,,180.0,,0.3229078851899341,3.2
+fanduel,105.0,0.00850987459911623,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Toumani Camara,Over,5.5,,,-105.0,-135.0,-115.0,,105.0,,-105.0,0.4919560363898128,2.05
+draftkings,115.0,0.012286738138062692,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Jayson Tatum,Over,9.5,,100.0,104.0,-105.0,115.0,-105.0,105.0,-115.0,,0.4708310409944478,2.15
+fanduel,100.0,0.00651785080900269,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Evan Mobley,Over,9.5,,,-108.0,-120.0,-115.0,-110.0,100.0,,,0.5032589254045013,2.0
+espnbet,700.0,0.1554190827850559,Phoenix Suns @ Detroit Pistons,player_rebounds_assists_alternate,Jalen Duren,Over,17.5,,,349.0,,,700.0,,585.0,,0.144427385348132,8.0
+fanduel,250.0,0.06446892353000377,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,11.5,,,192.0,200.0,215.0,200.0,250.0,200.0,200.0,0.3041339781514296,3.5
+bovada,115.0,0.014475289815724324,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists,Trayce Jackson-Davis,Over,24.5,,-110.0,110.0,115.0,-105.0,,,-115.0,-110.0,0.4718489720073137,2.15
+fanduel,600.0,0.12260714562504815,Atlanta Hawks @ Boston Celtics,player_assists_alternate,Trae Young,Over,13.5,,,291.0,500.0,500.0,,600.0,,,0.1603724493750069,7.0
+fanduel,-195.0,-0.029587122610378547,Atlanta Hawks @ Boston Celtics,player_points_alternate,De'Andre Hunter,Over,14.5,,-275.0,,-250.0,-215.0,,-195.0,,,0.6414593596304278,1.5128205128205128
+fanduel,125.0,0.01590810723981928,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Jerami Grant,Over,14.5,,105.0,,-125.0,105.0,115.0,125.0,105.0,115.0,0.4515147143288085,2.25
+fanduel,300.0,0.07331246786192136,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_alternate,Jaden McDaniels,Over,14.5,,,203.0,280.0,245.0,225.0,300.0,,250.0,0.2683281169654803,4.0
+draftkings,215.0,0.03783032189274094,Atlanta Hawks @ Boston Celtics,player_points_rebounds_assists_alternate,Dyson Daniels,Over,24.5,,,169.0,,215.0,180.0,,,,0.329469943458013,3.15
+draftkings,600.0,0.13059604320446971,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Kyle Kuzma,Over,34.5,,,304.0,,600.0,500.0,,485.0,,0.1615137204577814,7.0
+betmgm,125.0,0.01511390448254224,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Shaedon Sharpe,Over,19.5,,125.0,,,115.0,100.0,115.0,,105.0,0.4511617353255743,2.25
+betonlineag,-103.0,0.004601844745062866,Washington Wizards @ Golden State Warriors,player_rebounds,Moses Moody,Over,2.5,,-130.0,-103.0,,-120.0,-125.0,,-140.0,-130.0,0.5097240887130122,1.970873786407767
+fanduel,-105.0,0.003825481965586963,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,5.5,,,-110.0,-125.0,-115.0,,-105.0,,-135.0,0.5141545151531055,1.9523809523809523
+draftkings,120.0,0.010488110772258086,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,9.5,,,,105.0,120.0,100.0,125.0,-105.0,100.0,0.4593127776237536,2.2
+bovada,105.0,0.012474133691087741,Washington Wizards @ Golden State Warriors,player_rebounds_assists,Stephen Curry,Over,11.5,-120.0,-115.0,,105.0,-115.0,-115.0,102.0,-125.0,-115.0,0.4938898213127257,2.05
+ballybet,112.0,0.01605676910673326,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds,Darius Garland,Over,2.5,112.0,-115.0,-106.0,,100.0,-115.0,104.0,-120.0,-115.0,0.4792720608994025,2.12
+fanduel,-250.0,-0.04434735702556791,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Cade Cunningham,Over,7.5,,,-323.0,-300.0,-320.0,-285.0,-250.0,,-300.0,0.682609030696023,1.4
+draftkings,110.0,0.018241864035050237,Philadelphia 76ers @ Indiana Pacers,player_assists,Paul George,Under,4.5,-113.0,-110.0,-105.0,-110.0,110.0,-110.0,-108.0,-115.0,-110.0,0.4848770781119286,2.1
+hardrockbet,195.0,0.046768108166878264,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Dillon Brooks,Over,14.5,,150.0,139.0,140.0,180.0,185.0,165.0,,195.0,0.3548366468362299,2.95
+draftkings,-210.0,-0.03318994470888603,Cleveland Cavaliers @ Minnesota Timberwolves,player_points_alternate,Donovan Mitchell,Over,19.5,,,,-260.0,-210.0,-250.0,-240.0,,-250.0,0.6549358439068834,1.4761904761904765
+fanduel,-460.0,-0.092372035980954,Washington Wizards @ Golden State Warriors,player_points_alternate,Stephen Curry,Over,19.5,,-750.0,,-500.0,-575.0,-600.0,-460.0,,-600.0,0.7455515418727877,1.2173913043478262
+draftkings,110.0,0.014137066726438552,Houston Rockets @ Portland Trail Blazers,player_rebounds,Alperen Sengun,Over,10.5,-106.0,-110.0,-106.0,,110.0,-110.0,100.0,-120.0,-115.0,0.4829224127268754,2.1
+espnbet,750.0,0.18720880159785835,Atlanta Hawks @ Boston Celtics,player_first_basket,Jayson Tatum,Yes,,500.0,,,450.0,475.0,750.0,500.0,,700.0,0.1396716237173951,8.5
+espnbet,-115.0,-0.0025970151798710983,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Alperen Sengun,Over,4.5,,-160.0,-143.0,,-140.0,-115.0,,,-120.0,0.5334946197875109,1.869565217391304
+fliff,105.0,-0.006663951812873936,Houston Rockets @ Portland Trail Blazers,player_rebounds_assists_alternate,Jalen Green,Over,7.5,,,-122.0,,,-115.0,,105.0,,0.4845541698473786,2.05
+betonlineag,973.0,0.19814929836668882,Washington Wizards @ Golden State Warriors,player_assists_alternate,Trayce Jackson-Davis,Over,5.5,,,973.0,,600.0,,,,650.0,0.1116634947219654,10.73
+espnbet,175.0,0.034840831530178695,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Jalen Green,Over,3.5,,,138.0,105.0,140.0,175.0,140.0,165.0,175.0,0.376305756920065,2.75
+hardrockbet,175.0,0.034840831530178695,Houston Rockets @ Portland Trail Blazers,player_assists_alternate,Jalen Green,Over,3.5,,,138.0,105.0,140.0,175.0,140.0,165.0,175.0,0.376305756920065,2.75
+draftkings,260.0,0.06566066358670053,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Alperen Sengun,Over,24.5,,195.0,192.0,220.0,260.0,200.0,270.0,,220.0,0.2960168509963057,3.6
+betonlineag,167.0,0.025507969378177675,Washington Wizards @ Golden State Warriors,player_assists_alternate,Trayce Jackson-Davis,Over,3.5,,,167.0,,140.0,140.0,,,145.0,0.3840853817895797,2.67
+fanduel,150.0,0.01930518402853343,Atlanta Hawks @ Boston Celtics,player_points_alternate,De'Andre Hunter,Over,19.5,,130.0,137.0,100.0,130.0,,150.0,,,0.4077220736114134,2.5
+draftkings,450.0,0.07835511244324267,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Jrue Holiday,Over,6.5,,390.0,281.0,,450.0,,,,350.0,0.1960645658987714,5.5
+bovada,500.0,0.10791479550882865,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Bennedict Mathurin,Over,7.5,,,237.0,500.0,425.0,400.0,500.0,,375.0,0.1846524659181381,6.0
+fanduel,500.0,0.10791479550882865,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Bennedict Mathurin,Over,7.5,,,237.0,500.0,425.0,400.0,500.0,,375.0,0.1846524659181381,6.0
+draftkings,280.0,0.05991826455597171,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Tyrese Maxey,Over,5.5,,,172.0,250.0,280.0,,270.0,,230.0,0.2789258590936768,3.8
+fanduel,-170.0,-0.015121955270692045,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Kelly Oubre Jr,Over,5.5,,,-204.0,-200.0,-185.0,,-170.0,,-210.0,0.6201083985332679,1.5882352941176472
+fanduel,420.0,0.08810831647734174,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Jerami Grant,Over,19.5,,350.0,223.0,375.0,360.0,,420.0,,,0.2092515993225657,5.2
+ballybet,155.0,0.01689005203293026,Cleveland Cavaliers @ Minnesota Timberwolves,player_steals,Jaden McDaniels,Over,1.5,155.0,130.0,,,130.0,,,120.0,130.0,0.3987804125619335,2.55
+ballybet,100.0,0.012920486333713566,Philadelphia 76ers @ Indiana Pacers,player_points,Andrew Nembhard,Under,11.5,100.0,-130.0,-115.0,-125.0,100.0,-125.0,-113.0,-135.0,-125.0,0.5064602431668568,2.0
+draftkings,100.0,0.012920486333713566,Philadelphia 76ers @ Indiana Pacers,player_points,Andrew Nembhard,Under,11.5,100.0,-130.0,-115.0,-125.0,100.0,-125.0,-113.0,-135.0,-125.0,0.5064602431668568,2.0
+bovada,150.0,0.024757490587502984,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Devin Booker,Over,7.5,,,122.0,150.0,130.0,120.0,150.0,,120.0,0.4099029962350012,2.5
+fanduel,150.0,0.024757490587502984,Phoenix Suns @ Detroit Pistons,player_assists_alternate,Devin Booker,Over,7.5,,,122.0,150.0,130.0,120.0,150.0,,120.0,0.4099029962350012,2.5
+draftkings,295.0,0.04335344461853341,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Dyson Daniels,Over,6.5,,250.0,241.0,,295.0,,,,210.0,0.264140112561654,3.95
+ballybet,110.0,0.014743818760168614,Philadelphia 76ers @ Indiana Pacers,player_assists,Tyrese Haliburton,Under,8.5,110.0,-105.0,-112.0,-105.0,-110.0,-115.0,-113.0,-110.0,-110.0,0.4832113422667469,2.1
+bovada,105.0,0.011950093795957129,Cleveland Cavaliers @ Minnesota Timberwolves,player_rebounds_assists,Darius Garland,Over,9.5,110.0,-125.0,,105.0,-115.0,-115.0,-104.0,-135.0,-125.0,0.4936341920955889,2.05
+espnbet,1000.0,0.1994827043454046,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Deandre Ayton,Over,14.5,,775.0,413.0,,850.0,1000.0,,,,0.1090438822132186,11.0
+draftkings,124.0,0.010626865034861432,Houston Rockets @ Portland Trail Blazers,player_assists,Jalen Green,Under,2.5,,105.0,111.0,,124.0,105.0,,-105.0,100.0,0.4511727076048488,2.24
+fanduel,270.0,0.05917019914016519,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Kyle Kuzma,Over,7.5,,,186.0,,240.0,220.0,270.0,220.0,225.0,0.2862622159838284,3.7
+ballybet,-107.0,0.0006378722960822536,Cleveland Cavaliers @ Minnesota Timberwolves,player_double_double,Jarrett Allen,Yes,,-107.0,-135.0,,-115.0,-125.0,-130.0,-110.0,-140.0,-135.0,0.517237933988796,1.9345794392523368
+fanduel,-180.0,-0.01512818346384559,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Julius Randle,Over,3.5,,,-227.0,-200.0,-215.0,-210.0,-180.0,,-220.0,0.6331318820589564,1.5555555555555556
+bovada,-150.0,-0.011083729096369566,Phoenix Suns @ Detroit Pistons,player_points_alternate,Malik Beasley,Over,14.5,,-190.0,,-150.0,-170.0,-180.0,-160.0,,-175.0,0.5933497625421784,1.6666666666666663
+fanduel,-500.0,-0.08974252369613511,Washington Wizards @ Golden State Warriors,player_rebounds_alternate,Kyle Kuzma,Over,3.5,,,,,-600.0,-600.0,-500.0,-720.0,-650.0,0.7585478969198874,1.2
+fanduel,-102.0,0.005659832772423767,Philadelphia 76ers @ Indiana Pacers,player_rebounds,Tyrese Haliburton,Over,3.5,-125.0,-130.0,-111.0,,-120.0,-110.0,-102.0,-140.0,-135.0,0.5078084304098378,1.9803921568627447
+fanduel,175.0,0.029687675542073855,Cleveland Cavaliers @ Minnesota Timberwolves,player_assists_alternate,Anthony Edwards,Over,5.5,,,140.0,150.0,150.0,,175.0,,150.0,0.3744318820152996,2.75
+fanduel,350.0,0.07965394714815965,Washington Wizards @ Golden State Warriors,player_points_alternate,Andrew Wiggins,Over,24.5,,260.0,307.0,300.0,295.0,250.0,350.0,,275.0,0.2399230993662577,4.5
+bovada,-220.0,-0.0298307687916588,Atlanta Hawks @ Boston Celtics,player_rebounds_alternate,Clint Capela,Over,7.5,,,,-220.0,-230.0,-285.0,-230.0,-300.0,-275.0,0.6669913464557345,1.4545454545454546
+draftkings,-255.0,-0.058050365072673915,Phoenix Suns @ Detroit Pistons,player_points_rebounds_assists_alternate,Tyus Jones,Over,14.5,,,,,-255.0,-275.0,,-300.0,,0.676611709595685,1.392156862745098
+draftkings,124.0,0.016659000161540982,Atlanta Hawks @ Boston Celtics,player_rebounds,Jrue Holiday,Over,4.5,120.0,100.0,107.0,,124.0,-105.0,114.0,-110.0,-105.0,0.4538656250721165,2.24
+ballybet,450.0,0.11300873258101907,Phoenix Suns @ Detroit Pistons,player_double_double,Devin Booker,Yes,,450.0,350.0,,300.0,360.0,320.0,380.0,330.0,325.0,0.2023652241056398,5.5
+fanduel,175.0,0.02922404323761496,Philadelphia 76ers @ Indiana Pacers,player_assists_alternate,Paul George,Over,5.5,,,145.0,150.0,140.0,,175.0,,150.0,0.3742632884500418,2.75
+bovada,-200.0,-0.02479334528016064,Washington Wizards @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,9.5,,-350.0,-233.0,-200.0,-215.0,-240.0,-190.0,,-240.0,0.6501377698132262,1.5
+draftkings,185.0,0.022543045617173352,Houston Rockets @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Shaedon Sharpe,Over,29.5,,,156.0,,185.0,160.0,,,,0.3587870335498854,2.85
+espnbet,700.0,0.1511764243130609,Houston Rockets @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Anfernee Simons,Over,39.5,,,362.0,,600.0,700.0,,550.0,,0.1438970530391326,8.0
+fanduel,-165.0,-0.012093381144345439,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Kevin Durant,Over,5.5,,,-204.0,-200.0,-195.0,,-165.0,,-185.0,0.6151116683440868,1.606060606060606
+fanduel,-410.0,-0.09559943659890613,Houston Rockets @ Portland Trail Blazers,player_rebounds_alternate,Alperen Sengun,Over,7.5,,,,-450.0,-450.0,-550.0,-410.0,,-575.0,0.7270671195969577,1.2439024390243902
+fanduel,250.0,0.0532365952330387,Houston Rockets @ Portland Trail Blazers,player_points_alternate,Amen Thompson,Over,19.5,,200.0,,200.0,245.0,190.0,250.0,,200.0,0.3009247414951539,3.5
+fanduel,105.0,0.00365270430333553,Washington Wizards @ Golden State Warriors,player_assists_alternate,Dennis Schroder,Over,5.5,,,-101.0,-110.0,-120.0,,105.0,,-110.0,0.4895866850260173,2.05
+fanduel,300.0,0.06595467907941721,Atlanta Hawks @ Boston Celtics,player_points_alternate,Trae Young,Over,29.5,,200.0,214.0,280.0,240.0,240.0,300.0,,275.0,0.2664886697698543,4.0
+ballybet,104.0,-0.0043342256172734794,Cleveland Cavaliers @ Minnesota Timberwolves,player_blocks,Jaden McDaniels,Under,0.5,104.0,-125.0,,,-105.0,,,-130.0,-105.0,0.4880714580307483,2.04
+fanduel,-155.0,-0.009332415136597438,Phoenix Suns @ Detroit Pistons,player_rebounds_alternate,Devin Booker,Over,3.5,,,-189.0,-200.0,-180.0,-170.0,-155.0,,-180.0,0.6021704927601076,1.6451612903225803
+fanduel,195.0,0.03843606961493662,Philadelphia 76ers @ Indiana Pacers,player_rebounds_alternate,Kelly Oubre Jr,Over,7.5,,,168.0,150.0,185.0,160.0,195.0,,160.0,0.3520122269881141,2.95
+bovada,250.0,0.05549377686029122,Washington Wizards @ Golden State Warriors,player_points_alternate,Kyle Kuzma,Over,19.5,,195.0,178.0,250.0,225.0,190.0,270.0,195.0,210.0,0.3015696505315118,3.5
+fanduel,270.0,0.06318893232867584,Atlanta Hawks @ Boston Celtics,player_points_alternate,Jrue Holiday,Over,14.5,,250.0,202.0,200.0,230.0,220.0,270.0,,230.0,0.2873483600888313,3.7
+fanduel,185.0,0.03465595517299924,Washington Wizards @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,14.5,,120.0,,200.0,160.0,145.0,185.0,,155.0,0.3630371772536839,2.85
+ballybet,-106.0,0.0004373299494970784,Houston Rockets @ Portland Trail Blazers,player_points_rebounds,Toumani Camara,Over,15.5,-106.0,-130.0,,,-125.0,-125.0,-111.0,-140.0,-135.0,0.5147881406536247,1.9433962264150944
+draftkings,165.0,0.015145858276466528,Washington Wizards @ Golden State Warriors,player_points_rebounds_assists_alternate,Draymond Green,Over,24.5,,,139.0,,165.0,140.0,,,,0.3830739087835723,2.65
