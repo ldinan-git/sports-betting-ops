@@ -1,0 +1,65 @@
+[
+    {
+        "id": "c0dcdd2d7cc6bf212747e826d496a268",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-19T20:10:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "San Antonio Spurs",
+        "date": "20250119"
+    },
+    {
+        "id": "2edec9d8d51e6aaa54be3201dbe3ffbe",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-19T23:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Denver Nuggets",
+        "date": "20250119"
+    },
+    {
+        "id": "ac53c07fbe5f258ea3e51573ca0e542b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-20T00:10:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Brooklyn Nets",
+        "date": "20250119"
+    },
+    {
+        "id": "4b0e07981ac0eea91683ab99e9305b8d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-20T00:10:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Philadelphia 76ers",
+        "date": "20250119"
+    },
+    {
+        "id": "27d7270c9e38cf2cc025e344e0307f12",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-20T02:10:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Chicago Bulls",
+        "date": "20250119"
+    },
+    {
+        "id": "48472e287f9c5642e7e3cdefb3568580",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-20T02:10:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Los Angeles Lakers",
+        "date": "20250119"
+    },
+    {
+        "id": "c2a6c09ed5f342d00f979cc923594607",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-20T02:10:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Washington Wizards",
+        "date": "20250119"
+    }
+]
