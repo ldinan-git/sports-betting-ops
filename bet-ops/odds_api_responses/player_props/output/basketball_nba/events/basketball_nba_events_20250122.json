@@ -1,0 +1,83 @@
+[
+    {
+        "id": "33f7be6747a15f9e36d7341863907c5d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T00:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Detroit Pistons",
+        "date": "20250122"
+    },
+    {
+        "id": "08506118721a1523d1e2b26c11676ec8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T00:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Phoenix Suns",
+        "date": "20250122"
+    },
+    {
+        "id": "d2036bb7eb58c7f9937efcb77d7f7ee0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T00:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20250122"
+    },
+    {
+        "id": "d34a1f613c8fe3424990ff71939ac227",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T01:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Charlotte Hornets",
+        "date": "20250122"
+    },
+    {
+        "id": "d6ff21cfce2a414242fea9331804aa85",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T01:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20250122"
+    },
+    {
+        "id": "9fa9fd46fe842a25a4178e3b2d702cd9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Milwaukee Bucks",
+        "date": "20250122"
+    },
+    {
+        "id": "747ca0e15fb940c8a282bd30256a1461",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T01:10:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Utah Jazz",
+        "date": "20250122"
+    },
+    {
+        "id": "baf880617d80ad47bab4a447513aa1d2",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T03:10:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Golden State Warriors",
+        "date": "20250122"
+    },
+    {
+        "id": "5960906d79cf1ed09329d2cd861c6dce",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-23T03:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Boston Celtics",
+        "date": "20250122"
+    }
+]
