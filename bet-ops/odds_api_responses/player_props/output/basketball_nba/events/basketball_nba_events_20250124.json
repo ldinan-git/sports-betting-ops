@@ -1,0 +1,29 @@
+[
+    {
+        "id": "6a6e08cde4593b3632d191e657eb09b4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-25T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Portland Trail Blazers",
+        "date": "20250124"
+    },
+    {
+        "id": "8be88b659b096322958a52c9b586c399",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-25T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20250124"
+    },
+    {
+        "id": "0ef3b7159add5b92a32545bb6fecf138",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-25T01:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "New Orleans Pelicans",
+        "date": "20250124"
+    }
+]

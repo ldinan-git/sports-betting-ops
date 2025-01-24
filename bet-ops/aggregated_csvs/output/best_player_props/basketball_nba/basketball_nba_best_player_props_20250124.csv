@@ -1,0 +1,333 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+betonlineag,-345.0,-0.04123078839524974,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Max Strus,Over,1.5,,,-345.0,,,-600.0,-600.0,,,0.7433154561879525,1.289855072463768
+fanduel,-190.0,0.009354081526994573,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Paul George,Over,5.5,,,,-240.0,-275.0,-250.0,-190.0,,-300.0,0.661300949965962,1.526315789473684
+fanduel,165.0,0.1082609313193803,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Paul George,Over,7.5,,,132.0,125.0,120.0,115.0,165.0,,110.0,0.4182116721959926,2.65
+fanduel,-120.0,0.04420948192991436,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Desmond Bane,Over,5.5,,,-143.0,-160.0,-165.0,,-120.0,,-170.0,0.5695688083254079,1.8333333333333333
+fanduel,270.0,0.15093608128660985,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Desmond Bane,Over,7.5,,,161.0,210.0,195.0,190.0,270.0,195.0,200.0,0.3110638057531378,3.7
+draftkings,-450.0,-0.07164355655495958,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deni Avdija,Over,19.5,,,,,-450.0,-600.0,,-735.0,,0.7595643628186693,1.2222222222222223
+draftkings,-425.0,-0.07134039650835278,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Darius Garland,Over,24.5,,,,,-425.0,-575.0,,-655.0,,0.7517720599694286,1.2352941176470589
+draftkings,-320.0,-0.04803386927615094,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Donovan Mitchell,Over,29.5,,,,,-320.0,-425.0,,-460.0,,0.7253075281705517,1.3125
+ballybet,800.0,0.39970644978884584,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Guerschon Yabusele,Yes,,800.0,450.0,,385.0,550.0,400.0,500.0,430.0,425.0,0.1555229388654273,9.0
+fanduel,-120.0,0.03163214406296899,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,C.J. McCollum,Over,3.5,,,-147.0,-160.0,-160.0,-150.0,-120.0,,-155.0,0.5627084422161649,1.8333333333333333
+ballybet,390.0,0.18387704018853324,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Deni Avdija,Yes,,390.0,270.0,,250.0,,260.0,300.0,255.0,260.0,0.2416075592221496,4.9
+betmgm,125.0,0.03972514711860575,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Eric Gordon,Over,9.5,,125.0,,,105.0,105.0,,,,0.462100065386047,2.25
+fanduel,-170.0,0.0077505811317253315,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,5.5,,,-238.0,-200.0,-215.0,-215.0,-170.0,,-230.0,0.6345096251570121,1.5882352941176472
+fanduel,170.0,0.07535129463164436,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,LaMelo Ball,Over,34.5,,140.0,,150.0,135.0,125.0,170.0,120.0,125.0,0.3982782572709794,2.7
+fanduel,120.0,0.04826833617045112,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,C.J. McCollum,Over,24.5,,-110.0,,-120.0,100.0,-105.0,120.0,,100.0,0.476485607350205,2.2
+fanduel,-140.0,0.02121459988839547,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,3.5,,,-161.0,-160.0,-205.0,-180.0,-140.0,,-190.0,0.595708516601564,1.7142857142857144
+fanduel,195.0,0.08288080140899023,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,7.5,,,155.0,150.0,155.0,145.0,195.0,,150.0,0.3670782377657593,2.95
+fanduel,-220.0,-0.020843136576091936,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,C.J. McCollum,Over,19.5,,-325.0,,-300.0,-275.0,-275.0,-220.0,,-275.0,0.6731703436039368,1.4545454545454546
+bovada,-410.0,-0.06960436839484108,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deandre Ayton,Over,9.5,,-800.0,,-410.0,-550.0,-600.0,-410.0,-715.0,-600.0,0.7479651156041474,1.2439024390243902
+fanduel,-410.0,-0.06960436839484108,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deandre Ayton,Over,9.5,,-800.0,,-410.0,-550.0,-600.0,-410.0,-715.0,-600.0,0.7479651156041474,1.2439024390243902
+betonlineag,-312.0,-0.06380189858450724,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,4.5,,-600.0,-312.0,,-400.0,-425.0,,,-450.0,0.7089655525282372,1.3205128205128205
+fanduel,320.0,0.1338659508638047,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,5.5,,,201.0,300.0,225.0,240.0,320.0,,230.0,0.2699680835390011,4.2
+betonlineag,-114.0,0.01305957722969886,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,6.5,,-165.0,-114.0,,-130.0,,,,-150.0,0.5396672514214284,1.8771929824561404
+fanduel,120.0,0.040912791662325976,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Dejounte Murray,Over,19.5,,-110.0,,-105.0,-105.0,-105.0,120.0,,100.0,0.4731421780283299,2.2
+ballybet,-180.0,-0.0002638359300020099,Cleveland Cavaliers @ Philadelphia 76ers,player_steals,Darius Garland,Over,0.5,-180.0,-250.0,,,-215.0,,,-255.0,-240.0,0.6426875340449987,1.5555555555555556
+draftkings,-165.0,-0.004319499209563538,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deni Avdija,Over,24.5,,,-227.0,,-165.0,-190.0,,-205.0,,0.6199520099261208,1.606060606060606
+fanduel,-135.0,0.01563548406944526,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Deandre Ayton,Yes,,-143.0,-185.0,,-150.0,-180.0,-175.0,-135.0,-190.0,-190.0,0.5834501716994686,1.7407407407407407
+ballybet,-182.0,0.00029186796733526865,Portland Trail Blazers @ Charlotte Hornets,player_blocks,Jerami Grant,Over,0.5,-182.0,-250.0,,,-220.0,,,-260.0,-240.0,0.6455784396101241,1.5494505494505495
+fanduel,105.0,0.031424643833743104,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Jerami Grant,Over,3.5,,,-111.0,-120.0,-125.0,-110.0,105.0,,-125.0,0.5031339726018259,2.05
+fanduel,-115.0,0.02365747090722259,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Paul George,Over,19.5,,-175.0,,-150.0,-135.0,-130.0,-115.0,,-135.0,0.5475377169968866,1.869565217391304
+ballybet,-109.0,0.004783803204419845,Portland Trail Blazers @ Charlotte Hornets,player_blocks_steals,Jerami Grant,Over,1.5,-109.0,-140.0,,,,,,-145.0,-135.0,0.5240260026281424,1.9174311926605505
+fanduel,250.0,0.10181314797862617,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Paul George,Over,24.5,,170.0,178.0,185.0,210.0,190.0,250.0,,210.0,0.3148037565653218,3.5
+fanduel,120.0,0.0367947953132981,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deni Avdija,Over,7.5,,,104.0,-105.0,-105.0,105.0,120.0,-110.0,-110.0,0.4712703615060445,2.2
+fanduel,370.0,0.12631019641863217,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,C.J. McCollum,Over,5.5,,,273.0,270.0,265.0,,370.0,,275.0,0.2396404673231132,4.7
+fanduel,480.0,0.12759082972501035,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Jerami Grant,Over,5.5,,,283.0,400.0,320.0,,480.0,,,0.1944122120215535,5.8
+betonlineag,115.0,0.02974586984749683,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,11.5,,,115.0,-115.0,105.0,-110.0,105.0,-120.0,-115.0,0.4789515673709288,2.15
+fanduel,150.0,0.04440004794579977,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,7.5,,,136.0,110.0,130.0,115.0,150.0,,115.0,0.4177600191783199,2.5
+fanduel,-260.0,-0.039377655915905696,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deni Avdija,Over,5.5,,,,-320.0,-295.0,,-260.0,,-350.0,0.6937828040607348,1.3846153846153846
+fanduel,-550.0,-0.07755833489112474,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Desmond Bane,Over,3.5,,,,-700.0,-800.0,-900.0,-550.0,-1085.0,-900.0,0.7805275627844327,1.181818181818182
+fanduel,104.0,0.030563333533898618,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists,C.J. McCollum,Over,7.5,-122.0,-118.0,,,-125.0,-120.0,104.0,-130.0,-120.0,0.5051781046734797,2.04
+fanduel,-105.0,0.023298553826114565,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Dejounte Murray,Over,7.5,,,-120.0,-140.0,-130.0,-125.0,-105.0,,-135.0,0.5241285275694734,1.9523809523809523
+betonlineag,-156.0,-0.004183750781743267,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Max Strus,Over,2.5,,,-156.0,,-195.0,-200.0,,,-210.0,0.6068255268673752,1.641025641025641
+betonlineag,-256.0,-0.02910438995999587,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Desmond Bane,Over,4.5,,-350.0,-256.0,,-330.0,-350.0,,-375.0,-350.0,0.6981721240737109,1.390625
+fanduel,220.0,0.07995624442119742,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,5.5,,,168.0,200.0,175.0,180.0,220.0,,160.0,0.3374863263816242,3.2
+fanduel,-350.0,-0.06908464689854366,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Dejounte Murray,Over,5.5,,,-435.0,-450.0,-450.0,,-350.0,,-500.0,0.7240452746344661,1.2857142857142856
+fanduel,250.0,0.07897043398136439,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,13.5,,,192.0,200.0,190.0,,250.0,,,0.3082772668518184,3.5
+betonlineag,110.0,0.015979153350705655,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,4.5,,,110.0,,-110.0,-115.0,,,-120.0,0.4837995968336693,2.1
+fanduel,110.0,0.03147699910642188,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds,Kelly Oubre Jr,Over,6.5,-114.0,-115.0,-108.0,-115.0,-110.0,-115.0,110.0,-125.0,-120.0,0.4911795233840104,2.1
+fanduel,-200.0,-0.013707482062265908,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,5.5,,,-233.0,-240.0,-240.0,-225.0,-200.0,,-300.0,0.6575283452918227,1.5
+fanduel,-150.0,0.004234988831556485,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Jarrett Allen,Yes,,-182.0,-190.0,,-165.0,-195.0,-180.0,-150.0,-195.0,-195.0,0.6025409932989341,1.6666666666666663
+ballybet,525.0,0.19691461074353567,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Darius Garland,Yes,,525.0,375.0,,375.0,360.0,350.0,340.0,355.0,350.0,0.1915063377189657,6.25
+fanduel,-125.0,0.013093948043254588,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Toumani Camara,Over,9.5,,-140.0,,-140.0,-150.0,-160.0,-125.0,,-165.0,0.5628299711351414,1.8
+fanduel,140.0,0.03077458104556574,New Orleans Pelicans @ Memphis Grizzlies,player_blocks,Yves Missi,Over,1.5,120.0,110.0,,,,,140.0,105.0,110.0,0.4294894087689858,2.4
+fanduel,185.0,0.05727304196328231,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Darius Garland,Over,3.5,,,138.0,170.0,165.0,140.0,185.0,140.0,145.0,0.3709729971800991,2.85
+ballybet,600.0,0.19901657956443852,New Orleans Pelicans @ Memphis Grizzlies,player_double_double,Desmond Bane,Yes,,600.0,425.0,,360.0,400.0,380.0,440.0,390.0,400.0,0.1712880827949198,7.0
+fanduel,-122.0,0.016145592822912613,New Orleans Pelicans @ Memphis Grizzlies,player_assists,C.J. McCollum,Over,3.5,-155.0,-155.0,-147.0,-150.0,-154.0,-150.0,-122.0,-165.0,-155.0,0.5584223528125916,1.819672131147541
+draftkings,175.0,0.03837119894397978,New Orleans Pelicans @ Memphis Grizzlies,player_blocks,Zach Edey,Under,0.5,135.0,145.0,,,175.0,,,120.0,160.0,0.3775895268887199,2.75
+fanduel,210.0,0.0635653217642036,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,7.5,,,160.0,175.0,185.0,165.0,210.0,,165.0,0.3430855876658721,3.1
+ballybet,380.0,0.12131667810413216,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Paul George,Yes,,380.0,280.0,,250.0,295.0,270.0,350.0,265.0,275.0,0.2336076412716942,4.8
+fanduel,-150.0,-0.0005674208911307099,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,LaMelo Ball,Over,29.5,,-190.0,-192.0,-155.0,-175.0,-190.0,-150.0,-200.0,-185.0,0.5996595474653217,1.6666666666666663
+fanduel,100.0,0.014038178086647646,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Toumani Camara,Over,5.5,,,-111.0,-120.0,-120.0,,100.0,,-120.0,0.5070190890433238,2.0
+fanduel,170.0,0.04500065595169711,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Donovan Mitchell,Over,5.5,,,133.0,150.0,150.0,145.0,170.0,,130.0,0.38703727998211,2.7
+ballybet,108.0,0.00616047088083449,Portland Trail Blazers @ Charlotte Hornets,player_blocks_steals,Miles Bridges,Over,1.5,108.0,-115.0,,,,,,-120.0,-110.0,0.4837309956157858,2.08
+fanduel,-165.0,-0.005512184961664612,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,5.5,,,-213.0,-185.0,-190.0,-200.0,-165.0,,-210.0,0.6192093942691522,1.606060606060606
+fanduel,-280.0,-0.04698640652903785,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Dejounte Murray,Over,14.5,,-450.0,,-300.0,-340.0,-350.0,-280.0,,-350.0,0.7022205425575511,1.3571428571428572
+fanduel,-105.0,0.013199594149539084,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,C.J. McCollum,Over,3.5,,,-115.0,-145.0,-130.0,-120.0,-105.0,,-125.0,0.5189558896863493,1.9523809523809523
+fanduel,110.0,0.018221428420946317,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,11.5,,,-105.0,100.0,-115.0,-110.0,110.0,-115.0,-115.0,0.4848673468671173,2.1
+draftkings,-900.0,-0.10082930775934329,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Donovan Mitchell,Over,24.5,,,,,-900.0,-1400.0,,-2255.0,,0.809253623016591,1.1111111111111112
+fanduel,390.0,0.10512131687097459,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Jaylen Wells,Over,5.5,,,273.0,330.0,340.0,,390.0,,275.0,0.2255349626267295,4.9
+fanduel,110.0,0.01588548993735739,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Trey Murphy III,Over,5.5,,,104.0,-125.0,100.0,,110.0,,-110.0,0.4837549952082653,2.1
+draftkings,275.0,0.05120969468088854,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Max Strus,Over,4.5,,,181.0,,275.0,225.0,,,240.0,0.2803225852482369,3.75
+fanduel,-150.0,0.0014366721399454718,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Miles Bridges,Over,19.5,,-190.0,-217.0,-170.0,-160.0,-180.0,-150.0,,-180.0,0.6008620032839674,1.6666666666666663
+draftkings,-165.0,-0.017106088417341403,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Darius Garland,Over,29.5,,,-213.0,,-165.0,-180.0,,,,0.611990548721278,1.606060606060606
+bovada,115.0,0.019317850572621698,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists,Trey Murphy III,Over,32.5,-114.0,-105.0,,115.0,,-105.0,,-115.0,-105.0,0.474101325847731,2.15
+ballybet,275.0,0.0837880879725541,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Miles Bridges,Yes,,275.0,220.0,,220.0,220.0,210.0,200.0,210.0,210.0,0.2890101567926811,3.75
+fanduel,-220.0,-0.029415457092689,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,9.5,,-295.0,,-250.0,-275.0,-260.0,-220.0,-285.0,,0.6672768732487763,1.4545454545454546
+betonlineag,112.0,0.007165815844205059,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,6.5,,-140.0,112.0,,100.0,,,,105.0,0.4750782150208514,2.12
+fanduel,650.0,0.18575970949301834,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Donovan Mitchell,Over,7.5,,,354.0,625.0,550.0,425.0,650.0,410.0,425.0,0.1581012945990691,7.5
+fanduel,-125.0,0.003955467147127134,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deni Avdija,Over,14.5,,-175.0,,-150.0,-140.0,-140.0,-125.0,,-140.0,0.5577530373039595,1.8
+fanduel,190.0,0.047639582421689086,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Miles Bridges,Over,24.5,,165.0,,175.0,165.0,140.0,190.0,,150.0,0.3612550284212721,2.9
+draftkings,-400.0,-0.08636834180312425,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,9.5,,-700.0,,,-400.0,-450.0,,,-425.0,0.7309053265575005,1.25
+fanduel,350.0,0.09445158692563849,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Dejounte Murray,Over,24.5,,275.0,198.0,320.0,290.0,260.0,350.0,,300.0,0.243211463761253,4.5
+fanduel,110.0,0.01628938391299828,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,14.5,,-135.0,,-115.0,105.0,100.0,110.0,,-105.0,0.4839473256728563,2.1
+bovada,140.0,0.029309587234758405,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds,Jaren Jackson Jr,Over,7.5,112.0,125.0,122.0,140.0,114.0,,,105.0,110.0,0.4288789946811494,2.4
+hardrockbet,275.0,0.05220581674810365,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Kelly Oubre Jr,Over,2.5,,185.0,,,210.0,260.0,,,275.0,0.2805882177994943,3.75
+bovada,300.0,0.07987233415600437,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,5.5,,,201.0,300.0,225.0,240.0,320.0,,230.0,0.2699680835390011,4.0
+betonlineag,106.0,0.006227943247633871,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Max Strus,Over,9.5,,,106.0,,-110.0,-105.0,,,-105.0,0.4884601666250649,2.06
+ballybet,350.0,0.08887854043690513,New Orleans Pelicans @ Memphis Grizzlies,player_double_double,Yves Missi,Yes,,350.0,260.0,,290.0,300.0,270.0,280.0,250.0,250.0,0.2419730089859789,4.5
+fanduel,-420.0,-0.09370766556756893,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Dean Wade,Over,3.5,,,,-500.0,-500.0,-550.0,-420.0,,-575.0,0.732005347041579,1.238095238095238
+fanduel,-550.0,-0.08805498595638295,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,7.5,,,,-600.0,-800.0,-700.0,-550.0,-920.0,-800.0,0.7716457811138296,1.181818181818182
+bovada,115.0,0.01544690172886476,Portland Trail Blazers @ Charlotte Hornets,player_points,Toumani Camara,Over,10.5,,-110.0,102.0,115.0,-110.0,100.0,,,-105.0,0.4723008845250534,2.15
+draftkings,100.0,-0.015306122448979775,Cleveland Cavaliers @ Philadelphia 76ers,player_turnovers,Darius Garland,Under,2.5,,-118.0,,,100.0,-120.0,,-125.0,,0.4923469387755101,2.0
+ballybet,-155.0,-0.020654830798714663,Portland Trail Blazers @ Charlotte Hornets,player_steals,Miles Bridges,Over,0.5,-155.0,-190.0,,,,,,-195.0,-185.0,0.5952882401027422,1.6451612903225803
+ballybet,650.0,0.1645364153104092,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Tyrese Maxey,Yes,,650.0,450.0,,500.0,500.0,400.0,500.0,425.0,425.0,0.1552715220413879,7.5
+betonlineag,110.0,-0.005107592428906682,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deni Avdija,Over,15.5,,,110.0,,-110.0,100.0,,-120.0,,0.4737582893195682,2.1
+fanduel,750.0,0.1657609890220515,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,7.5,,,439.0,700.0,600.0,475.0,750.0,,475.0,0.1371483516496531,8.5
+betonlineag,-192.0,-0.02489890918293347,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,3.5,,,-192.0,-210.0,-230.0,-240.0,-195.0,,-250.0,0.6411623610851943,1.5208333333333337
+fanduel,185.0,0.035378881287122854,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Anfernee Simons,Over,5.5,,,156.0,150.0,165.0,150.0,185.0,,155.0,0.3632908355393413,2.85
+draftkings,-125.0,-0.006235317310571253,New Orleans Pelicans @ Memphis Grizzlies,player_steals,Desmond Bane,Under,1.5,-157.0,-150.0,,,-125.0,,-150.0,-155.0,-145.0,0.552091490383016,1.8
+fanduel,120.0,0.008921845942975626,New Orleans Pelicans @ Memphis Grizzlies,player_blocks,Jaren Jackson Jr,Over,1.5,-107.0,100.0,,,110.0,,120.0,-105.0,100.0,0.4586008390649889,2.2
+ballybet,-143.0,-0.00854271522398009,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Deandre Ayton,Yes,,-143.0,-185.0,,-150.0,-180.0,-175.0,-135.0,-190.0,-190.0,0.5834501716994686,1.6993006993006992
+fanduel,102.0,0.006913157789724567,Portland Trail Blazers @ Charlotte Hornets,player_rebounds,Jerami Grant,Over,3.5,-108.0,-120.0,-111.0,,-125.0,-110.0,102.0,-130.0,-125.0,0.4984718602919429,2.02
+bovada,625.0,0.1462343858432511,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Donovan Mitchell,Over,7.5,,,354.0,625.0,550.0,425.0,650.0,410.0,425.0,0.1581012945990691,7.25
+fanduel,100.0,-0.0014467748453940166,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,5.5,,,-102.0,-125.0,-105.0,,100.0,-130.0,-120.0,0.499276612577303,2.0
+fanduel,185.0,0.03051426728908968,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Donovan Mitchell,Over,29.5,,,,165.0,155.0,150.0,185.0,150.0,160.0,0.3615839534347683,2.85
+betonlineag,102.0,-0.011206695658739885,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_assists_alternate,Deni Avdija,Over,11.5,,,102.0,,,-110.0,,-115.0,,0.489501635812505,2.02
+fanduel,470.0,0.09232796189317927,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Max Strus,Over,14.5,,,,450.0,350.0,350.0,470.0,,350.0,0.191636484542663,5.7
+bovada,-155.0,-0.013463325137696769,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,LaMelo Ball,Over,29.5,,-190.0,-192.0,-155.0,-175.0,-190.0,-150.0,-200.0,-185.0,0.5996595474653217,1.6451612903225803
+fanduel,-260.0,-0.05255371443859591,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Donovan Mitchell,Over,3.5,,,-286.0,-280.0,-275.0,-350.0,-260.0,,-350.0,0.6842667617943474,1.3846153846153846
+bovada,105.0,0.010023859506192556,New Orleans Pelicans @ Memphis Grizzlies,player_points,C.J. McCollum,Over,23.5,-120.0,100.0,103.0,105.0,-120.0,-115.0,-104.0,-135.0,-115.0,0.4926945656127769,2.05
+fanduel,-113.0,0.0011628823251328413,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_assists,Paul George,Over,11.5,-127.0,-140.0,,,-135.0,-130.0,-113.0,-145.0,-135.0,0.5311333601067608,1.8849557522123888
+ballybet,235.0,0.04772569969662421,New Orleans Pelicans @ Memphis Grizzlies,player_double_double,Ja Morant,Yes,,235.0,220.0,,165.0,175.0,200.0,175.0,205.0,190.0,0.3127539402079475,3.35
+espnbet,-145.0,-0.015759536843258704,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,10.5,,,-175.0,,-175.0,-145.0,,,-175.0,0.5825096618682755,1.6896551724137931
+espnbet,900.0,0.16305775260263522,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deandre Ayton,Over,39.5,,,482.0,,,900.0,,680.0,,0.1163057752602635,10.0
+fanduel,-145.0,-0.011997262176925316,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Dejounte Murray,Over,5.5,,,-182.0,-160.0,-170.0,,-145.0,,-165.0,0.5847363142218197,1.6896551724137931
+fanduel,290.0,0.05854104987957509,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,C.J. McCollum,Over,29.5,,240.0,214.0,230.0,255.0,225.0,290.0,,250.0,0.2714207820204039,3.9
+fanduel,410.0,0.07840202835122367,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Paul George,Over,9.5,,340.0,289.0,350.0,360.0,300.0,410.0,,,0.2114513781080831,5.1
+fanduel,550.0,0.08953609668551432,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,15.5,,,397.0,450.0,400.0,,550.0,,,0.1676209379516176,6.5
+betmgm,300.0,0.03579064658904674,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Paul George,Over,6.5,,300.0,214.0,,250.0,,,,260.0,0.2589476616472617,4.0
+fanduel,120.0,0.011298357182266683,Portland Trail Blazers @ Charlotte Hornets,player_rebounds,Deni Avdija,Over,7.5,112.0,-105.0,104.0,110.0,100.0,105.0,120.0,-110.0,-110.0,0.4596810714464848,2.2
+fanduel,-400.0,-0.08979849028458275,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Paul George,Over,14.5,,-650.0,,-475.0,-425.0,-500.0,-400.0,,-475.0,0.7281612077723338,1.25
+draftkings,-275.0,-0.047792171103062,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Jaylen Wells,Over,2.5,,-375.0,-345.0,,-275.0,-325.0,,,-350.0,0.6982857411910878,1.3636363636363638
+fanduel,100.0,-0.0019018129824396324,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds,Jerami Grant,Over,17.5,,-118.0,,,-110.0,-120.0,100.0,-125.0,-125.0,0.4990490935087802,2.0
+fanduel,330.0,0.04335585585585566,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Toumani Camara,Over,7.5,,,233.0,300.0,260.0,,330.0,,,0.2426408967106641,4.3
+draftkings,-115.0,-0.003697079745985099,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_assists,Tyrese Maxey,Under,10.5,-148.0,-145.0,,,-115.0,-140.0,-132.0,-125.0,-130.0,0.5329062131591243,1.869565217391304
+draftkings,225.0,0.027692267894559697,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Dean Wade,Over,9.5,,,,,225.0,190.0,,,210.0,0.3162130055060184,3.25
+draftkings,130.0,0.009056409834074408,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Yves Missi,Over,9.5,,115.0,126.0,-110.0,130.0,115.0,115.0,,,0.438720178188728,2.3
+ballybet,180.0,0.008400296603611634,Cleveland Cavaliers @ Philadelphia 76ers,player_blocks_steals,Guerschon Yabusele,Over,1.5,180.0,150.0,,,,,,145.0,155.0,0.3601429630727185,2.8
+bovada,115.0,0.009340367060019839,Cleveland Cavaliers @ Philadelphia 76ers,player_points,Kelly Oubre Jr,Under,13.5,100.0,-105.0,100.0,115.0,-115.0,-105.0,-102.0,-110.0,110.0,0.4694606358418697,2.15
+fanduel,-125.0,-0.00945819710433482,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Deni Avdija,Over,3.5,,,-130.0,-150.0,-135.0,-145.0,-125.0,-155.0,-150.0,0.5503010016087029,1.8
+fanduel,-105.0,-0.005062360654462306,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Dean Wade,Over,5.5,,,-108.0,-140.0,-120.0,,-105.0,,-115.0,0.5096022055184461,1.9523809523809523
+fanduel,-195.0,-0.03003642810188556,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,3.5,,,-192.0,-210.0,-230.0,-240.0,-195.0,,-250.0,0.6411623610851943,1.5128205128205128
+fanduel,-115.0,-0.006172554671829533,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Jaylen Wells,Over,3.5,,,-123.0,-140.0,-120.0,-130.0,-115.0,,-140.0,0.5315821219197192,1.869565217391304
+fanduel,-240.0,-0.0419486627089497,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Anfernee Simons,Over,3.5,,,-278.0,-300.0,-265.0,-275.0,-240.0,,-300.0,0.6762715322054472,1.4166666666666667
+betonlineag,115.0,0.002077303612083581,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists,Max Strus,Over,17.5,,-105.0,115.0,110.0,-105.0,,,-120.0,100.0,0.466082466796318,2.15
+fanduel,-950.0,-0.11945978372483268,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Deni Avdija,Over,1.5,,,-2000.0,,,-1200.0,-950.0,-1745.0,,0.79667924329658,1.1052631578947367
+fanduel,115.0,0.0043321889311447315,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Jerami Grant,Over,14.5,,-110.0,,100.0,110.0,100.0,115.0,,100.0,0.4671312506656487,2.15
+espnbet,-210.0,-0.0429785720359428,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists_alternate,Jaylen Wells,Over,14.5,,,-250.0,,-235.0,-210.0,,,,0.6483048382982322,1.4761904761904765
+fanduel,130.0,0.007922028071055243,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Trey Murphy III,Over,24.5,,105.0,,105.0,115.0,115.0,130.0,,120.0,0.4382269687265458,2.3
+fanduel,390.0,0.0703568383875286,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Trey Murphy III,Over,7.5,,,291.0,320.0,360.0,300.0,390.0,,300.0,0.2184401710994956,4.9
+draftkings,600.0,0.09531445224064017,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Max Strus,Over,5.5,,,287.0,575.0,600.0,,500.0,,500.0,0.1564734931772343,7.0
+fanduel,250.0,0.027788978569481815,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,LaMelo Ball,Over,7.5,,,192.0,200.0,225.0,,250.0,,,0.2936539938769948,3.5
+hardrockbet,115.0,-0.009370271368501437,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists,LaMelo Ball,Over,47.5,,100.0,,110.0,,,,-120.0,115.0,0.4607580133169761,2.15
+draftkings,-160.0,-0.02461706585551593,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,LaMelo Ball,Over,44.5,,,-169.0,,-160.0,-180.0,,-195.0,,0.600235651781221,1.625
+betmgm,125.0,0.011834499760645434,Cleveland Cavaliers @ Philadelphia 76ers,player_assists,Tyrese Maxey,Over,6.5,107.0,125.0,112.0,105.0,105.0,115.0,114.0,-115.0,105.0,0.4497042221158424,2.25
+ballybet,118.0,0.007285116412309112,New Orleans Pelicans @ Memphis Grizzlies,player_threes,Trey Murphy III,Over,3.5,118.0,105.0,102.0,105.0,-105.0,100.0,112.0,-115.0,-110.0,0.462057392849683,2.18
+fanduel,-135.0,-0.01516011824452057,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,LaMelo Ball,Over,5.5,,,-152.0,-150.0,-150.0,,-135.0,-165.0,-160.0,0.565759081008467,1.7407407407407407
+espnbet,900.0,0.16218442005548406,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Jarrett Allen,Over,39.5,,,509.0,,700.0,900.0,,645.0,,0.1162184420055484,10.0
+fanduel,310.0,0.04553021156125414,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Dean Wade,Over,7.5,,,266.0,260.0,265.0,240.0,310.0,,250.0,0.2550073686734766,4.1
+betmgm,-160.0,-0.022495867723790752,Cleveland Cavaliers @ Philadelphia 76ers,player_assists,Guerschon Yabusele,Under,2.5,,-160.0,-179.0,,,-190.0,,-200.0,-195.0,0.6015410044776672,1.625
+fanduel,125.0,0.004635572275772493,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Zach Edey,Over,7.5,,,113.0,100.0,105.0,115.0,125.0,,110.0,0.4465046987892322,2.25
+bovada,115.0,0.004114468648808378,Cleveland Cavaliers @ Philadelphia 76ers,player_points,Donovan Mitchell,Over,26.5,,110.0,103.0,115.0,-105.0,-105.0,,-120.0,100.0,0.4670299854180504,2.15
+fanduel,114.0,0.0026650627361530788,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_assists,Donovan Mitchell,Over,9.5,-103.0,-105.0,,,110.0,-105.0,114.0,-110.0,-105.0,0.4685350760449313,2.14
+fanduel,700.0,0.114279797077528,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Paul George,Over,29.5,,475.0,,525.0,550.0,500.0,700.0,,525.0,0.139284974634691,8.0
+fanduel,110.0,0.003427062557356919,Portland Trail Blazers @ Charlotte Hornets,player_rebounds,Deandre Ayton,Over,11.5,107.0,-110.0,-105.0,-110.0,-115.0,100.0,110.0,-115.0,-115.0,0.4778224107415985,2.1
+ballybet,104.0,-0.01894379853903816,Cleveland Cavaliers @ Philadelphia 76ers,player_steals,Max Strus,Over,0.5,104.0,-110.0,,,,,,-120.0,-110.0,0.480909902676942,2.04
+draftkings,-145.0,-0.016655668963466264,Portland Trail Blazers @ Charlotte Hornets,player_assists,Jerami Grant,Under,2.5,,-175.0,-159.0,,-145.0,-170.0,,-185.0,-180.0,0.5819792979603975,1.6896551724137931
+ballybet,-114.0,-0.004643094552897464,New Orleans Pelicans @ Memphis Grizzlies,player_points,Trey Murphy III,Under,23.5,-114.0,-130.0,-143.0,-145.0,,-125.0,-130.0,-135.0,-140.0,0.5302368561727555,1.8771929824561404
+espnbet,1000.0,0.16525268871301613,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deni Avdija,Over,39.5,,,,,600.0,1000.0,,715.0,,0.1059320626102742,11.0
+bovada,105.0,0.0014536777734938111,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists,C.J. McCollum,Over,31.5,-115.0,-105.0,-106.0,105.0,-115.0,-110.0,,-125.0,-105.0,0.4885139891578018,2.05
+draftkings,105.0,-0.011896875482524383,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Dean Wade,Over,14.5,,,-103.0,,105.0,-105.0,,,,0.4820015241548662,2.05
+fanduel,260.0,0.04281274565406068,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deni Avdija,Over,19.5,,200.0,236.0,220.0,225.0,210.0,260.0,215.0,230.0,0.2896702071261279,3.6
+bovada,105.0,0.00016301815513519724,New Orleans Pelicans @ Memphis Grizzlies,player_points,Yves Missi,Under,8.5,-107.0,-118.0,-105.0,105.0,-120.0,-105.0,,-130.0,-110.0,0.487884399100066,2.05
+draftkings,-475.0,-0.09871145254440439,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,4.5,,-700.0,,,-475.0,-600.0,,,-650.0,0.744542713115492,1.2105263157894737
+fanduel,-220.0,-0.042409357932350567,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Trey Murphy III,Over,19.5,,-275.0,,-250.0,-250.0,-250.0,-220.0,,-250.0,0.6583435664215089,1.4545454545454546
+fanduel,104.0,-0.0024470653491277528,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists,Ja Morant,Under,12.5,-110.0,-120.0,,,-105.0,100.0,104.0,-130.0,-115.0,0.4889965365935648,2.04
+betonlineag,-102.0,-0.011236512346909922,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,5.5,,,-102.0,-125.0,-105.0,,100.0,-130.0,-120.0,0.499276612577303,1.9803921568627447
+fanduel,-410.0,-0.10113281833969723,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Trey Murphy III,Over,3.5,,,,-500.0,-450.0,-475.0,-410.0,,-500.0,0.7226187146680866,1.2439024390243902
+draftkings,-105.0,-0.024466681411707825,New Orleans Pelicans @ Memphis Grizzlies,player_turnovers,Dejounte Murray,Under,3.5,,-120.0,,,-105.0,-125.0,,-125.0,,0.4996634070818081,1.9523809523809523
+fanduel,-550.0,-0.09926493535891823,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deni Avdija,Over,9.5,,-1000.0,,-650.0,-575.0,-650.0,-550.0,-825.0,-650.0,0.7621604393116843,1.181818181818182
+betmgm,550.0,0.07892965237732086,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Eric Gordon,Over,14.5,,550.0,351.0,475.0,425.0,400.0,550.0,,,0.1659891772888186,6.5
+fanduel,550.0,0.07892965237732086,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Eric Gordon,Over,14.5,,550.0,351.0,475.0,425.0,400.0,550.0,,,0.1659891772888186,6.5
+draftkings,-105.0,-0.0023641946169893346,New Orleans Pelicans @ Memphis Grizzlies,player_points,Jaylen Wells,Under,11.5,-121.0,-125.0,-119.0,-125.0,-105.0,-125.0,-115.0,-135.0,-120.0,0.5109841930010542,1.9523809523809523
+fanduel,350.0,0.03924167623857988,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Toumani Camara,Over,14.5,,325.0,242.0,300.0,270.0,,350.0,,,0.2309425947196844,4.5
+ballybet,135.0,-0.009305254741784341,Cleveland Cavaliers @ Philadelphia 76ers,player_blocks_steals,Dean Wade,Over,1.5,135.0,115.0,,,,,,110.0,120.0,0.4215722320247726,2.35
+fanduel,-230.0,-0.04146042523770954,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Miles Bridges,Over,3.5,,,-294.0,-250.0,-235.0,-275.0,-230.0,,-275.0,0.6680730369555358,1.434782608695652
+fanduel,-950.0,-0.13620951820377936,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Paul George,Over,3.5,,,,-1200.0,-1600.0,-1600.0,-950.0,,-1600.0,0.7815247216251521,1.1052631578947367
+ballybet,102.0,-0.01825012434127482,Cleveland Cavaliers @ Philadelphia 76ers,player_steals,Guerschon Yabusele,Over,0.5,102.0,-115.0,,,,,,-120.0,-110.0,0.486014789930062,2.02
+draftkings,-450.0,-0.09419096866448284,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,3.5,,,,-500.0,-450.0,-550.0,-450.0,-635.0,-575.0,0.7411164801836049,1.2222222222222223
+fanduel,-450.0,-0.09419096866448284,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,3.5,,,,-500.0,-450.0,-550.0,-450.0,-635.0,-575.0,0.7411164801836049,1.2222222222222223
+ballybet,123.0,-0.016407064843048436,New Orleans Pelicans @ Memphis Grizzlies,player_blocks,C.J. McCollum,Over,0.5,123.0,105.0,,,,,,100.0,110.0,0.4410730650928034,2.23
+fanduel,600.0,0.08482180470132283,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,15.5,,,398.0,550.0,500.0,,600.0,,,0.1549745435287604,7.0
+draftkings,-700.0,-0.10986710702273483,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Donovan Mitchell,Over,2.5,,,,,-700.0,-1000.0,,-1240.0,-1000.0,0.778866281355107,1.1428571428571428
+betonlineag,103.0,0.00016996819393710894,New Orleans Pelicans @ Memphis Grizzlies,player_points,C.J. McCollum,Over,23.5,-120.0,100.0,103.0,105.0,-120.0,-115.0,-104.0,-135.0,-115.0,0.4926945656127769,2.03
+draftkings,310.0,0.038831976686187986,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Yves Missi,Over,11.5,,,270.0,250.0,310.0,240.0,290.0,,250.0,0.2533736528502898,4.1
+draftkings,-800.0,-0.10112792182896457,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Jarrett Allen,Over,19.5,,,,,-800.0,-900.0,,-1205.0,,0.7989974028186981,1.125
+draftkings,-550.0,-0.08997048253523454,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deni Avdija,Over,4.5,,-900.0,,,-550.0,-650.0,,-835.0,-750.0,0.7700249763163398,1.181818181818182
+fanduel,105.0,-0.006948301261808121,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deandre Ayton,Over,14.5,,-125.0,-102.0,100.0,-105.0,100.0,105.0,-120.0,-110.0,0.484415462799118,2.05
+draftkings,230.0,0.03314248503605177,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Dejounte Murray,Over,9.5,,175.0,190.0,180.0,230.0,200.0,230.0,,,0.3130734803139551,3.3
+fanduel,230.0,0.03314248503605177,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Dejounte Murray,Over,9.5,,175.0,190.0,180.0,230.0,200.0,230.0,,,0.3130734803139551,3.3
+fanduel,-850.0,-0.1303383992668945,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,3.5,,,,-1000.0,-1100.0,-1400.0,-850.0,,-1500.0,0.778118274340147,1.1176470588235294
+draftkings,600.0,0.0810101349174408,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,9.5,,400.0,367.0,525.0,600.0,475.0,550.0,,,0.1544300192739201,7.0
+draftkings,-1600.0,-0.12089291769114774,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Darius Garland,Over,19.5,,,,,-1600.0,-2500.0,,-19130.0,,0.8273949009965669,1.0625
+draftkings,-200.0,-0.03945464282484723,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,4.5,,-235.0,-233.0,,-200.0,-240.0,,-250.0,-240.0,0.6403635714501018,1.5
+hardrockbet,-425.0,-0.09711694954661687,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,9.5,,-700.0,,,-400.0,-450.0,,,-425.0,0.7309053265575005,1.2352941176470589
+fanduel,350.0,0.05123438572262384,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Paul George,Yes,,380.0,280.0,,250.0,295.0,270.0,350.0,265.0,275.0,0.2336076412716942,4.5
+fanduel,102.0,-0.005038882369489128,Cleveland Cavaliers @ Philadelphia 76ers,player_points,Eric Gordon,Over,8.5,-112.0,-115.0,100.0,-105.0,-120.0,-115.0,102.0,-135.0,,0.4925550087279757,2.02
+fanduel,170.0,0.008496158202343063,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Darius Garland,Over,24.5,,,,130.0,150.0,150.0,170.0,145.0,160.0,0.3735170956304974,2.7
+hardrockbet,120.0,-0.004146385433567601,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Yves Missi,Over,9.5,,-110.0,,110.0,110.0,115.0,,,120.0,0.4526607338938329,2.2
+espnbet,1000.0,0.14915364361149341,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists_alternate,Desmond Bane,Over,17.5,,,602.0,,,1000.0,,730.0,,0.1044685130555903,11.0
+fanduel,-650.0,-0.1049019261589681,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,7.5,,,,-700.0,-700.0,-900.0,-650.0,-1130.0,-950.0,0.7757516639955612,1.1538461538461535
+bovada,-300.0,-0.06370594325659862,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Dejounte Murray,Over,14.5,,-450.0,,-300.0,-340.0,-350.0,-280.0,,-350.0,0.7022205425575511,1.3333333333333333
+bovada,700.0,0.09718681319722489,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,7.5,,,439.0,700.0,600.0,475.0,750.0,,475.0,0.1371483516496531,8.0
+espnbet,900.0,0.10909497578295513,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Kelly Oubre Jr,Over,3.5,,,,,550.0,900.0,,,750.0,0.1109094975782955,10.0
+fanduel,-175.0,-0.033912305428799194,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Eric Gordon,Over,1.5,,,-189.0,,,-190.0,-175.0,,,0.6147830783634914,1.5714285714285714
+hardrockbet,225.0,0.0262588863895159,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Zach Edey,Over,9.5,,180.0,,200.0,205.0,200.0,,,225.0,0.315771965042928,3.25
+draftkings,175.0,0.008176160300124913,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Jaylen Wells,Over,4.5,,155.0,151.0,,175.0,145.0,,,145.0,0.3666095128364091,2.75
+draftkings,-115.0,-0.008122058313060898,Cleveland Cavaliers @ Philadelphia 76ers,player_points,Kelly Oubre Jr,Over,13.5,-132.0,-130.0,-130.0,-150.0,-115.0,-125.0,-125.0,-140.0,-145.0,0.5305393641581303,1.869565217391304
+draftkings,100.0,-0.005188174612677288,New Orleans Pelicans @ Memphis Grizzlies,player_threes,Jaren Jackson Jr,Under,1.5,-121.0,-115.0,-112.0,-115.0,100.0,-115.0,-113.0,-125.0,-120.0,0.4974059126936613,2.0
+bovada,450.0,0.05400066498464662,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Max Strus,Over,14.5,,,,450.0,350.0,350.0,470.0,,350.0,0.191636484542663,5.5
+betmgm,340.0,0.029573831349683832,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,14.5,,340.0,275.0,,270.0,275.0,,290.0,,0.2339940525794736,4.4
+betonlineag,153.0,-0.003252662116272287,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Max Strus,Over,19.5,,,153.0,,140.0,135.0,,,,0.3939712797959398,2.53
+fanduel,138.0,0.004737239578317287,Portland Trail Blazers @ Charlotte Hornets,player_rebounds,Anfernee Simons,Under,2.5,117.0,115.0,127.0,,130.0,120.0,138.0,110.0,110.0,0.422158504024503,2.38
+fanduel,410.0,0.05197291854410091,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Eric Gordon,Over,3.5,,,322.0,340.0,310.0,350.0,410.0,,,0.2062691997145296,5.1
+draftkings,-105.0,-0.009823232487270017,New Orleans Pelicans @ Memphis Grizzlies,player_points_assists,Desmond Bane,Under,25.5,-120.0,-120.0,,,-105.0,-120.0,-120.0,-130.0,-120.0,0.5071637101894471,1.9523809523809523
+betonlineag,110.0,-0.00680549684675491,Portland Trail Blazers @ Charlotte Hornets,player_points,Deni Avdija,Over,15.5,,-105.0,110.0,100.0,-105.0,,,-120.0,-105.0,0.4729497634063072,2.1
+fanduel,-108.0,-0.006333838255321744,New Orleans Pelicans @ Memphis Grizzlies,player_points,Dejounte Murray,Over,18.5,-122.0,-130.0,-122.0,-130.0,-125.0,-125.0,-108.0,-135.0,-125.0,0.5159420455212752,1.925925925925926
+espnbet,700.0,0.10320010598980311,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Ja Morant,Over,11.5,,,412.0,550.0,500.0,700.0,500.0,560.0,600.0,0.1379000132487254,8.0
+fanduel,280.0,0.03446800899712432,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deni Avdija,Over,9.5,,275.0,247.0,220.0,220.0,225.0,280.0,235.0,,0.2722284234202959,3.8
+ballybet,117.0,-0.00044116155334239515,Portland Trail Blazers @ Charlotte Hornets,player_threes,Miles Bridges,Over,2.5,117.0,100.0,104.0,105.0,100.0,100.0,112.0,-105.0,-105.0,0.4606261928325611,2.17
+draftkings,105.0,-0.007907982370644606,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,14.5,,-135.0,,-115.0,105.0,100.0,110.0,,-105.0,0.4839473256728563,2.05
+ballybet,-136.0,-0.017934520807165955,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds,Tyrese Maxey,Over,3.5,-136.0,,-161.0,,,-170.0,-146.0,,,0.5659360388568874,1.7352941176470589
+fanduel,400.0,0.05143522601881889,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,19.5,,275.0,309.0,375.0,380.0,325.0,400.0,,300.0,0.2102870452037638,5.0
+espnbet,1200.0,0.1633361206990226,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Tyrese Maxey,Over,54.5,,,651.0,,1000.0,1200.0,,,,0.0894873938999248,13.0
+fanduel,180.0,0.011410685688078459,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Miles Bridges,Over,5.5,,,160.0,150.0,170.0,150.0,180.0,,155.0,0.3612181020314566,2.8
+fanduel,300.0,0.023799402613110088,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Anfernee Simons,Over,24.5,,240.0,,250.0,255.0,240.0,300.0,,275.0,0.2559498506532775,4.0
+espnbet,1200.0,0.1624196913029311,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Dean Wade,Over,24.5,,,582.0,,1100.0,1200.0,,,,0.0894168993309947,13.0
+fanduel,-190.0,-0.03198475205196416,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Donovan Mitchell,Over,3.5,,,-217.0,-220.0,-210.0,-210.0,-190.0,,-220.0,0.6342168865866442,1.526315789473684
+fanduel,-145.0,-0.021227415597911303,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Donovan Mitchell,Over,24.5,,,-161.0,-165.0,-160.0,-160.0,-145.0,,-165.0,0.5792735703604198,1.6896551724137931
+fanduel,480.0,0.0675594242788331,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Donovan Mitchell,Over,34.5,,,384.0,475.0,380.0,375.0,480.0,355.0,375.0,0.1840619697032471,5.8
+fanduel,-104.0,-0.010734375406434515,New Orleans Pelicans @ Memphis Grizzlies,player_points_assists,Dejounte Murray,Over,26.5,-122.0,-115.0,,,-120.0,-115.0,-104.0,-135.0,-120.0,0.5043314948908373,1.9615384615384617
+ballybet,-122.0,-0.015821231115816792,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_assists,Darius Garland,Over,9.5,-122.0,-150.0,,,-125.0,-145.0,-136.0,-155.0,-145.0,0.5408549991165331,1.819672131147541
+draftkings,100.0,-0.019228185311363055,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Miles Bridges,Over,34.5,,,-109.0,,100.0,-110.0,,,,0.4903859073443184,2.0
+fanduel,-230.0,-0.04892855617018588,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Zach Edey,Over,5.5,,,,-250.0,-255.0,,-230.0,,-260.0,0.6628679760025977,1.434782608695652
+fanduel,410.0,0.042206008742235124,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,C.J. McCollum,Over,5.5,,,326.0,320.0,350.0,,410.0,,350.0,0.2043541193612226,5.1
+hardrockbet,-105.0,-0.014052568380697794,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Jarrett Allen,Over,14.5,,-140.0,-110.0,-130.0,-120.0,-110.0,-115.0,-115.0,-105.0,0.5049974649757402,1.9523809523809523
+fanduel,128.0,-0.0055615730673161945,Portland Trail Blazers @ Charlotte Hornets,player_steals,LaMelo Ball,Over,1.5,120.0,105.0,,,120.0,,128.0,100.0,110.0,0.4361572047950368,2.28
+hardrockbet,140.0,0.00041891686599004885,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Ja Morant,Over,24.5,,115.0,122.0,115.0,120.0,135.0,125.0,,140.0,0.4168412153608292,2.4
+betmgm,115.0,-0.00434723432604367,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds,Donovan Mitchell,Under,4.5,104.0,115.0,-102.0,,100.0,-105.0,-104.0,110.0,100.0,0.4630943096157937,2.15
+betonlineag,104.0,-0.013139809775138622,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Trey Murphy III,Over,5.5,,,104.0,-125.0,100.0,,110.0,,-110.0,0.4837549952082653,2.04
+bovada,575.0,0.05619607894633161,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Max Strus,Over,5.5,,,287.0,575.0,600.0,,500.0,,500.0,0.1564734931772343,6.75
+espnbet,350.0,0.018945072227828597,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Anfernee Simons,Over,34.5,,,236.0,,330.0,350.0,,,,0.2264322382728508,4.5
+fanduel,100.0,-0.010056459122074202,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists,Desmond Bane,Over,11.5,-108.0,-110.0,,,-115.0,-105.0,100.0,-140.0,-125.0,0.4949717704389629,2.0
+fanduel,250.0,0.014698176120884643,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,13.5,,,206.0,240.0,225.0,,250.0,,,0.2899137646059671,3.5
+bovada,650.0,0.08166954392297754,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Yves Missi,Over,14.5,,450.0,321.0,650.0,550.0,600.0,500.0,,650.0,0.144222605856397,7.5
+hardrockbet,650.0,0.08166954392297754,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Yves Missi,Over,14.5,,450.0,321.0,650.0,550.0,600.0,500.0,,650.0,0.144222605856397,7.5
+fliff,185.0,-0.004418838185499929,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists_alternate,Ja Morant,Over,39.5,,,157.0,,150.0,,,185.0,,0.3493267234436842,2.85
+espnbet,260.0,0.010117584078179531,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Kelly Oubre Jr,Over,2.5,,185.0,,,210.0,260.0,,,275.0,0.2805882177994943,3.6
+fanduel,-800.0,-0.13292090741739093,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,C.J. McCollum,Over,14.5,,-1600.0,,-1100.0,-1000.0,-1000.0,-800.0,,-1000.0,0.7707369711845414,1.125
+fanduel,-104.0,-0.014426376224588644,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds,Trey Murphy III,Over,28.5,-125.0,-118.0,,,-115.0,-115.0,-104.0,-125.0,-120.0,0.5024492983953077,1.9615384615384617
+bovada,-600.0,-0.09974658870053199,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deandre Ayton,Over,7.5,,,,-600.0,-800.0,-700.0,-550.0,-920.0,-800.0,0.7716457811138296,1.1666666666666667
+fanduel,220.0,0.01963082096660218,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Jaylen Wells,Over,14.5,,195.0,,190.0,170.0,190.0,220.0,,210.0,0.3186346315520631,3.2
+fanduel,500.0,0.04783693367396724,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Darius Garland,Over,29.5,,,417.0,400.0,390.0,400.0,500.0,385.0,425.0,0.1746394889456612,6.0
+bovada,100.0,-0.009365094752908809,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists,Donovan Mitchell,Over,35.5,-113.0,-110.0,-109.0,100.0,-115.0,-120.0,-111.0,-130.0,-120.0,0.4953174526235456,2.0
+ballybet,150.0,-0.016101931104647527,Cleveland Cavaliers @ Philadelphia 76ers,player_blocks,Paul George,Over,0.5,150.0,130.0,,,,,,125.0,135.0,0.393559227558141,2.5
+draftkings,-160.0,-0.0235992446635529,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Miles Bridges,Over,19.5,,-190.0,-217.0,-170.0,-160.0,-180.0,-150.0,,-180.0,0.6008620032839674,1.625
+espnbet,-190.0,-0.030690740157165552,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Jaylen Wells,Over,9.5,,-225.0,-217.0,-220.0,-220.0,-190.0,,,-190.0,0.6350646874832364,1.526315789473684
+hardrockbet,-190.0,-0.030690740157165552,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Jaylen Wells,Over,9.5,,-225.0,-217.0,-220.0,-220.0,-190.0,,,-190.0,0.6350646874832364,1.526315789473684
+espnbet,800.0,0.07417613457116723,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Guerschon Yabusele,Over,29.5,,,481.0,,750.0,800.0,,,,0.1193529038412408,9.0
+fanduel,390.0,0.03304679983061298,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Jerami Grant,Over,19.5,,333.0,251.0,350.0,360.0,,390.0,,,0.2108258775164516,4.9
+betonlineag,122.0,-0.010162854282925626,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Jaren Jackson Jr,Over,7.5,,,122.0,105.0,105.0,110.0,120.0,105.0,105.0,0.4458725881608443,2.22
+bovada,475.0,0.05835632579367078,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Donovan Mitchell,Over,34.5,,,384.0,475.0,380.0,375.0,480.0,355.0,375.0,0.1840619697032471,5.75
+draftkings,-240.0,-0.0536265432098767,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,9.5,,-300.0,,-260.0,-240.0,-275.0,-240.0,,,0.668028322440087,1.4166666666666667
+fanduel,-240.0,-0.0536265432098767,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,9.5,,-300.0,,-260.0,-240.0,-275.0,-240.0,,,0.668028322440087,1.4166666666666667
+fanduel,-108.0,-0.01721077536334925,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds,Deandre Ayton,Over,25.5,,-130.0,,,-125.0,-110.0,-108.0,-135.0,-130.0,0.5102944050997994,1.925925925925926
+espnbet,-600.0,-0.10742730697196456,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Jarrett Allen,Over,9.5,,-1000.0,,,-650.0,-600.0,,-735.0,-600.0,0.7650623083097446,1.1666666666666667
+hardrockbet,-600.0,-0.10742730697196456,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Jarrett Allen,Over,9.5,,-1000.0,,,-650.0,-600.0,,-735.0,-600.0,0.7650623083097446,1.1666666666666667
+draftkings,105.0,-0.01814928688959605,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,11.5,,,115.0,-115.0,105.0,-110.0,105.0,-120.0,-115.0,0.4789515673709288,2.05
+fanduel,105.0,-0.01814928688959605,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,11.5,,,115.0,-115.0,105.0,-110.0,105.0,-120.0,-115.0,0.4789515673709288,2.05
+fanduel,230.0,0.0213532887092287,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Dejounte Murray,Over,7.5,,,190.0,220.0,200.0,190.0,230.0,,200.0,0.3095009965785542,3.3
+bovada,200.0,0.012458979144872595,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,5.5,,,168.0,200.0,175.0,180.0,220.0,,160.0,0.3374863263816242,3.0
+fanduel,750.0,0.11715605681375751,New Orleans Pelicans @ Memphis Grizzlies,player_double_double,Zach Edey,Yes,,,575.0,,600.0,550.0,500.0,750.0,535.0,550.0,0.1314301243310303,8.5
+draftkings,750.0,0.07347518886772941,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,LaMelo Ball,Over,9.5,,600.0,533.0,550.0,750.0,,550.0,,,0.1262911986903211,8.5
+draftkings,-235.0,-0.047640564339980984,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Miles Bridges,Over,3.5,,,-294.0,-250.0,-235.0,-275.0,-230.0,,-275.0,0.6680730369555358,1.425531914893617
+fanduel,-106.0,-0.023751122331019392,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds,Deni Avdija,Over,22.5,,-115.0,,,,,-106.0,-135.0,-130.0,0.5023416554995725,1.9433962264150944
+draftkings,-310.0,-0.05727118253292862,Portland Trail Blazers @ Charlotte Hornets,player_assists_alternate,Deni Avdija,Over,2.5,,-375.0,-385.0,,-310.0,-375.0,,,-375.0,0.7127949595482734,1.3225806451612905
+betonlineag,-108.0,-0.018543900482992592,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Dean Wade,Over,5.5,,,-108.0,-140.0,-120.0,,-105.0,,-115.0,0.5096022055184461,1.925925925925926
+ballybet,-124.0,-0.021988612504496352,New Orleans Pelicans @ Memphis Grizzlies,player_blocks,Jaren Jackson Jr,Under,1.5,-124.0,-140.0,,,-140.0,,-154.0,-145.0,-135.0,0.5413991609350112,1.806451612903225
+bovada,110.0,-0.013260226270651154,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists,Zach Edey,Under,14.5,,-105.0,102.0,110.0,,-105.0,,-110.0,-105.0,0.4698760827282613,2.1
+bovada,170.0,0.0016270923862675701,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Darius Garland,Over,3.5,,,138.0,170.0,165.0,140.0,185.0,140.0,145.0,0.3709729971800991,2.7
+espnbet,900.0,0.10061336787679509,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Guerschon Yabusele,Over,4.5,,600.0,560.0,,700.0,900.0,,,750.0,0.1100613367876795,10.0
+betonlineag,126.0,-0.00849239729347484,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Yves Missi,Over,9.5,,115.0,126.0,-110.0,130.0,115.0,115.0,,,0.438720178188728,2.26
+espnbet,800.0,0.06911928651058985,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Jaylen Wells,Over,3.5,,,,,550.0,800.0,,,650.0,0.11879103183451,9.0
+draftkings,-145.0,-0.02984747336098581,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds,Tyrese Maxey,Under,4.5,,-160.0,,,-145.0,,,-170.0,-165.0,0.5741719035210492,1.6896551724137931
+bovada,115.0,-0.007017439416659221,New Orleans Pelicans @ Memphis Grizzlies,player_assists,Ja Morant,Under,7.5,-104.0,-105.0,108.0,115.0,110.0,105.0,110.0,-110.0,-110.0,0.4618523537596934,2.15
+ballybet,-159.0,-0.02170471799576157,Portland Trail Blazers @ Charlotte Hornets,player_threes,Jerami Grant,Over,1.5,-159.0,-185.0,-179.0,-190.0,-188.0,-180.0,-162.0,-200.0,-190.0,0.6005750959022159,1.6289308176100628
+fanduel,1200.0,0.16639735072914696,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Dean Wade,Over,14.5,,,551.0,1000.0,900.0,1000.0,1200.0,,900.0,0.0897228731330113,13.0
+hardrockbet,-105.0,-0.013992504190356136,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists,Desmond Bane,Under,11.5,-122.0,-118.0,,,-115.0,-125.0,-128.0,-110.0,-105.0,0.5050282295610371,1.9523809523809523
+espnbet,700.0,0.045628713648383945,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Paul George,Over,44.5,,,457.0,,600.0,700.0,,,,0.130703589206048,8.0
+fanduel,148.0,-0.004316217848274517,New Orleans Pelicans @ Memphis Grizzlies,player_steals,Ja Morant,Over,1.5,135.0,125.0,,,135.0,,148.0,120.0,130.0,0.4014853960289216,2.48
+hardrockbet,105.0,-0.011950796581439604,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds,Guerschon Yabusele,Under,6.5,-113.0,-105.0,-114.0,-115.0,-105.0,-110.0,-111.0,100.0,105.0,0.4819752211797856,2.05
+draftkings,300.0,0.0007712593919491084,New Orleans Pelicans @ Memphis Grizzlies,player_points_rebounds_assists_alternate,Yves Missi,Over,24.5,,,248.0,,300.0,260.0,,,,0.2501928148479873,4.0
+draftkings,360.0,0.02151007286074158,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Darius Garland,Over,4.5,,,268.0,,360.0,300.0,,305.0,325.0,0.2220674071436395,4.6
+bovada,-150.0,-0.027583047167552666,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Deandre Ayton,Yes,,-143.0,-185.0,,-150.0,-180.0,-175.0,-135.0,-190.0,-190.0,0.5834501716994686,1.6666666666666663
+bovada,150.0,-0.004304356822551592,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,LaMelo Ball,Over,34.5,,140.0,,150.0,135.0,125.0,170.0,120.0,125.0,0.3982782572709794,2.5
+draftkings,-575.0,-0.10528991906889229,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Deni Avdija,Over,9.5,,-1000.0,,-650.0,-575.0,-650.0,-550.0,-825.0,-650.0,0.7621604393116843,1.1739130434782608
+ballybet,-110.0,-0.0134465386730388,Portland Trail Blazers @ Charlotte Hornets,player_points,Jerami Grant,Over,13.5,-110.0,-130.0,-122.0,-125.0,-115.0,-125.0,-115.0,-140.0,-130.0,0.5167660987903131,1.9090909090909087
+ballybet,107.0,-0.010907609764891024,Portland Trail Blazers @ Charlotte Hornets,player_rebounds,Deandre Ayton,Over,11.5,107.0,-110.0,-105.0,-110.0,-115.0,100.0,110.0,-115.0,-115.0,0.4778224107415985,2.0700000000000003
+espnbet,-170.0,-0.03903711608682636,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Jarrett Allen,Over,1.5,,,,,-180.0,-170.0,,-185.0,,0.6050507046860722,1.5882352941176472
+espnbet,145.0,-0.015052802171943491,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Eric Gordon,Over,2.5,,115.0,141.0,,125.0,145.0,,,,0.4020192644196149,2.45
+betmgm,275.0,0.02085658782610955,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Deni Avdija,Over,9.5,,275.0,247.0,220.0,220.0,225.0,280.0,235.0,,0.2722284234202959,3.75
+fanduel,128.0,-0.004234108785986734,Portland Trail Blazers @ Charlotte Hornets,player_threes,Toumani Camara,Over,1.5,120.0,110.0,115.0,110.0,114.0,115.0,128.0,100.0,105.0,0.4367394259710584,2.28
+bovada,1200.0,0.20550251224291194,Portland Trail Blazers @ Charlotte Hornets,player_double_double,Toumani Camara,Yes,,,800.0,,1200.0,,650.0,1100.0,720.0,800.0,0.092730962480224,13.0
+ballybet,100.0,-0.015602686260225651,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds,Dean Wade,Over,12.5,100.0,-120.0,,,-110.0,-110.0,100.0,-130.0,-115.0,0.4921986568698872,2.0
+fanduel,100.0,-0.015602686260225651,Cleveland Cavaliers @ Philadelphia 76ers,player_points_rebounds,Dean Wade,Over,12.5,100.0,-120.0,,,-110.0,-110.0,100.0,-130.0,-115.0,0.4921986568698872,2.0
+hardrockbet,-240.0,-0.05887526954942701,New Orleans Pelicans @ Memphis Grizzlies,player_assists_alternate,Ja Morant,Over,6.5,,-325.0,-256.0,,-275.0,,,,-240.0,0.6643233391415809,1.4166666666666667
+fanduel,150.0,-0.004735298404434429,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Paul George,Over,5.5,,,125.0,125.0,130.0,140.0,150.0,,145.0,0.3981058806382262,2.5
+draftkings,1100.0,0.15391590958338086,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,11.5,,,819.0,650.0,1100.0,900.0,850.0,,750.0,0.0961596591319484,12.0
+betonlineag,100.0,-0.014889982544048608,Cleveland Cavaliers @ Philadelphia 76ers,player_points,Eric Gordon,Over,8.5,-112.0,-115.0,100.0,-105.0,-120.0,-115.0,102.0,-135.0,,0.4925550087279757,2.0
+betmgm,165.0,-0.0062376936463315324,Portland Trail Blazers @ Charlotte Hornets,player_rebounds_alternate,Toumani Camara,Over,6.5,,165.0,145.0,,150.0,140.0,,,140.0,0.3750046439070447,2.65
+espnbet,-125.0,-0.03542410946916952,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_assists_alternate,Desmond Bane,Over,11.5,,,-135.0,,,-125.0,,-140.0,,0.5358754947393503,1.8
+ballybet,-114.0,-0.01671568953493363,Cleveland Cavaliers @ Philadelphia 76ers,player_threes,Eric Gordon,Over,1.5,-114.0,-125.0,-128.0,-130.0,,-130.0,-122.0,-145.0,,0.5238056607150353,1.8771929824561404
+draftkings,-265.0,-0.06016808738818269,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Darius Garland,Over,5.5,,,-345.0,-300.0,-265.0,-285.0,-270.0,,-300.0,0.682343717375703,1.3773584905660377
+draftkings,2200.0,0.30478105432149505,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Max Strus,Over,9.5,,,1226.0,,2200.0,1500.0,,,,0.0567296110574563,23.0
+betonlineag,2894.0,0.5309143751068403,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deni Avdija,Over,44.5,,,2894.0,,1200.0,2500.0,,1280.0,,0.0511327446595471,29.94
+ballybet,188.0,-0.00923156379713097,Portland Trail Blazers @ Charlotte Hornets,player_blocks,Deandre Ayton,Over,1.5,188.0,165.0,,,,,,155.0,170.0,0.3440168181259962,2.88
+fanduel,105.0,-0.015162049107194653,Portland Trail Blazers @ Charlotte Hornets,player_points_alternate,Anfernee Simons,Over,19.5,,-125.0,100.0,100.0,-105.0,-105.0,105.0,,-105.0,0.4804087565330758,2.05
+betonlineag,136.0,-0.014086354739164864,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,7.5,,,136.0,110.0,130.0,115.0,150.0,,115.0,0.4177600191783199,2.3600000000000003
+draftkings,-2000.0,-0.12518155245093865,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists_alternate,Deni Avdija,Over,14.5,,,,,-2000.0,-3000.0,,-999900.0,,0.8331604262372012,1.05
+bovada,115.0,-0.02293651833833721,Portland Trail Blazers @ Charlotte Hornets,player_points_rebounds_assists,Deni Avdija,Over,27.5,,105.0,,115.0,,,,-115.0,105.0,0.4544481310054246,2.15
+fanduel,-111.0,-0.016243211909168,New Orleans Pelicans @ Memphis Grizzlies,player_assists,Dejounte Murray,Over,7.5,-134.0,-130.0,-120.0,-125.0,-125.0,-125.0,-111.0,-135.0,-130.0,0.5175213434980206,1.900900900900901
+betonlineag,-139.0,-0.02912862777969205,Cleveland Cavaliers @ Philadelphia 76ers,player_rebounds_alternate,Jarrett Allen,Over,10.5,,,-139.0,,-155.0,-145.0,,,-180.0,0.5646490407473758,1.7194244604316546
+draftkings,145.0,-0.010714774102392632,New Orleans Pelicans @ Memphis Grizzlies,player_steals,C.J. McCollum,Under,0.5,133.0,125.0,,,145.0,,,120.0,130.0,0.4037898881214724,2.45
+bovada,320.0,0.021488147797262713,New Orleans Pelicans @ Memphis Grizzlies,player_points_alternate,Dejounte Murray,Over,24.5,,275.0,198.0,320.0,290.0,260.0,350.0,,300.0,0.243211463761253,4.2
+draftkings,-425.0,-0.10050674334005816,Cleveland Cavaliers @ Philadelphia 76ers,player_points_alternate,Paul George,Over,14.5,,-650.0,,-475.0,-425.0,-500.0,-400.0,,-475.0,0.7281612077723338,1.2352941176470589
+draftkings,-550.0,-0.10352307511675196,Cleveland Cavaliers @ Philadelphia 76ers,player_assists_alternate,Darius Garland,Over,4.5,,,-1000.0,,-550.0,-600.0,,-745.0,-650.0,0.7585573979781327,1.181818181818182
+draftkings,330.0,0.020246964434567638,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,7.5,,,273.0,300.0,330.0,260.0,330.0,270.0,275.0,0.2372667359150157,4.3
+fanduel,330.0,0.020246964434567638,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds_alternate,Desmond Bane,Over,7.5,,,273.0,300.0,330.0,260.0,330.0,270.0,275.0,0.2372667359150157,4.3
+bovada,-165.0,-0.03228264712595441,Cleveland Cavaliers @ Philadelphia 76ers,player_double_double,Jarrett Allen,Yes,,-182.0,-190.0,,-165.0,-195.0,-180.0,-150.0,-195.0,-195.0,0.6025409932989341,1.606060606060606
+fanduel,-108.0,-0.018754998385018262,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds,C.J. McCollum,Over,3.5,-125.0,-120.0,-115.0,,-125.0,-120.0,-108.0,-130.0,-125.0,0.5094925969923944,1.925925925925926
+bovada,105.0,-0.013527118758740575,New Orleans Pelicans @ Memphis Grizzlies,player_rebounds,Desmond Bane,Over,5.5,-115.0,100.0,-102.0,105.0,100.0,100.0,-104.0,-130.0,-120.0,0.4812062835323217,2.05
+bovada,105.0,-0.01258590055875719,Portland Trail Blazers @ Charlotte Hornets,player_threes,LaMelo Ball,Over,4.5,102.0,-110.0,-105.0,105.0,-115.0,-110.0,104.0,-120.0,-115.0,0.4816654143615819,2.05
