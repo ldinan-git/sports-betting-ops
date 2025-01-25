@@ -1,0 +1,119 @@
+[
+    {
+        "id": "e46de5e0481c35effe3b6f1825a83be0",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-25T18:00:00Z",
+        "home_team": "Boston Bruins",
+        "away_team": "Colorado Avalanche",
+        "date": "20250125"
+    },
+    {
+        "id": "b13cdf3e397b8cfdb0f165bd137e82cd",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-25T21:00:00Z",
+        "home_team": "Edmonton Oilers",
+        "away_team": "Buffalo Sabres",
+        "date": "20250125"
+    },
+    {
+        "id": "7ce1a66b26690f11f660c71af5041dad",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-25T21:00:00Z",
+        "home_team": "Seattle Kraken",
+        "away_team": "Pittsburgh Penguins",
+        "date": "20250125"
+    },
+    {
+        "id": "3a990e26778b572bebefb32e1d79e309",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "Minnesota Wild",
+        "away_team": "Calgary Flames",
+        "date": "20250125"
+    },
+    {
+        "id": "f7034251e10b8bf2cd7865994205a155",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "Columbus Blue Jackets",
+        "away_team": "Los Angeles Kings",
+        "date": "20250125"
+    },
+    {
+        "id": "434d9dee038ae109ec100d84dd569ef8",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "St Louis Blues",
+        "away_team": "Dallas Stars",
+        "date": "20250125"
+    },
+    {
+        "id": "c364ceffb852d45e5971d437bbaad834",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "Detroit Red Wings",
+        "away_team": "Tampa Bay Lightning",
+        "date": "20250125"
+    },
+    {
+        "id": "e2c7c617ceabae3dd9b3ba27713b3fc3",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "Montr\u00e9al Canadiens",
+        "away_team": "New Jersey Devils",
+        "date": "20250125"
+    },
+    {
+        "id": "ae5aab3844c472a7fbc03fc5b36ccd57",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:00:00Z",
+        "home_team": "Ottawa Senators",
+        "away_team": "Toronto Maple Leafs",
+        "date": "20250125"
+    },
+    {
+        "id": "6cf61b8e7cb390265de4e19c7115c0a0",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T00:30:00Z",
+        "home_team": "New York Islanders",
+        "away_team": "Carolina Hurricanes",
+        "date": "20250125"
+    },
+    {
+        "id": "3084c5bd3c16d4d63f334f78904e1488",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T03:00:00Z",
+        "home_team": "Anaheim Ducks",
+        "away_team": "Nashville Predators",
+        "date": "20250125"
+    },
+    {
+        "id": "29beb4d5779b5f6e05f65deafbfeb453",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T03:00:00Z",
+        "home_team": "San Jose Sharks",
+        "away_team": "Florida Panthers",
+        "date": "20250125"
+    },
+    {
+        "id": "54a2c4c5b4151e03c3597206e5841398",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-01-26T03:00:00Z",
+        "home_team": "Vancouver Canucks",
+        "away_team": "Washington Capitals",
+        "date": "20250125"
+    }
+]
