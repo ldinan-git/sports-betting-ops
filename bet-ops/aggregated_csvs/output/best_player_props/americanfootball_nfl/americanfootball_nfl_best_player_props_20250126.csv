@@ -1,0 +1,381 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+ballybet,375.0,0.5139474544651639,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Ray Davis,Over,19.5,375.0,,135.0,,,210.0,,,,0.3187257798874029,4.75
+fanduel,790.0,0.6134783848645013,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Brian Robinson Jr.,Over,24.5,,,,420.0,452.0,400.0,790.0,,200.0,0.1812897061645507,8.9
+ballybet,295.0,0.17877821473559252,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Kenneth Gainwell,Over,19.5,295.0,,187.0,,,250.0,,,,0.2984248644900234,3.95
+ballybet,255.0,0.1803690259788524,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,255.0,250.0,150.0,163.0,,,200.0,,165.0,0.3324983171771415,3.55
+fanduel,520.0,0.30229636635203017,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jahan Dotson,Over,24.5,,,209.0,475.0,489.0,,520.0,,200.0,0.210047801024521,6.2
+fanduel,730.0,0.4508719757977899,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,49.5,,333.0,,575.0,382.0,,730.0,395.0,,0.1748038525057578,8.3
+betmgm,250.0,0.16374411011999523,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,255.0,250.0,150.0,163.0,,,200.0,,165.0,0.3324983171771415,3.5
+betmgm,650.0,0.34148470636476635,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Josh Allen,Over,1.5,480.0,650.0,300.0,350.0,,,500.0,,,0.1788646275153022,7.5
+draftkings,457.0,0.20220567476002227,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,59.5,,,,300.0,457.0,,320.0,,,0.2158358482513505,5.57
+draftkings,489.0,0.2371815480344286,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jahan Dotson,Over,24.5,,,209.0,475.0,489.0,,520.0,,200.0,0.210047801024521,5.89
+fanduel,350.0,0.1803507247888445,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,39.5,250.0,,,285.0,238.0,,350.0,230.0,,0.2623001610641877,4.5
+draftkings,830.0,0.3515401390213986,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,69.5,,,,480.0,830.0,,520.0,,,0.1453268966689676,9.3
+bovada,475.0,0.20777485589099576,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jahan Dotson,Over,24.5,,,209.0,475.0,489.0,,520.0,,200.0,0.210047801024521,5.75
+fanduel,400.0,0.17303886251332545,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,2.5,,,228.0,300.0,,225.0,400.0,,,0.2346077725026651,5.0
+fanduel,-104.0,0.026473706850711265,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,124.5,,-140.0,,-145.0,,-130.0,-104.0,,,0.5233003211395783,1.9615384615384617
+fanduel,-320.0,-0.06323146562516757,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,0.5,,,,-420.0,,-700.0,-320.0,,,0.7137284071427294,1.3125
+bovada,875.0,0.294534503195647,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,69.5,,,,875.0,413.0,,610.0,,,0.1327727695585279,9.75
+fanduel,800.0,0.33597964032746663,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Ray Davis,Yes,,575.0,500.0,400.0,450.0,425.0,550.0,800.0,380.0,,0.1484421822586074,9.0
+fanduel,110.0,0.037404320406471125,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,24.5,,-150.0,-114.0,-130.0,-105.0,100.0,110.0,,,0.4940020573364148,2.1
+bovada,525.0,0.16705159823157956,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,59.5,,,,525.0,304.0,,440.0,,,0.1867282557170527,6.25
+fanduel,1260.0,0.48455405438521326,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,59.5,,,,1010.0,600.0,,1260.0,615.0,,0.1091583863518539,13.6
+fanduel,-178.0,0.0004868268301372325,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Saquon Barkley,Over,1.5,,,-233.0,-220.0,,-300.0,-178.0,,-210.0,0.6405994790495123,1.5617977528089888
+betonlineag,140.0,0.04950830136381834,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,1.5,,,140.0,-110.0,,-140.0,140.0,,135.0,0.4372951255682576,2.4
+fanduel,140.0,0.04950830136381834,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,1.5,,,140.0,-110.0,,-140.0,140.0,,135.0,0.4372951255682576,2.4
+hardrockbet,600.0,0.19496606756655943,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Kenneth Gainwell,Over,24.5,,,,300.0,430.0,400.0,430.0,,600.0,0.1707094382237942,7.0
+hardrockbet,-140.0,0.012732889251459323,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,3.5,,,-156.0,-175.0,,-225.0,-168.0,,-140.0,0.5907608520633513,1.7142857142857144
+bovada,950.0,0.3498923158810954,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,39.5,,,303.0,950.0,890.0,,880.0,,400.0,0.1285611729410567,10.5
+ballybet,205.0,0.060077519379844846,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Samaje Perine,Over,19.5,205.0,,140.0,,,200.0,,,,0.3475663997966705,3.05
+ballybet,107.0,0.014974763380847467,Buffalo Bills @ Kansas City Chiefs,player_rush_reception_yds,Isiah Pacheco,Over,39.5,107.0,-118.0,,,,-115.0,,-125.0,,0.4903259726477523,2.0700000000000003
+draftkings,391.0,0.13354293571245823,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,49.5,375.0,275.0,,275.0,391.0,,290.0,,,0.230864141692965,4.91
+betonlineag,120.0,0.025952365103756647,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,2.5,,,120.0,-110.0,,-135.0,118.0,,,0.4663419841380711,2.2
+fanduel,1120.0,0.3834856120964556,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,49.5,,650.0,,920.0,1060.0,,1120.0,,475.0,0.1134004600079062,12.2
+ballybet,425.0,0.12409861295706959,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,59.5,425.0,,,300.0,369.0,,320.0,,,0.2141140215156323,5.25
+fanduel,-320.0,-0.06065180820552796,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Xavier Worthy,Over,3.5,,,-667.0,-340.0,,,-320.0,,,0.7156938604148358,1.3125
+fliff,180.0,0.0567158569552223,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,59.5,148.0,,,130.0,138.0,155.0,148.0,180.0,,0.3773985203411508,2.8
+betmgm,1100.0,0.39382210066884327,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,2.5,1050.0,1100.0,900.0,950.0,,,950.0,,550.0,0.1161518417224036,12.0
+fanduel,-420.0,-0.07033232190090655,Buffalo Bills @ Kansas City Chiefs,player_pass_yds_alternate,Patrick Mahomes,Over,199.5,-835.0,-900.0,,-460.0,-529.0,-475.0,-420.0,-855.0,,0.7508854323108064,1.238095238095238
+fanduel,270.0,0.08524849283723213,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Saquon Barkley,Over,24.5,,,,185.0,212.0,225.0,270.0,,200.0,0.2933104034695222,3.7
+espnbet,145.0,0.04265799906277201,Washington Commanders @ Philadelphia Eagles,player_pass_tds_alternate,Jayden Daniels,Over,1.5,,,110.0,110.0,119.0,145.0,138.0,,115.0,0.425574693495009,2.45
+betmgm,550.0,0.1653537050933479,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Olamide Zaccheaus,Over,49.5,,550.0,,400.0,365.0,,420.0,,375.0,0.1792851853989766,6.5
+ballybet,340.0,0.11138157027814444,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,49.5,340.0,260.0,,300.0,212.0,,285.0,,275.0,0.2525867205177601,4.4
+hardrockbet,1000.0,0.26102004180251437,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,3.5,,,421.0,770.0,,650.0,,,1000.0,0.1146381856184104,11.0
+betonlineag,-238.0,-0.04292784307398845,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,1.5,,,-238.0,-290.0,,-450.0,-250.0,,,0.6739147140484933,1.4201680672268908
+bovada,575.0,0.1799260044138653,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,49.5,,333.0,,575.0,382.0,,730.0,395.0,,0.1748038525057578,6.75
+fliff,295.0,0.08981873548324759,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,69.5,240.0,,,220.0,214.0,250.0,240.0,295.0,,0.275903477337531,3.95
+betonlineag,100.0,0.015317150033720806,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dyami Brown,Over,3.5,,,100.0,-145.0,,-155.0,-102.0,,-115.0,0.5076585750168604,2.0
+draftkings,247.0,0.07586598131543087,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,49.5,240.0,180.0,,175.0,247.0,225.0,198.0,,,0.3100478332321126,3.47
+draftkings,890.0,0.2727556121164614,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,39.5,,,303.0,950.0,890.0,,880.0,,400.0,0.1285611729410567,9.9
+ballybet,220.0,0.06979114857615065,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,149.5,220.0,160.0,,160.0,186.0,175.0,220.0,,,0.3343097339300471,3.2
+fanduel,220.0,0.06979114857615065,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,149.5,220.0,160.0,,160.0,186.0,175.0,220.0,,,0.3343097339300471,3.2
+hardrockbet,1000.0,0.26624050309646907,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Brian Robinson Jr.,Over,3.5,,,354.0,,,700.0,,,1000.0,0.1151127730087699,11.0
+betonlineag,130.0,0.026674110925408723,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Brian Robinson Jr.,Over,1.5,,,130.0,-105.0,,-135.0,118.0,,125.0,0.4463800482284386,2.3
+ballybet,1050.0,0.33574617980764143,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,2.5,1050.0,1100.0,900.0,950.0,,,950.0,,550.0,0.1161518417224036,11.5
+espnbet,200.0,0.04269919939001143,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Samaje Perine,Over,19.5,205.0,,140.0,,,200.0,,,,0.3475663997966705,3.0
+ballybet,195.0,0.04070066009927986,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,29.5,195.0,,126.0,,,185.0,,,,0.3527798847794169,2.95
+fanduel,880.0,0.25989949482235586,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,39.5,,,303.0,950.0,890.0,,880.0,,400.0,0.1285611729410567,9.8
+hardrockbet,135.0,0.027643545085405452,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jamison Crowder,Over,1.5,,,140.0,-110.0,,-140.0,140.0,,135.0,0.4372951255682576,2.35
+hardrockbet,325.0,0.08148132243350314,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jahan Dotson,Over,1.5,,,149.0,300.0,,,290.0,,325.0,0.2544661935137654,4.25
+draftkings,1060.0,0.31544533609171177,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,49.5,,650.0,,920.0,1060.0,,1120.0,,475.0,0.1134004600079062,11.6
+espnbet,150.0,0.017468961037236497,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,29.5,130.0,,,,,150.0,,125.0,,0.4069875844148946,2.5
+fanduel,118.0,0.016625525420995158,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,2.5,,,120.0,-110.0,,-135.0,118.0,,,0.4663419841380711,2.18
+bovada,-380.0,-0.07701283281962967,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,2.5,,,-625.0,-380.0,,-600.0,-400.0,,,0.7306981740177932,1.263157894736842
+fanduel,126.0,0.017240707113274523,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Olamide Zaccheaus,Over,2.5,,,115.0,105.0,,-120.0,126.0,,,0.4501065075722454,2.26
+fliff,475.0,0.12677524573230536,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,79.5,400.0,,,350.0,332.0,,390.0,475.0,,0.1959609123012705,5.75
+betonlineag,110.0,0.010681128780218874,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Dalton Kincaid,Over,3.5,,,110.0,-120.0,,-130.0,102.0,,,0.4812767279905804,2.1
+fanduel,630.0,0.15371235562654828,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,49.5,,475.0,261.0,545.0,553.0,,630.0,,,0.1580427884419929,7.3
+fanduel,230.0,0.06936848006598839,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Jayden Daniels,Yes,,160.0,200.0,210.0,185.0,215.0,155.0,230.0,,155.0,0.324051054565451,3.3
+espnbet,250.0,0.04448702571508201,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Kenneth Gainwell,Over,19.5,295.0,,187.0,,,250.0,,,,0.2984248644900234,3.5
+fanduel,130.0,0.020672835004466594,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,69.5,116.0,,,-105.0,110.0,110.0,130.0,,,0.443770797828029,2.3
+fanduel,158.0,0.02756891152218477,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Saquon Barkley,Over,2.5,,,135.0,130.0,,110.0,158.0,,,0.398282523845808,2.58
+ballybet,375.0,0.09660467304158371,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,49.5,375.0,275.0,,275.0,391.0,,290.0,,,0.230864141692965,4.75
+betmgm,1100.0,0.29648923114396153,Buffalo Bills @ Kansas City Chiefs,player_tds_over,James Cook,Over,1.5,750.0,1100.0,600.0,550.0,,,950.0,,,0.1080407692619968,12.0
+draftkings,198.0,0.046591183950370096,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,39.5,175.0,,,150.0,198.0,175.0,172.0,,,0.3512050952853591,2.98
+bovada,1350.0,0.36156506833072477,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,79.5,,,,1350.0,540.0,,820.0,,1100.0,0.0939010391952224,14.5
+hardrockbet,240.0,0.06316532856762813,Washington Commanders @ Philadelphia Eagles,player_sacks,Frankie Luvu,Over,0.5,225.0,,210.0,,,235.0,124.0,,240.0,0.3126956848728318,3.4
+fanduel,-260.0,-0.04177503222767265,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,99.5,-345.0,-400.0,,-330.0,-309.0,-350.0,-260.0,,-325.0,0.6920513656133476,1.3846153846153846
+fanduel,-260.0,-0.049885032065718704,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dyami Brown,Over,2.5,,,-312.0,-330.0,,-400.0,-260.0,,,0.686194143508092,1.3846153846153846
+fanduel,370.0,0.0901525298814363,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,39.5,360.0,,181.0,325.0,320.0,,370.0,,,0.2319473467832843,4.7
+betonlineag,-476.0,-0.014305951526869531,Washington Commanders @ Philadelphia Eagles,player_sacks,Moro Ojomo,Under,0.5,-590.0,,-476.0,,,-800.0,,,-750.0,0.8145666095021008,1.2100840336134453
+fanduel,-102.0,0.005363060327507663,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dyami Brown,Over,3.5,,,100.0,-145.0,,-155.0,-102.0,,-115.0,0.5076585750168604,1.9803921568627447
+betmgm,115.0,0.012694941718993658,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Olamide Zaccheaus,Over,24.5,,115.0,-114.0,-125.0,-112.0,-105.0,106.0,,115.0,0.4710209031251133,2.15
+hardrockbet,115.0,0.012694941718993658,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Olamide Zaccheaus,Over,24.5,,115.0,-114.0,-125.0,-112.0,-105.0,106.0,,115.0,0.4710209031251133,2.15
+fanduel,154.0,0.024832156235629732,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,39.5,132.0,,,120.0,130.0,140.0,154.0,,,0.4034772268644211,2.54
+ballybet,240.0,0.054162632989183,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,49.5,240.0,180.0,,175.0,247.0,225.0,198.0,,,0.3100478332321126,3.4
+fanduel,-375.0,-0.08021515929518452,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,89.5,-590.0,,,-500.0,-485.0,-550.0,-375.0,,,0.7261459268722228,1.2666666666666666
+fanduel,280.0,0.05136833266053342,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,3.5,,,189.0,250.0,,185.0,280.0,,,0.2766758770159299,3.8
+fanduel,140.0,0.03565615997342919,Washington Commanders @ Philadelphia Eagles,player_pass_tds,Jayden Daniels,Over,1.5,123.0,110.0,110.0,110.0,122.0,110.0,140.0,,120.0,0.4315233999889288,2.4
+espnbet,500.0,0.08955839525508735,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Noah Gray,Over,3.5,,,286.0,375.0,,500.0,410.0,,,0.1815930658758479,6.0
+ballybet,215.0,0.0513301680450855,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,49.5,215.0,155.0,,170.0,201.0,200.0,194.0,,160.0,0.3337556089032018,3.15
+draftkings,576.0,0.09157699314761913,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,59.5,,,,450.0,576.0,,470.0,,,0.1614758865602987,6.76
+fanduel,140.0,0.025073277898218338,Buffalo Bills @ Kansas City Chiefs,player_receptions,Noah Gray,Under,1.5,116.0,110.0,128.0,115.0,,120.0,140.0,-105.0,,0.4271138657909243,2.4
+bovada,250.0,0.043485844614044034,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Keon Coleman,Over,2.5,,,159.0,250.0,,185.0,230.0,,,0.2981388127468697,3.5
+fanduel,270.0,0.06183611361056718,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,49.5,220.0,200.0,,230.0,216.0,250.0,270.0,,,0.2869827334082614,3.7
+fanduel,205.0,0.03599452003903081,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dyami Brown,Over,4.5,,,169.0,160.0,,145.0,205.0,,,0.3396703344390265,3.05
+draftkings,-140.0,-0.004770504161721423,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,49.5,-167.0,-175.0,,-170.0,-140.0,-170.0,-148.0,,-190.0,0.5805505392389958,1.7142857142857144
+draftkings,1100.0,0.22480646322801312,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,79.5,,,,775.0,1100.0,,820.0,,,0.1020672052690011,12.0
+betonlineag,120.0,0.00632701011719794,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Mack Hollins,Over,1.5,,,120.0,-105.0,,-135.0,118.0,,,0.4574213682350899,2.2
+betmgm,1000.0,0.21725306672693678,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Travis Kelce,Over,1.5,750.0,1000.0,550.0,,,,850.0,,,0.1106593697024488,11.0
+fanduel,-118.0,-0.003361769185853958,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,59.5,-136.0,,,-155.0,-133.0,-140.0,-118.0,,,0.5394647304406845,1.847457627118644
+fanduel,168.0,0.043234158434623415,Washington Commanders @ Philadelphia Eagles,player_receptions,Saquon Barkley,Over,2.5,128.0,145.0,135.0,130.0,146.0,135.0,168.0,,140.0,0.3892664770278445,2.68
+espnbet,105.0,0.011191309117173143,Washington Commanders @ Philadelphia Eagles,player_sacks,Nolan Smith,Over,0.5,-114.0,,-123.0,,,105.0,-112.0,,-110.0,0.4932640532278894,2.05
+fanduel,136.0,0.027385634129704517,Buffalo Bills @ Kansas City Chiefs,player_pass_tds,Josh Allen,Over,1.5,114.0,110.0,110.0,110.0,124.0,115.0,136.0,110.0,,0.4353328958176714,2.3600000000000003
+fliff,705.0,0.14780798226396175,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,89.5,,,,535.0,497.0,,590.0,705.0,,0.1425848425172623,8.05
+fanduel,-188.0,-0.02420467222703271,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,49.5,-230.0,-235.0,,-235.0,-213.0,-240.0,-188.0,,-230.0,0.6369775056295759,1.5319148936170213
+fanduel,540.0,0.08772363005655559,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,39.5,,,,460.0,521.0,,540.0,,475.0,0.1699568171963368,6.4
+draftkings,124.0,0.008444642822802773,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,59.5,107.0,,,-110.0,124.0,105.0,122.0,,,0.4501985012601797,2.24
+fanduel,350.0,0.06849296882519429,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Mack Hollins,Over,2.5,,,208.0,330.0,,225.0,350.0,,,0.2374428819611543,4.5
+bovada,-125.0,-0.0014825510821999677,Washington Commanders @ Philadelphia Eagles,player_reception_yds,Kenneth Gainwell,Under,0.5,,-160.0,,-125.0,-133.0,,,,-160.0,0.5547319160654445,1.8
+bovada,-340.0,-0.07510467100438711,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jalen Hurts,Over,149.5,-500.0,-625.0,,-340.0,-407.0,-375.0,-400.0,,,0.7146918451329736,1.2941176470588236
+bovada,500.0,0.07861309730529076,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,109.5,400.0,,,500.0,349.0,,490.0,,,0.1797688495508818,6.0
+betmgm,1300.0,0.3172877846790887,Washington Commanders @ Philadelphia Eagles,player_tds_over,AJ Brown,Over,1.5,950.0,1300.0,700.0,600.0,,,1100.0,,700.0,0.0940919846199349,14.0
+betmgm,4500.0,1.3031339031338987,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Josh Allen,Over,2.5,2000.0,4500.0,1900.0,2500.0,,,2700.0,,,0.0500681283289978,46.0
+bovada,1450.0,0.3127285343145716,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,69.5,,,,1450.0,960.0,,,865.0,,0.0846921635041659,15.5
+fanduel,-176.0,-0.01785916591559733,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,109.5,-215.0,,,-225.0,-209.0,,-176.0,,,0.6262927057929524,1.5681818181818183
+bovada,1010.0,0.21165808850557843,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,59.5,,,,1010.0,600.0,,1260.0,615.0,,0.1091583863518539,11.1
+bovada,950.0,0.21959433808523798,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,2.5,1050.0,1100.0,900.0,950.0,,,950.0,,550.0,0.1161518417224036,10.5
+fanduel,950.0,0.21959433808523798,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,2.5,1050.0,1100.0,900.0,950.0,,,950.0,,550.0,0.1161518417224036,10.5
+fanduel,-152.0,-0.01133142875143478,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,49.5,-195.0,-190.0,,-190.0,-173.0,-175.0,-152.0,,,0.5963397731340552,1.6578947368421053
+espnbet,235.0,0.0475305443239864,Washington Commanders @ Philadelphia Eagles,player_sacks,Frankie Luvu,Over,0.5,225.0,,210.0,,,235.0,124.0,,240.0,0.3126956848728318,3.35
+fanduel,-380.0,-0.08415012728016402,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Mack Hollins,Over,0.5,,,,-440.0,,-650.0,-380.0,,,0.7250478159032036,1.263157894736842
+fanduel,880.0,0.16860466796107465,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jahan Dotson,Over,2.5,,,300.0,850.0,,,880.0,,,0.1192453742817423,9.8
+fanduel,240.0,0.04359647230703256,Buffalo Bills @ Kansas City Chiefs,player_pass_tds_alternate,Patrick Mahomes,Over,2.5,,,188.0,210.0,217.0,200.0,240.0,200.0,,0.3069401389138331,3.4
+bovada,-340.0,-0.0738079453455065,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Xavier Worthy,Over,3.5,,,-667.0,-340.0,,,-320.0,,,0.7156938604148358,1.2941176470588236
+ballybet,360.0,0.06695779520310774,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,39.5,360.0,,181.0,325.0,320.0,,370.0,,,0.2319473467832843,4.6
+fanduel,138.0,0.012867770518121269,Washington Commanders @ Philadelphia Eagles,player_pass_tds_alternate,Jayden Daniels,Over,1.5,,,110.0,110.0,119.0,145.0,138.0,,115.0,0.425574693495009,2.38
+draftkings,610.0,0.0865317544186961,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,69.5,,,,490.0,610.0,,520.0,,,0.153032641467422,7.1
+betonlineag,-119.0,-0.010400476840117134,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Keon Coleman,Over,1.5,,,-119.0,-145.0,,-160.0,-130.0,,,0.5377275947763747,1.8403361344537816
+fanduel,-108.0,-0.003246483361605157,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dyami Brown,Over,39.5,-115.0,,,-160.0,-122.0,-120.0,-108.0,,-125.0,0.517545095177628,1.925925925925926
+ballybet,175.0,0.02511222284801562,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,39.5,175.0,,,150.0,133.0,155.0,160.0,,170.0,0.3727680810356421,2.75
+fanduel,134.0,0.007656252115546103,Buffalo Bills @ Kansas City Chiefs,player_pass_tds_alternate,Josh Allen,Over,1.5,,,110.0,110.0,121.0,120.0,134.0,110.0,,0.4306223299639086,2.34
+espnbet,275.0,0.04206170093954764,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Austin Ekeler,Over,4.5,,,189.0,230.0,,275.0,220.0,,,0.277883120250546,3.75
+fanduel,450.0,0.09572878232863746,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Keon Coleman,Yes,,350.0,375.0,350.0,325.0,360.0,350.0,450.0,345.0,,0.1992234149688432,5.5
+fanduel,-290.0,-0.05786600238660056,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,39.5,-455.0,,,-320.0,-372.0,,-290.0,,,0.7005611777125278,1.3448275862068966
+fanduel,-250.0,-0.05651940033210934,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,1.5,,,-238.0,-290.0,,-450.0,-250.0,,,0.6739147140484933,1.4
+hardrockbet,125.0,0.004355108513986794,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Brian Robinson Jr.,Over,1.5,,,130.0,-105.0,,-135.0,118.0,,125.0,0.4463800482284386,2.25
+fanduel,490.0,0.056400664789411414,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Noah Gray,Over,39.5,410.0,,,440.0,400.0,,490.0,,,0.1790509601337985,5.9
+betmgm,1800.0,0.41911624751432286,Buffalo Bills @ Kansas City Chiefs,player_last_td,Isiah Pacheco,Yes,,1050.0,1800.0,,,,1000.0,1100.0,780.0,,0.0746903288165433,19.0
+fanduel,760.0,0.10657632999805577,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,69.5,,,,650.0,584.0,,760.0,,,0.1286716662788437,8.6
+draftkings,690.0,0.11470777859997616,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,99.5,,450.0,,575.0,690.0,,630.0,,,0.1411022504556932,7.9
+bovada,-460.0,-0.08587860414336601,Buffalo Bills @ Kansas City Chiefs,player_pass_yds_alternate,Patrick Mahomes,Over,199.5,-835.0,-900.0,,-460.0,-529.0,-475.0,-420.0,-855.0,,0.7508854323108064,1.2173913043478262
+betonlineag,-120.0,-0.005719066367681713,Washington Commanders @ Philadelphia Eagles,player_sacks,Jalen Carter,Under,0.5,-143.0,,-120.0,,,-135.0,,,-150.0,0.5423350547085373,1.8333333333333333
+fanduel,162.0,0.02726453733403944,Buffalo Bills @ Kansas City Chiefs,player_receptions,Isiah Pacheco,Over,1.5,,130.0,139.0,140.0,140.0,135.0,162.0,120.0,,0.3920857012725341,2.62
+ballybet,-190.0,-0.023881829369837515,Buffalo Bills @ Kansas City Chiefs,player_sacks,George Karlaftis,Under,0.5,-190.0,,-227.0,,,-220.0,,-245.0,,0.639525697999072,1.526315789473684
+fanduel,540.0,0.05864205108061449,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Curtis Samuel,Over,39.5,,,,475.0,450.0,,540.0,,,0.165412820481346,6.4
+fanduel,300.0,0.04429918380380715,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Olamide Zaccheaus,Over,3.5,,,202.0,260.0,,210.0,300.0,,275.0,0.2610747959509518,4.0
+fanduel,152.0,0.01144371142272571,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,79.5,130.0,,,145.0,131.0,125.0,152.0,,,0.4013665521518753,2.52
+ballybet,265.0,0.040407636252347556,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,DeVonta Smith,Over,69.5,265.0,,,230.0,218.0,210.0,235.0,,,0.2850431880143418,3.65
+bovada,-130.0,-0.0012561675518482085,Washington Commanders @ Philadelphia Eagles,player_receptions,Dallas Goedert,Over,3.5,-162.0,-140.0,-156.0,-130.0,-155.0,-175.0,-160.0,,-150.0,0.5645073835576511,1.7692307692307692
+fanduel,-106.0,-0.00979108519377847,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,6.5,,,-108.0,-135.0,,-130.0,-106.0,,,0.5095249755799004,1.9433962264150944
+fanduel,-400.0,-0.08662728247775842,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,2.5,,,-625.0,-380.0,,-600.0,-400.0,,,0.7306981740177932,1.25
+fanduel,118.0,-0.0028214172475039545,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Mack Hollins,Over,1.5,,,120.0,-105.0,,-135.0,118.0,,,0.4574213682350899,2.18
+fanduel,490.0,0.06063621235020267,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,109.5,400.0,,,500.0,349.0,,490.0,,,0.1797688495508818,5.9
+ballybet,350.0,0.06103962652878492,Washington Commanders @ Philadelphia Eagles,player_1st_td,Saquon Barkley,Yes,,350.0,350.0,,150.0,340.0,300.0,310.0,,300.0,0.2357865836730633,4.5
+betmgm,350.0,0.06103962652878492,Washington Commanders @ Philadelphia Eagles,player_1st_td,Saquon Barkley,Yes,,350.0,350.0,,150.0,340.0,300.0,310.0,,300.0,0.2357865836730633,4.5
+betmgm,135.0,0.0014316865513333,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,James Cook,Yes,,115.0,135.0,120.0,110.0,120.0,110.0,130.0,-105.0,,0.4261411432133333,2.35
+hardrockbet,-155.0,-0.016351903311455418,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,DeVonta Smith,Over,39.5,-177.0,,,-190.0,-178.0,-190.0,-170.0,,-155.0,0.5979037450459782,1.6451612903225803
+betmgm,425.0,0.06426703511683729,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Austin Ekeler,Over,49.5,390.0,425.0,,340.0,362.0,,,,350.0,0.2027175304984452,5.25
+hardrockbet,260.0,0.03258020569681386,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,DeVonta Smith,Over,5.5,,,179.0,210.0,,210.0,235.0,,260.0,0.2868278349157816,3.6
+ballybet,425.0,0.05694591330443988,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,DeVonta Smith,Over,79.5,425.0,,,340.0,321.0,,340.0,,400.0,0.2013230311056076,5.25
+fanduel,-320.0,-0.07191605868611806,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,39.5,-420.0,,,-380.0,-359.0,,-320.0,,-450.0,0.7071115743343862,1.3125
+fanduel,122.0,-0.0005593272024009277,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,59.5,107.0,,,-110.0,124.0,105.0,122.0,,,0.4501985012601797,2.22
+fanduel,500.0,0.07318776509181313,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Josh Allen,Over,1.5,480.0,650.0,300.0,350.0,,,500.0,,,0.1788646275153022,6.0
+draftkings,1000.0,0.14886186521506417,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,69.5,,,,775.0,1000.0,,790.0,,,0.104441987746824,11.0
+bovada,225.0,0.031402778356840244,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,89.5,188.0,,,225.0,193.0,185.0,225.0,,,0.3173547010328739,3.25
+fanduel,225.0,0.031402778356840244,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,89.5,188.0,,,225.0,193.0,185.0,225.0,,,0.3173547010328739,3.25
+fanduel,-265.0,-0.050721409516297,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dyami Brown,Over,24.5,,-350.0,,-365.0,-303.0,,-265.0,,-300.0,0.6892022643237844,1.3773584905660377
+bovada,100.0,-0.011213298880256684,Buffalo Bills @ Kansas City Chiefs,player_pass_completions,Josh Allen,Under,20.5,-106.0,-120.0,,100.0,,-115.0,,-130.0,,0.4943933505598716,2.0
+fanduel,920.0,0.1260130804163132,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Noah Gray,Over,49.5,,,,770.0,700.0,,920.0,,,0.1103934392565013,10.2
+espnbet,500.0,0.11260034298739519,Washington Commanders @ Philadelphia Eagles,player_sacks,Moro Ojomo,Over,0.5,375.0,,325.0,,,500.0,,,475.0,0.1854333904978992,6.0
+espnbet,850.0,0.1492133923057346,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,James Cook,Over,4.5,,,371.0,675.0,,850.0,680.0,,,0.1209698307690247,9.5
+bovada,850.0,0.13283105567655173,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jahan Dotson,Over,2.5,,,300.0,850.0,,,880.0,,,0.1192453742817423,9.5
+hardrockbet,1200.0,0.22218244127306874,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,7.5,,,633.0,830.0,,,750.0,,1200.0,0.0940140339440822,13.0
+draftkings,521.0,0.05543183478925151,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,39.5,,,,460.0,521.0,,540.0,,475.0,0.1699568171963368,6.21
+fanduel,-230.0,-0.04363760213562162,Buffalo Bills @ Kansas City Chiefs,player_pass_yds_alternate,Patrick Mahomes,Over,224.5,-315.0,,,-255.0,-251.0,-250.0,-230.0,-340.0,,0.6665556106327486,1.434782608695652
+fanduel,-104.0,-0.00965532171897776,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,69.5,-117.0,,,-125.0,-118.0,-120.0,-104.0,,,0.5048816006922858,1.9615384615384617
+fanduel,270.0,0.031579378832600646,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,89.5,245.0,,,220.0,235.0,225.0,270.0,,,0.2788052375223245,3.7
+betmgm,1600.0,0.3057729468599033,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Kareem Hunt,Over,1.5,1150.0,1600.0,800.0,,,,1100.0,,,0.0768101733447002,17.0
+bovada,920.0,0.15668469208064306,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,49.5,,650.0,,920.0,1060.0,,1120.0,,475.0,0.1134004600079062,10.2
+fanduel,920.0,0.1487194992485199,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,59.5,,,380.0,880.0,900.0,,920.0,,,0.1126195587498549,10.2
+ballybet,-220.0,-0.020450787309415852,Washington Commanders @ Philadelphia Eagles,player_sacks,Milton Williams,Under,0.5,-220.0,,-244.0,,,-280.0,,,-275.0,0.6734400837247765,1.4545454545454546
+espnbet,400.0,0.04142134759779914,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Curtis Samuel,Over,3.5,,,212.0,350.0,,400.0,370.0,,,0.2082842695195598,5.0
+fanduel,-112.0,-0.011220298590725042,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dallas Goedert,Over,39.5,-118.0,,,-150.0,-121.0,-130.0,-112.0,,-130.0,0.5223741818765981,1.8928571428571428
+betonlineag,900.0,0.16151841722403615,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,2.5,1050.0,1100.0,900.0,950.0,,,950.0,,550.0,0.1161518417224036,10.0
+draftkings,930.0,0.13870624309659985,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,79.5,,,,800.0,930.0,,880.0,,525.0,0.1105540041841359,10.3
+bovada,325.0,0.04081213016944463,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,99.5,275.0,260.0,,325.0,277.0,260.0,320.0,,,0.2448969718045752,4.25
+fanduel,-245.0,-0.054199891218909335,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,24.5,,-325.0,,-290.0,-280.0,,-245.0,,,0.6716551497141079,1.4081632653061225
+fanduel,198.0,0.009704769371551736,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Curtis Samuel,Over,24.5,,,,175.0,168.0,160.0,198.0,,,0.338827103815957,2.98
+espnbet,155.0,0.0026253697435731915,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Zach Ertz,Over,4.5,,,130.0,120.0,,155.0,136.0,,,0.3931864195072836,2.55
+hardrockbet,125.0,0.0018531888527499873,Washington Commanders @ Philadelphia Eagles,player_reception_yds,Kenneth Gainwell,Over,0.5,,120.0,,-105.0,108.0,,,,125.0,0.4452680839345555,2.25
+hardrockbet,275.0,0.02586594891656424,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,5.5,,,208.0,250.0,,200.0,240.0,,275.0,0.2735642530444171,3.75
+ballybet,310.0,0.03206947555558415,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,79.5,310.0,,,260.0,283.0,260.0,285.0,,,0.2517242623306303,4.1
+hardrockbet,550.0,0.05304653642249546,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Austin Ekeler,Over,5.5,,,344.0,420.0,,,410.0,,550.0,0.1620071594496147,6.5
+fanduel,-280.0,-0.06197936791895908,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,24.5,,-400.0,,-315.0,-377.0,,-280.0,,-300.0,0.6911730973228722,1.3571428571428572
+espnbet,185.0,0.005422671621338138,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,29.5,195.0,,126.0,,,185.0,,,,0.3527798847794169,2.85
+betmgm,800.0,0.13898652118029342,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Dawson Knox,Yes,,525.0,800.0,700.0,470.0,700.0,650.0,700.0,455.0,,0.1265540579089215,9.0
+draftkings,165.0,0.012839672476528952,Washington Commanders @ Philadelphia Eagles,player_anytime_td,AJ Brown,Yes,,135.0,160.0,140.0,130.0,165.0,140.0,150.0,,135.0,0.382203649991143,2.65
+fanduel,186.0,0.016148173172179314,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,79.5,165.0,,,150.0,162.0,160.0,186.0,,175.0,0.3552965640462165,2.8600000000000003
+ballybet,-104.0,-0.010899359634580996,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jayden Daniels,Over,224.5,-104.0,,,-130.0,-114.0,-120.0,-106.0,,-140.0,0.5042473852843312,1.9615384615384617
+betmgm,550.0,0.068711912280502,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Noah Gray,Yes,,425.0,550.0,400.0,375.0,400.0,425.0,490.0,465.0,,0.1644172172739234,6.5
+ballybet,104.0,-0.007675551339509812,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,DeVonta Smith,Over,49.5,104.0,-110.0,,-120.0,-109.0,-115.0,-104.0,,-105.0,0.4864335532649461,2.04
+fanduel,-110.0,-0.008988796437064073,Buffalo Bills @ Kansas City Chiefs,player_rush_yds,Xavier Worthy,Over,3.5,,,,-130.0,-127.0,,-110.0,-120.0,,0.5191011066282046,1.9090909090909087
+fanduel,155.0,0.008904452912990024,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Terry McLaurin,Yes,,130.0,140.0,140.0,115.0,140.0,130.0,155.0,,135.0,0.3956488050639177,2.55
+fanduel,164.0,0.003461737229179196,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Curtis Samuel,Over,2.5,,,116.0,140.0,,160.0,164.0,,,0.3800991428898406,2.64
+espnbet,100.0,-0.011995885327170441,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,24.5,,-150.0,-114.0,-130.0,-105.0,100.0,110.0,,,0.4940020573364148,2.0
+ballybet,350.0,0.03970291080691546,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jayden Daniels,Over,274.5,350.0,,,265.0,320.0,260.0,290.0,,275.0,0.2310450912904256,4.5
+betonlineag,110.0,5.545537650530896e-06,Buffalo Bills @ Kansas City Chiefs,player_pass_interceptions,Patrick Mahomes,Over,0.5,-106.0,-110.0,110.0,100.0,-101.0,-105.0,-108.0,-115.0,,0.4761931169226907,2.1
+hardrockbet,1000.0,0.13922380546421476,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,DeVonta Smith,Over,7.5,,,461.0,725.0,,,750.0,,1000.0,0.1035658004967468,11.0
+fanduel,440.0,0.03840964685121517,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,59.5,375.0,,,400.0,364.0,,440.0,,,0.192298082750225,5.4
+fanduel,-420.0,-0.10049633568309024,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,DeVonta Smith,Over,2.5,,,,-475.0,,-550.0,-420.0,,,0.7265221904098118,1.238095238095238
+espnbet,550.0,0.11026684036809509,Washington Commanders @ Philadelphia Eagles,player_sacks,Jordan Davis,Over,0.5,370.0,,400.0,,,550.0,,,525.0,0.1708102831335531,6.5
+espnbet,-170.0,-0.027769849900434074,Buffalo Bills @ Kansas City Chiefs,player_sacks,Chris Jones,Under,0.5,-200.0,,-200.0,,,-170.0,,-200.0,,0.6121449093219489,1.5882352941176472
+fanduel,132.0,-0.0058811204384328075,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,4.5,,,121.0,120.0,,100.0,132.0,,,0.4284995170523996,2.3200000000000003
+espnbet,-375.0,-0.08332498198481986,Washington Commanders @ Philadelphia Eagles,player_pass_tds_alternate,Jayden Daniels,Over,0.5,,,-588.0,-490.0,-448.0,-375.0,-390.0,,-500.0,0.7236908036961948,1.2666666666666666
+espnbet,-475.0,-0.0910334240448133,Buffalo Bills @ Kansas City Chiefs,player_pass_yds_alternate,Patrick Mahomes,Over,199.5,-835.0,-900.0,,-460.0,-529.0,-475.0,-420.0,-855.0,,0.7508854323108064,1.2105263157894737
+betmgm,-225.0,-0.04317562416335863,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Saquon Barkley,Yes,,-245.0,-225.0,-333.0,-250.0,-230.0,-275.0,-250.0,,-275.0,0.6624168755792132,1.4444444444444444
+hardrockbet,2000.0,0.33572393026746394,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,99.5,,1100.0,,1450.0,,,,,2000.0,0.0636059014413078,21.0
+espnbet,125.0,-0.005699788126676708,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Austin Ekeler,Over,3.5,,,110.0,-105.0,,125.0,110.0,,115.0,0.4419112052770326,2.25
+draftkings,900.0,0.12619558749854898,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,59.5,,,380.0,880.0,900.0,,920.0,,,0.1126195587498549,10.0
+draftkings,477.0,0.03203986678741222,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Ray Davis,Over,24.5,,,,365.0,477.0,350.0,420.0,,,0.1788630618349068,5.77
+fanduel,1200.0,0.20527314663470264,Washington Commanders @ Philadelphia Eagles,player_tds_over,Terry McLaurin,Over,1.5,900.0,1100.0,700.0,650.0,,,1200.0,,850.0,0.0927133189719002,13.0
+espnbet,185.0,0.007435635352453618,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Noah Gray,Over,2.5,,,138.0,160.0,,185.0,178.0,,,0.3534861878429662,2.85
+fanduel,950.0,0.13442807725096628,Buffalo Bills @ Kansas City Chiefs,player_tds_over,James Cook,Over,1.5,750.0,1100.0,600.0,550.0,,,950.0,,,0.1080407692619968,10.5
+fanduel,-265.0,-0.053071349387649014,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,49.5,-335.0,-375.0,,-285.0,-309.0,,-265.0,,,0.6874961435952686,1.3773584905660377
+espnbet,550.0,0.06163143246358649,Washington Commanders @ Philadelphia Eagles,player_pass_tds_alternate,Jayden Daniels,Over,2.5,,,341.0,450.0,501.0,550.0,540.0,,450.0,0.1633279126867056,6.5
+draftkings,900.0,0.157834180562624,Buffalo Bills @ Kansas City Chiefs,player_1st_td,Travis Kelce,Yes,,700.0,850.0,,375.0,900.0,700.0,700.0,590.0,,0.1157834180562624,10.0
+fanduel,148.0,0.0032498739605322235,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dyami Brown,Over,49.5,143.0,125.0,,100.0,137.0,140.0,148.0,,130.0,0.4045362395002146,2.48
+ballybet,165.0,0.004358944001951581,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,DeVonta Smith,Over,59.5,165.0,,,140.0,143.0,140.0,152.0,,,0.3790033750950761,2.65
+fanduel,-102.0,-0.014412029309999519,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Khalil Shakir,Over,59.5,-114.0,,,-125.0,-110.0,-120.0,-102.0,,,0.4976731337147528,1.9803921568627447
+fanduel,-180.0,-0.030761963995272312,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,24.5,,-210.0,,-225.0,-200.0,,-180.0,,,0.6230815945744678,1.5555555555555556
+draftkings,202.0,0.014162425626077724,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,69.5,170.0,,,180.0,202.0,175.0,198.0,,,0.3358153727238668,3.02
+hardrockbet,145.0,0.0002358571734879522,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Zach Ertz,Over,39.5,133.0,,,120.0,124.0,130.0,134.0,,145.0,0.4082595335401991,2.45
+betonlineag,175.0,0.012477058534057006,Washington Commanders @ Philadelphia Eagles,player_sacks,Dorance Armstrong,Over,0.5,160.0,,175.0,,,150.0,142.0,,150.0,0.3681734758305662,2.75
+hardrockbet,1750.0,0.28852470806496266,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Kenneth Gainwell,Over,39.5,,,928.0,880.0,1180.0,,1120.0,,1750.0,0.0696499842197277,18.5
+fanduel,-200.0,-0.03749699287102204,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jayden Daniels,Over,199.5,-225.0,-235.0,,-230.0,-213.0,-240.0,-200.0,,-275.0,0.6416686714193186,1.5
+betonlineag,-108.0,-0.018692639623895446,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,6.5,,,-108.0,-135.0,,-130.0,-106.0,,,0.5095249755799004,1.925925925925926
+hardrockbet,170.0,0.006473818796233655,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,39.5,175.0,,,150.0,133.0,155.0,160.0,,170.0,0.3727680810356421,2.7
+fanduel,520.0,0.05561896291277879,Buffalo Bills @ Kansas City Chiefs,player_pass_tds_alternate,Josh Allen,Over,2.5,,,342.0,460.0,459.0,450.0,520.0,420.0,,0.1702611230504482,6.2
+draftkings,340.0,0.03746096816147859,Washington Commanders @ Philadelphia Eagles,player_1st_td,Saquon Barkley,Yes,,350.0,350.0,,150.0,340.0,300.0,310.0,,300.0,0.2357865836730633,4.4
+draftkings,446.0,0.009598502184314572,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,89.5,,,,400.0,446.0,,420.0,,,0.1849081505832078,5.46
+ballybet,-590.0,-0.030269653156189347,Washington Commanders @ Philadelphia Eagles,player_sacks,Jordan Davis,Under,0.5,-590.0,,-625.0,,,-1000.0,,,-900.0,0.8291897168664468,1.1694915254237288
+fanduel,320.0,0.028567281579215953,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,99.5,275.0,260.0,,325.0,277.0,260.0,320.0,,,0.2448969718045752,4.2
+fanduel,630.0,0.06222387463209178,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,DeAndre Hopkins,Over,4.5,,,325.0,600.0,,450.0,630.0,,,0.1455101198126153,7.3
+fanduel,630.0,0.06245973958462714,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Keon Coleman,Over,3.5,,,297.0,610.0,,500.0,630.0,,,0.1455424300800859,7.3
+fanduel,330.0,0.02488413547237056,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,24.5,,,,325.0,325.0,275.0,330.0,,200.0,0.2383451477842722,4.3
+bovada,300.0,0.017864774055061705,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Jahan Dotson,Over,1.5,,,149.0,300.0,,,290.0,,325.0,0.2544661935137654,4.0
+fanduel,-178.0,-0.031634594229120294,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Terry McLaurin,Over,4.5,,,-227.0,-215.0,,,-178.0,,,0.620032525997182,1.5617977528089888
+fanduel,-420.0,-0.10229276895943562,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,4.5,,,,-440.0,,-550.0,-420.0,,,0.7250712250712251,1.238095238095238
+fanduel,1200.0,0.13395186026042838,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Dalton Kincaid,Over,79.5,,,,1010.0,930.0,,1200.0,,,0.0872270661738791,13.0
+draftkings,215.0,0.020760821881170788,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Jayden Daniels,Yes,,160.0,200.0,210.0,185.0,215.0,155.0,230.0,,155.0,0.324051054565451,3.15
+fanduel,980.0,0.1047801359586249,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Curtis Samuel,Over,49.5,,,,850.0,810.0,,980.0,,,0.102294457033206,10.8
+fanduel,1700.0,0.328158019363076,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Justin Watson,Yes,,1200.0,1300.0,1100.0,650.0,1200.0,850.0,1700.0,995.0,,0.073786556631282,18.0
+fanduel,540.0,0.02739653872616965,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,109.5,,,,450.0,462.0,,540.0,,,0.160530709175964,6.4
+fanduel,168.0,-0.005137035804382517,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,7.5,,,141.0,150.0,,,168.0,,,0.3712175239535886,2.68
+fliff,-120.0,-0.013761778261746738,Buffalo Bills @ Kansas City Chiefs,player_rush_attempts,Josh Allen,Over,9.5,-137.0,-125.0,-143.0,,,-135.0,-140.0,-120.0,,0.5379481209481382,1.8333333333333333
+fanduel,-164.0,-0.025526603458554953,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Khalil Shakir,Over,49.5,-195.0,-200.0,,-190.0,-174.0,-190.0,-164.0,,,0.6053546857302916,1.6097560975609757
+draftkings,1400.0,0.17561876529267795,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,69.5,,,560.0,1150.0,1400.0,,1300.0,,,0.0783745843528452,15.0
+fanduel,6000.0,1.3735535392170282,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Luke McCaffrey,Yes,,2800.0,2500.0,1900.0,2000.0,2200.0,1200.0,6000.0,,1750.0,0.0389107137576562,61.0
+fanduel,2100.0,0.36829176114890383,Washington Commanders @ Philadelphia Eagles,player_tds_over,Jayden Daniels,Over,1.5,1100.0,1700.0,1300.0,1100.0,,,2100.0,,900.0,0.0621950800522229,22.0
+bovada,880.0,0.10367167574857805,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,59.5,,,380.0,880.0,900.0,,920.0,,,0.1126195587498549,9.8
+fanduel,156.0,-0.004976021813156151,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,24.5,,135.0,,135.0,137.0,135.0,156.0,,,0.3886812414792359,2.56
+betmgm,100.0,-0.0066834704904941145,Washington Commanders @ Philadelphia Eagles,player_rush_attempts,Brian Robinson Jr.,Over,9.5,-110.0,100.0,-125.0,,-111.0,-110.0,-108.0,,,0.4966582647547529,2.0
+betmgm,125.0,-0.011801030179035776,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Travis Kelce,Yes,,110.0,125.0,110.0,100.0,125.0,110.0,120.0,-110.0,,0.4391995421426508,2.25
+draftkings,125.0,-0.011801030179035776,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Travis Kelce,Yes,,110.0,125.0,110.0,100.0,125.0,110.0,120.0,-110.0,,0.4391995421426508,2.25
+bovada,100.0,-0.010245393704040429,Buffalo Bills @ Kansas City Chiefs,player_reception_yds,Khalil Shakir,Over,59.5,-114.0,,,100.0,,-120.0,-110.0,,,0.4948773031479798,2.0
+betmgm,500.0,0.043689230207746954,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Patrick Mahomes,Yes,,370.0,500.0,400.0,350.0,400.0,425.0,480.0,375.0,,0.1739482050346245,6.0
+espnbet,-375.0,-0.08475697040914432,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Zach Ertz,Over,2.5,,,-714.0,-400.0,,-375.0,-380.0,,,0.7225602865190967,1.2666666666666666
+betmgm,400.0,0.04028140328110208,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Dalton Kincaid,Yes,,310.0,400.0,350.0,300.0,380.0,300.0,340.0,305.0,,0.2080562806562204,5.0
+ballybet,123.0,-0.01127641486079689,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,39.5,123.0,,,-110.0,122.0,120.0,118.0,,,0.4433738049951583,2.23
+fanduel,-192.0,-0.04058598267144575,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,James Cook,Over,1.5,,,-204.0,-215.0,,-240.0,-192.0,,,0.6308475730379534,1.5208333333333337
+betonlineag,-103.0,-0.007976968400144169,Washington Commanders @ Philadelphia Eagles,player_rush_attempts,Brian Robinson Jr.,Under,9.5,-118.0,-135.0,-103.0,,-112.0,-120.0,-120.0,,,0.5033417352452471,1.970873786407767
+draftkings,-103.0,-0.010437716974150524,Washington Commanders @ Philadelphia Eagles,player_rush_attempts,Saquon Barkley,Under,24.5,,-118.0,-120.0,,-103.0,-120.0,-128.0,,,0.5020931780870074,1.970873786407767
+espnbet,-140.0,-0.02493108117770082,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Zach Ertz,Over,3.5,,,-164.0,-175.0,,-140.0,-158.0,,-150.0,0.5687902026463412,1.7142857142857144
+fanduel,-590.0,-0.10299680668140498,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,79.5,,,,-800.0,-820.0,,-590.0,,-900.0,0.7670027305187986,1.1694915254237288
+hardrockbet,275.0,0.018414345707620905,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Olamide Zaccheaus,Over,39.5,250.0,,,220.0,216.0,250.0,265.0,,275.0,0.2715771588553656,3.75
+fanduel,176.0,0.002104321142744281,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,24.5,,135.0,,140.0,157.0,160.0,176.0,,175.0,0.3630812757763567,2.76
+espnbet,700.0,0.07004889017471916,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Amari Cooper,Over,3.5,,,358.0,550.0,,700.0,630.0,,,0.1337561112718399,8.0
+fanduel,-108.0,-0.019752806107195986,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Marquise Brown,Over,39.5,-120.0,,,-135.0,-120.0,-110.0,-108.0,,,0.5089745045212636,1.925925925925926
+draftkings,-103.0,-0.015631375918031654,Buffalo Bills @ Kansas City Chiefs,player_reception_yds,Kareem Hunt,Under,6.5,-113.0,-115.0,-112.0,-120.0,-103.0,,,-130.0,,0.4994579718248411,1.970873786407767
+fanduel,-400.0,-0.1031396926954582,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Brian Robinson Jr.,Over,0.5,,,,-420.0,,-650.0,-400.0,,,0.7174882458436335,1.25
+fanduel,650.0,0.0559328869887874,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dallas Goedert,Over,79.5,,,,600.0,525.0,,650.0,,525.0,0.140791051598505,7.5
+fanduel,540.0,0.04529864119491589,Washington Commanders @ Philadelphia Eagles,player_pass_tds_alternate,Jayden Daniels,Over,2.5,,,341.0,450.0,501.0,550.0,540.0,,450.0,0.1633279126867056,6.4
+fanduel,680.0,0.03925910628901863,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Zach Ertz,Over,69.5,,,,650.0,544.0,,680.0,,,0.1332383469601306,7.8
+fanduel,-162.0,-0.029641143316432972,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Isiah Pacheco,Over,24.5,,-200.0,,-190.0,-170.0,-190.0,-162.0,,,0.5999928808501445,1.617283950617284
+betonlineag,-105.0,-0.01154693656263095,Washington Commanders @ Philadelphia Eagles,player_sacks,Nolan Smith,Under,0.5,-114.0,,-105.0,,,-132.0,,,-115.0,0.5062808373703598,1.9523809523809523
+ballybet,480.0,0.03741483958875258,Buffalo Bills @ Kansas City Chiefs,player_tds_over,Josh Allen,Over,1.5,480.0,650.0,300.0,350.0,,,500.0,,,0.1788646275153022,5.8
+fanduel,410.0,0.03116436645664844,Washington Commanders @ Philadelphia Eagles,player_last_td,Saquon Barkley,Yes,,340.0,375.0,,,,360.0,410.0,,325.0,0.2021890914620879,5.1
+bovada,285.0,0.009855620097122708,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Patrick Mahomes,Over,39.5,250.0,,,285.0,238.0,,350.0,230.0,,0.2623001610641877,3.85
+ballybet,102.0,-0.02329457286982861,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,19.5,102.0,,-114.0,,,-105.0,,,,0.4835175381832531,2.02
+betmgm,180.0,0.001294008537620961,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Kareem Hunt,Yes,,165.0,180.0,160.0,160.0,175.0,160.0,155.0,135.0,,0.3576050030491504,2.8
+fanduel,440.0,0.020321176949692044,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Saquon Barkley,Over,174.5,,333.0,,370.0,,375.0,440.0,,,0.1889483661017948,5.4
+draftkings,255.0,0.011381678715736698,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Khalil Shakir,Yes,,205.0,250.0,250.0,160.0,255.0,225.0,250.0,190.0,,0.2848962475255596,3.55
+ballybet,230.0,0.016543378732981617,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jalen Hurts,Over,224.5,230.0,,,200.0,203.0,200.0,194.0,,200.0,0.3080434481009035,3.3
+fanduel,-205.0,-0.04691833345038854,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,5.5,,,-238.0,-225.0,,,-205.0,,,0.6405958742382635,1.4878048780487805
+ballybet,225.0,0.016260975836703384,Washington Commanders @ Philadelphia Eagles,player_sacks,Frankie Luvu,Over,0.5,225.0,,210.0,,,235.0,124.0,,240.0,0.3126956848728318,3.25
+fanduel,390.0,0.03367385018761171,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Terry McLaurin,Over,99.5,350.0,320.0,,320.0,336.0,,390.0,,350.0,0.2109538469770636,4.9
+espnbet,700.0,0.06477381522050962,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Dawson Knox,Over,3.5,,,344.0,600.0,,700.0,630.0,,,0.1330967269025637,8.0
+hardrockbet,1100.0,0.12681247034266874,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,79.5,,,,1350.0,540.0,,820.0,,1100.0,0.0939010391952224,12.0
+draftkings,320.0,0.01917661136002291,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,79.5,275.0,,,290.0,320.0,275.0,310.0,,275.0,0.2426610979428626,4.2
+fanduel,880.0,0.08342924100453197,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,79.5,,,,800.0,930.0,,880.0,,525.0,0.1105540041841359,9.8
+ballybet,-625.0,-0.04006434698171202,Buffalo Bills @ Kansas City Chiefs,player_sacks,Matt Milano,Under,0.5,-625.0,,-769.0,,,-800.0,,-1000.0,,0.8275307353605931,1.16
+betonlineag,-244.0,-0.05648420585695102,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Olamide Zaccheaus,Over,1.5,,,-244.0,-270.0,,-375.0,-245.0,,-260.0,0.6692379470084417,1.4098360655737705
+ballybet,100.0,-0.007532026206022224,Washington Commanders @ Philadelphia Eagles,player_pass_attempts,Jalen Hurts,Over,24.5,100.0,-110.0,-108.0,-120.0,-111.0,-110.0,-108.0,,-115.0,0.4962339868969889,2.0
+betonlineag,125.0,-0.0010361836360290866,Washington Commanders @ Philadelphia Eagles,player_receptions,Zach Ertz,Under,3.5,118.0,105.0,125.0,110.0,111.0,110.0,110.0,,105.0,0.4439839183839871,2.25
+bovada,330.0,0.02100439243296348,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Mack Hollins,Over,2.5,,,208.0,330.0,,225.0,350.0,,,0.2374428819611543,4.3
+fanduel,-106.0,-0.020047534258752497,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jayden Daniels,Over,224.5,-104.0,,,-130.0,-114.0,-120.0,-106.0,,-140.0,0.5042473852843312,1.9433962264150944
+espnbet,225.0,0.007655458004366067,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,49.5,240.0,180.0,,175.0,247.0,225.0,198.0,,,0.3100478332321126,3.25
+hardrockbet,175.0,-0.0015264916150191654,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Austin Ekeler,Over,24.5,,135.0,,140.0,157.0,160.0,176.0,,175.0,0.3630812757763567,2.75
+espnbet,120.0,-0.004908313471788994,Buffalo Bills @ Kansas City Chiefs,player_receptions,Khalil Shakir,Over,5.5,100.0,100.0,105.0,105.0,107.0,120.0,108.0,115.0,,0.4523144029673686,2.2
+fanduel,-900.0,-0.12253138246998596,Buffalo Bills @ Kansas City Chiefs,player_pass_tds_alternate,Patrick Mahomes,Over,0.5,,,-3333.0,-1000.0,-1020.0,-1100.0,-900.0,-2010.0,,0.7897217557770125,1.1111111111111112
+fanduel,440.0,0.008332580872084772,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,59.5,,,,525.0,304.0,,440.0,,,0.1867282557170527,5.4
+ballybet,285.0,0.003184075306870815,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Keon Coleman,Over,39.5,285.0,,,240.0,258.0,,245.0,,,0.2605672922874989,3.85
+fanduel,340.0,0.015199216690517492,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Khalil Shakir,Over,89.5,300.0,,,300.0,326.0,275.0,340.0,,,0.2307270947023903,4.4
+draftkings,553.0,0.032019408526213766,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,49.5,,475.0,261.0,545.0,553.0,,630.0,,,0.1580427884419929,6.53
+fanduel,110.0,-0.01800945834799006,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,59.5,102.0,,,-120.0,105.0,105.0,110.0,,,0.4676145436438142,2.1
+fanduel,-162.0,-0.03153988029939947,Buffalo Bills @ Kansas City Chiefs,player_pass_tds_alternate,Patrick Mahomes,Over,1.5,,,-172.0,-180.0,-180.0,-185.0,-162.0,-195.0,,0.5988188526393026,1.617283950617284
+fanduel,152.0,-0.007773890850473197,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Khalil Shakir,Over,69.5,135.0,,,130.0,146.0,135.0,152.0,,,0.3937405195037805,2.52
+bovada,325.0,0.012966878083156885,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,24.5,,,,325.0,325.0,275.0,330.0,,200.0,0.2383451477842722,4.25
+draftkings,325.0,0.012966878083156885,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Jamison Crowder,Over,24.5,,,,325.0,325.0,275.0,330.0,,200.0,0.2383451477842722,4.25
+fanduel,350.0,0.024167799732351947,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Dallas Goedert,Yes,,265.0,300.0,300.0,300.0,310.0,325.0,350.0,,260.0,0.2275928443849671,4.5
+ballybet,180.0,0.002278707758740506,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jayden Daniels,Over,249.5,180.0,155.0,,145.0,171.0,155.0,172.0,,150.0,0.3579566813424074,2.8
+draftkings,-230.0,-0.049575787212433164,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Saquon Barkley,Yes,,-245.0,-225.0,-333.0,-250.0,-230.0,-275.0,-250.0,,-275.0,0.6624168755792132,1.434782608695652
+fanduel,790.0,0.07325141445999361,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,99.5,,575.0,,720.0,760.0,,790.0,,650.0,0.1205900465685386,8.9
+fanduel,-164.0,-0.030408967830023337,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Travis Kelce,Over,59.5,-190.0,,,-190.0,-185.0,-185.0,-164.0,,,0.6023217018025612,1.6097560975609757
+espnbet,-250.0,-0.05626046873156065,Buffalo Bills @ Kansas City Chiefs,player_pass_yds_alternate,Josh Allen,Over,199.5,-315.0,-325.0,,-280.0,-275.0,-250.0,-270.0,-295.0,,0.6740996651917425,1.4
+draftkings,-161.0,-0.023586380068540747,Buffalo Bills @ Kansas City Chiefs,player_receptions,Samaje Perine,Under,1.5,,-175.0,-164.0,-190.0,-161.0,-190.0,,-225.0,,0.602308784708678,1.62111801242236
+draftkings,122.0,-0.0157101529107484,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Kareem Hunt,Over,39.5,123.0,,,-110.0,122.0,120.0,118.0,,,0.4433738049951583,2.22
+fanduel,-1050.0,-0.1452322734539231,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,24.5,,-2500.0,,-1200.0,-1840.0,,-1050.0,,,0.780440098150766,1.0952380952380951
+fanduel,-102.0,-0.013949235035054186,Washington Commanders @ Philadelphia Eagles,player_rush_attempts,Saquon Barkley,Over,24.5,,-115.0,-108.0,,-121.0,-110.0,-102.0,,,0.4979068219129925,1.9803921568627447
+draftkings,-115.0,-0.026846298199717733,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Josh Allen,Yes,,-132.0,-120.0,-143.0,-121.0,-115.0,-125.0,-130.0,-140.0,,0.520524073055965,1.869565217391304
+fanduel,-245.0,-0.05760370727382691,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Olamide Zaccheaus,Over,1.5,,,-244.0,-270.0,,-375.0,-245.0,,-260.0,0.6692379470084417,1.4081632653061225
+fanduel,-148.0,-0.027185582896817828,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,49.5,-167.0,-175.0,,-170.0,-140.0,-170.0,-148.0,,-190.0,0.5805505392389958,1.6756756756756757
+espnbet,100.0,-0.01176289185772994,Washington Commanders @ Philadelphia Eagles,player_rush_attempts,Austin Ekeler,Over,5.5,,-105.0,-114.0,,-115.0,100.0,-118.0,,,0.494118554071135,2.0
+ballybet,102.0,-0.017035765575459383,Buffalo Bills @ Kansas City Chiefs,player_receptions,Marquise Brown,Under,3.5,102.0,-110.0,-108.0,-115.0,-103.0,-114.0,-102.0,-135.0,,0.4866159576359112,2.02
+fanduel,-380.0,-0.08729226966008852,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Zach Ertz,Over,2.5,,,-714.0,-400.0,,-375.0,-380.0,,,0.7225602865190967,1.263157894736842
+espnbet,325.0,0.009210278623408508,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Zach Ertz,Over,5.5,,,253.0,260.0,,325.0,265.0,,300.0,0.2374612420290373,4.25
+draftkings,1020.0,0.07637801385883214,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,James Cook,Over,109.5,,,,875.0,1020.0,,920.0,,,0.0961051798088243,11.2
+ballybet,116.0,-0.015538150811224782,Washington Commanders @ Philadelphia Eagles,player_pass_yds_alternate,Jalen Hurts,Over,199.5,116.0,-110.0,,110.0,105.0,110.0,102.0,,105.0,0.4557693746244329,2.16
+betonlineag,-156.0,-0.03054629404988518,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Dallas Goedert,Over,3.5,,,-156.0,-175.0,,-225.0,-168.0,,-140.0,0.5907608520633513,1.641025641025641
+draftkings,310.0,0.014372974520014292,Washington Commanders @ Philadelphia Eagles,player_anytime_td,Zach Ertz,Yes,,260.0,300.0,260.0,205.0,310.0,300.0,300.0,,240.0,0.2474080425658572,4.1
+draftkings,108.0,-0.014726794584564273,Buffalo Bills @ Kansas City Chiefs,player_rush_attempts,Patrick Mahomes,Under,4.5,-103.0,100.0,105.0,,108.0,100.0,-106.0,-140.0,,0.4736890410651133,2.08
+fanduel,1100.0,0.12910381543921878,Washington Commanders @ Philadelphia Eagles,player_tds_over,AJ Brown,Over,1.5,950.0,1300.0,700.0,600.0,,,1100.0,,700.0,0.0940919846199349,12.0
+espnbet,360.0,0.011837451166719193,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Marquise Brown,Over,5.5,,,284.0,300.0,,360.0,320.0,,,0.2199646632971129,4.6
+fliff,950.0,0.1104084880282542,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,99.5,,750.0,,800.0,620.0,,880.0,950.0,,0.1057531893360242,10.5
+fanduel,980.0,0.07590985618935908,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dallas Goedert,Over,89.5,,,,880.0,780.0,,980.0,,,0.0996212829804962,10.8
+fanduel,520.0,0.006378193658655329,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Mack Hollins,Over,39.5,,,,460.0,457.0,,520.0,,,0.1623190634933315,6.2
+fanduel,198.0,0.0007298107171229695,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jayden Daniels,Over,69.5,170.0,,,180.0,202.0,175.0,198.0,,,0.3358153727238668,2.98
+espnbet,-105.0,-0.02230246893187715,Buffalo Bills @ Kansas City Chiefs,player_rush_yds_alternate,Josh Allen,Over,49.5,-117.0,-110.0,,-135.0,-118.0,-105.0,-110.0,,,0.5007719061568434,1.9523809523809523
+draftkings,201.0,0.004604382798637285,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,49.5,215.0,155.0,,170.0,201.0,200.0,194.0,,160.0,0.3337556089032018,3.01
+fanduel,280.0,0.0029129976309199,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,8.5,,,217.0,260.0,,260.0,280.0,,,0.2639244730607684,3.8
+fanduel,410.0,0.005659354521518889,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dallas Goedert,Over,69.5,400.0,,,370.0,342.0,,410.0,,,0.1971881087297096,5.1
+fanduel,130.0,-0.01987537060933353,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,James Cook,Yes,,115.0,135.0,120.0,110.0,120.0,110.0,130.0,-105.0,,0.4261411432133333,2.3
+bovada,610.0,0.03335125356861002,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Keon Coleman,Over,3.5,,,297.0,610.0,,500.0,630.0,,,0.1455424300800859,7.1
+fanduel,200.0,-0.002505048468575466,Washington Commanders @ Philadelphia Eagles,player_tds_over,Saquon Barkley,Over,1.5,255.0,250.0,150.0,163.0,,,200.0,,165.0,0.3324983171771415,3.0
+betmgm,200.0,0.0018791905788888563,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Xavier Worthy,Yes,,165.0,200.0,170.0,160.0,195.0,185.0,190.0,160.0,,0.333959730192963,3.0
+hardrockbet,475.0,0.0662419953629203,Washington Commanders @ Philadelphia Eagles,player_sacks,Moro Ojomo,Over,0.5,375.0,,325.0,,,500.0,,,475.0,0.1854333904978992,5.75
+fanduel,360.0,0.014494525617490872,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Saquon Barkley,Over,3.5,,,249.0,300.0,,275.0,360.0,,350.0,0.2205422881777154,4.6
+betmgm,850.0,0.09994247153449276,Buffalo Bills @ Kansas City Chiefs,player_1st_td,Travis Kelce,Yes,,700.0,850.0,,375.0,900.0,700.0,700.0,590.0,,0.1157834180562624,9.5
+betmgm,-105.0,-0.027627400182693385,Buffalo Bills @ Kansas City Chiefs,player_rush_yds,Patrick Mahomes,Under,23.5,,-105.0,,,-111.0,,,-120.0,,0.4980445023454497,1.9523809523809523
+draftkings,495.0,-0.00039449971983718246,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Saquon Barkley,Over,39.5,,,,480.0,495.0,,,,400.0,0.1680009244168341,5.95
+ballybet,-130.0,-0.019992952573972156,Buffalo Bills @ Kansas City Chiefs,player_rush_attempts,Isiah Pacheco,Under,8.5,-130.0,-160.0,-149.0,,-147.0,-140.0,-140.0,-150.0,,0.5539170268060157,1.7692307692307692
+fanduel,4700.0,0.8640695144454511,Buffalo Bills @ Kansas City Chiefs,player_anytime_td,Reggie Gilliam,Yes,,1400.0,2500.0,1900.0,2000.0,1900.0,,4700.0,,,0.0388347815509469,48.0
+fanduel,152.0,-0.00814557479111444,Washington Commanders @ Philadelphia Eagles,player_reception_yds_alternate,Dallas Goedert,Over,49.5,148.0,135.0,,120.0,139.0,135.0,152.0,,150.0,0.3935930258765419,2.52
+hardrockbet,-375.0,-0.09606638574117976,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Terry McLaurin,Over,3.5,,,,-460.0,,-475.0,-400.0,,-375.0,0.7136318007306476,1.2666666666666666
+ballybet,500.0,0.009881422924900907,Washington Commanders @ Philadelphia Eagles,player_tds_over,Jalen Hurts,Over,1.5,500.0,500.0,400.0,,,,500.0,,400.0,0.1683135704874835,6.0
+betmgm,500.0,0.009881422924900907,Washington Commanders @ Philadelphia Eagles,player_tds_over,Jalen Hurts,Over,1.5,500.0,500.0,400.0,,,,500.0,,400.0,0.1683135704874835,6.0
+fanduel,500.0,0.009881422924900907,Washington Commanders @ Philadelphia Eagles,player_tds_over,Jalen Hurts,Over,1.5,500.0,500.0,400.0,,,,500.0,,400.0,0.1683135704874835,6.0
+espnbet,160.0,-0.011742228486414374,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Curtis Samuel,Over,2.5,,,116.0,140.0,,160.0,164.0,,,0.3800991428898406,2.6
+bovada,300.0,0.010346882071040397,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Jalen Hurts,Over,49.5,340.0,260.0,,300.0,212.0,,285.0,,275.0,0.2525867205177601,4.0
+draftkings,369.0,0.004194760908315498,Washington Commanders @ Philadelphia Eagles,player_rush_yds_alternate,Brian Robinson Jr.,Over,59.5,425.0,,,300.0,369.0,,320.0,,,0.2141140215156323,4.69
+bovada,470.0,0.004871868332994467,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,9.5,,,335.0,470.0,,,450.0,,,0.1762933102338587,5.7
+betonlineag,-120.0,-0.02908592753459638,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Marquise Brown,Over,3.5,,,-120.0,-150.0,,-130.0,-128.0,,,0.5295894940720384,1.8333333333333333
+draftkings,347.0,-5.8203991130878485e-05,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Ty Johnson,Over,24.5,,,,310.0,347.0,275.0,300.0,,,0.2237006255053398,4.470000000000001
+espnbet,250.0,-0.004995284325378213,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Dawson Knox,Over,2.5,,,168.0,220.0,,250.0,235.0,,,0.2842870616213205,3.5
+espnbet,850.0,0.0661845970346211,Buffalo Bills @ Kansas City Chiefs,player_receptions_alternate,Travis Kelce,Over,10.5,,,523.0,725.0,,850.0,700.0,,,0.1122299575825917,9.5
+betmgm,-115.0,-0.015100039382711428,Washington Commanders @ Philadelphia Eagles,player_receptions,Dyami Brown,Under,3.5,-139.0,-115.0,-130.0,-135.0,-118.0,-122.0,-130.0,,-130.0,0.5268069556790149,1.869565217391304
+betmgm,-165.0,-0.023652792952857826,Buffalo Bills @ Kansas City Chiefs,player_receptions,Isiah Pacheco,Under,1.5,,-165.0,-182.0,-185.0,-175.0,-190.0,-215.0,-190.0,,0.6079142987274659,1.606060606060606
+fanduel,310.0,0.008439065377178645,Washington Commanders @ Philadelphia Eagles,player_receptions_alternate,Brian Robinson Jr.,Over,2.5,,,201.0,300.0,,225.0,310.0,,,0.2459607476529704,4.1
+espnbet,375.0,0.030220152310031168,Buffalo Bills @ Kansas City Chiefs,player_sacks,Ed Oliver,Over,0.5,320.0,,350.0,,,375.0,270.0,335.0,,0.2168884531179013,4.75
+betmgm,160.0,-0.006270510023028253,Washington Commanders @ Philadelphia Eagles,player_anytime_td,AJ Brown,Yes,,135.0,160.0,140.0,130.0,165.0,140.0,150.0,,135.0,0.382203649991143,2.6
+bovada,545.0,0.019375985450854172,Buffalo Bills @ Kansas City Chiefs,player_reception_yds_alternate,Amari Cooper,Over,49.5,,475.0,261.0,545.0,553.0,,630.0,,,0.1580427884419929,6.45
