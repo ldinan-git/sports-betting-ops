@@ -1,0 +1,335 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+hardrockbet,850.0,0.8882869353274907,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,7.5,,,530.0,-1000.0,800.0,800.0,750.0,,850.0,0.1987670458239464,9.5
+draftkings,800.0,0.7889034124155174,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,7.5,,,530.0,-1000.0,800.0,800.0,750.0,,850.0,0.1987670458239464,9.0
+espnbet,800.0,0.7889034124155174,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,7.5,,,530.0,-1000.0,800.0,800.0,750.0,,850.0,0.1987670458239464,9.0
+fanduel,750.0,0.6895198895035444,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,7.5,,,530.0,-1000.0,800.0,800.0,750.0,,850.0,0.1987670458239464,8.5
+bovada,-250.0,0.01057651711400931,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Amen Thompson,Over,7.5,,,,-250.0,-475.0,-600.0,-380.0,,-575.0,0.7218403693671496,1.4
+fanduel,360.0,0.3099028029182542,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,5.5,,,198.0,250.0,220.0,,360.0,,200.0,0.2847614788952727,4.6
+betonlineag,-130.0,0.07272043830346853,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,3.5,,,-130.0,-185.0,-210.0,-240.0,-130.0,,-225.0,0.6063202477367431,1.7692307692307692
+fanduel,-130.0,0.07272043830346853,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,3.5,,,-130.0,-185.0,-210.0,-240.0,-130.0,,-225.0,0.6063202477367431,1.7692307692307692
+draftkings,-130.0,0.05788701561047205,Utah Jazz @ Golden State Warriors,player_points_rebounds_assists_alternate,John Collins,Over,24.5,,,-213.0,,-130.0,-180.0,,,,0.5979361392580929,1.7692307692307692
+fanduel,220.0,0.1694385835895158,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,5.5,,,185.0,,140.0,,220.0,,135.0,0.3654495573717237,3.2
+draftkings,-320.0,-0.029968453062283018,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,LeBron James,Over,34.5,,,,,-320.0,-550.0,,-510.0,,0.7390716548096892,1.3125
+betmgm,550.0,0.29320229320229285,Utah Jazz @ Golden State Warriors,player_points_alternate,Gary Payton II,Over,9.5,,550.0,,,270.0,400.0,,,,0.1989541989541989,6.5
+fanduel,-260.0,-0.028793684752142834,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Eric Gordon,Over,1.5,,,-400.0,,,-375.0,-260.0,,,0.7014267832345635,1.3846153846153846
+betonlineag,530.0,0.2522323886908622,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,7.5,,,530.0,-1000.0,800.0,800.0,750.0,,850.0,0.1987670458239464,6.3
+draftkings,310.0,0.16370537332335,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Max Christie,Over,19.5,,,229.0,,310.0,190.0,,,,0.2838305788593537,4.1
+fanduel,-320.0,-0.048548437271263345,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,7.5,,,,-350.0,-500.0,-575.0,-320.0,,-525.0,0.7249154763647517,1.3125
+draftkings,200.0,0.09373635649212675,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Scoot Henderson,Over,3.5,,,,,200.0,140.0,,,155.0,0.3645787854973756,3.0
+fanduel,-105.0,0.04626786621074097,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,7.5,,,-108.0,-140.0,-115.0,-160.0,-105.0,-160.0,-155.0,0.5358932973274527,1.9523809523809523
+betonlineag,-345.0,-0.054745380643301145,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,2.5,,-500.0,-345.0,,-550.0,-650.0,,,-600.0,0.7328378509619351,1.289855072463768
+bovada,-150.0,0.02644476028248366,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,3.5,,,-185.0,-150.0,-200.0,-215.0,-185.0,,-210.0,0.6158668561694903,1.6666666666666663
+betonlineag,110.0,0.04024410357908614,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,4.5,,-110.0,110.0,,-125.0,,,,-135.0,0.4953543350376601,2.1
+bovada,230.0,0.11174089783728469,Utah Jazz @ Golden State Warriors,player_assists_alternate,Dennis Schroder,Over,5.5,,,151.0,230.0,,,195.0,,170.0,0.3368911811628136,3.3
+fanduel,180.0,0.09411355007774103,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,7.5,,,136.0,125.0,175.0,115.0,180.0,,135.0,0.390754839313479,2.8
+draftkings,-135.0,0.019227654518554016,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,LeBron James,Over,39.5,,,-169.0,,-135.0,-180.0,,,,0.5855137589787438,1.7407407407407407
+fanduel,-250.0,-0.03476178500052274,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,5.5,,,,-280.0,-320.0,,-250.0,,-400.0,0.6894558678567695,1.4
+fanduel,-140.0,0.029827357562542622,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Deni Avdija,Over,3.5,,,-192.0,-165.0,-200.0,-190.0,-140.0,,-180.0,0.6007326252448164,1.7142857142857144
+fanduel,-145.0,0.024535249194808317,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Gary Trent Jr,Over,9.5,,-160.0,,-190.0,-200.0,-190.0,-145.0,,-190.0,0.6063575964622335,1.6896551724137931
+draftkings,-115.0,0.02501096972356298,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Scoot Henderson,Over,2.5,,-165.0,,,-115.0,-150.0,,,-150.0,0.5482616814800454,1.869565217391304
+fanduel,-160.0,0.017227696105222345,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,11.5,,,-189.0,-200.0,-195.0,-240.0,-160.0,,-230.0,0.6259862745262906,1.625
+draftkings,245.0,0.12356822328848871,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,9.5,,195.0,202.0,150.0,245.0,165.0,195.0,175.0,,0.3256719487792721,3.45
+draftkings,210.0,0.0844313245494035,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deandre Ayton,Over,29.5,,,147.0,,210.0,160.0,,,,0.3498165563062592,3.1
+draftkings,-150.0,0.017276480387947712,Utah Jazz @ Golden State Warriors,player_points_alternate,John Collins,Over,14.5,,-190.0,-244.0,,-150.0,-200.0,,,-200.0,0.6103658882327688,1.6666666666666663
+draftkings,120.0,0.029697861495449063,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deni Avdija,Over,29.5,,,,,120.0,-110.0,,-105.0,,0.4680444824979314,2.2
+draftkings,300.0,0.12169364456821552,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Guerschon Yabusele,Over,29.5,,,233.0,,300.0,200.0,,,,0.2804234111420539,4.0
+fanduel,270.0,0.12425258618170021,Utah Jazz @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,14.5,,190.0,,,,190.0,270.0,200.0,210.0,0.3038520503193784,3.7
+ballybet,410.0,0.19391606300747855,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Tyrese Maxey,Yes,,410.0,260.0,,350.0,260.0,260.0,370.0,245.0,240.0,0.2341011888249958,5.1
+hardrockbet,155.0,0.06258607392630389,Utah Jazz @ Golden State Warriors,player_points_alternate,Brandin Podziemski,Over,9.5,,110.0,,,115.0,135.0,,,155.0,0.4167004211475701,2.55
+fanduel,700.0,0.2850481871960695,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,7.5,,,590.0,,425.0,,700.0,,375.0,0.1606310233995087,8.0
+draftkings,120.0,0.029231000352735736,Los Angeles Lakers @ Philadelphia 76ers,player_turnovers,Tyrese Maxey,Under,2.5,,-110.0,,,120.0,-105.0,,-115.0,,0.4678322728876071,2.2
+betonlineag,-108.0,0.03209079485287192,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,7.5,,,-108.0,-140.0,-115.0,-160.0,-105.0,-160.0,-155.0,0.5358932973274527,1.925925925925926
+draftkings,-170.0,0.0003136496724867044,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Deandre Ayton,Over,9.5,,,-213.0,,-170.0,-225.0,,,,0.6298271127567509,1.5882352941176472
+draftkings,600.0,0.2603049124788255,Houston Rockets @ Atlanta Hawks,player_first_basket,Alperen Sengun,Yes,,500.0,,,500.0,600.0,320.0,500.0,,300.0,0.1800435589255465,7.0
+fanduel,-350.0,-0.07093760276990091,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,5.5,,,,-420.0,-425.0,,-350.0,,-550.0,0.7226040867345216,1.2857142857142856
+fanduel,700.0,0.26922745517104074,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Buddy Hield,Over,5.5,,,399.0,,475.0,,700.0,,425.0,0.1586534318963801,8.0
+fanduel,-170.0,0.01053583904801747,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Toumani Camara,Over,9.5,,-220.0,-250.0,-185.0,-210.0,-215.0,-170.0,,-220.0,0.6362633060672702,1.5882352941176472
+draftkings,-310.0,-0.047195889473235164,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Shaedon Sharpe,Over,9.5,,-625.0,,-375.0,-310.0,-425.0,-370.0,,-400.0,0.7204128640568221,1.3225806451612905
+fanduel,-195.0,-0.00884106626667891,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,3.5,,,-227.0,,-250.0,,-195.0,,-260.0,0.6551728545016868,1.5128205128205128
+fanduel,135.0,0.05467928572209635,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,7.5,,,117.0,115.0,105.0,110.0,135.0,,-105.0,0.4487996960519559,2.35
+draftkings,-900.0,-0.09152241311561948,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,LeBron James,Over,29.5,,,,,-900.0,-2500.0,,-2765.0,,0.8176298281959424,1.1111111111111112
+ballybet,700.0,0.3060488915056103,Los Angeles Lakers @ Philadelphia 76ers,player_triple_double,LeBron James,Yes,,700.0,500.0,,350.0,425.0,400.0,400.0,465.0,475.0,0.1632561114382013,8.0
+draftkings,550.0,0.22517856574620276,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,9.5,,500.0,286.0,375.0,550.0,260.0,490.0,,,0.1884890101148004,6.5
+draftkings,175.0,0.07457580811206732,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,7.5,,,136.0,125.0,175.0,115.0,180.0,,135.0,0.390754839313479,2.75
+fanduel,145.0,0.05791917628971577,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,19.5,,105.0,,125.0,110.0,115.0,145.0,,115.0,0.4318037454243738,2.45
+ballybet,600.0,0.2642821197290619,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Austin Reaves,Yes,,600.0,360.0,,375.0,475.0,350.0,460.0,330.0,350.0,0.180611731389866,7.0
+draftkings,160.0,0.048666928636921014,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,6.5,,125.0,117.0,,160.0,,,,125.0,0.4033334340911235,2.6
+betmgm,275.0,0.10494195104515347,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Moses Moody,Over,4.5,,275.0,201.0,,215.0,185.0,,,210.0,0.2946511869453743,3.75
+draftkings,140.0,0.044734774025460666,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Deandre Ayton,Over,11.5,,,119.0,,140.0,105.0,,,110.0,0.435306155843942,2.4
+bovada,450.0,0.17633173660179646,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,7.5,,,230.0,450.0,340.0,275.0,430.0,,325.0,0.213878497563963,5.5
+fanduel,145.0,0.05127191854361479,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Buddy Hield,Over,3.5,,,122.0,,110.0,125.0,145.0,,110.0,0.4290905789973937,2.45
+draftkings,-215.0,-0.022138020940112857,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deni Avdija,Over,24.5,,,,,-215.0,-275.0,,-270.0,,0.6674296047551611,1.4651162790697674
+fanduel,250.0,0.10406652451753384,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Toumani Camara,Over,14.5,,200.0,,225.0,195.0,175.0,250.0,,185.0,0.3154475784335811,3.5
+bovada,185.0,0.07401167585544988,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Amen Thompson,Over,11.5,,,148.0,185.0,150.0,125.0,180.0,,135.0,0.3768462020545438,2.85
+bovada,390.0,0.14395557914357426,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Taurean Prince,Over,5.5,,,242.0,390.0,285.0,,380.0,,260.0,0.2334603222741988,4.9
+ballybet,380.0,0.15398177347248132,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Guerschon Yabusele,Yes,,380.0,260.0,,275.0,310.0,260.0,310.0,245.0,240.0,0.2404128694734336,4.8
+fanduel,260.0,0.10965595594962929,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Gary Trent Jr,Over,14.5,,250.0,179.0,200.0,175.0,190.0,260.0,,210.0,0.3082377655415637,3.6
+espnbet,105.0,0.02414636240614776,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,4.5,,-135.0,-109.0,,-120.0,105.0,,-125.0,-125.0,0.4995835914176331,2.05
+fanduel,-260.0,-0.04108023063159105,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,5.5,,,-323.0,-275.0,-340.0,,-260.0,,-400.0,0.6925531667660731,1.3846153846153846
+draftkings,1800.0,0.60640451832907,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,11.5,,,,,1800.0,700.0,,,900.0,0.0845476062278458,19.0
+fanduel,-135.0,0.015684933559545033,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,9.5,,-165.0,-169.0,-150.0,-165.0,-190.0,-135.0,,,0.5834785788533556,1.7407407407407407
+fanduel,1300.0,0.4995437649899883,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,7.5,,,494.0,900.0,850.0,600.0,1300.0,,650.0,0.1071102689278563,14.0
+betmgm,180.0,0.05062584225176625,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Bobby Portis,Over,14.5,,180.0,,,,145.0,,135.0,150.0,0.3752235150899165,2.8
+draftkings,310.0,0.10238090658195675,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deni Avdija,Over,34.5,,,260.0,,310.0,210.0,,230.0,,0.2688733918492578,4.1
+fanduel,-150.0,0.004777314052336057,Utah Jazz @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,9.5,,-220.0,-167.0,,,-170.0,-150.0,,-175.0,0.6028663884314017,1.6666666666666663
+fanduel,-430.0,-0.07484390741160807,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,9.5,,-700.0,,-500.0,-525.0,-700.0,-430.0,-710.0,,0.7505983392698274,1.2325581395348837
+draftkings,300.0,0.11564827173555758,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,7.5,,,177.0,270.0,300.0,200.0,290.0,220.0,225.0,0.2789120679338894,4.0
+bovada,-350.0,-0.0679658161024621,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,7.5,,,,-350.0,-500.0,-575.0,-320.0,,-525.0,0.7249154763647517,1.2857142857142856
+bovada,275.0,0.10284970085111311,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Amen Thompson,Over,5.5,,,183.0,275.0,210.0,,230.0,,220.0,0.2940932535602968,3.75
+fanduel,-130.0,0.010258021997848754,Houston Rockets @ Atlanta Hawks,player_double_double,Trae Young,Yes,,-175.0,-160.0,,-140.0,-175.0,-180.0,-130.0,,-170.0,0.5710154037379145,1.7692307692307692
+betonlineag,-345.0,-0.06024881350833289,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,4.5,,-525.0,-345.0,,-390.0,-650.0,,,-525.0,0.7285711445834273,1.289855072463768
+fanduel,430.0,0.1424208400477852,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,De'Andre Hunter,Over,5.5,,,228.0,400.0,350.0,,430.0,,300.0,0.2155511018958085,5.3
+bovada,110.0,0.03258817409155568,Houston Rockets @ Atlanta Hawks,player_points_alternate,Zaccharie Risacher,Over,9.5,,-105.0,-106.0,110.0,-105.0,-120.0,100.0,,-120.0,0.4917086543293122,2.1
+betmgm,290.0,0.09390690335178475,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Buddy Hield,Over,4.5,,290.0,213.0,,235.0,200.0,,,220.0,0.2804889495773807,3.9
+draftkings,-550.0,-0.08421418098848477,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Anthony Davis,Over,34.5,,,,,-550.0,-800.0,,-785.0,,0.7748956930097435,1.181818181818182
+fanduel,500.0,0.18232236065413887,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,24.5,,340.0,326.0,420.0,340.0,325.0,500.0,,350.0,0.1970537267756898,6.0
+betonlineag,-244.0,-0.03445586146190116,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,De'Andre Hunter,Over,2.5,,-375.0,-244.0,,-280.0,,,,-350.0,0.6848627029165585,1.4098360655737705
+ballybet,-110.0,0.024072286551785504,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds,Taurean Prince,Over,3.5,-110.0,-150.0,-130.0,,-130.0,-130.0,-128.0,-160.0,-155.0,0.5364188167652211,1.9090909090909087
+bovada,175.0,0.05824190963034637,Houston Rockets @ Atlanta Hawks,player_points_alternate,Onyeka Okongwu,Over,14.5,,140.0,137.0,175.0,140.0,,165.0,,135.0,0.3848152398655805,2.75
+bovada,-250.0,-0.036948900780235605,Houston Rockets @ Atlanta Hawks,player_points_alternate,Onyeka Okongwu,Over,9.5,,-375.0,,-250.0,-290.0,,-250.0,,-325.0,0.6878936422998317,1.4
+fanduel,-250.0,-0.036948900780235605,Houston Rockets @ Atlanta Hawks,player_points_alternate,Onyeka Okongwu,Over,9.5,,-375.0,,-250.0,-290.0,,-250.0,,-325.0,0.6878936422998317,1.4
+fanduel,380.0,0.12060954691615411,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Taurean Prince,Over,5.5,,,242.0,390.0,285.0,,380.0,,260.0,0.2334603222741988,4.8
+fanduel,160.0,0.05062216169977607,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Anfernee Simons,Over,3.5,,,129.0,110.0,115.0,135.0,160.0,,145.0,0.4040854468076061,2.6
+bovada,-175.0,-0.007130038007505446,Utah Jazz @ Golden State Warriors,player_assists_alternate,Dennis Schroder,Over,3.5,,,-200.0,-175.0,,-240.0,-200.0,,-225.0,0.6318263394497693,1.5714285714285714
+ballybet,340.0,0.11211538880089433,Milwaukee Bucks @ Portland Trail Blazers,player_double_double,Deni Avdija,Yes,,340.0,250.0,,250.0,260.0,230.0,280.0,240.0,240.0,0.2527534974547487,4.4
+fanduel,390.0,0.1346196658205565,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,9.5,,350.0,263.0,350.0,300.0,225.0,390.0,,,0.2315550338409299,4.9
+draftkings,260.0,0.07016766153260812,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Max Christie,Over,2.5,,200.0,,,260.0,185.0,,,210.0,0.2972687948701689,3.6
+betonlineag,110.0,0.020535260665060395,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Taurean Prince,Over,2.5,,-125.0,110.0,,-120.0,100.0,,,-115.0,0.4859691717452669,2.1
+fanduel,105.0,0.024484343364951977,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,7.5,,,-102.0,-125.0,-115.0,-105.0,105.0,,-130.0,0.4997484601780254,2.05
+draftkings,-110.0,0.006926477328168534,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Damian Lillard,Over,39.5,,,-120.0,,-110.0,-140.0,,,,0.5274376786004693,1.9090909090909087
+fanduel,-135.0,0.004445325974147596,Houston Rockets @ Atlanta Hawks,player_double_double,Alperen Sengun,Yes,,-162.0,-175.0,,-140.0,-175.0,-190.0,-135.0,,-180.0,0.5770217830064251,1.7407407407407407
+draftkings,175.0,0.040526675786593636,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Toumani Camara,Over,2.5,,120.0,,,175.0,140.0,,,155.0,0.3783733366496704,2.75
+betmgm,130.0,0.016920634221111674,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Dennis Schroder,Over,2.5,,130.0,,,,100.0,,105.0,105.0,0.4421394061830921,2.3
+fanduel,135.0,0.03712776800502238,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Guerschon Yabusele,Over,14.5,,110.0,,105.0,130.0,105.0,135.0,,110.0,0.4413309651085201,2.35
+fanduel,-240.0,-0.03479139568820877,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Kelly Oubre Jr,Over,14.5,,-350.0,,-260.0,-330.0,-285.0,-240.0,,-300.0,0.6813237206906761,1.4166666666666667
+fanduel,750.0,0.24520964567123493,Utah Jazz @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,19.5,,475.0,364.0,650.0,450.0,475.0,750.0,,525.0,0.14649525243191,8.5
+ballybet,102.0,0.023016419200952765,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds,Taurean Prince,Over,11.5,102.0,-130.0,,-110.0,-115.0,-125.0,-106.0,-140.0,-130.0,0.5064437718816598,2.02
+bovada,115.0,0.029104052462162633,Milwaukee Bucks @ Portland Trail Blazers,player_points,Scoot Henderson,Under,11.5,,-110.0,101.0,115.0,,-110.0,,-130.0,-105.0,0.4786530476568199,2.15
+draftkings,210.0,0.06024956733853304,Utah Jazz @ Golden State Warriors,player_points_alternate,John Collins,Over,19.5,,195.0,,,210.0,150.0,,,160.0,0.3420159894640429,3.1
+fanduel,-280.0,-0.04152747196317175,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,LeBron James,Over,19.5,,-400.0,,-300.0,-320.0,-375.0,-280.0,-410.0,-375.0,0.7062429153955576,1.3571428571428572
+bovada,105.0,0.02259299881632537,Utah Jazz @ Golden State Warriors,player_points_assists,Dennis Schroder,Over,15.5,,-120.0,,105.0,,-120.0,-106.0,-130.0,-120.0,0.4988258530811344,2.05
+ballybet,102.0,0.026364399826630525,Milwaukee Bucks @ Portland Trail Blazers,player_threes,Damian Lillard,Over,3.5,102.0,-125.0,-119.0,-125.0,-110.0,-125.0,-113.0,-135.0,-130.0,0.5081011880329854,2.02
+fanduel,180.0,0.05516936575272258,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Amen Thompson,Over,11.5,,,148.0,185.0,150.0,125.0,180.0,,135.0,0.3768462020545438,2.8
+fanduel,180.0,0.05500418018112663,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,11.5,,,140.0,175.0,150.0,130.0,180.0,,140.0,0.3767872072075452,2.8
+fanduel,430.0,0.13355603708900388,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,7.5,,,230.0,450.0,340.0,275.0,430.0,,325.0,0.213878497563963,5.3
+draftkings,800.0,0.21066598807619585,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deni Avdija,Over,39.5,,,,,800.0,475.0,,525.0,,0.1345184431195773,9.0
+fanduel,190.0,0.05533877754650551,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Trae Young,Over,11.5,,,142.0,175.0,150.0,,190.0,,150.0,0.3639099232918985,2.9
+fanduel,250.0,0.055096964655715785,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Khris Middleton,Over,5.5,,,156.0,240.0,195.0,,250.0,,,0.3014562756159188,3.5
+draftkings,-105.0,0.005453284186010876,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Shaedon Sharpe,Over,19.5,,,-116.0,,-105.0,-130.0,,,,0.514988267509908,1.9523809523809523
+draftkings,120.0,0.02697579263274741,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Shaedon Sharpe,Over,14.5,,-118.0,,-110.0,120.0,105.0,110.0,,105.0,0.4668071784694306,2.2
+bovada,105.0,0.027713426941230468,Houston Rockets @ Atlanta Hawks,player_rebounds_assists,Amen Thompson,Over,14.5,-109.0,-130.0,,105.0,-120.0,-125.0,-104.0,,-125.0,0.5013236228981612,2.05
+draftkings,-120.0,0.008335559533928283,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_assists,Anfernee Simons,Under,7.5,-141.0,-155.0,,,-120.0,-140.0,,-165.0,-155.0,0.5500012142912336,1.8333333333333333
+bovada,475.0,0.1288882816623369,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,5.5,,,234.0,475.0,450.0,,460.0,,325.0,0.1963283968108412,5.75
+fanduel,105.0,0.017708632263072843,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,LeBron James,Over,24.5,,-110.0,,-115.0,-110.0,-115.0,105.0,-125.0,-115.0,0.4964432352502795,2.05
+bovada,475.0,0.12305192768207973,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,13.5,,,292.0,475.0,350.0,,460.0,,,0.1953133787273182,5.75
+fanduel,135.0,0.02626566584218404,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Giannis Antetokounmpo,Over,13.5,,,121.0,110.0,110.0,,135.0,,,0.4367087939753974,2.35
+betonlineag,-500.0,-0.08033604213811463,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,3.5,,,-500.0,-700.0,-550.0,-900.0,-650.0,-870.0,-750.0,0.7663866315515712,1.2
+betonlineag,-204.0,-0.02465589659446943,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,6.5,,-300.0,-204.0,,-210.0,,,,-300.0,0.6545072272852902,1.4901960784313726
+fanduel,490.0,0.10836743942664384,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Trae Young,Over,13.5,,,260.0,450.0,370.0,,490.0,,,0.1878588880384142,5.9
+hardrockbet,375.0,0.08600206611570216,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Damian Lillard,Over,6.5,,300.0,250.0,,285.0,,,,375.0,0.2286320139190952,4.75
+bovada,-200.0,-0.02289845983203198,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Onyeka Okongwu,Over,7.5,,,,-200.0,-265.0,,-200.0,,-260.0,0.6514010267786453,1.5
+fanduel,-200.0,-0.02289845983203198,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Onyeka Okongwu,Over,7.5,,,,-200.0,-265.0,,-200.0,,-260.0,0.6514010267786453,1.5
+draftkings,100.0,0.01893187556131881,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Max Christie,Over,9.5,,-110.0,-114.0,-125.0,100.0,-125.0,-105.0,,-130.0,0.5094659377806594,2.0
+draftkings,120.0,0.02276010531378514,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Anthony Davis,Over,3.5,,,117.0,-105.0,120.0,-110.0,110.0,-110.0,-105.0,0.4648909569608114,2.2
+ballybet,105.0,0.024888621124358856,Milwaukee Bucks @ Portland Trail Blazers,player_threes,Deni Avdija,Under,1.5,105.0,-118.0,-115.0,-120.0,-105.0,-120.0,-118.0,-130.0,-120.0,0.4999456688411507,2.05
+fanduel,-310.0,-0.05981487170883881,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Guerschon Yabusele,Over,9.5,,-450.0,,-350.0,-330.0,-425.0,-310.0,,-400.0,0.7108716823664877,1.3225806451612905
+fanduel,-310.0,-0.05626035955629205,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,5.5,,,,-360.0,-380.0,,-310.0,,-400.0,0.7135592403354865,1.3225806451612905
+betmgm,180.0,0.05336844978385491,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Brook Lopez,Over,14.5,,180.0,136.0,140.0,140.0,145.0,170.0,,155.0,0.3762030177799482,2.8
+betmgm,250.0,0.07883217939547293,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Gary Trent Jr,Over,14.5,,250.0,179.0,200.0,175.0,190.0,260.0,,210.0,0.3082377655415637,3.5
+fanduel,-310.0,-0.06401809172651363,Utah Jazz @ Golden State Warriors,player_assists_alternate,Andrew Wiggins,Over,1.5,,,-435.0,,,-350.0,-310.0,,,0.7076936379628799,1.3225806451612905
+fanduel,105.0,0.01215962551934835,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Vit Krejci,Over,3.5,,,-105.0,,-125.0,,105.0,,-110.0,0.4937364026923651,2.05
+draftkings,210.0,0.06073008404701907,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Deni Avdija,Over,19.5,,180.0,,175.0,210.0,160.0,200.0,150.0,165.0,0.3421709948538771,3.1
+bovada,130.0,0.018144999788637373,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds,Bobby Portis,Over,8.5,,115.0,,130.0,,,,-105.0,-105.0,0.442671739038538,2.3
+draftkings,-350.0,-0.06524262880000553,Utah Jazz @ Golden State Warriors,player_points_rebounds_assists_alternate,Stephen Curry,Over,29.5,,,,,-350.0,-450.0,,-435.0,,0.727033510933329,1.2857142857142856
+fanduel,290.0,0.08775706494216862,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,7.5,,,177.0,270.0,300.0,200.0,290.0,220.0,225.0,0.2789120679338894,3.9
+fanduel,-1100.0,-0.11283656369715467,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,7.5,,,,-1500.0,,-5000.0,-1100.0,-8910.0,-2500.0,0.813233149944275,1.0909090909090908
+hardrockbet,-105.0,0.01005024360329343,Houston Rockets @ Atlanta Hawks,player_points_assists,Vit Krejci,Under,14.5,,,,-135.0,,,-130.0,,-105.0,0.5173428076992479,1.9523809523809523
+betmgm,750.0,0.17621170955152188,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Dennis Schroder,Over,4.5,,750.0,,,,450.0,,490.0,525.0,0.138377848182532,8.5
+draftkings,265.0,0.07100522406007115,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Anthony Davis,Over,4.5,,230.0,209.0,,265.0,185.0,,200.0,210.0,0.2934260887835811,3.65
+betonlineag,185.0,0.04153123850941265,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,5.5,,,185.0,,140.0,,220.0,,135.0,0.3654495573717237,2.85
+draftkings,-165.0,-0.00952357370231327,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Deni Avdija,Over,14.5,,-200.0,-238.0,-185.0,-165.0,-200.0,-170.0,-220.0,-200.0,0.6167117371287484,1.606060606060606
+draftkings,215.0,0.0525332355946726,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,4.5,,175.0,168.0,,215.0,160.0,,,180.0,0.3341375351094199,3.15
+fanduel,-420.0,-0.06493617222895398,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Anthony Davis,Yes,,-625.0,-625.0,,-450.0,-525.0,-650.0,-420.0,-695.0,-650.0,0.7552438608919988,1.238095238095238
+draftkings,-115.0,0.01197731684902581,Milwaukee Bucks @ Portland Trail Blazers,player_assists,Giannis Antetokounmpo,Over,5.5,-137.0,-145.0,-133.0,-145.0,-115.0,-145.0,-130.0,-160.0,-150.0,0.5412901927332,1.869565217391304
+betonlineag,110.0,0.014082540884178818,Milwaukee Bucks @ Portland Trail Blazers,player_assists,Taurean Prince,Over,2.5,,-110.0,110.0,,-115.0,100.0,,-120.0,-115.0,0.4828964480400851,2.1
+ballybet,100.0,0.01672628067480586,Los Angeles Lakers @ Philadelphia 76ers,player_points,Max Christie,Over,9.5,100.0,-118.0,-114.0,-120.0,,-125.0,-108.0,-140.0,-130.0,0.5083631403374029,2.0
+draftkings,-215.0,-0.03470667519532156,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Anthony Davis,Over,39.5,,,,,-215.0,-260.0,,-255.0,,0.6588509994698599,1.4651162790697674
+betonlineag,-185.0,-0.020098546983009724,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,5.5,,,-185.0,-250.0,-195.0,,-185.0,,-250.0,0.6360763817829586,1.5405405405405406
+fanduel,-185.0,-0.020098546983009724,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,5.5,,,-185.0,-250.0,-195.0,,-185.0,,-250.0,0.6360763817829586,1.5405405405405406
+fanduel,370.0,0.10027558747748033,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Tyrese Maxey,Yes,,410.0,260.0,,350.0,260.0,260.0,370.0,245.0,240.0,0.2341011888249958,4.7
+betonlineag,-112.0,-0.010817074177692398,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,12.5,,-140.0,-112.0,,-125.0,,,-150.0,,0.522587206094804,1.8928571428571428
+draftkings,-115.0,0.0018874689165417902,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,7.5,,,-108.0,-140.0,-115.0,-160.0,-105.0,-160.0,-155.0,0.5358932973274527,1.869565217391304
+bovada,475.0,0.10662407570385612,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Amen Thompson,Over,13.5,,,312.0,475.0,350.0,,460.0,,,0.192456360991975,5.75
+fanduel,320.0,0.07045691849678537,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,15.5,,,243.0,250.0,275.0,,320.0,,,0.254870694880187,4.2
+betmgm,500.0,0.13093406068880242,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,9.5,,500.0,286.0,375.0,550.0,260.0,490.0,,,0.1884890101148004,6.0
+draftkings,160.0,0.016161351180884798,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,LeBron James,Over,44.5,,,,,160.0,130.0,,135.0,,0.3908312889157249,2.6
+hardrockbet,130.0,0.017343258656528193,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Scoot Henderson,Over,4.5,,-110.0,-104.0,,120.0,120.0,,,130.0,0.4423231559376209,2.3
+bovada,110.0,0.014891390695631612,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists,Scoot Henderson,Under,18.5,,-118.0,-102.0,110.0,,-115.0,,-125.0,-115.0,0.4832816146169674,2.1
+betmgm,950.0,0.2202537472230024,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,6.5,,950.0,378.0,,950.0,,,,650.0,0.1162146425926669,10.5
+draftkings,950.0,0.2202537472230024,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,6.5,,950.0,378.0,,950.0,,,,650.0,0.1162146425926669,10.5
+fanduel,290.0,0.07222611282475433,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Eric Gordon,Over,3.5,,,232.0,250.0,270.0,200.0,290.0,,,0.2749297725191678,3.9
+betmgm,400.0,0.08537220836208292,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Gary Trent Jr,Over,4.5,,400.0,290.0,,265.0,300.0,,,350.0,0.2170744416724166,5.0
+betmgm,220.0,0.04327856118394613,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,6.5,,220.0,154.0,,190.0,,,,185.0,0.3260245503699831,3.2
+draftkings,-120.0,-0.0011992989526387055,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,5.5,,,-133.0,-145.0,-120.0,,-125.0,-160.0,-150.0,0.5448003823894698,1.8333333333333333
+betmgm,180.0,0.04552767793799206,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Taurean Prince,Over,9.5,,180.0,131.0,165.0,160.0,140.0,180.0,,150.0,0.3734027421207115,2.8
+fanduel,180.0,0.04552767793799206,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Taurean Prince,Over,9.5,,180.0,131.0,165.0,160.0,140.0,180.0,,150.0,0.3734027421207115,2.8
+bovada,105.0,0.018804906713655645,Los Angeles Lakers @ Philadelphia 76ers,player_points_assists,Tyrese Maxey,Over,36.5,-117.0,-118.0,,105.0,-115.0,-120.0,-106.0,-125.0,-120.0,0.496978003274954,2.05
+fanduel,-145.0,-0.0017940995440250962,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Anfernee Simons,Over,3.5,,,-167.0,-165.0,-195.0,-180.0,-145.0,,-170.0,0.590774920678026,1.6896551724137931
+fanduel,-175.0,-0.010013614902081858,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Giannis Antetokounmpo,Over,11.5,,,-196.0,-200.0,-215.0,-225.0,-175.0,,-220.0,0.6299913359714024,1.5714285714285714
+espnbet,-200.0,-0.026552904459881344,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Scoot Henderson,Over,9.5,,-275.0,-244.0,,-250.0,-200.0,,,-200.0,0.6489647303600791,1.5
+hardrockbet,-200.0,-0.026552904459881344,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Scoot Henderson,Over,9.5,,-275.0,-244.0,,-250.0,-200.0,,,-200.0,0.6489647303600791,1.5
+fanduel,100.0,0.010560036697725428,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Max Christie,Over,3.5,,,-110.0,-120.0,-105.0,-130.0,100.0,,-125.0,0.5052800183488627,2.0
+draftkings,700.0,0.179218285297152,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,11.5,,,450.0,475.0,700.0,425.0,600.0,460.0,475.0,0.147402285662144,8.0
+hardrockbet,120.0,0.007165656960458566,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Lauri Markkanen,Over,6.5,,-110.0,104.0,,100.0,,,,120.0,0.457802571345663,2.2
+bovada,105.0,0.016729664827419777,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_assists,Deni Avdija,Over,11.5,-112.0,-118.0,,105.0,-115.0,-120.0,-102.0,-125.0,-120.0,0.495965690159717,2.05
+bovada,-150.0,-0.0018047349753144148,Utah Jazz @ Golden State Warriors,player_points_alternate,Lauri Markkanen,Over,19.5,,-220.0,-196.0,-150.0,-165.0,-200.0,-155.0,,-195.0,0.5989171590148115,1.6666666666666663
+hardrockbet,145.0,0.017735396481538213,Los Angeles Lakers @ Philadelphia 76ers,player_steals,LeBron James,Under,0.5,120.0,115.0,,,135.0,,,105.0,145.0,0.4154022026455257,2.45
+draftkings,100.0,0.011734492728028068,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds,Damian Lillard,Under,4.5,-118.0,-118.0,-112.0,,100.0,-120.0,-118.0,-145.0,-120.0,0.505867246364014,2.0
+draftkings,-250.0,-0.04027129871935897,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Max Christie,Over,2.5,,-350.0,-323.0,,-250.0,-325.0,,,-300.0,0.6855205009147436,1.4
+fanduel,-1100.0,-0.11294587023387515,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Deni Avdija,Over,1.5,,,,,,-2500.0,-1100.0,-2765.0,,0.8131329522856146,1.0909090909090908
+fanduel,460.0,0.09943902214071065,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,5.5,,,234.0,475.0,450.0,,460.0,,325.0,0.1963283968108412,5.6
+draftkings,-750.0,-0.10303573726912185,Utah Jazz @ Golden State Warriors,player_points_rebounds_assists_alternate,Trayce Jackson-Davis,Over,9.5,,,,,-750.0,-1100.0,,-1110.0,,0.7914390553507749,1.1333333333333333
+draftkings,-240.0,-0.039923039923039805,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,4.5,,-325.0,-250.0,,-240.0,-350.0,,,-325.0,0.6777013835837365,1.4166666666666667
+draftkings,1000.0,0.2850067739657589,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Giannis Antetokounmpo,Over,9.5,,800.0,406.0,700.0,1000.0,600.0,700.0,630.0,,0.1168187976332508,11.0
+fanduel,900.0,0.25259234133198594,Utah Jazz @ Golden State Warriors,player_points_alternate,Dennis Schroder,Over,19.5,,700.0,330.0,,,700.0,900.0,590.0,700.0,0.1252592341331986,10.0
+fanduel,460.0,0.09375492087298187,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,13.5,,,292.0,475.0,350.0,,460.0,,,0.1953133787273182,5.6
+betonlineag,-116.0,-0.012680207068651028,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Giannis Antetokounmpo,Over,12.5,,-140.0,-116.0,,-140.0,,,-145.0,,0.5302272962038727,1.862068965517241
+betonlineag,126.0,0.012748144273952544,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Tyrese Maxey,Over,4.5,,120.0,126.0,,105.0,-110.0,,,100.0,0.4481186479088286,2.26
+fanduel,-155.0,-0.00713187265492965,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Giannis Antetokounmpo,Over,29.5,,-175.0,-204.0,-175.0,-195.0,-180.0,-155.0,,-185.0,0.6035080774058272,1.6451612903225803
+draftkings,750.0,0.16388888888888808,Utah Jazz @ Golden State Warriors,player_first_basket,John Collins,Yes,,,,,,750.0,500.0,,,500.0,0.1369281045751633,8.5
+bovada,450.0,0.10133234649127976,Houston Rockets @ Atlanta Hawks,player_points_alternate,Zaccharie Risacher,Over,14.5,,425.0,,450.0,350.0,275.0,400.0,,325.0,0.2002422448165963,5.5
+fanduel,-190.0,-0.023507214203138727,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Jalen Green,Over,3.5,,,-250.0,-200.0,-235.0,-240.0,-190.0,,-225.0,0.6397711355220815,1.526315789473684
+bovada,-275.0,-0.05560931804626379,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,5.5,,,-323.0,-275.0,-340.0,,-260.0,,-400.0,0.6925531667660731,1.3636363636363638
+fanduel,-105.0,0.003655760441318101,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,De'Andre Hunter,Over,3.5,,,-112.0,-110.0,-120.0,,-105.0,,-140.0,0.5140675846162849,1.9523809523809523
+fanduel,310.0,0.05917851679939834,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Giannis Antetokounmpo,Over,15.5,,,235.0,275.0,255.0,,310.0,,,0.2583362236096094,4.1
+bovada,105.0,0.014585243269091497,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists,Anfernee Simons,Over,26.5,-121.0,-118.0,-106.0,105.0,,-120.0,,-125.0,-115.0,0.4949196308629714,2.05
+bovada,175.0,0.03616481982074948,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Alperen Sengun,Over,11.5,,,140.0,175.0,150.0,130.0,180.0,,140.0,0.3767872072075452,2.75
+draftkings,230.0,0.04141774941517995,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Eric Gordon,Over,19.5,,,207.0,,230.0,185.0,,,,0.3155811361864182,3.3
+betonlineag,-164.0,-0.015537120551784689,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Anfernee Simons,Over,24.5,,,-164.0,,-195.0,-190.0,,,,0.6115602735966186,1.6097560975609757
+draftkings,200.0,0.03785875167544139,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Max Christie,Over,4.5,,155.0,175.0,,200.0,150.0,,,170.0,0.3459529172251471,3.0
+bovada,175.0,0.030872841563743147,Houston Rockets @ Atlanta Hawks,player_double_double,Onyeka Okongwu,Yes,,155.0,140.0,,175.0,135.0,130.0,170.0,,135.0,0.3748628514777248,2.75
+fanduel,490.0,0.11208515967732258,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Austin Reaves,Over,9.5,,500.0,286.0,375.0,550.0,260.0,490.0,,,0.1884890101148004,5.9
+betonlineag,-139.0,-0.00624488044033189,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Trae Young,Over,9.5,,-185.0,-139.0,-150.0,-175.0,,-140.0,,,0.5779579984049953,1.7194244604316546
+draftkings,-175.0,-0.011894525341952344,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Damian Lillard,Over,24.5,,-220.0,-227.0,-200.0,-175.0,-215.0,-180.0,,-210.0,0.6287943929642121,1.5714285714285714
+fanduel,-450.0,-0.08595086821145725,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Giannis Antetokounmpo,Over,24.5,,-600.0,,-475.0,-600.0,-600.0,-450.0,-715.0,-600.0,0.7478583805542621,1.2222222222222223
+betonlineag,153.0,0.01861562253859539,Milwaukee Bucks @ Portland Trail Blazers,player_assists,Scoot Henderson,Under,3.5,,120.0,153.0,150.0,,,,110.0,115.0,0.4026148705686148,2.53
+fanduel,110.0,0.009870585345846727,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Deni Avdija,Over,7.5,,,-101.0,-110.0,100.0,-115.0,110.0,,-110.0,0.4808907549265936,2.1
+betmgm,175.0,0.015165122581458412,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Bobby Portis,Over,9.5,,175.0,,,,140.0,,150.0,,0.3691509536659849,2.75
+bovada,-140.0,-0.010819800560413873,Houston Rockets @ Atlanta Hawks,player_double_double,Alperen Sengun,Yes,,-162.0,-175.0,,-140.0,-175.0,-190.0,-135.0,,-180.0,0.5770217830064251,1.7142857142857144
+betonlineag,120.0,0.013325061576340058,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,7.5,,,120.0,100.0,105.0,105.0,120.0,,-110.0,0.4606023007165182,2.2
+fanduel,120.0,0.013325061576340058,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,7.5,,,120.0,100.0,105.0,105.0,120.0,,-110.0,0.4606023007165182,2.2
+fanduel,290.0,0.0660866719765496,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Deni Avdija,Over,5.5,,,207.0,285.0,215.0,,290.0,,230.0,0.273355556917064,3.9
+betonlineag,117.0,0.008813376604960732,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Anthony Davis,Over,3.5,,,117.0,-105.0,120.0,-110.0,110.0,-110.0,-105.0,0.4648909569608114,2.17
+draftkings,-750.0,-0.10467493383782844,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Deni Avdija,Over,19.5,,,,,-750.0,-1100.0,,-1080.0,,0.7899927054372102,1.1333333333333333
+betmgm,340.0,0.057455670685801374,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,6.5,,340.0,328.0,,255.0,,,,225.0,0.240330834246773,4.4
+draftkings,105.0,-0.002552863366610092,Houston Rockets @ Atlanta Hawks,player_points_rebounds_assists_alternate,Zaccharie Risacher,Over,14.5,,,102.0,,105.0,-115.0,,,,0.4865595788455561,2.05
+draftkings,1100.0,0.2541522181652178,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,11.5,,,651.0,,1100.0,700.0,,,700.0,0.1045126848471015,12.0
+betmgm,155.0,0.024556486330094662,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,LeBron James,Over,9.5,,155.0,135.0,115.0,145.0,125.0,130.0,130.0,,0.4017868573843509,2.55
+betonlineag,-103.0,-0.00535611249090584,Utah Jazz @ Golden State Warriors,player_points_rebounds_assists_alternate,Lauri Markkanen,Over,29.5,,,-103.0,,-110.0,-125.0,,,,0.5046715291302301,1.970873786407767
+ballybet,270.0,0.06068874342957442,Milwaukee Bucks @ Portland Trail Blazers,player_double_double,Damian Lillard,Yes,,270.0,220.0,,200.0,230.0,210.0,220.0,210.0,210.0,0.2866726333593444,3.7
+fanduel,135.0,0.012092114729664427,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Anthony Davis,Over,13.5,,,124.0,110.0,120.0,,135.0,,,0.4306774956296444,2.35
+draftkings,900.0,0.164343796714574,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Toumani Camara,Over,29.5,,,599.0,,900.0,600.0,,,,0.1164343796714574,10.0
+bovada,400.0,0.07775550947904264,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,De'Andre Hunter,Over,5.5,,,228.0,400.0,350.0,,430.0,,300.0,0.2155511018958085,5.0
+draftkings,475.0,0.06989794061114663,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Damian Lillard,Over,49.5,,,404.0,,475.0,325.0,,,,0.1860692070628081,5.75
+bovada,400.0,0.07845195925734971,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Brook Lopez,Over,7.5,,,291.0,400.0,370.0,250.0,400.0,,300.0,0.2156903918514699,5.0
+fanduel,400.0,0.07845195925734971,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Brook Lopez,Over,7.5,,,291.0,400.0,370.0,250.0,400.0,,300.0,0.2156903918514699,5.0
+fanduel,-110.0,0.0006580374618101459,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Damian Lillard,Over,7.5,,,-120.0,-135.0,-115.0,-140.0,-110.0,,-135.0,0.5241542100990435,1.9090909090909087
+draftkings,-210.0,-0.033822664483619036,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,LeBron James,Over,6.5,,-300.0,-204.0,,-210.0,,,,-300.0,0.6545072272852902,1.4761904761904765
+draftkings,130.0,0.015061219749596066,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Guerschon Yabusele,Over,14.5,,110.0,,105.0,130.0,105.0,135.0,,110.0,0.4413309651085201,2.3
+fanduel,170.0,0.0272638017208926,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Giannis Antetokounmpo,Over,34.5,,165.0,,150.0,130.0,140.0,170.0,130.0,145.0,0.3804680747114417,2.7
+bovada,250.0,0.05606788082095937,Houston Rockets @ Atlanta Hawks,player_points_alternate,Fred VanVleet,Over,19.5,,210.0,171.0,250.0,200.0,,230.0,,220.0,0.3017336802345598,3.5
+hardrockbet,195.0,0.03148007487268778,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Scoot Henderson,Over,14.5,,175.0,,,150.0,160.0,,,195.0,0.3496542626687077,2.95
+fanduel,370.0,0.08211959446301498,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,Kelly Oubre Jr,Yes,,350.0,270.0,,325.0,300.0,270.0,370.0,255.0,260.0,0.2302382115878755,4.7
+betmgm,100.0,0.00908112668010852,Houston Rockets @ Atlanta Hawks,player_rebounds,Fred VanVleet,Under,3.5,-124.0,100.0,-119.0,,-130.0,-105.0,-120.0,,-120.0,0.5045405633400543,2.0
+fanduel,480.0,0.08904732606972421,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Max Christie,Over,5.5,,,340.0,440.0,400.0,,480.0,,350.0,0.187766780356849,5.8
+betmgm,390.0,0.07231404958677667,Houston Rockets @ Atlanta Hawks,player_points_alternate,Vit Krejci,Over,14.5,,390.0,,,285.0,,390.0,,300.0,0.218839601956485,4.9
+fanduel,390.0,0.07231404958677667,Houston Rockets @ Atlanta Hawks,player_points_alternate,Vit Krejci,Over,14.5,,390.0,,,285.0,,390.0,,300.0,0.218839601956485,4.9
+betonlineag,-112.0,-0.00932078257659652,Houston Rockets @ Atlanta Hawks,player_points_rebounds_assists_alternate,Jalen Green,Over,29.5,,,-112.0,,-140.0,-125.0,,,,0.5233776997708547,1.8928571428571428
+fanduel,-105.0,-0.0006056224184862735,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Dillon Brooks,Over,3.5,,,-116.0,-110.0,-130.0,,-105.0,,-125.0,0.5118849251027265,1.9523809523809523
+draftkings,450.0,0.07980618245962656,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,5.5,,,234.0,475.0,450.0,,460.0,,325.0,0.1963283968108412,5.5
+fanduel,490.0,0.09204760866287076,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,5.5,,,299.0,475.0,425.0,,490.0,,350.0,0.1850928150276052,5.9
+fanduel,-140.0,-0.009214859877150872,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Trae Young,Over,9.5,,-185.0,-139.0,-150.0,-175.0,,-140.0,,,0.5779579984049953,1.7142857142857144
+draftkings,120.0,-0.008701490266788459,Los Angeles Lakers @ Philadelphia 76ers,player_turnovers,Anthony Davis,Under,2.5,,105.0,,,120.0,100.0,,-105.0,,0.4505902316969143,2.2
+fanduel,470.0,0.08951550044196255,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Vit Krejci,Over,5.5,,,354.0,,360.0,,470.0,,375.0,0.1911430702529759,5.7
+betmgm,-160.0,-0.014668905748870475,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Gary Trent Jr,Over,9.5,,-160.0,,-190.0,-200.0,-190.0,-145.0,,-190.0,0.6063575964622335,1.625
+fanduel,850.0,0.1703333939091054,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Khris Middleton,Over,7.5,,,364.0,800.0,700.0,,850.0,,,0.1231929888325374,9.5
+fanduel,460.0,0.07775562155505988,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Amen Thompson,Over,13.5,,,312.0,475.0,350.0,,460.0,,,0.192456360991975,5.6
+ballybet,-155.0,-0.021609931928902593,Utah Jazz @ Golden State Warriors,player_steals,Lauri Markkanen,Over,0.5,-155.0,-190.0,,,,,,-195.0,-180.0,0.594707688435373,1.6451612903225803
+draftkings,700.0,0.12202150606396,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,De'Andre Hunter,Over,6.5,,575.0,367.0,,700.0,,,,575.0,0.140252688257995,8.0
+betmgm,650.0,0.1270536843219605,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Scoot Henderson,Over,19.5,,650.0,306.0,,475.0,550.0,,,600.0,0.1502738245762614,7.5
+ballybet,116.0,0.012453456927671303,Los Angeles Lakers @ Philadelphia 76ers,player_threes,Austin Reaves,Over,2.5,116.0,-105.0,-101.0,100.0,100.0,-105.0,102.0,-110.0,-105.0,0.4687284522813293,2.16
+ballybet,-122.0,-0.01171174250116358,Los Angeles Lakers @ Philadelphia 76ers,player_double_double,LeBron James,Yes,,-122.0,-155.0,,-140.0,-125.0,-155.0,-130.0,-160.0,-160.0,0.5431133667335948,1.819672131147541
+draftkings,-105.0,-0.008457291865248906,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Taurean Prince,Over,14.5,,,-106.0,,-105.0,-130.0,,,,0.5078633383129213,1.9523809523809523
+bovada,-280.0,-0.0643098936229557,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,5.5,,,,-280.0,-320.0,,-250.0,,-400.0,0.6894558678567695,1.3571428571428572
+ballybet,-139.0,-0.002715703009896875,Los Angeles Lakers @ Philadelphia 76ers,player_threes,LeBron James,Over,1.5,-139.0,-165.0,-169.0,-170.0,-166.0,-170.0,-156.0,-180.0,-175.0,0.5800105325590976,1.7194244604316546
+fanduel,125.0,0.010536225647282849,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Austin Reaves,Over,19.5,,115.0,,105.0,110.0,105.0,125.0,,105.0,0.4491272113987923,2.25
+betonlineag,590.0,0.10835406145661008,Houston Rockets @ Atlanta Hawks,player_assists_alternate,Vit Krejci,Over,7.5,,,590.0,,425.0,,700.0,,375.0,0.1606310233995087,6.9
+bovada,-185.0,-0.01981058254501611,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Toumani Camara,Over,9.5,,-220.0,-250.0,-185.0,-210.0,-215.0,-170.0,,-220.0,0.6362633060672702,1.5405405405405406
+betmgm,360.0,0.04921792044433548,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Brandin Podziemski,Over,6.5,,360.0,271.0,,300.0,,,,275.0,0.2280908522705077,4.6
+fanduel,-150.0,-0.01783416000871252,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Khris Middleton,Over,3.5,,,-161.0,-170.0,-220.0,,-150.0,,,0.5892995039947726,1.6666666666666663
+fanduel,-390.0,-0.08326308226358192,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Damian Lillard,Over,5.5,,,-625.0,-450.0,-400.0,,-390.0,,-500.0,0.7296477508514347,1.2564102564102564
+bovada,230.0,0.04422779945939237,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Jalen Green,Over,5.5,,,182.0,230.0,190.0,,230.0,,185.0,0.3164326665028461,3.3
+fanduel,230.0,0.04422779945939237,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Jalen Green,Over,5.5,,,182.0,230.0,190.0,,230.0,,185.0,0.3164326665028461,3.3
+fanduel,-170.0,-0.020516652795517176,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Deni Avdija,Over,14.5,,-200.0,-238.0,-185.0,-165.0,-200.0,-170.0,-220.0,-200.0,0.6167117371287484,1.5882352941176472
+fanduel,290.0,0.057765469894632604,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,LeBron James,Over,29.5,,250.0,233.0,270.0,235.0,220.0,290.0,220.0,240.0,0.2712219153575981,3.9
+draftkings,130.0,0.01500226879458344,Los Angeles Lakers @ Philadelphia 76ers,player_assists,Anthony Davis,Over,3.5,118.0,110.0,117.0,120.0,130.0,105.0,114.0,-110.0,-105.0,0.4413053342585146,2.3
+fanduel,-190.0,-0.02823589099598911,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Khris Middleton,Over,3.5,,,-250.0,-220.0,-230.0,,-190.0,,,0.6366730369336624,1.526315789473684
+fanduel,200.0,0.023129104847092852,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Lauri Markkanen,Over,7.5,,,155.0,175.0,165.0,,200.0,,,0.3410430349490309,3.0
+bovada,-526.0,-0.09019408134866147,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,Anthony Davis,Over,19.5,,-800.0,,-526.0,-700.0,-650.0,-550.0,-850.0,-700.0,0.7644695099210927,1.1901140684410647
+bovada,240.0,0.024951337094123893,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Khris Middleton,Over,5.5,,,156.0,240.0,195.0,,250.0,,,0.3014562756159188,3.4
+fanduel,105.0,0.0026446147733799608,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,3.5,,,-105.0,-115.0,100.0,-120.0,105.0,,-115.0,0.4890949340357951,2.05
+ballybet,-124.0,-0.009083402839266674,Houston Rockets @ Atlanta Hawks,player_steals,Amen Thompson,Over,1.5,-124.0,-165.0,,,,,-125.0,,-160.0,0.5485431162854062,1.806451612903225
+draftkings,-330.0,-0.07406791708278126,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Giannis Antetokounmpo,Over,44.5,,,,,-330.0,-400.0,,-385.0,,0.7105990403783307,1.303030303030303
+draftkings,215.0,0.027298690701383466,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists_alternate,Austin Reaves,Over,34.5,,,185.0,,215.0,175.0,,,,0.3261265684766297,3.15
+draftkings,-225.0,-0.039867655586642736,Houston Rockets @ Atlanta Hawks,player_points_alternate,De'Andre Hunter,Over,14.5,,-300.0,,-230.0,-225.0,,-230.0,,-275.0,0.6647070076707857,1.4444444444444444
+bovada,200.0,0.03505757482697103,Utah Jazz @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,14.5,,140.0,,200.0,155.0,175.0,200.0,,180.0,0.3450191916089903,3.0
+fanduel,200.0,0.03505757482697103,Utah Jazz @ Golden State Warriors,player_points_alternate,Buddy Hield,Over,14.5,,140.0,,200.0,155.0,175.0,200.0,,180.0,0.3450191916089903,3.0
+betmgm,275.0,0.04809301873257499,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Damian Lillard,Over,9.5,,275.0,238.0,200.0,260.0,200.0,240.0,,,0.27949147166202,3.75
+betmgm,-235.0,-0.04518722905442585,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Bobby Portis,Over,9.5,,-235.0,,,,-260.0,,-285.0,-260.0,0.6697940333498804,1.425531914893617
+bovada,110.0,-0.005052487958131291,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists,Guerschon Yabusele,Over,24.5,,100.0,,110.0,,,,-125.0,-110.0,0.473784529543747,2.1
+ballybet,120.0,0.011089665538779103,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds,Brook Lopez,Over,5.5,120.0,-105.0,104.0,105.0,114.0,105.0,110.0,-115.0,-105.0,0.4595862116085359,2.2
+bovada,-130.0,-0.01425652425189572,Houston Rockets @ Atlanta Hawks,player_double_double,Amen Thompson,Yes,,-143.0,-160.0,,-130.0,-145.0,-180.0,-135.0,,-165.0,0.5571593558576241,1.7692307692307692
+fanduel,185.0,0.028317584324818013,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,7.5,,,140.0,175.0,135.0,150.0,185.0,165.0,165.0,0.3608131874823923,2.85
+fliff,300.0,0.03398352914431357,Utah Jazz @ Golden State Warriors,player_points_rebounds_assists_alternate,Dennis Schroder,Over,24.5,,,195.0,,,260.0,,300.0,,0.2584958822860784,4.0
+fanduel,340.0,0.0657443741150896,Los Angeles Lakers @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,9.5,,333.0,265.0,300.0,295.0,225.0,340.0,,,0.2422146304807022,4.4
+betonlineag,-161.0,-0.022334278583726275,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Anfernee Simons,Over,2.5,,-235.0,-161.0,,-200.0,-180.0,,,-170.0,0.6030811538238317,1.62111801242236
+bovada,285.0,0.05241889413069645,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Deni Avdija,Over,5.5,,,207.0,285.0,215.0,,290.0,,230.0,0.273355556917064,3.85
+draftkings,135.0,-0.007474001993521773,Utah Jazz @ Golden State Warriors,player_turnovers,Stephen Curry,Under,2.5,,115.0,,,135.0,115.0,,110.0,,0.422351488513395,2.35
+ballybet,115.0,0.004740562934231085,Los Angeles Lakers @ Philadelphia 76ers,player_assists,Eric Gordon,Over,2.5,115.0,-105.0,100.0,,110.0,-105.0,,-115.0,,0.467321192062433,2.15
+bovada,120.0,0.007793577056821155,Utah Jazz @ Golden State Warriors,player_threes,Lauri Markkanen,Over,3.5,-103.0,,115.0,120.0,105.0,100.0,106.0,-125.0,100.0,0.4580879895712823,2.2
+draftkings,-180.0,-0.014239361544946982,Houston Rockets @ Atlanta Hawks,player_blocks,Onyeka Okongwu,Under,1.5,-215.0,-235.0,,,-180.0,,-215.0,,-210.0,0.6337032675782484,1.5555555555555556
+draftkings,400.0,0.04606574933243146,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Scoot Henderson,Over,4.5,,340.0,,,400.0,275.0,,,325.0,0.2092131498664863,5.0
+bovada,200.0,0.030271830325729,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,5.5,,,154.0,200.0,165.0,,200.0,,165.0,0.3434239434419097,3.0
+fanduel,200.0,0.030271830325729,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,5.5,,,154.0,200.0,165.0,,200.0,,165.0,0.3434239434419097,3.0
+betonlineag,-130.0,-0.013204631169842496,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Gary Trent Jr,Over,2.5,,-135.0,-130.0,,-180.0,-160.0,,,-150.0,0.5577539041213934,1.7692307692307692
+bovada,450.0,0.07439273466977703,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Dillon Brooks,Over,5.5,,,328.0,450.0,370.0,,450.0,,325.0,0.1953441335763231,5.5
+fanduel,450.0,0.07439273466977703,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Dillon Brooks,Over,5.5,,,328.0,450.0,370.0,,450.0,,325.0,0.1953441335763231,5.5
+draftkings,450.0,0.0494876101931061,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Scoot Henderson,Over,6.5,,350.0,271.0,,450.0,,,,450.0,0.1908159291260193,5.5
+hardrockbet,450.0,0.0494876101931061,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Scoot Henderson,Over,6.5,,350.0,271.0,,450.0,,,,450.0,0.1908159291260193,5.5
+fanduel,280.0,0.048884352719416935,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Onyeka Okongwu,Over,11.5,,,213.0,275.0,215.0,,280.0,,230.0,0.2760221980840571,3.8
+fanduel,-700.0,-0.10418657627381234,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,Anthony Davis,Over,1.5,,,-833.0,,,-1000.0,-700.0,-1040.0,,0.7838367457604142,1.1428571428571428
+hardrockbet,250.0,0.02353674780440196,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Scoot Henderson,Over,5.5,,,161.0,,240.0,,,,250.0,0.2924390708012577,3.5
+draftkings,450.0,0.058757755234400744,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Toumani Camara,Over,3.5,,,,,450.0,325.0,,,375.0,0.1925014100426183,5.5
+fanduel,-190.0,-0.026434727597676844,Los Angeles Lakers @ Philadelphia 76ers,player_assists_alternate,LeBron James,Over,7.5,,,-227.0,-200.0,-200.0,-240.0,-190.0,-240.0,-230.0,0.6378531095049704,1.526315789473684
+fanduel,102.0,-0.009395074052814922,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds,Max Christie,Over,13.5,,-105.0,,,,-110.0,102.0,-130.0,-125.0,0.4903984781916757,2.02
+fanduel,-1250.0,-0.1380427170868347,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Anfernee Simons,Over,1.5,,,-5000.0,,,-2000.0,-1250.0,,,0.7981085952899678,1.08
+fanduel,165.0,0.01976038564378846,Houston Rockets @ Atlanta Hawks,player_points_alternate,Onyeka Okongwu,Over,14.5,,140.0,137.0,175.0,140.0,,165.0,,135.0,0.3848152398655805,2.65
+hardrockbet,-115.0,-0.006321954061599633,Los Angeles Lakers @ Philadelphia 76ers,player_points_rebounds_assists,Max Christie,Under,15.5,,-130.0,-143.0,-145.0,,-125.0,,-130.0,-115.0,0.5315022106182142,1.869565217391304
+ballybet,-107.0,0.0019278388695223025,Houston Rockets @ Atlanta Hawks,player_rebounds_assists,Trae Young,Under,13.5,-107.0,-125.0,,-135.0,-130.0,-120.0,-128.0,,-125.0,0.5179047283045356,1.9345794392523368
+bovada,700.0,0.13761531182743836,Utah Jazz @ Golden State Warriors,player_assists_alternate,Dennis Schroder,Over,7.5,,,351.0,700.0,,475.0,650.0,530.0,575.0,0.1422019139784298,8.0
+fanduel,114.0,0.009454025146646616,Houston Rockets @ Atlanta Hawks,player_rebounds,Alperen Sengun,Over,10.5,104.0,-105.0,-101.0,-105.0,100.0,-105.0,114.0,,-110.0,0.4717074883862834,2.14
+fanduel,290.0,0.04605315797870757,Milwaukee Bucks @ Portland Trail Blazers,player_assists_alternate,Anfernee Simons,Over,5.5,,,193.0,275.0,230.0,,290.0,,260.0,0.2682187584560789,3.9
+betmgm,475.0,0.08515892830786109,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Trayce Jackson-Davis,Over,9.5,,475.0,290.0,450.0,330.0,350.0,440.0,375.0,,0.188723291879628,5.75
+hardrockbet,-105.0,-0.008848007172904682,Milwaukee Bucks @ Portland Trail Blazers,player_rebounds_alternate,Damian Lillard,Over,4.5,,-140.0,-115.0,,-135.0,-110.0,,,-105.0,0.5076632158382683,1.9523809523809523
+bovada,150.0,0.00653717642153695,Milwaukee Bucks @ Portland Trail Blazers,player_assists,Scoot Henderson,Under,3.5,,120.0,153.0,150.0,,,,110.0,115.0,0.4026148705686148,2.5
+betonlineag,-106.0,-0.013020304788096349,Milwaukee Bucks @ Portland Trail Blazers,player_points_rebounds_assists_alternate,Taurean Prince,Over,14.5,,,-106.0,,-105.0,-130.0,,,,0.5078633383129213,1.9433962264150944
+draftkings,145.0,0.011971246236280542,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Damian Lillard,Over,29.5,,130.0,,125.0,145.0,120.0,140.0,,120.0,0.4130494882597063,2.45
+draftkings,390.0,0.07193119942345239,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Damian Lillard,Over,34.5,,333.0,322.0,350.0,390.0,260.0,360.0,,300.0,0.2187614692700923,4.9
+ballybet,133.0,-0.0021467860917309123,Los Angeles Lakers @ Philadelphia 76ers,player_steals,Kelly Oubre Jr,Over,1.5,133.0,110.0,,,,,120.0,105.0,115.0,0.4282631819348794,2.33
+betonlineag,-233.0,-0.04503239683733573,Houston Rockets @ Atlanta Hawks,player_rebounds_alternate,Fred VanVleet,Over,2.5,,-275.0,-233.0,,-265.0,,,,-325.0,0.6681905451558581,1.4291845493562232
+fanduel,-125.0,-0.012622390686268803,Houston Rockets @ Atlanta Hawks,player_steals,Amen Thompson,Over,1.5,-124.0,-165.0,,,,,-125.0,,-160.0,0.5485431162854062,1.8
+bovada,750.0,0.1451150597830304,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Stephen Curry,Over,7.5,,,436.0,750.0,600.0,475.0,650.0,510.0,550.0,0.1347194187980036,8.5
+bovada,-300.0,-0.05834277947258992,Los Angeles Lakers @ Philadelphia 76ers,player_points_alternate,LeBron James,Over,19.5,,-400.0,,-300.0,-320.0,-375.0,-280.0,-410.0,-375.0,0.7062429153955576,1.3333333333333333
+fanduel,200.0,0.026512984561631203,Milwaukee Bucks @ Portland Trail Blazers,player_points_alternate,Deni Avdija,Over,19.5,,180.0,,175.0,210.0,160.0,200.0,150.0,165.0,0.3421709948538771,3.0
+draftkings,-105.0,0.0019037579693410578,Houston Rockets @ Atlanta Hawks,player_points,Dillon Brooks,Under,13.5,-120.0,-130.0,-120.0,-125.0,-105.0,-125.0,-118.0,,-125.0,0.5131702174964917,1.9523809523809523
+bovada,120.0,0.0004951777605239904,Utah Jazz @ Golden State Warriors,player_rebounds_alternate,Andrew Wiggins,Over,5.5,,,107.0,120.0,100.0,,115.0,,100.0,0.4547705353456927,2.2
