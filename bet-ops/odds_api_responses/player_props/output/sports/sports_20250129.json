@@ -88,6 +88,14 @@
         "has_outrights": true
     },
     {
+        "key": "basketball_wncaab",
+        "group": "Basketball",
+        "title": "WNCAAB",
+        "description": "US Women's College Basketball",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "boxing_boxing",
         "group": "Boxing",
         "title": "Boxing",
