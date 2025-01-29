@@ -1,0 +1,101 @@
+[
+    {
+        "id": "82e230aff36c60de7fcd3bdd6e573b5f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Brooklyn Nets",
+        "date": "20250129"
+    },
+    {
+        "id": "a75904869ceb53ced4baae29638d4907",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Detroit Pistons",
+        "date": "20250129"
+    },
+    {
+        "id": "fd9e9a29c8840b05ec47ce69bb66285f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:10:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Toronto Raptors",
+        "date": "20250129"
+    },
+    {
+        "id": "c1377c3655be5a0f236e58af35ed96ed",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Chicago Bulls",
+        "date": "20250129"
+    },
+    {
+        "id": "b96f1ef936ee9645716d3ccfe6a827ab",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:40:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Cleveland Cavaliers",
+        "date": "20250129"
+    },
+    {
+        "id": "9b4f16875683c0e509cba63b8f82bb7a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:40:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Denver Nuggets",
+        "date": "20250129"
+    },
+    {
+        "id": "afcd8441571d6c30ca662e7481ac17a3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T00:40:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Sacramento Kings",
+        "date": "20250129"
+    },
+    {
+        "id": "53ca6361b55c5a6ef7e15853621f0ed8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Dallas Mavericks",
+        "date": "20250129"
+    },
+    {
+        "id": "3f3767f9da127ac9f8b7afa138e3fcea",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T01:10:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Los Angeles Clippers",
+        "date": "20250129"
+    },
+    {
+        "id": "0f5edeaa71dbfb18b0bb9b61b672c728",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Minnesota Timberwolves",
+        "date": "20250129"
+    },
+    {
+        "id": "1ec913e38af7a7f0e101ec0c7125bef3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-01-30T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Oklahoma City Thunder",
+        "date": "20250129"
+    }
+]
