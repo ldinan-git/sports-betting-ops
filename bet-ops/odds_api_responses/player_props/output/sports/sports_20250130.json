@@ -88,6 +88,14 @@
         "has_outrights": true
     },
     {
+        "key": "basketball_wncaab",
+        "group": "Basketball",
+        "title": "WNCAAB",
+        "description": "US Women's College Basketball",
+        "active": true,
+        "has_outrights": false
+    },
+    {
         "key": "boxing_boxing",
         "group": "Boxing",
         "title": "Boxing",
@@ -484,14 +492,6 @@
         "group": "Soccer",
         "title": "UEFA Europa Conference League",
         "description": "UEFA Europa Conference League",
-        "active": true,
-        "has_outrights": false
-    },
-    {
-        "key": "soccer_uefa_europa_league",
-        "group": "Soccer",
-        "title": "UEFA Europa League",
-        "description": "European Europa League",
         "active": true,
         "has_outrights": false
     }
