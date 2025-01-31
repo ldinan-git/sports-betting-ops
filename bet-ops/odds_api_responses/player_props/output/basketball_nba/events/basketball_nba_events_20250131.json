@@ -1,0 +1,65 @@
+[
+    {
+        "id": "33c0f2f5adf69508f90c0ddca3f7d4ac",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Los Angeles Clippers",
+        "date": "20250131"
+    },
+    {
+        "id": "9aa814047553f85ad1bc55efa497ce83",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Dallas Mavericks",
+        "date": "20250131"
+    },
+    {
+        "id": "1350e52b6ed83b835bf5b933fe9cdb6f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Chicago Bulls",
+        "date": "20250131"
+    },
+    {
+        "id": "0002c59303f70b3dd2b393a67b49f975",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T00:40:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Denver Nuggets",
+        "date": "20250131"
+    },
+    {
+        "id": "f42b72157e7e585177cc568add8df8d1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Boston Celtics",
+        "date": "20250131"
+    },
+    {
+        "id": "91479a0a512048f9f505aff21cdd54a6",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T01:10:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Milwaukee Bucks",
+        "date": "20250131"
+    },
+    {
+        "id": "afed9b6c6698f76a8f0b12b342fb10f4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Phoenix Suns",
+        "date": "20250131"
+    }
+]
