@@ -176,14 +176,6 @@
         "has_outrights": false
     },
     {
-        "key": "icehockey_sweden_hockey_league",
-        "group": "Ice Hockey",
-        "title": "SHL",
-        "description": "Swedish Hockey League",
-        "active": true,
-        "has_outrights": false
-    },
-    {
         "key": "lacrosse_ncaa",
         "group": "Lacrosse",
         "title": "NCAA Lacrosse",

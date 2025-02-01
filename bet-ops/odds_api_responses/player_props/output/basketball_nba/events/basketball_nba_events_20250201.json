@@ -1,20 +1,20 @@
 [
     {
-        "id": "e15ff567c82a8612fcd3c64613fa271f",
-        "sport_key": "basketball_nba",
-        "sport_title": "NBA",
-        "commence_time": "2025-02-01T22:10:00Z",
-        "home_team": "Indiana Pacers",
-        "away_team": "Atlanta Hawks",
-        "date": "20250201"
-    },
-    {
         "id": "f0f8530aece682be12f08ba2550a2acb",
         "sport_key": "basketball_nba",
         "sport_title": "NBA",
-        "commence_time": "2025-02-01T22:10:00Z",
+        "commence_time": "2025-02-01T22:12:10Z",
         "home_team": "Utah Jazz",
         "away_team": "Orlando Magic",
+        "date": "20250201"
+    },
+    {
+        "id": "e15ff567c82a8612fcd3c64613fa271f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-02-01T22:12:37Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Atlanta Hawks",
         "date": "20250201"
     },
     {
