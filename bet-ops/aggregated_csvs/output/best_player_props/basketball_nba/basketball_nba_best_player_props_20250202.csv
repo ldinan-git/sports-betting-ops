@@ -1,0 +1,292 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+draftkings,600.0,0.5659066897979301,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,7.0
+draftkings,-125.0,0.06555668192857156,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaren Jackson Jr,Over,2.5,,-200.0,-164.0,,-125.0,-210.0,,,-195.0,0.5919759344047619,1.8
+betonlineag,-370.0,-0.04866664377533958,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Max Strus,Over,1.5,,,-370.0,,,-700.0,-600.0,,,0.7489220038364348,1.2702702702702702
+ballybet,500.0,0.34220573411251154,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,6.0
+espnbet,475.0,0.28628049519115684,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,5.75
+fanduel,178.0,0.08851215247086319,Chicago Bulls @ Detroit Pistons,player_rebounds_assists_alternate,Ayo Dosunmu,Over,9.5,,,131.0,,,120.0,178.0,130.0,,0.3915511339823249,2.78
+betonlineag,206.0,0.10935220761712161,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaylen Wells,Over,2.5,,130.0,206.0,,170.0,140.0,,,150.0,0.3625334011820659,3.06
+betonlineag,-417.0,-0.07135191858691803,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Desmond Bane,Over,4.5,,-750.0,-417.0,,-600.0,-1100.0,,,-750.0,0.7490256285285397,1.2398081534772185
+fanduel,154.0,0.0644686783474413,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Ayo Dosunmu,Over,24.5,,,,,120.0,110.0,154.0,110.0,,0.4190821568297013,2.54
+betmgm,-125.0,0.021518324330802585,Chicago Bulls @ Detroit Pistons,player_rebounds,Simone Fontecchio,Over,2.5,,-125.0,,,,-160.0,,-175.0,-170.0,0.5675101801837792,1.8
+fanduel,-380.0,-0.058717941097803705,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Brandon Clarke,Over,3.5,,,,,-500.0,-650.0,-380.0,,-600.0,0.7451816299642388,1.263157894736842
+draftkings,900.0,0.4420203797471378,Dallas Mavericks @ Cleveland Cavaliers,player_first_basket,Kyrie Irving,Yes,,900.0,650.0,,100.0,900.0,900.0,900.0,,900.0,0.1442020379747138,10.0
+espnbet,900.0,0.4420203797471378,Dallas Mavericks @ Cleveland Cavaliers,player_first_basket,Kyrie Irving,Yes,,900.0,650.0,,100.0,900.0,900.0,900.0,,900.0,0.1442020379747138,10.0
+fanduel,900.0,0.4420203797471378,Dallas Mavericks @ Cleveland Cavaliers,player_first_basket,Kyrie Irving,Yes,,900.0,650.0,,100.0,900.0,900.0,900.0,,900.0,0.1442020379747138,10.0
+hardrockbet,900.0,0.4420203797471378,Dallas Mavericks @ Cleveland Cavaliers,player_first_basket,Kyrie Irving,Yes,,900.0,650.0,,100.0,900.0,900.0,900.0,,900.0,0.1442020379747138,10.0
+ballybet,900.0,0.4420203797471378,Dallas Mavericks @ Cleveland Cavaliers,player_first_basket,Kyrie Irving,Yes,,900.0,650.0,,100.0,900.0,900.0,900.0,,900.0,0.1442020379747138,10.0
+fanduel,178.0,0.09065772561087582,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,4.5,,125.0,122.0,,150.0,125.0,178.0,130.0,140.0,0.39232292288161,2.78
+fanduel,-360.0,-0.060862691960252735,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaren Jackson Jr,Over,1.5,,,-556.0,,,-650.0,-360.0,,,0.7349770236832804,1.2777777777777777
+fanduel,-160.0,0.012125851045139635,Chicago Bulls @ Detroit Pistons,player_rebounds_assists_alternate,Ayo Dosunmu,Over,7.5,,,-208.0,,,-225.0,-160.0,-225.0,,0.6228466775662398,1.625
+espnbet,-120.0,0.027270673377852273,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,Kawhi Leonard,Over,2.5,,-160.0,-130.0,,-180.0,-120.0,,,-180.0,0.5603294582061012,1.8333333333333333
+ballybet,-113.0,0.020117798440103973,Los Angeles Clippers @ Toronto Raptors,player_points_rebounds_assists,Kawhi Leonard,Over,28.5,-113.0,-150.0,,-165.0,,,,-145.0,-145.0,0.5411892545715108,1.8849557522123888
+fanduel,130.0,0.056130757428032974,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Brandon Clarke,Over,9.5,,-110.0,,,100.0,105.0,130.0,,110.0,0.4591872858382752,2.3
+betmgm,250.0,0.10916262292723755,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Isaiah Stewart II,Over,6.5,,250.0,154.0,,170.0,,198.0,,210.0,0.3169036065506393,3.5
+hardrockbet,425.0,0.17443001734844765,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,5.25
+bovada,125.0,0.03232417721410086,Los Angeles Clippers @ Toronto Raptors,player_points_rebounds_assists,Kawhi Leonard,Under,28.5,-118.0,110.0,,125.0,,,,-125.0,110.0,0.4588107454284892,2.25
+betmgm,100.0,0.02936034680366184,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Eric Gordon,Over,9.5,,100.0,,,-130.0,-115.0,-135.0,,,0.5146801734018309,2.0
+bovada,1800.0,0.8043884220354802,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Jaren Jackson Jr,Over,34.5,,700.0,,1800.0,700.0,800.0,750.0,,750.0,0.0949678116860779,19.0
+ballybet,255.0,0.11310477469991664,Chicago Bulls @ Detroit Pistons,player_double_double,Josh Giddey,Yes,,255.0,190.0,,190.0,200.0,175.0,200.0,180.0,180.0,0.3135506407605399,3.55
+draftkings,-175.0,-0.006768066476851131,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Jalen Smith,Over,4.5,,-235.0,-250.0,,-175.0,-240.0,,,-220.0,0.6320566849692766,1.5714285714285714
+betonlineag,-116.0,0.022905589736165632,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Taurean Prince,Over,3.5,,,-116.0,-150.0,-160.0,-160.0,-125.0,-160.0,-150.0,0.5493381870805335,1.862068965517241
+betonlineag,128.0,0.03934527185803416,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Khris Middleton,Over,4.5,,-110.0,128.0,,100.0,105.0,,,100.0,0.4558531894114185,2.28
+ballybet,850.0,0.3588724916570356,Memphis Grizzlies @ Milwaukee Bucks,player_double_double,Zach Edey,Yes,,850.0,475.0,,500.0,550.0,500.0,550.0,445.0,450.0,0.143039209648109,9.5
+draftkings,370.0,0.1250035183087601,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaren Jackson Jr,Over,4.5,,290.0,249.0,,370.0,240.0,,,275.0,0.2393624507039915,4.7
+fanduel,-260.0,-0.03562057479230363,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Damian Lillard,Over,3.5,,,-357.0,-300.0,-370.0,-400.0,-260.0,,-350.0,0.6964962515388918,1.3846153846153846
+betonlineag,-164.0,0.005409477235611693,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Max Strus,Over,2.5,,-235.0,-164.0,,-205.0,-225.0,-210.0,,-210.0,0.6245725540403042,1.6097560975609757
+fanduel,134.0,0.039946983663172064,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Tobias Harris,Over,6.5,,-105.0,112.0,,105.0,,134.0,,105.0,0.4444217878902445,2.34
+draftkings,115.0,0.030149118837310418,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jrue Holiday,Over,4.5,,-110.0,106.0,,115.0,-125.0,,,-120.0,0.4791391250406095,2.15
+fanduel,-310.0,-0.057806745621205025,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Cade Cunningham,Over,7.5,,,-455.0,-320.0,-400.0,-575.0,-310.0,,-525.0,0.7123900216034791,1.3225806451612905
+fanduel,170.0,0.059699771013357106,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Damian Lillard,Over,5.5,,,127.0,150.0,120.0,,170.0,,135.0,0.3924813966716137,2.7
+bovada,410.0,0.15277356019207966,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Jayson Tatum,Over,7.5,,,221.0,410.0,290.0,260.0,360.0,,300.0,0.2260340314102117,5.1
+ballybet,300.0,0.1194608382022111,Memphis Grizzlies @ Milwaukee Bucks,player_double_double,Desmond Bane,Yes,,300.0,230.0,,200.0,225.0,220.0,240.0,215.0,220.0,0.2798652095505528,4.0
+fanduel,144.0,0.046255041115473405,Chicago Bulls @ Detroit Pistons,player_blocks,Jalen Duren,Over,1.5,120.0,105.0,,,135.0,,144.0,-105.0,110.0,0.4287930496374891,2.44
+ballybet,107.0,0.03837092731121605,Memphis Grizzlies @ Milwaukee Bucks,player_threes,Khris Middleton,Over,1.5,107.0,-120.0,-116.0,-120.0,-115.0,-120.0,-113.0,-130.0,-125.0,0.5016284673001044,2.0700000000000003
+fanduel,100.0,0.030731556636693025,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ausar Thompson,Over,9.5,,-130.0,-114.0,-130.0,-120.0,-125.0,100.0,,-125.0,0.5153657783183465,2.0
+fanduel,290.0,0.1066377893065995,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Brandon Clarke,Over,7.5,,,193.0,,215.0,185.0,290.0,,210.0,0.2837532793093845,3.9
+betonlineag,-156.0,0.006067465173631104,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Khris Middleton,Over,3.5,,,-156.0,-200.0,-200.0,-225.0,-160.0,,-210.0,0.6130723615901814,1.641025641025641
+ballybet,114.0,0.03398334143198245,Los Angeles Clippers @ Toronto Raptors,player_points,Kawhi Leonard,Over,21.5,114.0,,-114.0,,-110.0,,-106.0,,,0.4831697857158796,2.14
+betonlineag,-101.0,0.012406233201251782,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,6.5,,-135.0,-101.0,,-135.0,,,-125.0,-120.0,0.5087215400663007,1.99009900990099
+fanduel,116.0,0.035432149659741174,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ayo Dosunmu,Over,14.5,,-110.0,-105.0,-105.0,-110.0,-105.0,116.0,-110.0,-105.0,0.4793667359535838,2.16
+betmgm,140.0,0.03168637537003138,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Kristaps Porzingis,Over,2.5,,140.0,120.0,,,105.0,,105.0,110.0,0.4298693230708464,2.4
+betonlineag,-135.0,0.006420571598913183,Memphis Grizzlies @ Milwaukee Bucks,player_assists,Jaylen Wells,Over,1.5,,-160.0,-135.0,,,-150.0,,-200.0,-190.0,0.578156498578099,1.7407407407407407
+bovada,-135.0,0.015189318601021018,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Kawhi Leonard,Over,19.5,,-150.0,-222.0,-135.0,-170.0,-145.0,-174.0,,-180.0,0.5831938638771823,1.7407407407407407
+betonlineag,318.0,0.09931365417111815,Chicago Bulls @ Detroit Pistons,player_rebounds_assists_alternate,Nikola Vucevic,Over,17.5,,,318.0,,,210.0,270.0,230.0,,0.262993697170124,4.18
+espnbet,-160.0,0.002095422400998803,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Jaylen Wells,Over,9.5,,-235.0,-217.0,-200.0,-190.0,-160.0,-180.0,,-190.0,0.6166741060929224,1.625
+draftkings,-350.0,-0.06841788098638668,Chicago Bulls @ Detroit Pistons,player_points_alternate,Tobias Harris,Over,9.5,,-500.0,,-500.0,-350.0,-500.0,-410.0,,-500.0,0.7245638703439216,1.2857142857142856
+fanduel,-125.0,0.014478107022903641,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Derrick White,Over,3.5,,,-143.0,-140.0,-155.0,-190.0,-125.0,,-180.0,0.5635989483460576,1.8
+hardrockbet,400.0,0.10643614004108848,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Isaiah Stewart II,Over,2.5,,325.0,,,215.0,350.0,,,400.0,0.2212872280082177,5.0
+betonlineag,141.0,0.028229018142484685,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Giannis Antetokounmpo,Over,14.5,,120.0,141.0,,115.0,100.0,,,,0.4266510448724003,2.41
+fanduel,165.0,0.04956526783601356,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Santi Aldama,Over,7.5,,,131.0,,130.0,115.0,165.0,,125.0,0.3960623652211372,2.65
+fanduel,-165.0,-0.002039975351675327,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Jaren Jackson Jr,Over,5.5,,,-227.0,-200.0,-205.0,,-165.0,,-200.0,0.6213713361017871,1.606060606060606
+fanduel,190.0,0.05895109646071606,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Ayo Dosunmu,Over,5.5,,,136.0,145.0,150.0,,190.0,,145.0,0.3651555505036952,2.9
+draftkings,130.0,0.019127183539758397,Los Angeles Clippers @ Toronto Raptors,player_turnovers,Scottie Barnes,Under,2.5,,105.0,,,130.0,105.0,,100.0,,0.4430987754520689,2.3
+betonlineag,-130.0,0.0006710288051434699,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Desmond Bane,Over,6.5,,-165.0,-130.0,,-155.0,,,,-175.0,0.565596668455081,1.7692307692307692
+fanduel,390.0,0.12087123116534848,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Derrick White,Over,5.5,,,236.0,350.0,290.0,,390.0,,240.0,0.2287492308500711,4.9
+betmgm,400.0,0.11850477842709295,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,5.0
+fanduel,400.0,0.11850477842709295,Boston Celtics @ Philadelphia 76ers,player_first_basket,Jaylen Brown,Yes,,500.0,400.0,,-200.0,600.0,475.0,400.0,,425.0,0.2237009556854186,5.0
+fanduel,-122.0,0.018991118263891105,Los Angeles Clippers @ Toronto Raptors,player_rebounds,Kawhi Leonard,Under,5.5,-165.0,-160.0,-143.0,-160.0,-140.0,-150.0,-122.0,-170.0,-165.0,0.5599861100369131,1.819672131147541
+ballybet,130.0,0.03794536603609089,Chicago Bulls @ Detroit Pistons,player_threes,Malik Beasley,Over,3.5,130.0,115.0,107.0,100.0,110.0,105.0,108.0,-120.0,-105.0,0.4512805939287352,2.3
+ballybet,-107.0,0.024280797941571786,Los Angeles Clippers @ Toronto Raptors,player_rebounds,Scottie Barnes,Under,7.5,-107.0,-130.0,-133.0,-150.0,-125.0,-140.0,-130.0,-140.0,-135.0,0.5294591564239042,1.9345794392523368
+fanduel,-105.0,0.019301651277828347,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Ayo Dosunmu,Over,3.5,,,-120.0,-130.0,-120.0,-145.0,-105.0,-140.0,-135.0,0.5220813335813267,1.9523809523809523
+bovada,230.0,0.07826898607389254,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Cade Cunningham,Over,11.5,,,174.0,230.0,195.0,145.0,220.0,,155.0,0.3267481775981493,3.3
+betonlineag,-227.0,-0.026130876181877927,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Desmond Bane,Over,5.5,,,-227.0,-275.0,-290.0,,-250.0,,-350.0,0.6760498198982071,1.4405286343612334
+fanduel,-175.0,-0.013887638619817344,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,5.5,,,-208.0,,-240.0,,-175.0,,-210.0,0.6275260481510253,1.5714285714285714
+draftkings,170.0,0.049782357043212544,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,7.5,,,133.0,140.0,170.0,115.0,150.0,,125.0,0.388808280386375,2.7
+bovada,400.0,0.12484885910660659,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,5.5,,,186.0,400.0,310.0,,390.0,,275.0,0.2249697718213213,5.0
+bovada,-320.0,-0.0649880966454337,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Cade Cunningham,Over,7.5,,,-455.0,-320.0,-400.0,-575.0,-310.0,,-525.0,0.7123900216034791,1.3125
+fanduel,250.0,0.08973158894846422,Chicago Bulls @ Detroit Pistons,player_points_alternate,Nikola Vucevic,Over,24.5,,200.0,170.0,240.0,185.0,190.0,250.0,190.0,200.0,0.3113518825567041,3.5
+draftkings,550.0,0.16303078318637398,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Tyrese Maxey,Over,9.5,,425.0,310.0,350.0,550.0,325.0,410.0,,,0.1789278127979037,6.5
+fanduel,165.0,0.04914395439212549,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,7.5,,,138.0,120.0,140.0,120.0,165.0,120.0,130.0,0.3959033790158964,2.65
+fanduel,175.0,0.0510962102299195,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Guerschon Yabusele,Over,7.5,,,146.0,,125.0,130.0,175.0,135.0,140.0,0.3822168037199707,2.75
+bovada,-475.0,-0.08651958545169813,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,7.5,,,,-475.0,-525.0,-900.0,-500.0,-890.0,-800.0,0.7546142554964232,1.2105263157894737
+bovada,105.0,0.02038750881180995,Memphis Grizzlies @ Milwaukee Bucks,player_points_rebounds,Brandon Clarke,Over,14.5,,-120.0,,105.0,-120.0,-120.0,100.0,-130.0,-125.0,0.4977500042984439,2.05
+bovada,110.0,0.008540645875912745,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists,Nikola Vucevic,Over,35.5,,-110.0,,110.0,,,,-120.0,-110.0,0.4802574504171013,2.1
+betmgm,220.0,0.07025218831563218,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Kawhi Leonard,Over,24.5,,220.0,,200.0,155.0,185.0,164.0,,170.0,0.334453808848635,3.2
+betmgm,200.0,0.05185922148986455,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Derrick White,Over,4.5,,200.0,164.0,,175.0,140.0,,,155.0,0.3506197404966215,3.0
+draftkings,180.0,0.047838382701442805,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Jarrett Allen,Over,2.5,,130.0,147.0,,180.0,140.0,,145.0,155.0,0.3742279938219439,2.8
+fanduel,-360.0,-0.06775322354421676,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ayo Dosunmu,Over,9.5,,-525.0,,-400.0,-475.0,-500.0,-360.0,-565.0,-500.0,0.7295844337480043,1.2777777777777777
+draftkings,115.0,0.023532631756366107,Chicago Bulls @ Detroit Pistons,player_points_alternate,Tobias Harris,Over,14.5,,-105.0,,-115.0,115.0,-110.0,108.0,,-105.0,0.4760616891890075,2.15
+draftkings,-185.0,-0.020696168068897847,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jrue Holiday,Over,3.5,,,-238.0,,-185.0,-260.0,-195.0,,-250.0,0.635688452306154,1.5405405405405406
+draftkings,-450.0,-0.08735909822866328,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jrue Holiday,Over,2.5,,-700.0,,,-450.0,-700.0,,,-650.0,0.7467061923583663,1.2222222222222223
+fanduel,-160.0,-0.0037574124159550637,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Khris Middleton,Over,3.5,,,-156.0,-200.0,-200.0,-225.0,-160.0,,-210.0,0.6130723615901814,1.625
+betonlineag,541.0,0.12023030139869562,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaylen Wells,Over,3.5,,,541.0,,450.0,325.0,,,375.0,0.1747629175348979,6.41
+ballybet,116.0,0.002254917049886118,Chicago Bulls @ Detroit Pistons,player_blocks_steals,Jalen Duren,Over,2.5,116.0,-105.0,,,,,,-110.0,-105.0,0.4640069060416139,2.16
+draftkings,1700.0,0.5231783159997345,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,James Harden,Over,9.5,,,497.0,900.0,1700.0,1200.0,850.0,985.0,,0.0846210175555408,18.0
+espnbet,-120.0,-0.0009105291557348627,Chicago Bulls @ Detroit Pistons,player_points_alternate,Isaiah Stewart II,Over,4.5,,,,,,-120.0,-154.0,,-120.0,0.544957893187781,1.8333333333333333
+hardrockbet,-120.0,-0.0009105291557348627,Chicago Bulls @ Detroit Pistons,player_points_alternate,Isaiah Stewart II,Over,4.5,,,,,,-120.0,-154.0,,-120.0,0.544957893187781,1.8333333333333333
+fanduel,205.0,0.043178570952344675,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Nikola Vucevic,Over,39.5,,,,,180.0,150.0,205.0,160.0,,0.3420257609679819,3.05
+hardrockbet,-110.0,0.011654576570018893,Chicago Bulls @ Detroit Pistons,player_rebounds_assists,Lonzo Ball,Under,8.5,-137.0,-130.0,,-145.0,-130.0,-140.0,-142.0,-130.0,-110.0,0.5299143020128672,1.9090909090909087
+betonlineag,-123.0,0.006244311649060252,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Daniel Gafford,Over,9.5,,-160.0,-123.0,-180.0,-150.0,-140.0,-140.0,,,0.5550136786225758,1.8130081300813008
+bovada,-145.0,-0.00027459701742460485,Chicago Bulls @ Detroit Pistons,player_double_double,Cade Cunningham,Yes,,-165.0,-200.0,,-145.0,-165.0,-180.0,-150.0,-210.0,-210.0,0.5916742180917283,1.6896551724137931
+fanduel,-195.0,-0.023824445703649166,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Kelly Oubre Jr,Over,5.5,,,-227.0,-250.0,-245.0,,-195.0,,-250.0,0.6452685867382658,1.5128205128205128
+fanduel,-370.0,-0.07730616094654408,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,Jakob Poeltl,Over,1.5,,,-667.0,,,-450.0,-370.0,,,0.726376000956976,1.2702702702702702
+betmgm,650.0,0.124550506701536,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Evan Mobley,Over,14.5,,650.0,470.0,,425.0,425.0,,,,0.1499400675602048,7.5
+fanduel,182.0,0.03408950001250388,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ausar Thompson,Over,11.5,,,138.0,,150.0,150.0,182.0,,,0.3666984042597531,2.8200000000000003
+draftkings,-160.0,-0.01330783353733156,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Jarrett Allen,Over,1.5,,,-185.0,,-160.0,-200.0,,-200.0,,0.6071951793616421,1.625
+draftkings,-195.0,-0.02530469479461661,Chicago Bulls @ Detroit Pistons,player_points_alternate,Tobias Harris,Over,11.5,,,-256.0,,-195.0,-250.0,-240.0,,,0.6442901170001687,1.5128205128205128
+fanduel,-180.0,-0.018949306227008078,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Santi Aldama,Over,5.5,,,-196.0,,-230.0,,-180.0,,-240.0,0.6306754459969234,1.5555555555555556
+fanduel,370.0,0.09358657797074188,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Taurean Prince,Over,5.5,,,241.0,300.0,250.0,,370.0,,275.0,0.2326779953129238,4.7
+bovada,500.0,0.13172663963177778,Chicago Bulls @ Detroit Pistons,player_points_alternate,Matas Buzelis,Over,14.5,,400.0,296.0,500.0,340.0,400.0,380.0,,,0.1886211066052963,6.0
+ballybet,130.0,0.030761061838978865,Chicago Bulls @ Detroit Pistons,player_rebounds,Coby White,Over,3.5,130.0,100.0,109.0,,110.0,110.0,118.0,-105.0,100.0,0.4481569834082517,2.3
+betonlineag,100.0,0.019668173958262924,Los Angeles Clippers @ Toronto Raptors,player_points,R.J. Barrett,Under,18.5,-118.0,-130.0,100.0,-125.0,-125.0,-125.0,-106.0,-135.0,-125.0,0.5098340869791315,2.0
+fanduel,180.0,0.04663401175582993,Memphis Grizzlies @ Milwaukee Bucks,player_blocks,Jaren Jackson Jr,Over,1.5,143.0,140.0,,,160.0,,180.0,135.0,145.0,0.3737978613413679,2.8
+fanduel,-154.0,-0.009253058733682318,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Jakob Poeltl,Over,8.5,,,-227.0,,-180.0,,-154.0,,-175.0,0.6006890903740667,1.6493506493506491
+fanduel,-120.0,0.0042919219590775715,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,3.5,,,-130.0,-150.0,-140.0,-160.0,-120.0,-165.0,-155.0,0.5477955937958605,1.8333333333333333
+fanduel,650.0,0.16554018849223162,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Damian Lillard,Over,7.5,,,366.0,600.0,400.0,400.0,650.0,,425.0,0.1554053584656309,7.5
+fanduel,220.0,0.06380434731555118,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Desmond Bane,Over,24.5,,165.0,170.0,150.0,195.0,180.0,220.0,,195.0,0.3324388585361097,3.2
+bovada,-250.0,-0.030531765181350368,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,James Harden,Over,7.5,,,-303.0,-250.0,-340.0,-375.0,-260.0,-345.0,-325.0,0.6924773105847498,1.4
+betmgm,210.0,0.04845950172259461,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Jrue Holiday,Over,4.5,,210.0,174.0,,190.0,145.0,,,165.0,0.3382127424911595,3.1
+bovada,135.0,0.027797815053631547,Chicago Bulls @ Detroit Pistons,player_rebounds,Cade Cunningham,Over,6.5,114.0,110.0,118.0,135.0,,105.0,128.0,-110.0,105.0,0.4373607723632475,2.35
+bovada,115.0,0.004430348082535063,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists,Lonzo Ball,Over,19.5,,-105.0,,115.0,,,,-110.0,-105.0,0.4671769060849,2.15
+betonlineag,130.0,0.014420941218698191,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Luke Kennard,Over,4.5,,100.0,130.0,,105.0,105.0,,105.0,115.0,0.4410525831385645,2.3
+bovada,-230.0,-0.027624217444509713,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Matas Buzelis,Over,3.5,,,-312.0,-230.0,-255.0,-350.0,-270.0,,,0.677716454508372,1.434782608695652
+fanduel,210.0,0.05804871287077251,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Tyrese Maxey,Over,34.5,,180.0,185.0,150.0,175.0,165.0,210.0,,175.0,0.3413060364099266,3.1
+draftkings,600.0,0.11864706851119888,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,6.5,,525.0,284.0,,600.0,,,,525.0,0.1598067240730284,7.0
+fanduel,390.0,0.10235188192447442,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,5.5,,,186.0,400.0,310.0,,390.0,,275.0,0.2249697718213213,4.9
+bovada,105.0,0.011589571523208941,Chicago Bulls @ Detroit Pistons,player_points_rebounds,Ayo Dosunmu,Over,17.5,-122.0,,,105.0,-125.0,,-104.0,,,0.4934583275722971,2.05
+draftkings,-175.0,-0.02042778327282979,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Kristaps Porzingis,Over,6.5,,-235.0,-204.0,,-175.0,,,,-220.0,0.6233641379172902,1.5714285714285714
+fanduel,-135.0,-7.995289187157084e-06,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Desmond Bane,Over,19.5,,-190.0,,-200.0,-150.0,-145.0,-135.0,,-145.0,0.5744634920679138,1.7407407407407407
+fanduel,-105.0,0.0031123400532850898,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Brandon Clarke,Over,5.5,,,-112.0,,-135.0,,-105.0,,-140.0,0.5137892473443656,1.9523809523809523
+espnbet,220.0,0.05666320329816732,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Evan Mobley,Over,3.5,,,149.0,,180.0,220.0,195.0,,170.0,0.3302072510306773,3.2
+draftkings,140.0,0.022948109288883023,Boston Celtics @ Philadelphia 76ers,player_steals,Tyrese Maxey,Over,1.5,128.0,110.0,,,140.0,,120.0,105.0,110.0,0.4262283788703679,2.4
+betonlineag,107.0,0.005097216292364148,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Kelly Oubre Jr,Over,2.5,,-140.0,107.0,,100.0,-115.0,,-115.0,-105.0,0.485554210769258,2.0700000000000003
+fanduel,142.0,0.01531244309602986,Los Angeles Clippers @ Toronto Raptors,player_rebounds_assists_alternate,Scottie Barnes,Over,14.5,,,-108.0,,,125.0,142.0,135.0,,0.4195505963206735,2.42
+betmgm,650.0,0.18215499741307328,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Kawhi Leonard,Over,29.5,,650.0,393.0,500.0,380.0,475.0,450.0,,450.0,0.1576206663217431,7.5
+bovada,-195.0,-0.020197249778060478,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,9.5,,-275.0,-238.0,-195.0,-195.0,-275.0,-210.0,-270.0,,0.647666224722977,1.5128205128205128
+draftkings,-195.0,-0.020197249778060478,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,9.5,,-275.0,-238.0,-195.0,-195.0,-275.0,-210.0,-270.0,,0.647666224722977,1.5128205128205128
+draftkings,280.0,0.0758689839572193,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Kristaps Porzingis,Over,9.5,,240.0,230.0,200.0,280.0,185.0,220.0,200.0,,0.2831234168308472,3.8
+bovada,120.0,-0.0032636476912754064,Chicago Bulls @ Detroit Pistons,player_assists,Cade Cunningham,Over,10.5,,100.0,,120.0,,,,-105.0,100.0,0.4530619783221475,2.2
+fanduel,102.0,0.014357708570965855,Dallas Mavericks @ Cleveland Cavaliers,player_threes,P.J. Washington,Over,1.5,-105.0,-125.0,-115.0,-125.0,-115.0,-120.0,102.0,-130.0,-125.0,0.5021572814707752,2.02
+fanduel,130.0,0.025310995303650663,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,James Harden,Over,24.5,,115.0,109.0,105.0,100.0,110.0,130.0,105.0,110.0,0.4457873892624568,2.3
+bovada,105.0,0.01156152616193562,Dallas Mavericks @ Cleveland Cavaliers,player_points_rebounds,Kyrie Irving,Over,31.5,-114.0,-115.0,,105.0,-120.0,-115.0,-104.0,-125.0,-120.0,0.4934446469082613,2.05
+betonlineag,-116.0,0.005442404177572691,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Taurean Prince,Over,3.5,-141.0,-145.0,-116.0,,-135.0,-140.0,-128.0,-160.0,-150.0,0.5399598096509187,1.862068965517241
+betmgm,185.0,0.04472235480040587,Chicago Bulls @ Detroit Pistons,player_points_alternate,Tim Hardaway Jr,Over,14.5,,185.0,127.0,150.0,140.0,185.0,154.0,,175.0,0.366569247298388,2.85
+espnbet,185.0,0.04472235480040587,Chicago Bulls @ Detroit Pistons,player_points_alternate,Tim Hardaway Jr,Over,14.5,,185.0,127.0,150.0,140.0,185.0,154.0,,175.0,0.366569247298388,2.85
+fanduel,130.0,0.018614692083590345,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Lonzo Ball,Over,4.5,,110.0,120.0,,115.0,-110.0,130.0,,100.0,0.4428759530798219,2.3
+fanduel,-310.0,-0.05309624446536643,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Scottie Barnes,Over,5.5,,,,-450.0,-360.0,,-310.0,,-375.0,0.7159516200383814,1.3225806451612905
+draftkings,-380.0,-0.07946138032696581,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Josh Giddey,Over,4.5,,-600.0,-500.0,,-380.0,-550.0,,,-475.0,0.7287597405744854,1.263157894736842
+betonlineag,128.0,0.021107867774863065,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Darius Garland,Over,7.5,,,128.0,100.0,105.0,-105.0,120.0,,105.0,0.4478543279714312,2.28
+fanduel,240.0,0.0644453109872567,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Tobias Harris,Over,7.5,,,179.0,230.0,185.0,165.0,240.0,,185.0,0.3130721502903696,3.4
+betmgm,-110.0,0.0037507459554142475,Dallas Mavericks @ Cleveland Cavaliers,player_assists,Evan Mobley,Over,2.5,,-110.0,-143.0,,-130.0,-130.0,,-125.0,-140.0,0.52577420026236,1.9090909090909087
+ballybet,310.0,0.07899844094760144,Memphis Grizzlies @ Milwaukee Bucks,player_double_double,Damian Lillard,Yes,,310.0,260.0,,220.0,255.0,240.0,230.0,240.0,250.0,0.2631703514506345,4.1
+fanduel,-300.0,-0.06454109044710932,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Tobias Harris,Over,4.5,,-450.0,,,-330.0,-425.0,-300.0,,-400.0,0.7015941821646681,1.3333333333333333
+bovada,105.0,0.011206825388430097,Dallas Mavericks @ Cleveland Cavaliers,player_points_assists,P.J. Washington,Over,19.5,,-118.0,,105.0,-105.0,-120.0,-104.0,-130.0,-120.0,0.4932716221406977,2.05
+draftkings,-110.0,-0.00031446122686840106,Los Angeles Clippers @ Toronto Raptors,player_points_assists,Ivica Zubac,Under,17.5,,-135.0,,,-110.0,-130.0,,-140.0,-130.0,0.5236448060240214,1.9090909090909087
+espnbet,425.0,0.08512805052871697,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,Kawhi Leonard,Over,4.5,,360.0,302.0,,295.0,425.0,,,325.0,0.2066910572435651,5.25
+fanduel,100.0,0.013857685027867106,Chicago Bulls @ Detroit Pistons,player_points,Ausar Thompson,Over,9.5,-113.0,-125.0,-114.0,-120.0,-115.0,-125.0,100.0,-140.0,-125.0,0.5069288425139336,2.0
+fanduel,195.0,0.04330152646625485,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Brook Lopez,Over,14.5,,135.0,,150.0,175.0,165.0,195.0,,175.0,0.3536615343953406,2.95
+fanduel,102.0,-0.007298746154282609,Chicago Bulls @ Detroit Pistons,player_points_alternate,Nikola Vucevic,Over,20.5,,,-112.0,,-125.0,,102.0,-120.0,,0.4914362642800581,2.02
+fanduel,-115.0,0.0018312088896097478,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Tyrese Maxey,Over,29.5,,-140.0,,-135.0,-150.0,-130.0,-115.0,,-135.0,0.5358632047549077,1.869565217391304
+fanduel,-164.0,-0.012424963425347157,Dallas Mavericks @ Cleveland Cavaliers,player_steals,P.J. Washington,Under,1.5,-175.0,-220.0,,,,,-164.0,-235.0,-190.0,0.6134935833266782,1.6097560975609757
+bovada,145.0,0.027315145663174945,Memphis Grizzlies @ Milwaukee Bucks,player_assists,Luke Kennard,Over,4.5,117.0,125.0,130.0,145.0,124.0,,120.0,105.0,115.0,0.4193123043523162,2.45
+fanduel,-210.0,-0.03027757887396043,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Ayo Dosunmu,Over,19.5,,,-227.0,,-245.0,-300.0,-210.0,-295.0,,0.6569087368918332,1.4761904761904765
+fanduel,-158.0,-0.006963178736952069,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Lonzo Ball,Over,3.5,,,-179.0,-175.0,-180.0,-225.0,-158.0,,-220.0,0.6081388285254326,1.6329113924050631
+betonlineag,-130.0,-0.006777550094697937,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Gary Trent Jr,Over,2.5,,-160.0,-130.0,,-145.0,-170.0,,,-160.0,0.5613866021203882,1.7692307692307692
+fanduel,-114.0,0.00200259194550223,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Scottie Barnes,Over,19.5,,-155.0,-125.0,-160.0,-120.0,-125.0,-114.0,-140.0,-130.0,0.5337770816905947,1.8771929824561404
+fanduel,-104.0,0.0080130759943986,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Brandon Clarke,Over,5.5,,-125.0,-112.0,-115.0,-130.0,-120.0,-104.0,-150.0,-140.0,0.5138890191343992,1.9615384615384617
+draftkings,1100.0,0.2660518352738025,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaren Jackson Jr,Over,5.5,,,470.0,550.0,1100.0,,950.0,,550.0,0.1055043196061502,12.0
+betmgm,575.0,0.12151116934939543,Los Angeles Clippers @ Toronto Raptors,player_first_basket,Ivica Zubac,Yes,,400.0,575.0,,400.0,450.0,425.0,420.0,,375.0,0.1661498028665771,6.75
+draftkings,-135.0,0.0004356545225285835,Boston Celtics @ Philadelphia 76ers,player_threes,Kristaps Porzingis,Under,2.5,-175.0,-165.0,-154.0,-170.0,-135.0,-160.0,-154.0,-175.0,-170.0,0.574718354725708,1.7407407407407407
+draftkings,250.0,0.05096483252754136,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,James Harden,Over,6.5,,230.0,147.0,,250.0,,220.0,,220.0,0.3002756664364404,3.5
+draftkings,-275.0,-0.050263010320099055,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Kristaps Porzingis,Over,14.5,,-375.0,,-300.0,-275.0,-325.0,-320.0,-365.0,-400.0,0.6964737924319273,1.3636363636363638
+bovada,105.0,0.007236819875990008,Chicago Bulls @ Detroit Pistons,player_rebounds_assists,Nikola Vucevic,Over,14.5,,-118.0,,105.0,,-115.0,-104.0,-125.0,-115.0,0.4913350340858488,2.05
+fanduel,110.0,0.0008913945956157132,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Coby White,Over,29.5,,,-105.0,,-110.0,-115.0,110.0,,,0.476614949807436,2.1
+draftkings,100.0,-0.0064646377907511265,Chicago Bulls @ Detroit Pistons,player_points_rebounds,Lonzo Ball,Over,14.5,,-118.0,,,100.0,,,-125.0,-120.0,0.4967676811046244,2.0
+espnbet,-105.0,0.011882427836275022,Los Angeles Clippers @ Toronto Raptors,player_points,Scottie Barnes,Over,19.5,-139.0,-130.0,-125.0,-125.0,-115.0,-105.0,-110.0,-140.0,-130.0,0.518281243525897,1.9523809523809523
+fanduel,-280.0,-0.04435896095602998,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Isaiah Stewart II,Over,3.5,,,,,-310.0,-375.0,-280.0,,-325.0,0.7041565550850304,1.3571428571428572
+fanduel,430.0,0.09241332349246578,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Brook Lopez,Over,7.5,,,311.0,370.0,340.0,250.0,430.0,,300.0,0.2061157214136728,5.3
+draftkings,-220.0,-0.03111626522496891,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Brook Lopez,Over,9.5,,-325.0,-323.0,-300.0,-220.0,-240.0,-220.0,,-240.0,0.6661075676578339,1.4545454545454546
+fanduel,-220.0,-0.03111626522496891,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Brook Lopez,Over,9.5,,-325.0,-323.0,-300.0,-220.0,-240.0,-220.0,,-240.0,0.6661075676578339,1.4545454545454546
+fanduel,195.0,0.03757474096276536,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Kyrie Irving,Over,5.5,,,157.0,170.0,145.0,,195.0,,160.0,0.3517202511738188,2.95
+fanduel,-155.0,-0.005939450925205647,Dallas Mavericks @ Cleveland Cavaliers,player_points_alternate,Kyrie Irving,Over,24.5,,-220.0,-227.0,-165.0,-185.0,-170.0,-155.0,-180.0,-170.0,0.6042328827709535,1.6451612903225803
+bovada,105.0,0.009744286452836204,Dallas Mavericks @ Cleveland Cavaliers,player_points_rebounds,Donovan Mitchell,Over,28.5,-109.0,-118.0,,105.0,-110.0,-120.0,-104.0,-125.0,-120.0,0.4925581885135786,2.05
+ballybet,390.0,0.09790497724473446,Dallas Mavericks @ Cleveland Cavaliers,player_double_double,Darius Garland,Yes,,390.0,320.0,,250.0,310.0,290.0,330.0,300.0,300.0,0.2240622402540274,4.9
+fanduel,-320.0,-0.0703639657444004,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Daniel Gafford,Over,7.5,,,,-350.0,-400.0,,-320.0,,,0.7082941213375997,1.3125
+fanduel,-105.0,0.00803900745433428,Chicago Bulls @ Detroit Pistons,player_rebounds,Ayo Dosunmu,Over,3.5,-112.0,-135.0,-120.0,,-120.0,-130.0,-105.0,-140.0,-135.0,0.516312662354659,1.9523809523809523
+fanduel,-175.0,-0.0112803216416838,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Patrick Williams,Over,3.5,,,-213.0,-190.0,-190.0,-250.0,-175.0,,-230.0,0.6291852498643831,1.5714285714285714
+draftkings,120.0,0.014336173942748442,Boston Celtics @ Philadelphia 76ers,player_rebounds,Jrue Holiday,Over,4.5,,105.0,106.0,,120.0,105.0,108.0,-130.0,-105.0,0.4610618972467037,2.2
+ballybet,104.0,-0.004020893115907809,Chicago Bulls @ Detroit Pistons,player_rebounds_assists,Cade Cunningham,Over,16.5,104.0,-110.0,,,,-115.0,,-130.0,-110.0,0.4882250523941628,2.04
+fliff,130.0,-0.000416496668026789,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,A.J. Green,Over,2.5,,-105.0,,,105.0,125.0,,130.0,,0.4346015231878145,2.3
+fanduel,-500.0,-0.09446289340429215,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,7.5,,,,-475.0,-525.0,-900.0,-500.0,-890.0,-800.0,0.7546142554964232,1.2
+fanduel,255.0,0.056465652676306544,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Coby White,Over,4.5,,250.0,178.0,,210.0,185.0,255.0,,210.0,0.2975959585003681,3.55
+draftkings,1100.0,0.21424203658512575,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,P.J. Washington,Over,5.5,,,442.0,850.0,1100.0,,900.0,,,0.1011868363820938,12.0
+hardrockbet,425.0,0.06592599334304095,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Patrick Williams,Over,3.5,,,299.0,,300.0,375.0,,,425.0,0.2030335225415316,5.25
+fanduel,270.0,0.05486639206337229,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Ivica Zubac,Over,14.5,,230.0,198.0,,260.0,185.0,270.0,,,0.2850990248819925,3.7
+fanduel,-280.0,-0.05166908240636692,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Darius Garland,Over,5.5,,,-400.0,-350.0,-300.0,,-280.0,,-350.0,0.6987701498058349,1.3571428571428572
+fanduel,-135.0,-0.007012652893485849,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Gary Trent Jr,Over,9.5,,-220.0,,,-155.0,-140.0,-135.0,,-140.0,0.5704395398271465,1.7407407407407407
+fanduel,198.0,0.028184643327267,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Cade Cunningham,Over,49.5,,,184.0,,165.0,140.0,198.0,,,0.3450284038010963,2.98
+betonlineag,-130.0,-0.008647881635359345,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,Kawhi Leonard,Over,2.5,,-160.0,-130.0,,-180.0,-120.0,,,-180.0,0.5603294582061012,1.7692307692307692
+fanduel,-320.0,-0.06996909740522494,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Donovan Mitchell,Over,2.5,,-500.0,-455.0,,-340.0,-450.0,-320.0,-415.0,-400.0,0.7085949734055429,1.3125
+fanduel,270.0,0.056373328727908234,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Lonzo Ball,Over,5.5,,,190.0,250.0,225.0,,270.0,,185.0,0.2855063050615968,3.7
+betmgm,200.0,0.04169714189352991,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Ayo Dosunmu,Over,4.5,,200.0,164.0,,180.0,140.0,200.0,150.0,155.0,0.3472323806311767,3.0
+fanduel,200.0,0.04169714189352991,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Ayo Dosunmu,Over,4.5,,200.0,164.0,,180.0,140.0,200.0,150.0,155.0,0.3472323806311767,3.0
+fanduel,235.0,0.03930979632942977,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ayo Dosunmu,Over,17.5,,,,,190.0,190.0,235.0,190.0,,0.310241730247591,3.35
+espnbet,-110.0,-0.0072514051564491755,Los Angeles Clippers @ Toronto Raptors,player_points_rebounds_assists_alternate,Kawhi Leonard,Over,29.5,,,-133.0,,-140.0,-110.0,-125.0,,,0.5200111687275744,1.9090909090909087
+fanduel,120.0,0.005716985394205398,Los Angeles Clippers @ Toronto Raptors,player_steals,Scottie Barnes,Over,1.5,110.0,-105.0,,,114.0,,120.0,-115.0,-105.0,0.4571440842700933,2.2
+betonlineag,-385.0,-0.0819086975504234,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Luke Kennard,Over,2.5,,-600.0,-385.0,,-500.0,-550.0,,-510.0,-475.0,0.7287941266867771,1.2597402597402598
+bovada,240.0,0.058596400692793926,Chicago Bulls @ Detroit Pistons,player_points_alternate,Nikola Vucevic,Over,24.5,,200.0,170.0,240.0,185.0,190.0,250.0,190.0,200.0,0.3113518825567041,3.4
+hardrockbet,300.0,0.052654224795970705,Chicago Bulls @ Detroit Pistons,player_points_alternate,Simone Fontecchio,Over,9.5,,240.0,188.0,,250.0,260.0,,265.0,300.0,0.2631635561989927,4.0
+bovada,120.0,0.01629498842087229,Los Angeles Clippers @ Toronto Raptors,player_rebounds,R.J. Barrett,Under,5.5,-107.0,100.0,107.0,120.0,100.0,105.0,104.0,-105.0,-105.0,0.4619522674640328,2.2
+draftkings,125.0,0.01081491961417358,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,11.5,,,117.0,120.0,125.0,-115.0,120.0,-110.0,-110.0,0.4492510753840771,2.25
+bovada,-250.0,-0.04985220034397353,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Giannis Antetokounmpo,Over,11.5,,,,-250.0,-285.0,-400.0,-250.0,,-350.0,0.6786769997543046,1.4
+fanduel,-250.0,-0.04985220034397353,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Giannis Antetokounmpo,Over,11.5,,,,-250.0,-285.0,-400.0,-250.0,,-350.0,0.6786769997543046,1.4
+espnbet,-225.0,-0.030732329264112956,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Donovan Mitchell,Over,3.5,,,-345.0,-300.0,-255.0,-225.0,-290.0,-250.0,-250.0,0.6710314643556141,1.4444444444444444
+fanduel,-230.0,-0.036283668794329094,Dallas Mavericks @ Cleveland Cavaliers,player_rebounds_alternate,Kyrie Irving,Over,3.5,,,-312.0,-250.0,-310.0,-285.0,-230.0,-285.0,-275.0,0.6716810793251646,1.434782608695652
+fanduel,410.0,0.08879052634212203,Chicago Bulls @ Detroit Pistons,player_points_alternate,Ayo Dosunmu,Over,19.5,,325.0,,360.0,300.0,300.0,410.0,300.0,325.0,0.2134883384984553,5.1
+betmgm,400.0,0.06660620889869895,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Eric Gordon,Over,14.5,,400.0,,,285.0,300.0,300.0,,,0.2133212417797398,5.0
+ballybet,120.0,0.01645221041637379,Dallas Mavericks @ Cleveland Cavaliers,player_threes,Donovan Mitchell,Over,3.5,120.0,100.0,103.0,100.0,105.0,-105.0,112.0,-110.0,-105.0,0.4620237320074426,2.2
+bovada,105.0,0.004478417856145334,Boston Celtics @ Philadelphia 76ers,player_points_assists,Jrue Holiday,Over,13.5,,-115.0,,105.0,,-115.0,-102.0,-125.0,-115.0,0.489989472124949,2.05
+fanduel,220.0,0.0455941683140777,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Cade Cunningham,Over,11.5,,,174.0,230.0,195.0,145.0,220.0,,155.0,0.3267481775981493,3.2
+draftkings,425.0,0.060529999472551,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jrue Holiday,Over,6.5,,340.0,336.0,,425.0,,,,300.0,0.2020057141852478,5.25
+fanduel,134.0,0.014894922612860073,Chicago Bulls @ Detroit Pistons,player_points_alternate,Josh Giddey,Over,14.5,,110.0,,110.0,125.0,115.0,134.0,,115.0,0.4337157788943847,2.34
+hardrockbet,165.0,0.01906953155177349,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Patrick Williams,Over,2.5,,140.0,139.0,,120.0,150.0,,,165.0,0.3845545402082164,2.65
+fanduel,170.0,0.026877806047165054,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Jaren Jackson Jr,Over,3.5,,,152.0,120.0,150.0,120.0,170.0,,130.0,0.3803251133508019,2.7
+bovada,110.0,0.004595158336393457,Los Angeles Clippers @ Toronto Raptors,player_points_rebounds_assists,Scottie Barnes,Over,33.5,,-110.0,-101.0,110.0,,,-104.0,-120.0,-110.0,0.478378646826854,2.1
+bovada,105.0,0.0009084572352039411,Memphis Grizzlies @ Milwaukee Bucks,player_points_assists,Luke Kennard,Under,16.5,-112.0,-115.0,,105.0,,,-104.0,-125.0,-115.0,0.4882480279196117,2.05
+fanduel,270.0,0.060105246246159094,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Scottie Barnes,Over,24.5,,200.0,,185.0,245.0,220.0,270.0,225.0,240.0,0.2865149314178808,3.7
+fanduel,-146.0,-0.01594832482889985,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,James Harden,Over,8.5,,,-161.0,,-190.0,,-146.0,,-180.0,0.5840306690039861,1.6849315068493151
+draftkings,-170.0,-0.020164745699771447,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Damian Lillard,Over,6.5,,-220.0,-213.0,,-170.0,,,,-190.0,0.6169333082631068,1.5882352941176472
+bovada,105.0,0.008524079339983226,Los Angeles Clippers @ Toronto Raptors,player_points_assists,R.J. Barrett,Under,22.5,-109.0,-118.0,,105.0,-115.0,-115.0,-102.0,-125.0,-115.0,0.4919629655316992,2.05
+betmgm,310.0,0.05657232777006116,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Simone Fontecchio,Over,4.5,,310.0,212.0,,210.0,250.0,,280.0,300.0,0.2577005677487954,4.1
+draftkings,425.0,0.07095631552153281,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Nikola Vucevic,Over,14.5,,390.0,381.0,,425.0,260.0,,300.0,,0.2039916791469586,5.25
+fanduel,-390.0,-0.07856139600343992,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Lonzo Ball,Over,2.5,,-525.0,,,-450.0,-600.0,-390.0,,-550.0,0.7333899093033845,1.2564102564102564
+bovada,105.0,-0.0018597215051689986,Boston Celtics @ Philadelphia 76ers,player_points_rebounds,Jrue Holiday,Over,14.5,,-115.0,,105.0,,-115.0,100.0,-120.0,-120.0,0.4868976968267469,2.05
+fanduel,700.0,0.14733407739078808,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Ayo Dosunmu,Over,7.5,,,355.0,600.0,550.0,425.0,700.0,460.0,475.0,0.1434167596738485,8.0
+betonlineag,-333.0,-0.07286989992735338,Los Angeles Clippers @ Toronto Raptors,player_assists_alternate,Kawhi Leonard,Over,1.5,,,-333.0,,,-400.0,-390.0,,,0.7130122940512502,1.3003003003003002
+fanduel,230.0,0.050536326221892525,Chicago Bulls @ Detroit Pistons,player_points_alternate,Coby White,Over,24.5,,200.0,175.0,210.0,180.0,185.0,230.0,,195.0,0.3183443412793614,3.3
+betmgm,650.0,0.08531370960482465,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Taurean Prince,Over,6.5,,650.0,404.0,,475.0,,,,525.0,0.1447084946139766,7.5
+ballybet,100.0,0.00600970463804229,Boston Celtics @ Philadelphia 76ers,player_points,Jrue Holiday,Over,9.5,100.0,-120.0,-115.0,-120.0,-110.0,-120.0,-115.0,-130.0,-120.0,0.5030048523190211,2.0
+bovada,115.0,0.011662813688606,Los Angeles Clippers @ Toronto Raptors,player_rebounds,Scottie Barnes,Over,7.5,-124.0,100.0,103.0,115.0,-105.0,105.0,106.0,-110.0,-105.0,0.4705408435760958,2.15
+fanduel,160.0,0.02337281480506137,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Zach Edey,Over,9.5,,120.0,133.0,120.0,140.0,150.0,160.0,,160.0,0.3936049287711775,2.6
+hardrockbet,160.0,0.02337281480506137,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Zach Edey,Over,9.5,,120.0,133.0,120.0,140.0,150.0,160.0,,160.0,0.3936049287711775,2.6
+fanduel,390.0,0.08055487966135733,Boston Celtics @ Philadelphia 76ers,player_points_alternate,Derrick White,Over,19.5,,350.0,275.0,350.0,270.0,275.0,390.0,,325.0,0.2205214040125219,4.9
+fliff,100.0,0.004808060991054353,Boston Celtics @ Philadelphia 76ers,player_rebounds_assists,Derrick White,Under,7.5,-132.0,-110.0,,-130.0,-115.0,-120.0,-120.0,100.0,-110.0,0.5024040304955272,2.0
+betonlineag,139.0,0.018726418498139275,Memphis Grizzlies @ Milwaukee Bucks,player_threes,Brook Lopez,Under,1.5,110.0,115.0,139.0,125.0,124.0,120.0,126.0,-105.0,115.0,0.4262453633883428,2.39
+bovada,-280.0,-0.0507275838437774,Chicago Bulls @ Detroit Pistons,player_points_alternate,Jalen Duren,Over,9.5,,-400.0,,-280.0,-370.0,-350.0,-290.0,,-325.0,0.6994638855887955,1.3571428571428572
+fanduel,120.0,0.009889145025475776,Memphis Grizzlies @ Milwaukee Bucks,player_blocks,Giannis Antetokounmpo,Over,1.5,-105.0,100.0,,,110.0,,120.0,-105.0,100.0,0.4590405204661253,2.2
+betonlineag,107.0,0.0009200229052772624,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Giannis Antetokounmpo,Over,13.5,-113.0,,107.0,100.0,-115.0,-105.0,-106.0,-150.0,-110.0,0.4835362429494092,2.0700000000000003
+draftkings,-140.0,-0.02345834758664833,Boston Celtics @ Philadelphia 76ers,player_turnovers,Jaylen Brown,Under,2.5,,-165.0,,,-140.0,-165.0,,-175.0,,0.5696492972411218,1.7142857142857144
+hardrockbet,375.0,0.0671661358607365,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Donovan Mitchell,Over,6.5,,325.0,265.0,,320.0,,270.0,,375.0,0.2246665549180498,4.75
+draftkings,-270.0,-0.044170764771142124,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Ayo Dosunmu,Over,3.5,,,-333.0,-350.0,-270.0,-375.0,,-345.0,-325.0,0.6974970094913288,1.3703703703703702
+ballybet,-152.0,-0.024678198242394256,Chicago Bulls @ Detroit Pistons,player_steals,Malik Beasley,Over,0.5,-152.0,-185.0,,,,,,-190.0,-175.0,0.5882893407426828,1.6578947368421053
+fanduel,-360.0,-0.08316909366384628,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Damian Lillard,Over,19.5,,-450.0,,-400.0,-450.0,-500.0,-360.0,,-475.0,0.7175198397413377,1.2777777777777777
+espnbet,900.0,0.20855011965260406,Los Angeles Clippers @ Toronto Raptors,player_points_alternate,Jakob Poeltl,Over,19.5,,775.0,341.0,600.0,700.0,900.0,600.0,,600.0,0.1208550119652604,10.0
+betonlineag,103.0,0.006443974375812678,Memphis Grizzlies @ Milwaukee Bucks,player_points,Desmond Bane,Under,20.5,-118.0,-115.0,103.0,-120.0,-115.0,-115.0,-115.0,-115.0,-115.0,0.4957852090521245,2.03
+fanduel,112.0,0.00665284873734362,Chicago Bulls @ Detroit Pistons,player_rebounds_assists,Ayo Dosunmu,Over,8.5,-103.0,-115.0,,110.0,-105.0,105.0,112.0,-130.0,-110.0,0.4748362494044074,2.12
+draftkings,154.0,0.009981717052148564,Dallas Mavericks @ Cleveland Cavaliers,player_blocks,Jarrett Allen,Under,0.5,125.0,130.0,,,154.0,,,125.0,135.0,0.3976305972646254,2.54
+draftkings,-400.0,-0.0925413547406897,Chicago Bulls @ Detroit Pistons,player_assists_alternate,Lonzo Ball,Over,2.5,,-525.0,-625.0,,-400.0,-550.0,,,-475.0,0.7259669162074481,1.25
+betonlineag,-109.0,-0.011509759588321122,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Santi Aldama,Over,6.5,,-125.0,-109.0,,-130.0,,,,-135.0,0.5155284028941292,1.9174311926605505
+fanduel,-320.0,-0.06276301076064417,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Ivica Zubac,Over,9.5,,-500.0,,-350.0,-330.0,-450.0,-320.0,,,0.7140853251347473,1.3125
+fanduel,124.0,0.0035810289121480654,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Cade Cunningham,Over,6.5,,-110.0,118.0,,115.0,,124.0,,-105.0,0.448027245050066,2.24
+fanduel,200.0,0.03434932551344361,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Jaren Jackson Jr,Over,7.5,,,165.0,180.0,155.0,150.0,200.0,,165.0,0.3447831085044812,3.0
+draftkings,185.0,0.016653956624307575,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jaylen Brown,Over,6.5,,150.0,151.0,,185.0,,,,160.0,0.3567206865348448,2.85
+fanduel,-370.0,-0.0838656056047361,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Brook Lopez,Over,3.5,,,,-450.0,-425.0,-550.0,-370.0,,-500.0,0.7212121828218035,1.2702702702702702
+ballybet,-121.0,-0.003131655683563883,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Damian Lillard,Over,4.5,-121.0,-150.0,-141.0,,-154.0,-145.0,-122.0,-160.0,-155.0,0.5457966953044739,1.826446280991736
+fanduel,115.0,0.004321864877544712,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Jaylen Wells,Over,3.5,,,104.0,-110.0,-110.0,-105.0,115.0,,100.0,0.4671264487802534,2.15
+fanduel,-125.0,-0.011191263255039718,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Taurean Prince,Over,3.5,,,-116.0,-150.0,-160.0,-160.0,-125.0,-160.0,-150.0,0.5493381870805335,1.8
+fanduel,178.0,0.014974620903406066,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Josh Giddey,Over,8.5,,,145.0,,155.0,,178.0,,145.0,0.3650987844976281,2.78
+betonlineag,107.0,-0.003365475515220151,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_alternate,Giannis Antetokounmpo,Over,13.5,,,107.0,100.0,-125.0,,-105.0,,,0.4814659538573815,2.0700000000000003
+fanduel,-150.0,-0.013876303180453076,Chicago Bulls @ Detroit Pistons,player_double_double,Cade Cunningham,Yes,,-165.0,-200.0,,-145.0,-165.0,-180.0,-150.0,-210.0,-210.0,0.5916742180917283,1.6666666666666663
+bovada,100.0,0.0008936180026917206,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Santi Aldama,Over,6.5,,-115.0,-109.0,100.0,-125.0,-115.0,-104.0,-145.0,-135.0,0.5004468090013459,2.0
+betmgm,450.0,0.06059872535512434,Boston Celtics @ Philadelphia 76ers,player_assists_alternate,Jaylen Brown,Over,6.5,,450.0,332.0,,330.0,,,,375.0,0.1928361318827499,5.5
+bovada,105.0,0.0039041507391993635,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds_assists,Khris Middleton,Over,8.5,-108.0,-118.0,,105.0,-115.0,-115.0,102.0,-125.0,-115.0,0.4897093418239997,2.05
+fanduel,370.0,0.06660806514835393,Boston Celtics @ Philadelphia 76ers,player_rebounds_alternate,Jaylen Brown,Over,7.5,,,249.0,350.0,330.0,240.0,370.0,,275.0,0.2269378862017774,4.7
+betonlineag,136.0,0.0027689015013910856,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Taurean Prince,Over,2.5,,-110.0,136.0,,130.0,115.0,,115.0,125.0,0.424902076907369,2.3600000000000003
+draftkings,-120.0,-0.006033711270413522,Memphis Grizzlies @ Milwaukee Bucks,player_rebounds,Jaylen Wells,Under,3.5,-150.0,-140.0,-135.0,,-120.0,-140.0,-142.0,-150.0,-145.0,0.5421634302161381,1.8333333333333333
+fanduel,-125.0,-0.00845621769048599,Memphis Grizzlies @ Milwaukee Bucks,player_points_alternate,Damian Lillard,Over,24.5,,-140.0,,-150.0,-145.0,-145.0,-125.0,,-150.0,0.5508576568386189,1.8
+fanduel,-106.0,0.0013154364783485306,Chicago Bulls @ Detroit Pistons,player_assists,Ayo Dosunmu,Over,4.5,-129.0,-125.0,-120.0,-120.0,-125.0,-120.0,-106.0,-145.0,-130.0,0.5152399818772084,1.9433962264150944
+bovada,600.0,0.11007918913700898,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Coby White,Over,5.5,,,304.0,600.0,450.0,,550.0,,425.0,0.158582741305287,7.0
+draftkings,135.0,0.007663666648099365,Chicago Bulls @ Detroit Pistons,player_blocks,Jalen Duren,Over,1.5,120.0,105.0,,,135.0,,144.0,-105.0,110.0,0.4287930496374891,2.35
+fanduel,114.0,0.0033010838161424694,Chicago Bulls @ Detroit Pistons,player_points_alternate,Cade Cunningham,Over,29.5,,110.0,,-115.0,-110.0,100.0,114.0,,100.0,0.4688322821570759,2.14
+draftkings,475.0,0.0801582139329291,Dallas Mavericks @ Cleveland Cavaliers,player_assists_alternate,Jarrett Allen,Over,3.5,,,349.0,,475.0,325.0,,360.0,375.0,0.1878536024231181,5.75
+hardrockbet,500.0,0.06806156806156771,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Gradey Dick,Over,4.5,,380.0,305.0,,425.0,425.0,,,500.0,0.1780102613435946,6.0
+fanduel,110.0,0.0018596918848365895,Chicago Bulls @ Detroit Pistons,player_rebounds_alternate,Josh Giddey,Over,7.5,,,103.0,-110.0,-105.0,-120.0,110.0,,-115.0,0.4770760437546841,2.1
+fanduel,102.0,0.005760268618876574,Chicago Bulls @ Detroit Pistons,player_points,Coby White,Over,20.5,-103.0,-118.0,-114.0,-115.0,-115.0,-120.0,102.0,-125.0,-120.0,0.4979011230786517,2.02
+ballybet,106.0,0.008243245590378478,Chicago Bulls @ Detroit Pistons,player_points,Nikola Vucevic,Over,20.5,106.0,-110.0,-112.0,-115.0,-120.0,-110.0,106.0,-120.0,-110.0,0.4894384687331934,2.06
+fanduel,106.0,0.008243245590378478,Chicago Bulls @ Detroit Pistons,player_points,Nikola Vucevic,Over,20.5,106.0,-110.0,-112.0,-115.0,-120.0,-110.0,106.0,-120.0,-110.0,0.4894384687331934,2.06
+ballybet,900.0,0.21255751835133807,Los Angeles Clippers @ Toronto Raptors,player_double_double,R.J. Barrett,Yes,,900.0,650.0,,600.0,650.0,500.0,600.0,595.0,650.0,0.1212557518351338,10.0
+fanduel,105.0,-0.001661910340481021,Los Angeles Clippers @ Toronto Raptors,player_rebounds_alternate,Scottie Barnes,Over,7.5,,,103.0,-140.0,-110.0,-125.0,105.0,-110.0,-105.0,0.4869941900778142,2.05
+bovada,110.0,0.005620307431182803,Los Angeles Clippers @ Toronto Raptors,player_points,James Harden,Over,23.5,-105.0,-110.0,,110.0,-105.0,,104.0,-120.0,-110.0,0.4788668130624679,2.1
+betonlineag,459.0,0.06022059515505762,Chicago Bulls @ Detroit Pistons,player_points_rebounds_assists_alternate,Nikola Vucevic,Over,44.5,,,459.0,,380.0,325.0,,355.0,,0.1896637916198672,5.59
+fanduel,-165.0,-0.015674814749467414,Memphis Grizzlies @ Milwaukee Bucks,player_assists_alternate,Khris Middleton,Over,3.5,,,-213.0,-200.0,-180.0,-200.0,-165.0,,-190.0,0.6128817191182562,1.606060606060606
