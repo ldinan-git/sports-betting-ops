@@ -1,0 +1,3146 @@
+{
+    "id": "8d21ed1b9b834b66d75fdcf7b2cf1ae7",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-04T01:10:00Z",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:41Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 475
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Luke Kennard",
+                            "price": 750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 900
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -137,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -1500,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -103,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 550,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -137,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -510,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 190,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 525,
+                            "point": 34.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -137,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -335,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 250,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 650,
+                            "point": 15.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:43:23Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 116,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -160,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fliff",
+            "title": "Fliff",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -150,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -255,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -150,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -280
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": 170
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 175,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 28.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 36.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists_alternate",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 150,
+                            "point": 44.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -285,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists_alternate",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -230,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 145,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -160,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 1605
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": -999900
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2025-02-03T13:53:19Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "hardrockbet",
+            "title": "Hard Rock Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -145,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -240,
+                            "point": 2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -275
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 425
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jaren Jackson Jr",
+                            "price": -750
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 400
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": -700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ja Morant",
+                            "price": 500
+                        },
+                        {
+                            "name": "No",
+                            "description": "Ja Morant",
+                            "price": -950
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 525
+                        },
+                        {
+                            "name": "No",
+                            "description": "Zach Edey",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 550
+                        },
+                        {
+                            "name": "No",
+                            "description": "Desmond Bane",
+                            "price": -1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 700
+                        },
+                        {
+                            "name": "No",
+                            "description": "Stephon Castle",
+                            "price": -1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 650
+                        },
+                        {
+                            "name": "No",
+                            "description": "Devin Vassell",
+                            "price": -1300
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 900
+                        },
+                        {
+                            "name": "No",
+                            "description": "Jaylen Wells",
+                            "price": -2200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 900
+                        },
+                        {
+                            "name": "No",
+                            "description": "Harrison Barnes",
+                            "price": -2000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1300
+                        },
+                        {
+                            "name": "No",
+                            "description": "Chris Paul",
+                            "price": -3000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 190,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 28.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 36.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -170,
+                            "point": 10.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -210,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 155,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -155,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-02-03T13:53:55Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 1750
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 108,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -138,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 108,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -138,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 700,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -700,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -290,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 500,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -1400,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 110,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 260,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -210
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 550
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 480
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Luke Kennard",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1100
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1200
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -128,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -128,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 250,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -4500,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 100,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -950,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 440,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -270,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1600,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 600,
+                            "point": 34.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -111,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -115,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -111,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -104,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -122,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -106,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -120,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -111,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -104,
+                            "point": 20.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -166,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": 130,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -230,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 600,
+                            "point": 15.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 260,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -160,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -600,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 850,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -2300,
+                            "point": 5.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 260,
+                            "point": 5.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -113,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -113,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -111,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -115,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -104,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -178,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 138,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ballybet",
+            "title": "Bally Bet",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -148,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -139,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -124,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -107,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -121,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 650
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Luke Kennard",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 450
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -127,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -109,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -117,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -114,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -125,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -107,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -118,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -113,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -112,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -121,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -132,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -103,
+                            "point": 20.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -167,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -141,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 106,
+                            "point": 10.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -109,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -122,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -109,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -195,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 145,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:38Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -108,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 130,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -148,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 105,
+                            "point": 7.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -139,
+                            "point": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -124,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -107,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -121,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -240
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 650
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Luke Kennard",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 900
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 800
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 450
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -127,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -109,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -117,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -114,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -125,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -107,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -118,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -113,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -112,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 35.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -121,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 38.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -132,
+                            "point": 20.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -103,
+                            "point": 20.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": 125,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -167,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -141,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 106,
+                            "point": 10.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -109,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -122,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -109,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -195,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 145,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -108,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -122,
+                            "point": 1.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -175,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 130,
+                            "point": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "espnbet",
+            "title": "ESPN BET",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -250,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -250
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": 170
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1400
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ja Morant",
+                            "price": 500
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 700
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 450
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 550
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 180,
+                            "point": 29.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 28.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 36.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 39.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 140,
+                            "point": 44.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -285,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists_alternate",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -160,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 1600
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2025-02-03T13:53:16Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -140,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_assists_alternate",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 900,
+                            "point": 6.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -275,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 210,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_blocks_steals",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -130,
+                            "point": 4.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 4.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_double_double",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": -250
+                        },
+                        {
+                            "name": "No",
+                            "description": "Victor Wembanyama",
+                            "price": 180
+                        }
+                    ]
+                },
+                {
+                    "key": "player_first_basket",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 550
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaren Jackson Jr",
+                            "price": 575
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Devin Vassell",
+                            "price": 600
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Desmond Bane",
+                            "price": 625
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Stephon Castle",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Ja Morant",
+                            "price": 650
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Zach Edey",
+                            "price": 850
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Harrison Barnes",
+                            "price": 875
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Jaylen Wells",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Yes",
+                            "description": "Chris Paul",
+                            "price": 1550
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_alternate",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 450,
+                            "point": 34.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -500,
+                            "point": 19.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 180,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -155,
+                            "point": 24.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 28.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -118,
+                            "point": 36.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 36.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 100,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_alternate",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -325,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 130,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 700,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 310,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -125,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -105,
+                            "point": 14.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_steals",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -220,
+                            "point": 0.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 150,
+                            "point": 0.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 110,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -150,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_triple_double",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Yes",
+                            "description": "Victor Wembanyama",
+                            "price": 2000
+                        }
+                    ]
+                },
+                {
+                    "key": "player_turnovers",
+                    "last_update": "2025-02-03T13:53:48Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_assists",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 25.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_assists",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -110,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -120,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -120,
+                            "point": 16.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -110,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 35.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -110,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -120,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_points_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 40.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 40.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 105,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -135,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_rebounds_assists",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -115,
+                            "point": 14.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Chris Paul",
+                            "price": -110,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Chris Paul",
+                            "price": -120,
+                            "point": 11.5
+                        }
+                    ]
+                },
+                {
+                    "key": "player_threes",
+                    "last_update": "2025-02-03T13:53:02Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 120,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": -160,
+                            "point": 3.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
