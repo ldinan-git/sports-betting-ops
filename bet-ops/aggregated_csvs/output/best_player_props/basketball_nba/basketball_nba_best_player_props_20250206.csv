@@ -1,0 +1,250 @@
+value_book,value_book_price,EV,game,market,name,description,point,ballybet_price,betmgm_price,betonlineag_price,bovada_price,draftkings_price,espnbet_price,fanduel_price,fliff_price,hardrockbet_price,avg_dejuiced_prob,book_decimal_odds
+fanduel,320.0,0.5473539021605183,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Aaron Holiday,Over,3.5,,,274.0,-250.0,155.0,,320.0,,,0.3684175957525043,4.2
+betonlineag,274.0,0.3778818081143662,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Aaron Holiday,Over,3.5,,,274.0,-250.0,155.0,,320.0,,,0.3684175957525043,3.74
+fanduel,250.0,0.20356030307656114,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,9.5,,200.0,150.0,225.0,-150.0,190.0,250.0,,210.0,0.3438743723075889,3.5
+fanduel,135.0,0.09483572341229773,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,5.5,,,133.0,-350.0,120.0,,135.0,,130.0,0.4658875418775734,2.35
+betonlineag,133.0,0.08551797257474625,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,5.5,,,133.0,-350.0,120.0,,135.0,,130.0,0.4658875418775734,2.33
+hardrockbet,130.0,0.0715413463184188,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,5.5,,,133.0,-350.0,120.0,,135.0,,130.0,0.4658875418775734,2.3
+fanduel,-125.0,0.034699803617770586,Orlando Magic @ Denver Nuggets,player_assists_alternate,Jamal Murray,Over,5.5,,,-192.0,-145.0,-170.0,,-125.0,,-190.0,0.5748332242320947,1.8
+fanduel,310.0,0.15986610288935865,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Brandin Podziemski,Over,7.5,,,230.0,,220.0,175.0,310.0,,230.0,0.282894171436429,4.1
+fanduel,360.0,0.1578588999969177,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Stephen Curry,Over,5.5,,,184.0,,280.0,,360.0,,275.0,0.2517084565210691,4.6
+fanduel,350.0,0.14769677996422192,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,5.5,,,160.0,,290.0,,350.0,,300.0,0.2550437288809382,4.5
+draftkings,-180.0,-0.002862183163140908,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,4.5,,-275.0,-250.0,,-180.0,-250.0,,,-240.0,0.6410171679665523,1.5555555555555556
+fanduel,-160.0,0.01428355561006378,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,LeBron James,Over,7.5,,,-208.0,,-210.0,-240.0,-160.0,,-230.0,0.6241744957600392,1.625
+bovada,225.0,0.11759170999966395,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,9.5,,200.0,150.0,225.0,-150.0,190.0,250.0,,210.0,0.3438743723075889,3.25
+fanduel,300.0,0.12763234812675206,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,T.J. McConnell,Over,5.5,,,222.0,,190.0,,300.0,,220.0,0.281908087031688,4.0
+fanduel,480.0,0.19428180149154306,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,7.5,,,452.0,120.0,425.0,400.0,480.0,,425.0,0.2059106554295764,5.8
+draftkings,600.0,0.22112428634167713,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,14.5,,400.0,360.0,,600.0,350.0,,,,0.1744463266202396,7.0
+fanduel,1100.0,0.40895129846244327,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Aaron Holiday,Over,14.5,,,688.0,650.0,400.0,,1100.0,,,0.1174126082052036,12.0
+draftkings,135.0,0.05721668512366196,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,9.5,,-110.0,,-105.0,135.0,105.0,110.0,,110.0,0.449879440478154,2.35
+fanduel,280.0,0.11401737971243886,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Rui Hachimura,Over,19.5,,,200.0,,245.0,180.0,280.0,,190.0,0.2931624683453787,3.8
+fanduel,-130.0,0.01643292340966762,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,T.J. McConnell,Over,3.5,,,-159.0,,-175.0,-180.0,-130.0,,-170.0,0.5745055654054643,1.7692307692307692
+hardrockbet,170.0,0.049918710680709966,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,T.J. McConnell,Over,2.5,,135.0,,,110.0,150.0,,,170.0,0.3888587817335962,2.7
+betmgm,135.0,0.041219084817675,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,2.5,,135.0,132.0,,-160.0,125.0,,,115.0,0.4430719509862447,2.35
+ballybet,950.0,0.3194822226633425,Golden State Warriors @ Los Angeles Lakers,player_double_double,Jaxson Hayes,Yes,,950.0,,,,550.0,,550.0,495.0,,0.125664973586985,10.5
+fanduel,-180.0,-0.006011279936289693,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Amen Thompson,Over,7.5,,,-227.0,-250.0,-235.0,-285.0,-180.0,,-210.0,0.6389927486123852,1.5555555555555556
+draftkings,120.0,0.02495259213066181,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,5.5,,,133.0,-350.0,120.0,,135.0,,130.0,0.4658875418775734,2.2
+hardrockbet,1100.0,0.34577922077921963,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Bennedict Mathurin,Over,3.5,,,,,950.0,900.0,320.0,,1100.0,0.1121482683982683,12.0
+fanduel,280.0,0.0986129824839499,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,James Harden,Over,11.5,,,196.0,,210.0,200.0,280.0,,230.0,0.2891086796010395,3.8
+fanduel,-140.0,0.01110467005317095,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Amen Thompson,Over,14.5,,-185.0,,-165.0,-185.0,-210.0,-140.0,,-165.0,0.5898110575310164,1.7142857142857144
+ballybet,295.0,0.12252837676134454,Dallas Mavericks @ Boston Celtics,player_double_double,Kristaps Porzingis,Yes,,295.0,225.0,,220.0,225.0,210.0,220.0,220.0,210.0,0.2841843991800872,3.95
+bovada,165.0,0.06421990623190044,Sacramento Kings @ Portland Trail Blazers,player_assists,Zach LaVine,Under,3.5,117.0,130.0,144.0,165.0,130.0,125.0,,,125.0,0.4015924174460002,2.65
+betonlineag,-250.0,-0.03802668727153846,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,James Harden,Over,7.5,,,-250.0,,-390.0,-400.0,-250.0,,-375.0,0.6871237948060439,1.4
+fanduel,-250.0,-0.03802668727153846,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,James Harden,Over,7.5,,,-250.0,,-390.0,-400.0,-250.0,,-375.0,0.6871237948060439,1.4
+hardrockbet,575.0,0.15627988522495184,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,6.5,,475.0,235.0,,550.0,,,,575.0,0.1713007237370299,6.75
+betonlineag,452.0,0.13662681797126175,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,7.5,,,452.0,120.0,425.0,400.0,480.0,,425.0,0.2059106554295764,5.52
+fanduel,-125.0,0.014371831868408957,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Derrick White,Over,3.5,,,-149.0,-150.0,-160.0,-180.0,-125.0,,-165.0,0.5635399065935606,1.8
+fanduel,290.0,0.10104668446603982,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Jayson Tatum,Over,7.5,,,182.0,250.0,250.0,190.0,290.0,,220.0,0.2823196626836,3.9
+fanduel,-500.0,-0.09339956718473341,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Brandin Podziemski,Over,3.5,,,,,-750.0,-1200.0,-500.0,,-700.0,0.7555003606793889,1.2
+betonlineag,109.0,0.023614447266818273,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,James Harden,Over,9.5,,-125.0,109.0,,-130.0,-120.0,105.0,,,0.4897676781180949,2.09
+fanduel,170.0,0.04899618481625179,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Austin Reaves,Over,7.5,,,137.0,,150.0,105.0,170.0,,145.0,0.3885171054875006,2.7
+fanduel,460.0,0.11203754459863613,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Austin Reaves,Over,9.5,,,311.0,,450.0,250.0,460.0,,,0.1985781329640422,5.6
+fanduel,330.0,0.08729513545558532,Dallas Mavericks @ Boston Celtics,player_rebounds_alternate,Jrue Holiday,Over,5.5,,,209.0,250.0,280.0,,330.0,,,0.2528593338268803,4.3
+betmgm,165.0,0.044100189120949373,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Derrick White,Over,4.5,,165.0,135.0,,135.0,120.0,,,130.0,0.394000071366396,2.65
+draftkings,-145.0,0.011926529602476199,Indiana Pacers @ Los Angeles Clippers,player_assists,Norman Powell,Under,2.5,-195.0,-190.0,-172.0,,-145.0,-190.0,-180.0,-175.0,-195.0,0.5988952930300369,1.6896551724137931
+espnbet,1300.0,0.4222681359044984,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,14.5,,,,900.0,285.0,1300.0,1100.0,,1300.0,0.1015905811360356,14.0
+hardrockbet,1300.0,0.4222681359044984,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,14.5,,,,900.0,285.0,1300.0,1100.0,,1300.0,0.1015905811360356,14.0
+betmgm,275.0,0.08034309420470498,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,4.5,,275.0,191.0,,235.0,190.0,,,225.0,0.2880914917879213,3.75
+fanduel,380.0,0.10321074274562614,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Malik Monk,Over,5.5,,,225.0,,320.0,,380.0,,300.0,0.2298355714053388,4.8
+betonlineag,132.0,0.027926926288087905,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,2.5,,135.0,132.0,,-160.0,125.0,,,115.0,0.4430719509862447,2.3200000000000003
+draftkings,155.0,0.04114371759044544,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,11.5,,,122.0,120.0,155.0,115.0,140.0,,120.0,0.4082916539570375,2.55
+ballybet,100.0,0.026915016225504296,Orlando Magic @ Denver Nuggets,player_threes,Michael Porter Jr,Over,2.5,100.0,-130.0,-123.0,-125.0,-130.0,-125.0,-115.0,-125.0,-130.0,0.5134575081127521,2.0
+hardrockbet,210.0,0.06601055415352564,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,9.5,,200.0,150.0,225.0,-150.0,190.0,250.0,,210.0,0.3438743723075889,3.1
+draftkings,100.0,0.025846165751682637,Houston Rockets @ Minnesota Timberwolves,player_threes,Mike Conley,Over,1.5,-120.0,-125.0,-122.0,-125.0,100.0,-125.0,-130.0,-125.0,-130.0,0.5129230828758413,2.0
+fanduel,-130.0,0.0036970451457236653,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Stephen Curry,Over,3.5,,,-152.0,,-160.0,-180.0,-130.0,,-165.0,0.5673070255171482,1.7692307692307692
+betmgm,550.0,0.18331761348521103,Dallas Mavericks @ Boston Celtics,player_first_basket,Kristaps Porzingis,Yes,,350.0,550.0,,350.0,360.0,450.0,350.0,,425.0,0.1820488636131094,6.5
+espnbet,-120.0,0.00915969120795146,Dallas Mavericks @ Boston Celtics,player_points_alternate,Derrick White,Over,14.5,,-165.0,,-150.0,-155.0,-120.0,-135.0,,-150.0,0.5504507406588827,1.8333333333333333
+draftkings,-110.0,0.016469472127671914,Houston Rockets @ Minnesota Timberwolves,player_rebounds_assists,Mike Conley,Over,7.5,,-145.0,,,-110.0,-140.0,-138.0,-125.0,-140.0,0.532436390162114,1.9090909090909087
+betmgm,-130.0,-0.002128453690866672,Orlando Magic @ Denver Nuggets,player_rebounds,Franz Wagner,Over,4.5,,-130.0,,,,-160.0,,-160.0,-170.0,0.5640143522616841,1.7692307692307692
+draftkings,115.0,0.012465224320017398,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Amir Coffey,Over,2.5,,-110.0,,,115.0,-110.0,,,-105.0,0.4709140578232639,2.15
+bovada,110.0,0.02503077442466517,Sacramento Kings @ Portland Trail Blazers,player_points_rebounds_assists,Zach LaVine,Under,29.5,-121.0,-120.0,100.0,110.0,,-105.0,,-115.0,-120.0,0.4881098925831739,2.1
+fanduel,370.0,0.09503464166177245,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Derrick White,Over,5.5,,,255.0,320.0,280.0,,370.0,,250.0,0.2329860939705899,4.7
+fanduel,120.0,0.019782462592275785,Houston Rockets @ Minnesota Timberwolves,player_blocks,Rudy Gobert,Under,1.5,100.0,100.0,,,-115.0,,120.0,100.0,,0.463537482996489,2.2
+ballybet,950.0,0.31560562487420674,Sacramento Kings @ Portland Trail Blazers,player_triple_double,Domantas Sabonis,Yes,,950.0,675.0,,,550.0,500.0,,510.0,650.0,0.1252957737975435,10.5
+draftkings,450.0,0.09217973130223212,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Austin Reaves,Over,9.5,,,311.0,,450.0,250.0,460.0,,,0.1985781329640422,5.5
+fanduel,-145.0,0.0009960959179218243,Dallas Mavericks @ Boston Celtics,player_rebounds_alternate,Jayson Tatum,Over,7.5,,,-169.0,-180.0,-175.0,-200.0,-145.0,,-190.0,0.5924262608493823,1.6896551724137931
+betmgm,600.0,0.13217426804050447,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Zach LaVine,Over,6.5,,600.0,326.0,,475.0,,,,450.0,0.1617391811486435,7.0
+bovada,110.0,0.027175154996218365,Golden State Warriors @ Los Angeles Lakers,player_assists,Austin Reaves,Over,6.5,-121.0,-120.0,-109.0,110.0,-115.0,-105.0,-108.0,-115.0,-110.0,0.4891310261886754,2.1
+bovada,-120.0,0.010294268612732083,Golden State Warriors @ Los Angeles Lakers,player_rebounds,Austin Reaves,Over,4.5,,-150.0,-143.0,-120.0,-145.0,,,-155.0,-155.0,0.5510696010614903,1.8333333333333333
+betmgm,700.0,0.163552893231532,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Obi Toppin,Over,2.5,,700.0,,,360.0,475.0,,,600.0,0.1454441116539415,8.0
+draftkings,200.0,0.04126550220096048,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,6.5,,150.0,167.0,,200.0,,,,160.0,0.3470885007336535,3.0
+draftkings,550.0,0.11345470429069437,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,6.5,,475.0,235.0,,550.0,,,,575.0,0.1713007237370299,6.5
+betmgm,340.0,0.07504045009249949,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Deandre Ayton,Over,14.5,,340.0,246.0,,310.0,225.0,,,,0.2443273750210226,4.4
+draftkings,100.0,0.022913734754229864,Houston Rockets @ Minnesota Timberwolves,player_points,Mike Conley,Over,8.5,-117.0,-130.0,-122.0,-125.0,100.0,-125.0,-125.0,-120.0,-125.0,0.5114568673771149,2.0
+draftkings,700.0,0.17363723785510632,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Mike Conley,Over,4.5,,450.0,387.0,,700.0,475.0,,,575.0,0.1467046547318883,8.0
+bovada,115.0,0.02101891199752659,Houston Rockets @ Minnesota Timberwolves,player_points_rebounds_assists,Rudy Gobert,Under,23.5,,-110.0,101.0,115.0,,-110.0,,,-110.0,0.4748925172081519,2.15
+draftkings,-425.0,-0.08861745597789317,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Paolo Banchero,Over,4.5,,-625.0,,,-425.0,-800.0,,,-500.0,0.7377858689702769,1.2352941176470589
+draftkings,425.0,0.1083974627699924,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Paolo Banchero,Over,9.5,,380.0,285.0,320.0,425.0,260.0,340.0,,,0.2111233262419033,5.25
+draftkings,170.0,0.027085611419037647,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Gabe Vincent,Over,9.5,,,127.0,,170.0,140.0,,,145.0,0.3804020783033472,2.7
+betonlineag,-123.0,0.002449261845102635,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Alperen Sengun,Over,9.5,,-155.0,-123.0,-150.0,-185.0,-140.0,-135.0,,,0.5529204448742046,1.8130081300813008
+betonlineag,-417.0,-0.09921895259711933,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Austin Reaves,Over,4.5,,,-417.0,,-450.0,-1000.0,,,-550.0,0.7265487364932324,1.2398081534772185
+ballybet,700.0,0.20411928691414083,Sacramento Kings @ Portland Trail Blazers,player_double_double,Malik Monk,Yes,,700.0,500.0,,,475.0,400.0,,500.0,475.0,0.1505149108642676,8.0
+betmgm,875.0,0.2342521865081233,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,4.5,,875.0,645.0,,310.0,700.0,,,800.0,0.126589967846987,9.75
+draftkings,-115.0,0.0048751774571604845,Houston Rockets @ Minnesota Timberwolves,player_blocks,Rudy Gobert,Over,1.5,-134.0,-140.0,,,-115.0,,-154.0,-140.0,-140.0,0.5374913739887138,1.869565217391304
+hardrockbet,185.0,0.037785627634116414,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Anfernee Simons,Over,3.5,,,138.0,,165.0,140.0,155.0,,185.0,0.3641353079417952,2.85
+ballybet,150.0,0.030820511541699513,Dallas Mavericks @ Boston Celtics,player_double_double,Jayson Tatum,Yes,,150.0,,,100.0,130.0,120.0,135.0,130.0,120.0,0.4123282046166798,2.5
+fanduel,1300.0,0.3535353535353525,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,7.5,,,348.0,,1000.0,1000.0,1300.0,,1100.0,0.0966810966810966,14.0
+fanduel,-135.0,-0.008271108434307117,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Rui Hachimura,Over,14.5,,,,,-140.0,-180.0,-135.0,,-185.0,0.5697165972824193,1.7407407407407407
+bovada,110.0,0.014382799845940042,Sacramento Kings @ Portland Trail Blazers,player_points_rebounds_assists,Deandre Ayton,Over,30.5,,-115.0,-101.0,110.0,,-115.0,,,-115.0,0.4830394284980667,2.1
+fanduel,130.0,0.02040412166598382,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Amen Thompson,Over,9.5,,100.0,123.0,100.0,120.0,-110.0,130.0,,,0.4436539659417322,2.3
+draftkings,295.0,0.06439483649361599,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Mike Conley,Over,3.5,,,203.0,,295.0,220.0,250.0,,250.0,0.2694670472135737,3.95
+fanduel,-380.0,-0.07837921464289055,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Draymond Green,Over,3.5,,,-625.0,,-500.0,-550.0,-380.0,,-475.0,0.7296164550743783,1.263157894736842
+hardrockbet,160.0,0.027353241656441485,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,4.5,,125.0,109.0,,145.0,145.0,,,160.0,0.3951358621755544,2.6
+draftkings,-188.0,-0.009274174061589147,Indiana Pacers @ Los Angeles Clippers,player_steals,James Harden,Under,1.5,-250.0,,,,-188.0,,-235.0,-225.0,,0.6467238030431293,1.5319148936170213
+betonlineag,-152.0,-0.012405383274416315,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Goga Bitadze,Over,6.5,,-225.0,-152.0,,-170.0,,,,-175.0,0.5956919910408283,1.6578947368421053
+hardrockbet,425.0,0.08103094100527608,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,7.5,,,452.0,120.0,425.0,400.0,480.0,,425.0,0.2059106554295764,5.25
+draftkings,425.0,0.08103094100527608,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,7.5,,,452.0,120.0,425.0,400.0,480.0,,425.0,0.2059106554295764,5.25
+espnbet,175.0,0.03507096805989507,Indiana Pacers @ Los Angeles Clippers,player_points_alternate,T.J. McConnell,Over,9.5,,150.0,136.0,,125.0,175.0,170.0,,135.0,0.3763894429308709,2.75
+fanduel,-650.0,-0.11508092509715595,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Amen Thompson,Over,9.5,,-1200.0,,-800.0,-1100.0,-1600.0,-650.0,,-1000.0,0.7669298649157984,1.1538461538461535
+fanduel,600.0,0.10926458258474048,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,5.5,,,340.0,,500.0,,600.0,,450.0,0.1584663689406772,7.0
+bovada,115.0,0.020790764442427,Golden State Warriors @ Los Angeles Lakers,player_points,Austin Reaves,Over,22.5,-108.0,-105.0,-106.0,115.0,-115.0,,-102.0,-110.0,105.0,0.4747864020662452,2.15
+draftkings,120.0,0.009908242547869373,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Mike Conley,Over,2.5,,-125.0,113.0,,120.0,100.0,,,105.0,0.4590492011581224,2.2
+fanduel,200.0,0.04679185653266238,Indiana Pacers @ Los Angeles Clippers,player_blocks,Ivica Zubac,Over,1.5,160.0,160.0,,,160.0,,200.0,175.0,155.0,0.3489306188442208,3.0
+fanduel,105.0,0.00402374014209439,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,James Harden,Over,9.5,,-125.0,109.0,,-130.0,-120.0,105.0,,,0.4897676781180949,2.05
+fanduel,-165.0,-0.012028447252368069,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,5.5,,,-217.0,-200.0,-210.0,,-165.0,,-190.0,0.6151520988806011,1.606060606060606
+draftkings,260.0,0.05522701287559029,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Tyrese Haliburton,Over,4.5,,210.0,204.0,,260.0,190.0,,,225.0,0.293118614687664,3.6
+fanduel,-130.0,-0.006339638982801876,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Brandin Podziemski,Over,3.5,,,-149.0,,-150.0,-190.0,-130.0,,-150.0,0.5616341170966772,1.7692307692307692
+draftkings,550.0,0.08740306478853266,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Rudy Gobert,Over,3.5,,,347.0,,550.0,400.0,,,450.0,0.1672927791982358,6.5
+fanduel,-115.0,-0.0072024149704722484,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Brandin Podziemski,Over,5.5,,,-130.0,,-150.0,,-115.0,,-140.0,0.5310312664111428,1.869565217391304
+betonlineag,-270.0,-0.05199719081503695,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,2.5,,-450.0,-270.0,,-350.0,-325.0,,,-300.0,0.6917858337295677,1.3703703703703702
+bovada,120.0,0.019376337799230425,Sacramento Kings @ Portland Trail Blazers,player_points,Zach LaVine,Under,20.5,,-105.0,105.0,120.0,-115.0,-105.0,,,115.0,0.463352880817832,2.2
+draftkings,205.0,0.031973336726193624,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,James Harden,Over,6.5,,165.0,147.0,,205.0,,,,190.0,0.3383519136807192,3.05
+bovada,105.0,0.013772617662197728,Sacramento Kings @ Portland Trail Blazers,player_points_rebounds_assists,DeMar DeRozan,Under,26.5,,-125.0,-108.0,105.0,-105.0,-120.0,,,-120.0,0.4945232281279014,2.05
+fanduel,550.0,0.08719462831563352,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Obi Toppin,Over,5.5,,,315.0,,450.0,,550.0,,450.0,0.167260712048559,6.5
+fanduel,430.0,0.06086322727848881,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Nikola Jokic,Over,15.5,,,243.0,400.0,360.0,,430.0,,,0.200162873071413,5.3
+bovada,-120.0,0.00613483513862656,Golden State Warriors @ Los Angeles Lakers,player_assists,Brandin Podziemski,Over,3.5,-155.0,-150.0,-149.0,-120.0,-145.0,-140.0,-138.0,-140.0,-150.0,0.5488008191665236,1.8333333333333333
+betmgm,140.0,0.015162114134531501,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Zach LaVine,Over,4.5,,140.0,122.0,,115.0,110.0,,,115.0,0.4229842142227215,2.4
+betmgm,725.0,0.12497184050461829,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Domantas Sabonis,Over,19.5,,725.0,479.0,,600.0,425.0,,,,0.1363602230914689,8.25
+draftkings,100.0,0.013396082202818516,Houston Rockets @ Minnesota Timberwolves,player_rebounds,Rudy Gobert,Over,10.5,-115.0,-125.0,-119.0,-130.0,100.0,-120.0,-113.0,-120.0,-125.0,0.5066980411014093,2.0
+fanduel,360.0,0.07657820894742029,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Amen Thompson,Over,11.5,,,258.0,300.0,330.0,210.0,360.0,,325.0,0.2340387410755262,4.6
+bovada,110.0,0.01399315040551774,Orlando Magic @ Denver Nuggets,player_threes,Nikola Jokic,Under,1.5,-110.0,-105.0,-106.0,110.0,-120.0,-115.0,-106.0,-110.0,-105.0,0.4828538811454846,2.1
+fanduel,230.0,0.04887498934422552,Orlando Magic @ Denver Nuggets,player_assists_alternate,Jamal Murray,Over,7.5,,,179.0,220.0,205.0,160.0,230.0,,175.0,0.3178409058618865,3.3
+fanduel,200.0,0.03801802589918002,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,7.5,,,169.0,180.0,155.0,150.0,200.0,,165.0,0.34600600863306,3.0
+draftkings,114.0,0.015707956907141107,Indiana Pacers @ Los Angeles Clippers,player_rebounds,James Harden,Over,5.5,-113.0,105.0,-105.0,-115.0,114.0,-105.0,-108.0,-105.0,100.0,0.4746298864052061,2.14
+ballybet,102.0,0.007743647706031975,Houston Rockets @ Minnesota Timberwolves,player_rebounds_assists,Anthony Edwards,Over,10.5,102.0,-120.0,,,-120.0,-120.0,-108.0,-120.0,-120.0,0.4988829939138772,2.02
+betmgm,750.0,0.12443475222158207,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Derrick White,Over,6.5,,750.0,487.0,,550.0,,,,500.0,0.1322864414378332,8.5
+bovada,-300.0,-0.05922762902167955,Orlando Magic @ Denver Nuggets,player_assists_alternate,Paolo Banchero,Over,3.5,,,-455.0,-300.0,-320.0,-550.0,-320.0,,-375.0,0.7055792782337403,1.3333333333333333
+fanduel,-270.0,-0.05057483146602282,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Jaylen Brown,Over,3.5,,,-385.0,-300.0,-310.0,-400.0,-270.0,,-350.0,0.6928237716329023,1.3703703703703702
+espnbet,-120.0,-0.011432311160168629,Sacramento Kings @ Portland Trail Blazers,player_points_alternate,DeMar DeRozan,Over,19.5,,-160.0,,,-140.0,-120.0,,,-135.0,0.5392187393671808,1.8333333333333333
+betmgm,390.0,0.0715373244641534,Indiana Pacers @ Los Angeles Clippers,player_points_alternate,Ivica Zubac,Over,19.5,,390.0,,,320.0,275.0,310.0,,300.0,0.2186810866253374,4.9
+betonlineag,102.0,-0.005691908247575039,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Naz Reid,Over,6.5,,-135.0,102.0,,-115.0,,,,-105.0,0.4922317285903094,2.02
+draftkings,550.0,0.09793393961165187,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Mike Conley,Over,14.5,,400.0,319.0,400.0,550.0,425.0,470.0,,425.0,0.168912913786408,6.5
+draftkings,-115.0,0.0032967880362269053,Sacramento Kings @ Portland Trail Blazers,player_points,Zach LaVine,Over,20.5,,-125.0,-135.0,-160.0,-115.0,-125.0,,,-150.0,0.536647119182168,1.869565217391304
+draftkings,950.0,0.17755681818181723,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Bennedict Mathurin,Over,3.5,,,,,950.0,900.0,320.0,,1100.0,0.1121482683982683,10.5
+draftkings,190.0,0.027815527916640326,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Rudy Gobert,Over,2.5,,140.0,153.0,,190.0,160.0,,,175.0,0.3544191475574622,2.9
+fanduel,220.0,0.03773630923533555,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Draymond Green,Over,7.5,,,171.0,,200.0,165.0,220.0,,185.0,0.3242925966360423,3.2
+hardrockbet,400.0,0.05285634435832054,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Bennedict Mathurin,Over,2.5,,340.0,,,350.0,250.0,,,400.0,0.2105712688716641,5.0
+fanduel,130.0,0.010460973883413827,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Dillon Brooks,Over,3.5,,,118.0,100.0,110.0,105.0,130.0,,110.0,0.43933085821018,2.3
+ballybet,700.0,0.17029048762271204,Dallas Mavericks @ Boston Celtics,player_double_double,Jaylen Brown,Yes,,700.0,500.0,,500.0,550.0,425.0,500.0,485.0,475.0,0.146286310952839,8.0
+betmgm,700.0,0.12030062727355606,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Keegan Murray,Over,9.5,,700.0,377.0,,650.0,500.0,,,,0.1400375784091945,8.0
+draftkings,114.0,0.012138851329941858,Golden State Warriors @ Los Angeles Lakers,player_rebounds,Brandin Podziemski,Under,5.5,,100.0,100.0,-115.0,114.0,100.0,-111.0,-110.0,100.0,0.4729620800607205,2.14
+bovada,-600.0,-0.10990493001362556,Orlando Magic @ Denver Nuggets,player_assists_alternate,Jamal Murray,Over,3.5,,,,-600.0,-900.0,-1200.0,-650.0,,-1100.0,0.7629386314168923,1.1666666666666667
+espnbet,800.0,0.1790848677651049,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Dillon Brooks,Over,19.5,,650.0,338.0,550.0,500.0,800.0,650.0,,750.0,0.1310094297516783,9.0
+hardrockbet,525.0,0.08472607572348068,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Jalen Green,Over,29.5,,450.0,289.0,400.0,425.0,400.0,410.0,,525.0,0.1735561721157569,6.25
+hardrockbet,125.0,0.004276017739909932,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Franz Wagner,Over,5.5,,,109.0,-110.0,110.0,,110.0,,125.0,0.4463448967732933,2.25
+bovada,110.0,0.013348898306051016,Indiana Pacers @ Los Angeles Clippers,player_points,Bennedict Mathurin,Under,12.5,-103.0,-110.0,-104.0,110.0,-120.0,-110.0,-102.0,-110.0,-110.0,0.4825470944314529,2.1
+fanduel,370.0,0.06612335475971798,Indiana Pacers @ Los Angeles Clippers,player_points_alternate,Kawhi Leonard,Over,24.5,,350.0,285.0,,300.0,250.0,370.0,,275.0,0.2268347563318549,4.7
+fanduel,-320.0,-0.06625220698447243,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Alperen Sengun,Over,7.5,,,,-350.0,-550.0,-425.0,-320.0,,-375.0,0.7114268899165924,1.3125
+fanduel,-350.0,-0.08393780132910578,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Brandin Podziemski,Over,9.5,,,,,-450.0,-550.0,-350.0,,-400.0,0.7124928211884733,1.2857142857142856
+hardrockbet,475.0,0.0847633141427675,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Franz Wagner,Over,7.5,,,307.0,375.0,370.0,350.0,410.0,,475.0,0.1886544894161335,5.75
+draftkings,320.0,0.048279262852358285,Sacramento Kings @ Portland Trail Blazers,player_assists_alternate,DeMar DeRozan,Over,4.5,,290.0,183.0,,320.0,275.0,,,300.0,0.2495903006791329,4.2
+betmgm,200.0,0.03162311692276676,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,9.5,,200.0,150.0,225.0,-150.0,190.0,250.0,,210.0,0.3438743723075889,3.0
+ballybet,-104.0,0.002540643514738594,Golden State Warriors @ Los Angeles Lakers,player_rebounds,Dorian Finney-Smith,Under,4.5,-104.0,-125.0,-119.0,,-125.0,-120.0,-128.0,-125.0,-125.0,0.511099151595749,1.9615384615384617
+fanduel,500.0,0.08060852147154796,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Andrew Nembhard,Over,7.5,,,344.0,,390.0,375.0,500.0,,400.0,0.180101420245258,6.0
+draftkings,-105.0,-0.00252793174570487,Houston Rockets @ Minnesota Timberwolves,player_points_rebounds,Naz Reid,Under,24.5,,-130.0,,,-105.0,-125.0,-120.0,-120.0,-130.0,0.5109003276424439,1.9523809523809523
+draftkings,380.0,0.0658821331838979,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,James Harden,Over,7.5,,,232.0,,380.0,300.0,330.0,,350.0,0.2220587777466454,4.8
+fanduel,-260.0,-0.047704434633593085,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,LeBron James,Over,7.5,,,-357.0,,-280.0,-350.0,-260.0,,-325.0,0.6877690194312939,1.3846153846153846
+fanduel,-330.0,-0.06985213603414242,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Anthony Edwards,Over,3.5,,,-476.0,-350.0,-390.0,-500.0,-330.0,,-450.0,0.7138344072296117,1.303030303030303
+fanduel,180.0,0.013497295986284685,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Nikola Jokic,Over,13.5,,,137.0,165.0,150.0,,180.0,,,0.3619633199951017,2.8
+fanduel,190.0,0.022187185406598697,Dallas Mavericks @ Boston Celtics,player_rebounds_alternate,Kyrie Irving,Over,5.5,,,163.0,150.0,155.0,,190.0,,165.0,0.3524783397953789,2.9
+betmgm,275.0,0.029987240871303555,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Alperen Sengun,Over,6.5,,275.0,212.0,,220.0,,,,240.0,0.2746632642323476,3.75
+fanduel,1100.0,0.21908697363242724,Orlando Magic @ Denver Nuggets,player_points_alternate,Goga Bitadze,Over,14.5,,,,900.0,285.0,1300.0,1100.0,,1300.0,0.1015905811360356,12.0
+betmgm,-145.0,-0.02330640283852281,Indiana Pacers @ Los Angeles Clippers,player_rebounds,Andrew Nembhard,Over,2.5,,-145.0,,,,-180.0,,-170.0,-170.0,0.5780431493404661,1.6896551724137931
+bovada,525.0,0.07127902893138316,Orlando Magic @ Denver Nuggets,player_assists_alternate,Paolo Banchero,Over,7.5,,,414.0,525.0,475.0,275.0,470.0,,400.0,0.1714046446290213,6.25
+draftkings,1300.0,0.2524590459402798,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,James Harden,Over,9.5,,1000.0,588.0,,1300.0,900.0,750.0,,,0.0894613604243057,14.0
+hardrockbet,105.0,-0.0029643052898867817,Houston Rockets @ Minnesota Timberwolves,player_points_alternate,Alperen Sengun,Over,19.5,,-110.0,,-120.0,-125.0,-105.0,-105.0,,105.0,0.4863588754683479,2.05
+fanduel,-200.0,-0.03209639298324696,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Dorian Finney-Smith,Over,3.5,,,-286.0,,-215.0,-250.0,-200.0,,-230.0,0.6452690713445021,1.5
+fanduel,175.0,0.01593085437134656,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Pascal Siakam,Over,3.5,,,142.0,,150.0,140.0,175.0,,155.0,0.3694294015895806,2.75
+fanduel,-113.0,-0.006585894679062787,Golden State Warriors @ Los Angeles Lakers,player_rebounds_assists,Brandin Podziemski,Over,9.5,,-130.0,,,-140.0,-125.0,-113.0,-145.0,-130.0,0.5270225065787133,1.8849557522123888
+fanduel,-106.0,-0.004753885992852758,Sacramento Kings @ Portland Trail Blazers,player_points_assists,Zach LaVine,Under,25.5,-127.0,-130.0,,,,-125.0,-106.0,-120.0,-125.0,0.5121169324502797,1.9433962264150944
+fanduel,-410.0,-0.09438502583783592,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,7.5,,,,-500.0,-525.0,-600.0,-410.0,,-575.0,0.7280434106009555,1.2439024390243902
+draftkings,370.0,0.05713987881170557,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,7.5,,,299.0,320.0,370.0,240.0,350.0,,275.0,0.2249233784705756,4.7
+fanduel,350.0,0.04515938606847625,Golden State Warriors @ Los Angeles Lakers,player_assists_alternate,Draymond Green,Over,7.5,,,285.0,,285.0,250.0,350.0,,300.0,0.2322576413485503,4.5
+bovada,-130.0,-0.004874653629781123,Golden State Warriors @ Los Angeles Lakers,player_threes,Austin Reaves,Over,2.5,-155.0,-155.0,-152.0,-130.0,-160.0,-150.0,-148.0,-155.0,-160.0,0.5624621522962107,1.7692307692307692
+bovada,110.0,0.004352037217164928,Indiana Pacers @ Los Angeles Clippers,player_points_rebounds_assists,Pascal Siakam,Under,28.5,,-110.0,-102.0,110.0,-110.0,-110.0,,,-105.0,0.4782628748653166,2.1
+draftkings,950.0,0.14478818283166095,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,15.5,,,524.0,700.0,950.0,,700.0,,,0.1090274459839677,10.5
+fanduel,240.0,0.03574580457941123,Orlando Magic @ Denver Nuggets,player_assists_alternate,Nikola Jokic,Over,11.5,,,171.0,190.0,210.0,200.0,240.0,,225.0,0.3046311189939445,3.4
+hardrockbet,220.0,0.028521114501505407,Orlando Magic @ Denver Nuggets,player_assists_alternate,Franz Wagner,Over,5.5,,,172.0,175.0,190.0,,195.0,,220.0,0.3214128482817204,3.2
+betonlineag,-161.0,-0.020139322302742513,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Obi Toppin,Over,2.5,,-220.0,-161.0,,-165.0,-200.0,,,-190.0,0.6044351306868141,1.62111801242236
+fanduel,170.0,0.01625149591335151,Indiana Pacers @ Los Angeles Clippers,player_points_alternate,T.J. McConnell,Over,9.5,,150.0,136.0,,125.0,175.0,170.0,,135.0,0.3763894429308709,2.7
+fanduel,135.0,0.0019587327974983637,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Anthony Edwards,Over,5.5,,,118.0,120.0,115.0,,135.0,,105.0,0.4263654182117014,2.35
+draftkings,390.0,0.046028466483011954,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,13.5,,,250.0,350.0,390.0,,340.0,,,0.213475197241431,4.9
+draftkings,-220.0,-0.04503350169312126,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Rui Hachimura,Over,4.5,,,-270.0,,-220.0,-275.0,,,-260.0,0.6565394675859791,1.4545454545454546
+draftkings,-370.0,-0.08637945944439585,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Jalen Green,Over,2.5,,-600.0,-455.0,,-370.0,-475.0,,,-425.0,0.7192331915012203,1.2702702702702702
+draftkings,1400.0,0.24730339230617004,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Amen Thompson,Over,14.5,,1000.0,839.0,,1400.0,700.0,,,,0.083153559487078,15.0
+hardrockbet,165.0,0.010682585635660491,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Jalen Green,Over,4.5,,155.0,158.0,,140.0,110.0,,,165.0,0.381389654956853,2.65
+ballybet,110.0,0.0062937040491723995,Houston Rockets @ Minnesota Timberwolves,player_rebounds,Amen Thompson,Under,8.5,110.0,-110.0,-108.0,-115.0,100.0,105.0,-115.0,-115.0,100.0,0.4791874781186535,2.1
+ballybet,-134.0,-0.01509730132275211,Houston Rockets @ Minnesota Timberwolves,player_assists,Anthony Edwards,Over,4.5,-134.0,,,,,-160.0,-156.0,-160.0,,0.5640041094989369,1.7462686567164178
+draftkings,-170.0,-0.023649524314175663,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,9.5,,-235.0,-204.0,-200.0,-170.0,-215.0,-170.0,,,0.6147391883947783,1.5882352941176472
+fanduel,-170.0,-0.023649524314175663,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Rudy Gobert,Over,9.5,,-235.0,-204.0,-200.0,-170.0,-215.0,-170.0,,,0.6147391883947783,1.5882352941176472
+draftkings,-105.0,-0.012158767639657508,Sacramento Kings @ Portland Trail Blazers,player_points_rebounds,DeMar DeRozan,Under,23.5,,-125.0,,,-105.0,-125.0,,-115.0,-130.0,0.5059674604772486,1.9523809523809523
+fanduel,480.0,0.055747409504278034,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Austin Reaves,Over,7.5,,,351.0,,450.0,275.0,480.0,,450.0,0.1820254154317721,5.8
+bovada,105.0,0.0033293488589654086,Houston Rockets @ Minnesota Timberwolves,player_threes,Jalen Green,Under,2.5,-109.0,-120.0,-110.0,105.0,-110.0,-120.0,-108.0,-110.0,-110.0,0.48942895066291,2.05
+betmgm,140.0,0.0023720524550918665,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Naz Reid,Over,2.5,,140.0,126.0,,110.0,115.0,,,125.0,0.4176550218562883,2.4
+hardrockbet,400.0,0.047870004391743604,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Anfernee Simons,Over,4.5,,350.0,268.0,,360.0,300.0,,,400.0,0.2095740008783487,5.0
+hardrockbet,800.0,0.1393097106228831,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,4.5,,875.0,645.0,,310.0,700.0,,,800.0,0.126589967846987,9.0
+draftkings,154.0,0.007080017024485796,Golden State Warriors @ Los Angeles Lakers,player_blocks,LeBron James,Over,0.5,138.0,125.0,,,154.0,,,140.0,120.0,0.3964881956789314,2.54
+draftkings,-105.0,-0.0017784911071055953,Golden State Warriors @ Los Angeles Lakers,player_rebounds,Rui Hachimura,Over,5.5,-125.0,-125.0,-116.0,-125.0,-105.0,-125.0,-122.0,-120.0,-130.0,0.5112841874817264,1.9523809523809523
+draftkings,190.0,0.017016162774418975,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Norman Powell,Over,4.5,,140.0,153.0,,190.0,165.0,,,185.0,0.3506952285429031,2.9
+draftkings,114.0,0.0063771871230577926,Houston Rockets @ Minnesota Timberwolves,player_assists,Mike Conley,Over,5.5,102.0,-105.0,-105.0,105.0,114.0,-105.0,102.0,100.0,-120.0,0.4702697136089055,2.14
+fanduel,380.0,0.054959599787185676,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Anthony Edwards,Over,7.5,,,277.0,350.0,320.0,275.0,380.0,,300.0,0.2197832499556637,4.8
+fanduel,-138.0,-0.010569442136569518,Indiana Pacers @ Los Angeles Clippers,player_assists,T.J. McConnell,Over,3.5,,-165.0,-159.0,-165.0,,-160.0,-138.0,-160.0,-170.0,0.5737034327107285,1.7246376811594204
+bovada,110.0,-0.0018817896161444914,Golden State Warriors @ Los Angeles Lakers,player_points_rebounds_assists,Rui Hachimura,Over,23.5,,-115.0,102.0,110.0,,-115.0,,,100.0,0.475294385897074,2.1
+betonlineag,-145.0,-0.019474702517779274,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Amen Thompson,Over,4.5,,-165.0,-145.0,,-165.0,-200.0,,,-160.0,0.5803108903466204,1.6896551724137931
+draftkings,255.0,0.02724488311620399,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,DeMar DeRozan,Over,4.5,,200.0,197.0,,255.0,210.0,,,240.0,0.2893647558073814,3.55
+fanduel,-120.0,-0.011324330075490718,Dallas Mavericks @ Boston Celtics,player_points_alternate,Kyrie Irving,Over,24.5,,-145.0,-125.0,-150.0,-130.0,-150.0,-120.0,,-150.0,0.5392776381406414,1.8333333333333333
+fanduel,-155.0,-0.02082428592779606,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Ivica Zubac,Over,11.5,,,-182.0,,-200.0,-180.0,-155.0,,-175.0,0.5951852379654574,1.6451612903225803
+espnbet,125.0,-0.003088110280949463,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,2.5,,135.0,132.0,,-160.0,125.0,,,115.0,0.4430719509862447,2.25
+draftkings,124.0,0.005789610847034443,Indiana Pacers @ Los Angeles Clippers,player_rebounds,Tyrese Haliburton,Over,3.5,102.0,105.0,110.0,,124.0,105.0,108.0,105.0,105.0,0.4490132191281403,2.24
+fanduel,-400.0,-0.09445137706007267,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,3.5,,,-714.0,-450.0,-400.0,-600.0,-400.0,,-550.0,0.7244388983519419,1.25
+draftkings,-400.0,-0.09445137706007267,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Mike Conley,Over,3.5,,,-714.0,-450.0,-400.0,-600.0,-400.0,,-550.0,0.7244388983519419,1.25
+fanduel,-115.0,-0.005403946273745519,Sacramento Kings @ Portland Trail Blazers,player_rebounds_assists,Zach LaVine,Under,8.5,-152.0,-135.0,,,-135.0,-130.0,-115.0,-125.0,-135.0,0.5319932380396246,1.869565217391304
+draftkings,155.0,0.000654001220262046,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Jaden McDaniels,Over,6.5,,115.0,137.0,,155.0,,,,145.0,0.3924133338118675,2.55
+fanduel,1300.0,0.21994131169225284,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Stephen Curry,Over,7.5,,,489.0,,1100.0,900.0,1300.0,,1000.0,0.0871386651208752,14.0
+draftkings,-188.0,-0.03232515500014588,Dallas Mavericks @ Boston Celtics,player_steals,Jaylen Brown,Over,0.5,-245.0,,,,-188.0,,,-195.0,-240.0,0.6316766349304603,1.5319148936170213
+draftkings,-210.0,-0.044244392612576955,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Tyrese Haliburton,Over,2.5,,-275.0,-250.0,,-210.0,-250.0,,,-240.0,0.647447346939867,1.4761904761904765
+draftkings,-210.0,-0.039936283892178626,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,DeMar DeRozan,Over,2.5,,-285.0,-263.0,,-210.0,-240.0,,,-230.0,0.6503657431698143,1.4761904761904765
+fanduel,390.0,0.04958750387534283,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Brandin Podziemski,Over,19.5,,,295.0,,330.0,260.0,390.0,,375.0,0.2142015314031312,4.9
+ballybet,-127.0,-0.015590195185401612,Golden State Warriors @ Los Angeles Lakers,player_points,Rui Hachimura,Under,16.5,-127.0,-130.0,,-160.0,,,,,-160.0,0.550749097847815,1.7874015748031495
+draftkings,800.0,0.1340372670807446,Sacramento Kings @ Portland Trail Blazers,player_first_basket,Jerami Grant,Yes,,600.0,700.0,,,800.0,500.0,,,500.0,0.1260041407867494,9.0
+betmgm,130.0,0.00185234990408234,Orlando Magic @ Denver Nuggets,player_triple_double,Nikola Jokic,Yes,,117.0,130.0,,-115.0,105.0,125.0,100.0,125.0,125.0,0.4355879782191663,2.3
+fanduel,-125.0,-0.017489466019896316,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Jayson Tatum,Over,5.5,,,-143.0,-150.0,-135.0,,-125.0,,-160.0,0.5458391855445021,1.8
+betonlineag,-143.0,-0.023561937378626885,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Austin Reaves,Over,4.5,,,-143.0,,-155.0,-200.0,,,-155.0,0.5746116994027011,1.6993006993006992
+fanduel,125.0,-0.004590218566075999,Sacramento Kings @ Portland Trail Blazers,player_rebounds_alternate,Jerami Grant,Over,3.5,,,113.0,,110.0,100.0,125.0,,105.0,0.4424043473039662,2.25
+espnbet,900.0,0.12148268398268303,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,Bennedict Mathurin,Over,3.5,,,,,950.0,900.0,320.0,,1100.0,0.1121482683982683,10.0
+hardrockbet,-300.0,-0.06171308046322632,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Franz Wagner,Over,3.5,,,,-420.0,-370.0,-325.0,-390.0,,-300.0,0.7037151896525803,1.3333333333333333
+ballybet,-107.0,-0.004246958061764561,Orlando Magic @ Denver Nuggets,player_rebounds_assists,Jamal Murray,Over,9.5,-107.0,-125.0,,,-130.0,-115.0,-113.0,-130.0,-140.0,0.5147129250598608,1.9345794392523368
+draftkings,100.0,-0.006285266762234398,Indiana Pacers @ Los Angeles Clippers,player_points_rebounds,Andrew Nembhard,Under,13.5,-103.0,-125.0,,,100.0,-125.0,-106.0,-115.0,-130.0,0.4968573666188828,2.0
+draftkings,-140.0,-0.023342976087281087,Golden State Warriors @ Los Angeles Lakers,player_points_alternate,Rui Hachimura,Over,14.5,,,,,-140.0,-180.0,-135.0,,-185.0,0.5697165972824193,1.7142857142857144
+bovada,110.0,0.0005119685428958132,Sacramento Kings @ Portland Trail Blazers,player_rebounds,Domantas Sabonis,Over,14.5,102.0,-115.0,-101.0,110.0,100.0,-115.0,102.0,-105.0,-120.0,0.4764342707347123,2.1
+ballybet,114.0,0.0015344705952033966,Sacramento Kings @ Portland Trail Blazers,player_rebounds_assists,Zach LaVine,Over,8.5,114.0,100.0,,,105.0,100.0,-111.0,-115.0,105.0,0.4680067619603754,2.14
+ballybet,132.0,0.007639094174648364,Sacramento Kings @ Portland Trail Blazers,player_rebounds,Jerami Grant,Over,3.5,132.0,110.0,113.0,,114.0,110.0,124.0,115.0,105.0,0.4343271957649345,2.3200000000000003
+draftkings,120.0,0.0024092629932943588,Orlando Magic @ Denver Nuggets,player_assists,Jamal Murray,Over,6.5,,100.0,109.0,105.0,120.0,100.0,,,100.0,0.455640574087861,2.2
+fanduel,450.0,0.033292352238257106,Houston Rockets @ Minnesota Timberwolves,player_rebounds_alternate,Alperen Sengun,Over,13.5,,,373.0,400.0,300.0,,450.0,,,0.1878713367705922,5.5
+fanduel,-113.0,-0.006670636911672356,Sacramento Kings @ Portland Trail Blazers,player_rebounds_assists,Malik Monk,Under,10.5,-139.0,-140.0,,,-130.0,-125.0,-113.0,-120.0,-140.0,0.526977549431836,1.8849557522123888
+betmgm,475.0,0.027542474558757135,Indiana Pacers @ Los Angeles Clippers,player_assists_alternate,T.J. McConnell,Over,6.5,,475.0,402.0,,320.0,,,,400.0,0.1787030390536969,5.75
+fliff,-205.0,-0.024376557628943307,Golden State Warriors @ Los Angeles Lakers,player_threes,Draymond Green,Under,1.5,,-235.0,-244.0,-260.0,,-240.0,,-205.0,-250.0,0.655746903888743,1.4878048780487805
+espnbet,1200.0,0.1923923943083854,Sacramento Kings @ Portland Trail Blazers,player_points_alternate,Jerami Grant,Over,24.5,,725.0,549.0,,950.0,1200.0,,,1000.0,0.0917224918698758,13.0
+ballybet,225.0,0.02586960310387676,Indiana Pacers @ Los Angeles Clippers,player_double_double,Tyrese Haliburton,Yes,,225.0,190.0,,,185.0,180.0,200.0,195.0,185.0,0.3156521855704236,3.25
+bovada,500.0,0.06227666817735278,Houston Rockets @ Minnesota Timberwolves,player_assists_alternate,Anthony Edwards,Over,7.5,,,331.0,500.0,425.0,350.0,490.0,,375.0,0.1770461113628921,6.0
+fanduel,-108.0,-0.005901789409846869,Sacramento Kings @ Portland Trail Blazers,player_assists,Malik Monk,Under,6.5,-141.0,-135.0,-119.0,-120.0,-125.0,-120.0,-108.0,-120.0,-130.0,0.5161663785756564,1.925925925925926
+fanduel,290.0,0.02777862913044471,Orlando Magic @ Denver Nuggets,player_assists_alternate,Goga Bitadze,Over,3.5,,,277.0,275.0,145.0,275.0,290.0,,275.0,0.2635329818283192,3.9
+draftkings,850.0,0.10661655966734496,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Norman Powell,Over,6.5,,600.0,488.0,,850.0,,,,750.0,0.1164859536491942,9.5
+fanduel,390.0,0.04542276989847305,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,LeBron James,Over,11.5,,,275.0,,360.0,300.0,390.0,,325.0,0.2133515856935659,4.9
+draftkings,1300.0,0.235420187019858,Orlando Magic @ Denver Nuggets,player_rebounds_alternate,Paolo Banchero,Over,11.5,,,642.0,800.0,1300.0,700.0,900.0,,1200.0,0.088244299072847,14.0
+fanduel,950.0,0.16367411481409744,Indiana Pacers @ Los Angeles Clippers,player_first_basket,Kawhi Leonard,Yes,,900.0,475.0,,,600.0,700.0,950.0,,700.0,0.1108261061727712,10.5
+betmgm,775.0,0.12999965872636676,Houston Rockets @ Minnesota Timberwolves,player_first_basket,Rudy Gobert,Yes,,700.0,775.0,,500.0,550.0,550.0,550.0,,525.0,0.1291428181401562,8.75
+hardrockbet,-275.0,-0.06648426490113479,Golden State Warriors @ Los Angeles Lakers,player_rebounds_alternate,Brandin Podziemski,Over,4.5,,,-323.0,,-300.0,-400.0,,,-275.0,0.6845782057391677,1.3636363636363638
+espnbet,400.0,0.029553277147881918,Dallas Mavericks @ Boston Celtics,player_assists_alternate,Kyrie Irving,Over,7.5,,,452.0,120.0,425.0,400.0,480.0,,425.0,0.2059106554295764,5.0
+fanduel,650.0,0.07014233634327338,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Andrew Nembhard,Over,5.5,,,373.0,,550.0,,650.0,,575.0,0.1426856448457698,7.5
+hardrockbet,300.0,0.020174915523752723,Indiana Pacers @ Los Angeles Clippers,player_rebounds_alternate,Bennedict Mathurin,Over,5.5,,,160.0,,290.0,,350.0,,300.0,0.2550437288809382,4.0
